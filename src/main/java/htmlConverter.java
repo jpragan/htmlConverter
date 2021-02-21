@@ -56,9 +56,11 @@ public class htmlConverter {
         String Word = "";
         String Def = "";
 
-        File Dict = new File("JSONDictionary.json");
+
+        int page = 1;
 
         while (w.find(dend)) {
+            File Dict = new File("/Users/johnragan/Documents/aws/JSONDictionary" + page + ".json");
             String jsonDictionary = "{\"Dictionary\":[{";
             for (int i=0; i<25; i++) {
                 Word worddef = new Word();
@@ -84,12 +86,13 @@ public class htmlConverter {
                 if (!w.find(dend))
                     break;
             }
+
             jsonDictionary = jsonDictionary + "]}";
             System.out.println(jsonDictionary.toString());
-
-            BufferedWriter writer = new BufferedWriter(new FileWriter("JSONDictionary.json"));
+            BufferedWriter writer = new BufferedWriter(new FileWriter("JSONDictionary" + page +".json"));
             writer.write(jsonDictionary);
             writer.close();
+            page++;
         }
        // jsonDictionary = jsonDictionary + "]}";
         //System.out.println(jsonDictionary.toString());
