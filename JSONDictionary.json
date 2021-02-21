@@ -1,0 +1,55 @@
+{"Dictionary":[{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Abaist"
+                    },
+                    "Definition": {
+                        "S": " Abashed; confounded; discomfited."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Abalienate"
+                    },
+                    "Definition": {
+                        "S": " To transfer the title of from one to another; to alienate."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Abalienation"
+                    },
+                    "Definition": {
+                        "S": " The act of abalienating; alienation; estrangement."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Abalone"
+                    },
+                    "Definition": {
+                        "S": " A univalve mollusk of the genus <spn>Haliotis</spn>. The shell is lined with mother-of-pearl, and used for ornamental purposes; the sea-ear. Several large species are found on the coast of California, clinging closely to the rocks."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Aband"
+                    },
+                    "Definition": {
+                        "S": " To abandon."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Abandon"
+                    },
+                    "Definition": {
+                        "S": " To cast or drive out; to banish; to expel; to reject."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Abandon"
+                    },
+                    "Definition": {
+                        "S": " Abandonment; relinquishment."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Abandon"
+                    },
+                    "Definition": {
+                        "S": " A complete giving up to natural impulses; freedom from artificial constraint; careless freedom or ease."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Abandoned"
+                    },
+                    "Definition": {
+                        "S": " Forsaken, deserted."}}}}]}

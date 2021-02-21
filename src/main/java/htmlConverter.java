@@ -1,13 +1,21 @@
-import java.io.File;
-import java.io.FileNotFoundException;
-import java.io.FileReader;
-import java.io.IOException;
+import java.io.*;
 import java.nio.file.Files;
 import java.nio.file.Path;
 import java.nio.file.Paths;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
+//package com.amazonaws.codesamples.gsg;
 
+import java.util.HashMap;
+import java.util.Map;
+
+import com.amazonaws.client.builder.AwsClientBuilder;
+import com.amazonaws.services.dynamodbv2.AmazonDynamoDB;
+import com.amazonaws.services.dynamodbv2.AmazonDynamoDBClientBuilder;
+import com.amazonaws.services.dynamodbv2.document.DynamoDB;
+import com.amazonaws.services.dynamodbv2.document.Item;
+import com.amazonaws.services.dynamodbv2.document.PutItemOutcome;
+import com.amazonaws.services.dynamodbv2.document.Table;
 import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
 import com.google.gson.JsonArray;
@@ -43,34 +51,55 @@ public class htmlConverter {
         Pattern definition = Pattern.compile("<def>(.+?)</def>");
         Matcher d = definition.matcher(content);
 
-        Gson gson = new GsonBuilder().setPrettyPrinting().create();
-       // JsonArray jsonDictionary = new JsonArray();
         String jsonword = "";
-        String jsonDictionary = "[";
+        //String jsonDictionary = "{\"Dictionary\":[{";
+        String Word = "";
+        String Def = "";
 
-            while (w.find(dend)) {
+        File Dict = new File("JSONDictionary.json");
+
+        while (w.find(dend)) {
+            String jsonDictionary = "{\"Dictionary\":[{";
+            for (int i=0; i<25; i++) {
                 Word worddef = new Word();
 
-            w.find(dend);
-            worddef.setWord(w.group(1));
-          //  System.out.println("word - " + w.group(1));
-            wend = w.end();
+                w.find(dend);
+                worddef.setWord(w.group(1));
+                Word = w.group(1);
+                wend = w.end();
 
-            d.find(wend);
-            worddef.setDefinition(d.group(1));
-          //  System.out.println("def - " + d.group(1));
-            dend = d.end();
-           // worddef.toString();
-            //System.out.println();
-           // System.out.println();
-            jsonword = gson.toJson(worddef);
-           // System.out.println("wend - " + wend);
-            if (wend < 20)
-                jsonDictionary = jsonDictionary + jsonword;
+                d.find(wend);
+                worddef.setDefinition(d.group(1));
+                Def = d.group(1);
+                dend = d.end();
+                jsonDictionary = jsonDictionary + "\"PutRequest\": {\n" +
+                        "                \"Item\": {\n" +
+                        "                    \"Word\": {\n" +
+                        "                        \"S\": \"" + Word + "\"\n" +
+                        "                    },\n" +
+                        "                    \"Definition\": {\n" +
+                        "                        \"S\": \" " + Def + "\"}}}}";
+                if (i < 24 && w.find(dend) )
+                    jsonDictionary = jsonDictionary + ",{";
+                if (!w.find(dend))
+                    break;
+            }
+            jsonDictionary = jsonDictionary + "]}";
+            System.out.println(jsonDictionary.toString());
 
-            jsonDictionary = jsonDictionary + ", " + jsonword;
+            BufferedWriter writer = new BufferedWriter(new FileWriter("JSONDictionary.json"));
+            writer.write(jsonDictionary);
+            writer.close();
         }
-        jsonDictionary = jsonDictionary + "]";
-        System.out.println(jsonDictionary.toString());
+       // jsonDictionary = jsonDictionary + "]}";
+        //System.out.println(jsonDictionary.toString());
+        //File Dict = new File("JSONDictionary.json");
+        //BufferedWriter writer = new BufferedWriter(new FileWriter("JSONDictionary.json"));
+        //writer.write(jsonDictionary);
+        //writer.close();
     }
 }
+
+
+//if (w.find(dend))
+ //       jsonDictionary = jsonDictionary + ",{";
