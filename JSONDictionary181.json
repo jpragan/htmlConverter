@@ -1,0 +1,151 @@
+{"Dictionary":[{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Fake"
+                    },
+                    "Definition": {
+                        "S": " A trick; a swindle."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Fakir"
+                    },
+                    "Definition": {
+                        "S": " An Oriental religious ascetic or begging monk."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Falk"
+                    },
+                    "Definition": {
+                        "S": " The razorbill."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Fall"
+                    },
+                    "Definition": {
+                        "S": " To Descend, either suddenly or gradually; particularly, to descend by the force of gravity; to drop; to sink;  s>as, the apple  x>falls"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Fall"
+                    },
+                    "Definition": {
+                        "S": " To let fall; to drop."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Fall"
+                    },
+                    "Definition": {
+                        "S": " The act of falling; a dropping or descending be the force of gravity; descent;  s>as, a  x>fall"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "False"
+                    },
+                    "Definition": {
+                        "S": " Uttering falsehood; unveracious; given to deceit; dishnest;  s>as, a  x>false"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "False"
+                    },
+                    "Definition": {
+                        "S": " Not truly; not honestly; falsely."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "False"
+                    },
+                    "Definition": {
+                        "S": " To report falsely; to falsify."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Falwe"
+                    },
+                    "Definition": {
+                        "S": " Fallow."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Falx"
+                    },
+                    "Definition": {
+                        "S": " A curved fold or process of the dura mater or the peritoneum; esp., one of the partitionlike folds of the dura mater which extend into the great fissures of the brain."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Fame"
+                    },
+                    "Definition": {
+                        "S": " Public report or rumor."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Fame"
+                    },
+                    "Definition": {
+                        "S": " To report widely or honorably."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Fan"
+                    },
+                    "Definition": {
+                        "S": " An instrument used for producing artificial currents of air, by the wafting or revolving motion of a broad surface"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Fan"
+                    },
+                    "Definition": {
+                        "S": " To move as with a fan."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Fanal"
+                    },
+                    "Definition": {
+                        "S": " A lighthouse, or the apparatus placed in it for giving light."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Fancy"
+                    },
+                    "Definition": {
+                        "S": " The faculty by which the mind forms an image or a representation of anything perceived before; the power of combining and modifying such objects into new pictures or images; the power of readily and hap"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Fancy"
+                    },
+                    "Definition": {
+                        "S": " To figure to one's self; to believe or imagine something without proof."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Fancy"
+                    },
+                    "Definition": {
+                        "S": " To form a conception of; to portray in the mind; to imagine."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Fancy"
+                    },
+                    "Definition": {
+                        "S": " Adapted to please the fancy or taste; ornamental;  s>as,  x>fancy"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Fand"
+                    },
+                    "Definition": {
+                        "S": "  t>imp."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Fane"
+                    },
+                    "Definition": {
+                        "S": " A temple; a place consecrated to religion; a church."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Fane"
+                    },
+                    "Definition": {
+                        "S": " A weathercock."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Fang"
+                    },
+                    "Definition": {
+                        "S": " To catch; to seize, as with the teeth; to lay hold of; to gripe; to clutch."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Fang"
+                    },
+                    "Definition": {
+                        "S": " The tusk of an animal, by which the prey is seized and held or torn; a long pointed tooth; esp., one of the usually erectile, venomous teeth of serpents. Also, one of the falcers of a spider."}}}}]}

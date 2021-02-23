@@ -1,0 +1,151 @@
+{"Dictionary":[{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Corny"
+                    },
+                    "Definition": {
+                        "S": " Producing corn or grain; furnished with grains of corn."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Corol"
+                    },
+                    "Definition": {
+                        "S": " A corolla."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Corps"
+                    },
+                    "Definition": {
+                        "S": " The human body, whether living or dead.  ark>[Obs.]"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Corse"
+                    },
+                    "Definition": {
+                        "S": " A living body or its bulk."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Corve"
+                    },
+                    "Definition": {
+                        "S": " See  r>Corf"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Cosen"
+                    },
+                    "Definition": {
+                        "S": " See  r>Cozen"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Cosey"
+                    },
+                    "Definition": {
+                        "S": " See  r>Cozy"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Coss"
+                    },
+                    "Definition": {
+                        "S": " A Hindoo measure of distance, varying from one and a half to two English miles."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Coss"
+                    },
+                    "Definition": {
+                        "S": " A thing (only in phrase below)."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Cost"
+                    },
+                    "Definition": {
+                        "S": " A rib; a side; a region or coast."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Cost"
+                    },
+                    "Definition": {
+                        "S": " To require to be given, expended, or laid out therefor, as in barter, purchase, acquisition, etc.; to cause the cost, expenditure, relinquishment, or loss of;  s>as, the ticket  x>cost"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Cost"
+                    },
+                    "Definition": {
+                        "S": " The amount paid, charged, or engaged to be paid, for anything bought or taken in barter; charge; expense; hence, whatever, as labor, self-denial, suffering, etc., is requisite to secure benefitt."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Costa"
+                    },
+                    "Definition": {
+                        "S": " A rib of an animal or a human being."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Cosy"
+                    },
+                    "Definition": {
+                        "S": " See  r>Cozy"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Cot"
+                    },
+                    "Definition": {
+                        "S": " A small house; a cottage or hut."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Cot"
+                    },
+                    "Definition": {
+                        "S": " A sleeping place of limited size; a little bed; a cradle; a piece of canvas extended by a frame, used as a bed."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Cote"
+                    },
+                    "Definition": {
+                        "S": " A cottage or hut."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Cote"
+                    },
+                    "Definition": {
+                        "S": " To go side by side with; hence, to pass by; to outrun and get before;  s>as, a dog  x>cotes"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Cote"
+                    },
+                    "Definition": {
+                        "S": " To quote."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Couch"
+                    },
+                    "Definition": {
+                        "S": " To lay upon a bed or other resting place."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Couch"
+                    },
+                    "Definition": {
+                        "S": " To lie down or recline, as on a bed or other place of rest; to repose; to lie."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Couch"
+                    },
+                    "Definition": {
+                        "S": " A bed or place for repose or sleep; particularly, in the United States, a lounge."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Cough"
+                    },
+                    "Definition": {
+                        "S": " To expel air, or obstructing or irritating matter, from the lungs or air passages, in a noisy and violent manner."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Cough"
+                    },
+                    "Definition": {
+                        "S": " To expel from the lungs or air passages by coughing; -- followed by  >up"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Cough"
+                    },
+                    "Definition": {
+                        "S": " A sudden, noisy, and violent expulsion of air from the chest, caused by irritation in the air passages, or by the reflex action of nervous or gastric disorder, etc."}}}}]}

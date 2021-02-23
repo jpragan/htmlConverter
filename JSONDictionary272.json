@@ -1,0 +1,151 @@
+{"Dictionary":[{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Hug"
+                    },
+                    "Definition": {
+                        "S": " To press closely within the arms; to clasp to the bosom; to embrace."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Hug"
+                    },
+                    "Definition": {
+                        "S": " A close embrace or clasping with the arms, as in affection or in wrestling."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Huge"
+                    },
+                    "Definition": {
+                        "S": " Very large; enormous; immense; excessive; -- used esp. of material bulk, but often of qualities, extent, etc.;  s>as, a  x>huge"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Hugy"
+                    },
+                    "Definition": {
+                        "S": " Vast."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Huke"
+                    },
+                    "Definition": {
+                        "S": " An outer garment worn in Europe in the Middle Ages."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Hulan"
+                    },
+                    "Definition": {
+                        "S": " See  r>Uhlan"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Hulch"
+                    },
+                    "Definition": {
+                        "S": " A hunch."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Hulk"
+                    },
+                    "Definition": {
+                        "S": " The body of a ship or decked vessel of any kind; esp., the body of an old vessel laid by as unfit for service."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Hulk"
+                    },
+                    "Definition": {
+                        "S": " To take out the entrails of; to disembowel;  s>as, to  x>hulk"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Hull"
+                    },
+                    "Definition": {
+                        "S": " The outer covering of anything, particularly of a nut or of grain; the outer skin of a kernel; the husk."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Hull"
+                    },
+                    "Definition": {
+                        "S": " To strip off or separate the hull or hulls of; to free from integument;  s>as, to  x>hull"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Hull"
+                    },
+                    "Definition": {
+                        "S": " To toss or drive on the water, like the hull of a ship without sails."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Hullo"
+                    },
+                    "Definition": {
+                        "S": " See  r>Hollo"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Hully"
+                    },
+                    "Definition": {
+                        "S": " Having or containing hulls."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Hum"
+                    },
+                    "Definition": {
+                        "S": " To make a low, prolonged sound, like that of a bee in flight; to drone; to murmur; to buzz;  s>as, a top  x>hums"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Hum"
+                    },
+                    "Definition": {
+                        "S": " To sing with shut mouth; to murmur without articulation; to mumble;  s>as, to  x>hum"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Hum"
+                    },
+                    "Definition": {
+                        "S": " A low monotonous noise, as of bees in flight, of a swiftly revolving top, of a wheel, or the like; a drone; a buzz."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Hum"
+                    },
+                    "Definition": {
+                        "S": " Ahem; hem; an inarticulate sound uttered in a pause of speech implying doubt and deliberation."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Human"
+                    },
+                    "Definition": {
+                        "S": " Belonging to man or mankind; having the qualities or attributes of a man; of or pertaining to man or to the race of man;  s>as, a  x>human"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Human"
+                    },
+                    "Definition": {
+                        "S": " A human being."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Humic"
+                    },
+                    "Definition": {
+                        "S": " Pertaining to, or derived from, vegetable mold;  s>as,  x>humic"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Humid"
+                    },
+                    "Definition": {
+                        "S": " Containing sensible moisture; damp; moist;  s>as, a  x>humid"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Humin"
+                    },
+                    "Definition": {
+                        "S": " A bitter, brownish yellow, amorphous substance, extracted from vegetable mold, and also produced by the action of acids on certain sugars and carbohydrates; -- called also  ltname>humic acid"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Humor"
+                    },
+                    "Definition": {
+                        "S": " Moisture, especially, the moisture or fluid of animal bodies, as the chyle, lymph, etc.;  s>as, the  x>humors"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Humor"
+                    },
+                    "Definition": {
+                        "S": " To comply with the humor of; to adjust matters so as suit the peculiarities, caprices, or exigencies of; to adapt one's self to; to indulge by skillful adaptation;  s>as, to  x>humor"}}}}]}

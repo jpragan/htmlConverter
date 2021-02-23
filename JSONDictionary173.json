@@ -1,0 +1,151 @@
+{"Dictionary":[{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Equus"
+                    },
+                    "Definition": {
+                        "S": " A genus of mammals, including the horse, ass, etc."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "-er"
+                    },
+                    "Definition": {
+                        "S": " ."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Era"
+                    },
+                    "Definition": {
+                        "S": " A fixed point of time, usually an epoch, from which a series of years is reckoned."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Erase"
+                    },
+                    "Definition": {
+                        "S": " To rub or scrape out, as letters or characters written, engraved, or painted; to efface; to expunge; to cross out;  s>as, to  x>erase"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Erato"
+                    },
+                    "Definition": {
+                        "S": " The Muse who presided over lyric and amatory poetry."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Erd"
+                    },
+                    "Definition": {
+                        "S": " The earth."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Ere"
+                    },
+                    "Definition": {
+                        "S": " Before; sooner than."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Ere"
+                    },
+                    "Definition": {
+                        "S": " To plow.  ark>[Obs.]"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Erect"
+                    },
+                    "Definition": {
+                        "S": " Upright, or having a vertical position; not inverted; not leaning or bent; not prone;  s>as, to stand  x>erect"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Erect"
+                    },
+                    "Definition": {
+                        "S": " To raise and place in an upright or perpendicular position; to set upright; to raise;  s>as, to  x>erect"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Erect"
+                    },
+                    "Definition": {
+                        "S": " To rise upright."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Erf"
+                    },
+                    "Definition": {
+                        "S": " A garden plot, usually about half an acre."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Erg"
+                    },
+                    "Definition": {
+                        "S": " The unit of work or energy in the C. G. S. system, being the amount of work done by a dyne working through a distance of one centimeter; the amount of energy expended in moving a body one centimeter aga"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Ergat"
+                    },
+                    "Definition": {
+                        "S": " To deduce logically, as conclusions."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Ergo"
+                    },
+                    "Definition": {
+                        "S": " Therefore; consequently; -- often used in a jocular way."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Ergot"
+                    },
+                    "Definition": {
+                        "S": " A diseased condition of rye and other cereals, in which the grains become black, and often spur-shaped. It is caused by a parasitic fungus,  pn>Claviceps purpurea"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Erica"
+                    },
+                    "Definition": {
+                        "S": " A genus of shrubby plants, including the heaths, many of them producing beautiful flowers."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Erin"
+                    },
+                    "Definition": {
+                        "S": " An early, and now a poetic, name of Ireland."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Erke"
+                    },
+                    "Definition": {
+                        "S": " ASlothful."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Erme"
+                    },
+                    "Definition": {
+                        "S": " To grieve; to feel sad."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Ermin"
+                    },
+                    "Definition": {
+                        "S": " An Armenian."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Ermit"
+                    },
+                    "Definition": {
+                        "S": " A hermit."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Ern"
+                    },
+                    "Definition": {
+                        "S": " To stir with strong emotion; to grieve; to mourn.  ote>[Corrupted into  >yearn"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Erode"
+                    },
+                    "Definition": {
+                        "S": " To eat into or away; to corrode;  s>as, canker  x>erodes"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Eros"
+                    },
+                    "Definition": {
+                        "S": " Love; the god of love; -- by earlier writers represented as one of the first and creative gods, by later writers as the son of Aphrodite, equivalent to the Latin god Cupid."}}}}]}

@@ -1,0 +1,151 @@
+{"Dictionary":[{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Sing"
+                    },
+                    "Definition": {
+                        "S": " To utter with musical infections or modulations of voice."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Singe"
+                    },
+                    "Definition": {
+                        "S": " To burn slightly or superficially; to burn the surface of; to burn the ends or outside of;  s>as, to  x>singe"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Singe"
+                    },
+                    "Definition": {
+                        "S": " A burning of the surface; a slight burn."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Sink"
+                    },
+                    "Definition": {
+                        "S": " To fall by, or as by, the force of gravity; to descend lower and lower; to decline gradually; to subside;  s>as, a stone  x>sinks"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Sink"
+                    },
+                    "Definition": {
+                        "S": " To cause to sink; to put under water; to immerse or submerge in a fluid;  s>as, to  x>sink"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Sink"
+                    },
+                    "Definition": {
+                        "S": " A drain to carry off filthy water; a jakes."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Sinus"
+                    },
+                    "Definition": {
+                        "S": " An opening; a hollow; a bending."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Sioux"
+                    },
+                    "Definition": {
+                        "S": " See  r>Dakotas"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Sip"
+                    },
+                    "Definition": {
+                        "S": " To drink or imbibe in small quantities; especially, to take in with the lips in small quantities, as a liquid;  s>as, to  x>sip"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Sip"
+                    },
+                    "Definition": {
+                        "S": " To drink a small quantity; to take a fluid with the lips; to take a sip or sips of something."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Sip"
+                    },
+                    "Definition": {
+                        "S": " The act of sipping; the taking of a liquid with the lips."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Sip"
+                    },
+                    "Definition": {
+                        "S": " See  r>Seep"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Sipid"
+                    },
+                    "Definition": {
+                        "S": " Having a taste or flavorl savory; sapid."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Sir"
+                    },
+                    "Definition": {
+                        "S": " A man of social authority and dignity; a lord; a master; a gentleman; -- in this sense usually spelled  >sire"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Sire"
+                    },
+                    "Definition": {
+                        "S": " A lord, master, or other person in authority. See  r>Sir"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Sire"
+                    },
+                    "Definition": {
+                        "S": " To beget; to procreate; -- used of beasts, and especially of stallions."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Siren"
+                    },
+                    "Definition": {
+                        "S": " One of three sea nymphs, -- or, according to some writers, of two, -- said to frequent an island near the coast of Italy, and to sing with such sweetness that they lured mariners to destruction."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Siren"
+                    },
+                    "Definition": {
+                        "S": " Of or pertaining to a siren; bewitching, like a siren; fascinating; alluring;  s>as, a  x>siren"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Siroc"
+                    },
+                    "Definition": {
+                        "S": " See  r>Sirocco"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Sirt"
+                    },
+                    "Definition": {
+                        "S": " A quicksand."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Sis"
+                    },
+                    "Definition": {
+                        "S": " A colloquial abbreviation of  r>Sister"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Sis"
+                    },
+                    "Definition": {
+                        "S": " Six. See  r>Sise"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Sise"
+                    },
+                    "Definition": {
+                        "S": " An assize."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Sise"
+                    },
+                    "Definition": {
+                        "S": " Six; the highest number on a die; the cast of six in throwing dice."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Sisel"
+                    },
+                    "Definition": {
+                        "S": " The suslik."}}}}]}

@@ -1,0 +1,151 @@
+{"Dictionary":[{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Lunch"
+                    },
+                    "Definition": {
+                        "S": " To take luncheon."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Lune"
+                    },
+                    "Definition": {
+                        "S": " Anything in the shape of a half moon."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Lunet"
+                    },
+                    "Definition": {
+                        "S": " A little moon or satellite."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Lung"
+                    },
+                    "Definition": {
+                        "S": " An organ for aerial respiration; -- commonly in the plural."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Lunge"
+                    },
+                    "Definition": {
+                        "S": " A sudden thrust or pass, as with a sword."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Lunge"
+                    },
+                    "Definition": {
+                        "S": " To make a lunge."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Lunge"
+                    },
+                    "Definition": {
+                        "S": " To cause to go round in a ring, as a horse, while holding his halter."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Lunge"
+                    },
+                    "Definition": {
+                        "S": " Same as  r>Namaycush"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Lunt"
+                    },
+                    "Definition": {
+                        "S": " The match cord formerly used in firing cannon."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Luny"
+                    },
+                    "Definition": {
+                        "S": " Crazy; mentally unsound."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Lupus"
+                    },
+                    "Definition": {
+                        "S": " A cutaneous disease occurring under two distinct forms."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Lurch"
+                    },
+                    "Definition": {
+                        "S": " To swallow or eat greedily; to devour; hence, to swallow up."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Lurch"
+                    },
+                    "Definition": {
+                        "S": " An old game played with dice and counters; a variety of the game of tables."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Lurch"
+                    },
+                    "Definition": {
+                        "S": " To leave in the lurch; to cheat."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Lurch"
+                    },
+                    "Definition": {
+                        "S": " A sudden roll of a ship to one side, as in heavy weather; hence, a swaying or staggering movement to one side, as that by a drunken man. Fig.: A sudden and capricious inclination of the mind."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Lurch"
+                    },
+                    "Definition": {
+                        "S": " To roll or sway suddenly to one side, as a ship or a drunken man."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Lurch"
+                    },
+                    "Definition": {
+                        "S": " To withdraw to one side, or to a private place; to lurk."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Lure"
+                    },
+                    "Definition": {
+                        "S": " A contrivance somewhat resembling a bird, and often baited with raw meat; -- used by falconers in recalling hawks."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Lure"
+                    },
+                    "Definition": {
+                        "S": " To draw to the lure; hence, to allure or invite by means of anything that promises pleasure or advantage; to entice; to attract."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Lure"
+                    },
+                    "Definition": {
+                        "S": " To recall a hawk or other animal."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Lurg"
+                    },
+                    "Definition": {
+                        "S": " A large marine annelid ( pn>Nephthys ceca"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Lurid"
+                    },
+                    "Definition": {
+                        "S": " Pale yellow; ghastly pale; wan; gloomy; dismal."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Lurk"
+                    },
+                    "Definition": {
+                        "S": " To lie hid; to lie in wait."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Lurry"
+                    },
+                    "Definition": {
+                        "S": " A confused heap; a throng, as of persons; a jumble, as of sounds."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Lush"
+                    },
+                    "Definition": {
+                        "S": " Full of juice or succulence."}}}}]}

@@ -1,0 +1,151 @@
+{"Dictionary":[{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Otter"
+                    },
+                    "Definition": {
+                        "S": " A corruption of  r>Annotto"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Otto"
+                    },
+                    "Definition": {
+                        "S": " See  r>Attar"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Ouch"
+                    },
+                    "Definition": {
+                        "S": " A socket or bezel holding a precious stone; hence, a jewel or ornament worn on the person."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Ought"
+                    },
+                    "Definition": {
+                        "S": " See  r>Aught"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Ought"
+                    },
+                    "Definition": {
+                        "S": " Was or were under obligation to pay; owed."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Oul"
+                    },
+                    "Definition": {
+                        "S": " An awl."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Oul"
+                    },
+                    "Definition": {
+                        "S": " An owl."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Ounce"
+                    },
+                    "Definition": {
+                        "S": " A weight, the sixteenth part of a pound avoirdupois, and containing 437 grains."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Ounce"
+                    },
+                    "Definition": {
+                        "S": " A feline quadruped ( pn>Felis irbis, &or; uncia"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Ouphe"
+                    },
+                    "Definition": {
+                        "S": " A fairy; a goblin; an elf."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Our"
+                    },
+                    "Definition": {
+                        "S": " Of or pertaining to us; belonging to us;  s>as,  x>our"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "-our"
+                    },
+                    "Definition": {
+                        "S": " See  r>-or"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Ours"
+                    },
+                    "Definition": {
+                        "S": " See Note under  r>Our"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "-ous"
+                    },
+                    "Definition": {
+                        "S": " An adjective suffix meaning  >full of"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Ouse"
+                    },
+                    "Definition": {
+                        "S": " See  r>Ooze"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Ousel"
+                    },
+                    "Definition": {
+                        "S": " One of several species of European thrushes, especially the blackbird ( pn>Merula merula"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Oust"
+                    },
+                    "Definition": {
+                        "S": " See  r>Oast"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Oust"
+                    },
+                    "Definition": {
+                        "S": " To take away; to remove."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Out"
+                    },
+                    "Definition": {
+                        "S": " In its original and strict sense,  >out"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Out"
+                    },
+                    "Definition": {
+                        "S": " One who, or that which, is out; especially, one who is out of office; -- generally in the plural."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Out"
+                    },
+                    "Definition": {
+                        "S": " To cause to be out; to eject; to expel."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Out"
+                    },
+                    "Definition": {
+                        "S": " To come or go out; to get out or away; to become public."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Out"
+                    },
+                    "Definition": {
+                        "S": " Expressing impatience, anger, a desire to be rid of; -- with the force of command; go out; begone; away; off."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Outdo"
+                    },
+                    "Definition": {
+                        "S": " To go beyond in performance; to excel; to surpass."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Outer"
+                    },
+                    "Definition": {
+                        "S": " Being on the outside; external; farthest or farther from the interior, from a given station, or from any space or position regarded as a center or starting place; -- opposed to  >inner"}}}}]}

@@ -1,0 +1,151 @@
+{"Dictionary":[{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "City"
+                    },
+                    "Definition": {
+                        "S": " A large town."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "City"
+                    },
+                    "Definition": {
+                        "S": " Of or pertaining to a city."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Cive"
+                    },
+                    "Definition": {
+                        "S": " Same as  r>Chive"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Civet"
+                    },
+                    "Definition": {
+                        "S": " A substance, of the consistence of butter or honey, taken from glands in the anal pouch of the civet ( pn>Viverra civetta"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Civet"
+                    },
+                    "Definition": {
+                        "S": " To scent or perfume with civet."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Civic"
+                    },
+                    "Definition": {
+                        "S": " Relating to, or derived from, a city or citizen; relating to man as a member of society, or to civil affairs."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Civil"
+                    },
+                    "Definition": {
+                        "S": " Pertaining to a city or state, or to a citizen in his relations to his fellow citizens or to the state; within the city or state."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Cizar"
+                    },
+                    "Definition": {
+                        "S": " To clip with scissors."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Cize"
+                    },
+                    "Definition": {
+                        "S": " Bulk; largeness.  ark>[Obs.]"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Clack"
+                    },
+                    "Definition": {
+                        "S": " To make a sudden, sharp noise, or a succesion of such noises, as by striking an object, or by collision of parts; to rattle; to click."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Clack"
+                    },
+                    "Definition": {
+                        "S": " To cause to make a sudden, sharp noise, or succession of noises; to click."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Clack"
+                    },
+                    "Definition": {
+                        "S": " A sharp, abrupt noise, or succession of noises, made by striking an object."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Clad"
+                    },
+                    "Definition": {
+                        "S": " To clothe."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Clad"
+                    },
+                    "Definition": {
+                        "S": "  t>imp. & p. p."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Claik"
+                    },
+                    "Definition": {
+                        "S": " See  r>Clake"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Claim"
+                    },
+                    "Definition": {
+                        "S": " To ask for, or seek to obtain, by virtue of authority, right, or supposed right; to challenge as a right; to demand as due."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Claim"
+                    },
+                    "Definition": {
+                        "S": " To be entitled to anything; to deduce a right or title; to have a claim."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Claim"
+                    },
+                    "Definition": {
+                        "S": " A demand of a right or supposed right; a calling on another for something due or supposed to be due; an assertion of a right or fact."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Clam"
+                    },
+                    "Definition": {
+                        "S": " A bivalve mollusk of many kinds, especially those that are edible;  s>as, the long  x>clam"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Clam"
+                    },
+                    "Definition": {
+                        "S": " To clog, as with glutinous or viscous matter."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Clam"
+                    },
+                    "Definition": {
+                        "S": " To be moist or glutinous; to stick; to adhere."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Clam"
+                    },
+                    "Definition": {
+                        "S": " Claminess; moisture."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Clam"
+                    },
+                    "Definition": {
+                        "S": " A crash or clangor made by ringing all the bells of a chime at once."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Clam"
+                    },
+                    "Definition": {
+                        "S": " To produce, in bell ringing, a clam or clangor; to cause to clang."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Clamp"
+                    },
+                    "Definition": {
+                        "S": " Something rigid that holds fast or binds things together; a piece of wood or metal, used to hold two or more pieces together."}}}}]}

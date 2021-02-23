@@ -1,0 +1,151 @@
+{"Dictionary":[{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Guara"
+                    },
+                    "Definition": {
+                        "S": " The scarlet ibis. See  r>Ibis"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Guard"
+                    },
+                    "Definition": {
+                        "S": " To protect from danger; to secure against surprise, attack, or injury; to keep in safety; to defend; to shelter; to shield from surprise or attack; to protect by attendance; toaccompany for protection; "}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Guard"
+                    },
+                    "Definition": {
+                        "S": " To watch by way of caution or defense; to be caution; to be in a state or position of defense or safety;  s>as, careful persons  x>guard"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Guard"
+                    },
+                    "Definition": {
+                        "S": " One who, or that which, guards from injury, danger, exposure, or attack; defense; protection."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Guava"
+                    },
+                    "Definition": {
+                        "S": " A tropical tree, or its fruit, of the genus  pn>Psidium."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Gue"
+                    },
+                    "Definition": {
+                        "S": " A sharper; a rogue."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Guess"
+                    },
+                    "Definition": {
+                        "S": " To form an opinion concerning, without knowledge or means of knowledge; to judge of at random; to conjecture."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Guess"
+                    },
+                    "Definition": {
+                        "S": " To make a guess or random judgment; to conjecture; -- with at, about, etc"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Guess"
+                    },
+                    "Definition": {
+                        "S": " An opinion as to anything, formed without sufficient or decisive evidence or grounds; an attempt to hit upon the truth by a random judgment; a conjecture; a surmise."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Guest"
+                    },
+                    "Definition": {
+                        "S": " A visitor; a person received and entertained in one's house or at one's table; a visitor entertained without pay."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Guest"
+                    },
+                    "Definition": {
+                        "S": " To receive or entertain hospitably."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Guest"
+                    },
+                    "Definition": {
+                        "S": " To be, or act the part of, a guest."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Guhr"
+                    },
+                    "Definition": {
+                        "S": " A loose, earthy deposit from water, found in the cavities or clefts of rocks, mostly white, but sometimes red or yellow, from a mixture of clay or ocher."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Guiac"
+                    },
+                    "Definition": {
+                        "S": " Same as  r>Guaiac"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Guib"
+                    },
+                    "Definition": {
+                        "S": " A West African antelope  ( pn>Tragelaphus scriptus"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Guide"
+                    },
+                    "Definition": {
+                        "S": " To lead or direct in a way; to conduct in a course or path; to pilot;  s>as, to guide a traveler"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Guide"
+                    },
+                    "Definition": {
+                        "S": " A person who leads or directs another in his way or course, as in a strange land; one who exhibits points of interest to strangers; a conductor; also, that which guides; a guidebook."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Gulge"
+                    },
+                    "Definition": {
+                        "S": " See  r>Gige"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Guild"
+                    },
+                    "Definition": {
+                        "S": " An association of men belonging to the same class, or engaged in kindred pursuits, formed for mutual aid and protection; a business fraternity or corporation;  s>as, the Stationers'  x>Guild"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Guile"
+                    },
+                    "Definition": {
+                        "S": " Craft; deceitful cunning; artifice; duplicity; wile; deceit; treachery."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Guile"
+                    },
+                    "Definition": {
+                        "S": " To disguise or conceal; to deceive or delude."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Guilt"
+                    },
+                    "Definition": {
+                        "S": " The criminality and consequent exposure to punishment resulting from willful disobedience of law, or from morally wrong action; teh state of one who has broken a moral or political law; crime; criminali"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Guise"
+                    },
+                    "Definition": {
+                        "S": " Customary way of speaking or acting; custom; fashion; manner; behavior; mien; mode; practice; -- often used formerly in such phrases as:  s>at his own  x>guise"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Gula"
+                    },
+                    "Definition": {
+                        "S": " The upper front of the neck, next to the chin; the upper throat."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Gular"
+                    },
+                    "Definition": {
+                        "S": " Pertaining to the gula or throat;  s>as,  x>gular"}}}}]}

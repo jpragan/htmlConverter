@@ -1,0 +1,151 @@
+{"Dictionary":[{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Lob"
+                    },
+                    "Definition": {
+                        "S": " To let fall heavily or lazily."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Lob"
+                    },
+                    "Definition": {
+                        "S": " See  r>Cob"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Lob"
+                    },
+                    "Definition": {
+                        "S": " The European pollock."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Lobar"
+                    },
+                    "Definition": {
+                        "S": " Of or pertaining to a lobe; characterized by, or like, a lobe or lobes."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Lobby"
+                    },
+                    "Definition": {
+                        "S": " A passage or hall of communication, especially when large enough to serve also as a waiting room. It differs from an  >antechamber"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Lobby"
+                    },
+                    "Definition": {
+                        "S": " To address or solicit members of a legislative body in the lobby or elsewhere, with the purpose to influence their votes."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Lobby"
+                    },
+                    "Definition": {
+                        "S": " To urge the adoption or passage of by soliciting members of a legislative body;  s>as, to  x>lobby"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Lobe"
+                    },
+                    "Definition": {
+                        "S": " Any projection or division, especially one of a somewhat rounded form"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Lobed"
+                    },
+                    "Definition": {
+                        "S": " Having lobes; lobate."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Local"
+                    },
+                    "Definition": {
+                        "S": " Of or pertaining to a particular place, or to a definite region or portion of space; restricted to one place or region;  s>as, a  x>local"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Local"
+                    },
+                    "Definition": {
+                        "S": " A train which receives and deposits passengers or freight along the line of the road; a train for the accommodation of a certain district."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Loch"
+                    },
+                    "Definition": {
+                        "S": " A lake; a bay or arm of the sea."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Loch"
+                    },
+                    "Definition": {
+                        "S": " A kind of medicine to be taken by licking with the tongue; a lambative; a lincture."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Loche"
+                    },
+                    "Definition": {
+                        "S": " See  r>Loach"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Lock"
+                    },
+                    "Definition": {
+                        "S": " A tuft of hair; a flock or small quantity of wool, hay, or other like substance; a tress or ringlet of hair."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Lock"
+                    },
+                    "Definition": {
+                        "S": " Anything that fastens; specifically, a fastening, as for a door, a lid, a trunk, a drawer, and the like, in which a bolt is moved by a key so as to hold or to release the thing fastened."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Lock"
+                    },
+                    "Definition": {
+                        "S": " To fasten with a lock, or as with a lock; to make fast; to prevent free movement of;  s>as, to  x>lock"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Lock"
+                    },
+                    "Definition": {
+                        "S": " To become fast, as by means of a lock or by interlacing;  s>as, the door  x>locks"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Locky"
+                    },
+                    "Definition": {
+                        "S": " Having locks or tufts."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Loco"
+                    },
+                    "Definition": {
+                        "S": " A direction in written or printed music to return to the proper pitch after having played an octave higher."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Loco"
+                    },
+                    "Definition": {
+                        "S": " A plant ( pn>Astragalus Hornii"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Locus"
+                    },
+                    "Definition": {
+                        "S": " A place; a locality."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Lodde"
+                    },
+                    "Definition": {
+                        "S": " The capelin."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Lode"
+                    },
+                    "Definition": {
+                        "S": " A water course or way; a reach of water."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Lodge"
+                    },
+                    "Definition": {
+                        "S": " A shelter in which one may rest; as:  d>(a)"}}}}]}

@@ -1,0 +1,151 @@
+{"Dictionary":[{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Scrat"
+                    },
+                    "Definition": {
+                        "S": " To rake; to search."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Scrat"
+                    },
+                    "Definition": {
+                        "S": " An hermaphrodite."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Scraw"
+                    },
+                    "Definition": {
+                        "S": " A turf."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Scray"
+                    },
+                    "Definition": {
+                        "S": " A tern; the sea swallow."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Scree"
+                    },
+                    "Definition": {
+                        "S": " A pebble; a stone; also, a heap of stones or rocky debris."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Screw"
+                    },
+                    "Definition": {
+                        "S": " A cylinder, or a cylindrical perforation, having a continuous rib, called the  >thread"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Screw"
+                    },
+                    "Definition": {
+                        "S": " To turn, as a screw; to apply a screw to; to press, fasten, or make firm, by means of a screw or screws;  s>as, to  x>screw"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Screw"
+                    },
+                    "Definition": {
+                        "S": " To use violent mans in making exactions; to be oppressive or exacting."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Scrid"
+                    },
+                    "Definition": {
+                        "S": " A screed; a shred; a fragment."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Scrim"
+                    },
+                    "Definition": {
+                        "S": " A kind of light cotton or linen fabric, often woven in openwork patterns, -- used for curtains, etc,; -- called also  ltname>India scrim"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Scrip"
+                    },
+                    "Definition": {
+                        "S": " A small bag; a wallet; a satchel."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Scrip"
+                    },
+                    "Definition": {
+                        "S": " A small writing, certificate, or schedule; a piece of paper containing a writing."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Scrit"
+                    },
+                    "Definition": {
+                        "S": " Writing; document; scroll."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Scrog"
+                    },
+                    "Definition": {
+                        "S": " A stunted shrub, bush, or branch."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Scrow"
+                    },
+                    "Definition": {
+                        "S": " A scroll."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Scrub"
+                    },
+                    "Definition": {
+                        "S": " To rub hard; to wash with rubbing; usually, to rub with a wet brush, or with something coarse or rough, for the purpose of cleaning or brightening;  s>as, to  x>scrub"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Scrub"
+                    },
+                    "Definition": {
+                        "S": " To rub anything hard, especially with a wet brush; to scour; hence, to be diligent and penurious;  s>as, to  x>scrub"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Scrub"
+                    },
+                    "Definition": {
+                        "S": " One who labors hard and lives meanly; a mean fellow."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Scrub"
+                    },
+                    "Definition": {
+                        "S": " Mean; dirty; contemptible; scrubby."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Scry"
+                    },
+                    "Definition": {
+                        "S": " To descry."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Scry"
+                    },
+                    "Definition": {
+                        "S": " A flock of wild fowl."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Scry"
+                    },
+                    "Definition": {
+                        "S": " A cry or shout."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Scud"
+                    },
+                    "Definition": {
+                        "S": " To move swiftly; especially, to move as if driven forward by something."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Scud"
+                    },
+                    "Definition": {
+                        "S": " To pass over quickly."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Scud"
+                    },
+                    "Definition": {
+                        "S": " The act of scudding; a driving along; a rushing with precipitation."}}}}]}

@@ -1,0 +1,151 @@
+{"Dictionary":[{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Kneck"
+                    },
+                    "Definition": {
+                        "S": " The twisting of a rope or cable, as it is running out."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Knee"
+                    },
+                    "Definition": {
+                        "S": " In man, the joint in the middle part of the leg."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Knee"
+                    },
+                    "Definition": {
+                        "S": " To supplicate by kneeling."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Kneed"
+                    },
+                    "Definition": {
+                        "S": " Having knees;- used chiefly in composition;  s>as, in- x>kneed"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Kneel"
+                    },
+                    "Definition": {
+                        "S": " To bend the knee; to fall or rest on the knees; -- sometimes with  >down"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Knell"
+                    },
+                    "Definition": {
+                        "S": " The stoke of a bell tolled at a funeral or at the death of a person; a death signal; a passing bell; hence, figuratively, a warning of, or a sound indicating, the passing away of anything."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Knell"
+                    },
+                    "Definition": {
+                        "S": " To sound as a knell; especially, to toll at a death or funeral; hence, to sound as a warning or evil omen."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Knell"
+                    },
+                    "Definition": {
+                        "S": " To summon, as by a knell."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Knelt"
+                    },
+                    "Definition": {
+                        "S": " of  r>Kneel"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Knew"
+                    },
+                    "Definition": {
+                        "S": " of  r>Know"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Knife"
+                    },
+                    "Definition": {
+                        "S": " An instrument consisting of a thin blade, usually of steel and having a sharp edge for cutting, fastened to a handle, but of many different forms and names for different uses;  s>as, table  x>knife"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Knife"
+                    },
+                    "Definition": {
+                        "S": " To prune with the knife."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Knit"
+                    },
+                    "Definition": {
+                        "S": " To form into a knot, or into knots; to tie together, as cord; to fasten by tying."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Knit"
+                    },
+                    "Definition": {
+                        "S": " To form a fabric by interlacing yarn or thread; to weave by making knots or loops."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Knit"
+                    },
+                    "Definition": {
+                        "S": " Union knitting; texture."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Knits"
+                    },
+                    "Definition": {
+                        "S": " Small particles of ore."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Knob"
+                    },
+                    "Definition": {
+                        "S": " A hard protuberance; a hard swelling or rising; a bunch; a lump;  s>as, a  x>knob"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Knob"
+                    },
+                    "Definition": {
+                        "S": " To grow into knobs or bunches; to become knobbed."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Knock"
+                    },
+                    "Definition": {
+                        "S": " To drive or be driven against something; to strike against something; to clash;  s>as, one heavy body  x>knocks"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Knock"
+                    },
+                    "Definition": {
+                        "S": " To strike with something hard or heavy; to move by striking; to drive (a thing) against something;  s>as, to  x>knock"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Knock"
+                    },
+                    "Definition": {
+                        "S": " A blow; a stroke with something hard or heavy; a jar."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Knoll"
+                    },
+                    "Definition": {
+                        "S": " A little round hill; a mound; a small elevation of earth; the top or crown of a hill."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Knoll"
+                    },
+                    "Definition": {
+                        "S": " To ring, as a bell; to strike a knell upon; to toll; to proclaim, or summon, by ringing."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Knoll"
+                    },
+                    "Definition": {
+                        "S": " To sound, as a bell; to knell."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Knoll"
+                    },
+                    "Definition": {
+                        "S": " The tolling of a bell; a knell."}}}}]}

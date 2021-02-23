@@ -1,0 +1,151 @@
+{"Dictionary":[{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Grit"
+                    },
+                    "Definition": {
+                        "S": " To grind; to rub harshly together; to grate;  s>as, to grit the teeth"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Grith"
+                    },
+                    "Definition": {
+                        "S": " Peace; security; agreement."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Grize"
+                    },
+                    "Definition": {
+                        "S": " Same as  r>2d Grise"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Groan"
+                    },
+                    "Definition": {
+                        "S": " To give forth a low, moaning sound in breathing; to utter a groan, as in pain, in sorrow, or in derision; to moan."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Groan"
+                    },
+                    "Definition": {
+                        "S": " To affect by groans."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Groan"
+                    },
+                    "Definition": {
+                        "S": " A low, moaning sound; usually, a deep, mournful sound uttered in pain or great distress; sometimes, an expression of strong disapprobation;  s>as, the remark was received with  x>groans"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Groat"
+                    },
+                    "Definition": {
+                        "S": " An old English silver coin, equal to four pence."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Grog"
+                    },
+                    "Definition": {
+                        "S": " A mixture of spirit and water not sweetened; hence, any intoxicating liquor."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Groin"
+                    },
+                    "Definition": {
+                        "S": " The snout of a swine."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Groin"
+                    },
+                    "Definition": {
+                        "S": " To grunt to growl; to snarl; to murmur."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Groin"
+                    },
+                    "Definition": {
+                        "S": " The line between the lower part of the abdomen and the thigh, or the region of this line; the inguen."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Groin"
+                    },
+                    "Definition": {
+                        "S": " To fashion into groins; to build with groins."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Grond"
+                    },
+                    "Definition": {
+                        "S": " obs.  t>imp."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Groom"
+                    },
+                    "Definition": {
+                        "S": " A boy or young man; a waiter; a servant; especially, a man or boy who has charge of horses, or the stable."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Groom"
+                    },
+                    "Definition": {
+                        "S": " To tend or care for, or to curry or clean, as a, horse."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Grope"
+                    },
+                    "Definition": {
+                        "S": " To feel with or use the hands; to handle."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Grope"
+                    },
+                    "Definition": {
+                        "S": " To search out by feeling in the dark;  s>as, we groped our way at midnight"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Gros"
+                    },
+                    "Definition": {
+                        "S": " A heavy silk with a dull finish;  s>as,  x>gros"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Gross"
+                    },
+                    "Definition": {
+                        "S": " Great; large; bulky; fat; of huge size; excessively large."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Gross"
+                    },
+                    "Definition": {
+                        "S": " The main body; the chief part, bulk, or mass."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Grot"
+                    },
+                    "Definition": {
+                        "S": " A grotto."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Group"
+                    },
+                    "Definition": {
+                        "S": " A cluster, crowd, or throng; an assemblage, either of persons or things, collected without any regular form or arrangement;  s>as, a  x>group"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Group"
+                    },
+                    "Definition": {
+                        "S": " To form a group of; to arrange or combine in a group or in groups, often with reference to mutual relation and the best effect; to form an assemblage of."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Grout"
+                    },
+                    "Definition": {
+                        "S": " Coarse meal; ground malt; pl. groats."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Grout"
+                    },
+                    "Definition": {
+                        "S": " To fill up or finish with grout, as the joints between stones."}}}}]}

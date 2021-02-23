@@ -1,0 +1,151 @@
+{"Dictionary":[{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Koran"
+                    },
+                    "Definition": {
+                        "S": " The Scriptures of the Mohammedans, containing the professed revelations to Mohammed; -- called also  ltname>Alcoran"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Korin"
+                    },
+                    "Definition": {
+                        "S": " The gazelle."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Kotow"
+                    },
+                    "Definition": {
+                        "S": " The prostration made by mandarins and others to their superiors, either as homage or worship, by knocking the forehead on the ground. There are degrees in the rite, the highest being expressed by three "}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Kotow"
+                    },
+                    "Definition": {
+                        "S": " To perform the kotow."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Kra"
+                    },
+                    "Definition": {
+                        "S": " A long-tailed ape ( pn>Macacus cynomolgus"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Kraal"
+                    },
+                    "Definition": {
+                        "S": " A collection of huts within a stockade; a village; sometimes, a single hut."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Krait"
+                    },
+                    "Definition": {
+                        "S": " A very venomous snake of India ( pn>Bungarus ce2ruleus"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Krang"
+                    },
+                    "Definition": {
+                        "S": " The carcass of a whale after the blubber has been removed."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Kreel"
+                    },
+                    "Definition": {
+                        "S": " See  r>Creel"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Krems"
+                    },
+                    "Definition": {
+                        "S": " A variety of white lead. See  ref>Krems lead"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Kreng"
+                    },
+                    "Definition": {
+                        "S": " See  r>Krang"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Krone"
+                    },
+                    "Definition": {
+                        "S": " A coin of Denmark, Norway, and Sweden, of the value of about twenty-eight cents. See  r>Crown"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Ksar"
+                    },
+                    "Definition": {
+                        "S": " See  r>Czar"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Kuda"
+                    },
+                    "Definition": {
+                        "S": " The East Indian tapir. See  r>Tapir"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Kudos"
+                    },
+                    "Definition": {
+                        "S": " Glory; fame; renown; praise."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Kudos"
+                    },
+                    "Definition": {
+                        "S": " To praise; to extol; to glorify."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Kudu"
+                    },
+                    "Definition": {
+                        "S": " See  r>Koodoo"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Kufic"
+                    },
+                    "Definition": {
+                        "S": " See  r>Cufic"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Kulan"
+                    },
+                    "Definition": {
+                        "S": " See  r>Koulan"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Kurd"
+                    },
+                    "Definition": {
+                        "S": " A native or inhabitant of a mountainous region of Western Asia belonging to the Turkish and Persian monarchies."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Kutch"
+                    },
+                    "Definition": {
+                        "S": " The packet of vellum leaves in which the gold is first beaten into thin sheets."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Kutch"
+                    },
+                    "Definition": {
+                        "S": " See  r>Catechu"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Ky"
+                    },
+                    "Definition": {
+                        "S": " Kine.  ark>[Scot.]"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Kyar"
+                    },
+                    "Definition": {
+                        "S": " Cocoanut fiber, or the cordage made from it. See  r>Coir"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Kyaw"
+                    },
+                    "Definition": {
+                        "S": " A daw."}}}}]}

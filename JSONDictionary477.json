@@ -1,0 +1,151 @@
+{"Dictionary":[{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Rocky"
+                    },
+                    "Definition": {
+                        "S": " Full of, or abounding in, rocks; consisting of rocks;  s>as, a  x>rocky"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Rocoa"
+                    },
+                    "Definition": {
+                        "S": " The orange-colored pulp covering the seeds of the tropical plant  pn>Bixa Orellana"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Rod"
+                    },
+                    "Definition": {
+                        "S": " A straight and slender stick; a wand; hence, any slender bar, as of wood or metal (applied to various purposes)."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Roddy"
+                    },
+                    "Definition": {
+                        "S": " Full of rods or twigs."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Roddy"
+                    },
+                    "Definition": {
+                        "S": " Ruddy."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Rode"
+                    },
+                    "Definition": {
+                        "S": " Redness; complexion."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Rode"
+                    },
+                    "Definition": {
+                        "S": "  t>imp."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Rode"
+                    },
+                    "Definition": {
+                        "S": " See  r>Rood"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Rodeo"
+                    },
+                    "Definition": {
+                        "S": " A round-up. See  r>Round-up"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Rodge"
+                    },
+                    "Definition": {
+                        "S": " The gadwall."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Rody"
+                    },
+                    "Definition": {
+                        "S": " Ruddy."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Roe"
+                    },
+                    "Definition": {
+                        "S": " A roebuck. See  r>Roebuck"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Roe"
+                    },
+                    "Definition": {
+                        "S": " The ova or spawn of fishes and amphibians, especially when still inclosed in the ovarian membranes. Sometimes applied, loosely, to the sperm and the testes of the male."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Roed"
+                    },
+                    "Definition": {
+                        "S": " Filled with roe."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Rogue"
+                    },
+                    "Definition": {
+                        "S": " A vagrant; an idle, sturdy beggar; a vagabond; a tramp."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Rogue"
+                    },
+                    "Definition": {
+                        "S": " To wander; to play the vagabond; to play knavish tricks."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Rogue"
+                    },
+                    "Definition": {
+                        "S": " To give the name or designation of rogue to; to decry."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Roguy"
+                    },
+                    "Definition": {
+                        "S": " Roguish."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Rohob"
+                    },
+                    "Definition": {
+                        "S": " An inspissated juice. See  r>Rob"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Roial"
+                    },
+                    "Definition": {
+                        "S": " Royal."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Roil"
+                    },
+                    "Definition": {
+                        "S": " To render turbid by stirring up the dregs or sediment of;  s>as, to  x>roil"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Roil"
+                    },
+                    "Definition": {
+                        "S": " To wander; to roam."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Roily"
+                    },
+                    "Definition": {
+                        "S": " Turbid;  s>as,  x>roily"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Roin"
+                    },
+                    "Definition": {
+                        "S": " See  r>Royne"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Roin"
+                    },
+                    "Definition": {
+                        "S": " A scab; a scurf, or scurfy spot."}}}}]}

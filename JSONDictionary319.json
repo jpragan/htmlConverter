@@ -1,0 +1,151 @@
+{"Dictionary":[{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Lemon"
+                    },
+                    "Definition": {
+                        "S": " An oval or roundish fruit resembling the orange, and containing a pulp usually intensely acid. It is produced by a tropical tree of the genus  pn>Citrus"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Lemur"
+                    },
+                    "Definition": {
+                        "S": " One of a family ( pn>Lemuride"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Lena"
+                    },
+                    "Definition": {
+                        "S": " A procuress."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Lend"
+                    },
+                    "Definition": {
+                        "S": " To allow the custody and use of, on condition of the return of the same; to grant the temporary use of;  s>as, to  x>lend"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Lends"
+                    },
+                    "Definition": {
+                        "S": " Loins."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Lene"
+                    },
+                    "Definition": {
+                        "S": " To lend; to grant; to permit."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Lene"
+                    },
+                    "Definition": {
+                        "S": " Smooth;  s>as, the  x>lene"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Lene"
+                    },
+                    "Definition": {
+                        "S": " The smooth breathing (spiritus lenis)."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Leno"
+                    },
+                    "Definition": {
+                        "S": " A light open cotton fabric used for window curtains."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Lens"
+                    },
+                    "Definition": {
+                        "S": " A piece of glass, or other transparent substance, ground with two opposite regular surfaces, either both curved, or one curved and the other plane, and commonly used, either singly or combined, in optic"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Lent"
+                    },
+                    "Definition": {
+                        "S": "  t>imp. & p. p."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Lent"
+                    },
+                    "Definition": {
+                        "S": " A fast of forty days, beginning with Ash Wednesday and continuing till Easter, observed by some Christian churches as commemorative of the fast of our Savior."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Lent"
+                    },
+                    "Definition": {
+                        "S": " Slow; mild; gentle;  s>as,  x>lenter"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Lento"
+                    },
+                    "Definition": {
+                        "S": " Slow; in slow time; slowly; -- rarely written  ltname>lente"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Leo"
+                    },
+                    "Definition": {
+                        "S": " The Lion, the fifth sign of the zodiac, marked thus  in almanacs."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Leod"
+                    },
+                    "Definition": {
+                        "S": " People; a nation; a man."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Leon"
+                    },
+                    "Definition": {
+                        "S": " A lion."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Lep"
+                    },
+                    "Definition": {
+                        "S": " of  r>Leap"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Lepal"
+                    },
+                    "Definition": {
+                        "S": " A sterile transformed stamen."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Lepas"
+                    },
+                    "Definition": {
+                        "S": " Any one of various species of  pn>Lepas"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Leper"
+                    },
+                    "Definition": {
+                        "S": " A person affected with leprosy."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Lepid"
+                    },
+                    "Definition": {
+                        "S": " Pleasant; jocose."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Lepra"
+                    },
+                    "Definition": {
+                        "S": " Leprosy."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Lepre"
+                    },
+                    "Definition": {
+                        "S": " Leprosy."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Lepry"
+                    },
+                    "Definition": {
+                        "S": " Leprosy."}}}}]}

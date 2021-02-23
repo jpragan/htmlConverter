@@ -1,0 +1,151 @@
+{"Dictionary":[{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Hawm"
+                    },
+                    "Definition": {
+                        "S": " See  r>Haulm"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Hawm"
+                    },
+                    "Definition": {
+                        "S": " To lounge; to loiter."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Hawse"
+                    },
+                    "Definition": {
+                        "S": " A hawse hole."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Hay"
+                    },
+                    "Definition": {
+                        "S": " A hedge."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Hay"
+                    },
+                    "Definition": {
+                        "S": " To lay snares for rabbits."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Hay"
+                    },
+                    "Definition": {
+                        "S": " Grass cut and cured for fodder."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Hay"
+                    },
+                    "Definition": {
+                        "S": " To cut and cure grass for hay."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Haze"
+                    },
+                    "Definition": {
+                        "S": " Light vapor or smoke in the air which more or less impedes vision, with little or no dampness; a lack of transparency in the air; hence, figuratively, obscurity; dimness."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Haze"
+                    },
+                    "Definition": {
+                        "S": " To be hazy, or tick with haze."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Haze"
+                    },
+                    "Definition": {
+                        "S": " To harass by exacting unnecessary, disagreeable, or difficult work."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Hazel"
+                    },
+                    "Definition": {
+                        "S": " A shrub or small tree of the genus  pn>Corylus"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Hazel"
+                    },
+                    "Definition": {
+                        "S": " Consisting of hazels, or of the wood of the hazel; pertaining to, or derived from, the hazel;  s>as, a  x>hazel"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Hazle"
+                    },
+                    "Definition": {
+                        "S": " To make dry; to dry."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Hazy"
+                    },
+                    "Definition": {
+                        "S": " Thick with haze; somewhat obscured with haze; not clear or transparent."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "He"
+                    },
+                    "Definition": {
+                        "S": " The man or male being (or object personified to which the masculine gender is assigned), previously designated; a pronoun of the masculine gender, usually referring to a specified subject already indica"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "-head"
+                    },
+                    "Definition": {
+                        "S": " A variant of  r>-hood"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Head"
+                    },
+                    "Definition": {
+                        "S": " The anterior or superior part of an animal, containing the brain, or chief ganglia of the nervous system, the mouth, and in the higher animals, the chief sensory organs; poll; cephalon."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Head"
+                    },
+                    "Definition": {
+                        "S": " Principal; chief; leading; first;  s>as, the  x>head"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Head"
+                    },
+                    "Definition": {
+                        "S": " To be at the head of; to put one's self at the head of; to lead; to direct; to act as leader to;  s>as, to  x>head"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Head"
+                    },
+                    "Definition": {
+                        "S": " To originate; to spring; to have its ourse, as a river."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Heady"
+                    },
+                    "Definition": {
+                        "S": " Willful; rash; precipitate; hurried on by will or passion; ungovernable."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Heal"
+                    },
+                    "Definition": {
+                        "S": " To cover, as a roof, with tiles, slate, lead, or the like."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Heal"
+                    },
+                    "Definition": {
+                        "S": " To make hale, sound, or whole; to cure of a disease, wound, or other derangement; to restore to soundness or health."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Heal"
+                    },
+                    "Definition": {
+                        "S": " To grow sound; to return to a sound state;  s>as, the limb  x>heals"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Heal"
+                    },
+                    "Definition": {
+                        "S": " Health."}}}}]}

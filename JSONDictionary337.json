@@ -1,0 +1,151 @@
+{"Dictionary":[{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Luce"
+                    },
+                    "Definition": {
+                        "S": " A pike when full grown."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Lucid"
+                    },
+                    "Definition": {
+                        "S": " Shining; bright; resplendent;  s>as, the  x>lucid"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Luck"
+                    },
+                    "Definition": {
+                        "S": " That which happens to a person; an event, good or ill, affecting one's interests or happiness, and which is deemed casual; a course or series of such events regarded as occurring by chance; chance; hap;"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Lucky"
+                    },
+                    "Definition": {
+                        "S": " Favored by luck; fortunate; meeting with good success or good fortune; -- said of persons;  s>as, a  x>lucky"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Lucre"
+                    },
+                    "Definition": {
+                        "S": " Gain in money or goods; profit; riches; -- often in an ill sense."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Lues"
+                    },
+                    "Definition": {
+                        "S": " Disease, especially of a contagious kind."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Luff"
+                    },
+                    "Definition": {
+                        "S": " The side of a ship toward the wind"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Luff"
+                    },
+                    "Definition": {
+                        "S": " To turn the head of a vessel toward the wind; to sail nearer the wind; to turn the tiller so as to make the vessel sail nearer the wind."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Lug"
+                    },
+                    "Definition": {
+                        "S": " The ear, or its lobe."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Lug"
+                    },
+                    "Definition": {
+                        "S": " To pull with force; to haul; to drag along; to carry with difficulty, as something heavy or cumbersome."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Lug"
+                    },
+                    "Definition": {
+                        "S": " To move slowly and heavily."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Lug"
+                    },
+                    "Definition": {
+                        "S": " The act of lugging;  s>as, a hard  x>lug"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Lug"
+                    },
+                    "Definition": {
+                        "S": " A rod or pole."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Luke"
+                    },
+                    "Definition": {
+                        "S": " Moderately warm; not hot; tepid."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Lull"
+                    },
+                    "Definition": {
+                        "S": " To cause to rest by soothing influences; to compose; to calm; to soothe; to quiet."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Lull"
+                    },
+                    "Definition": {
+                        "S": " To become gradually calm; to subside; to cease or abate for a time;  s>as, the storm  x>lulls"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Lull"
+                    },
+                    "Definition": {
+                        "S": " The power or quality of soothing; that which soothes; a lullaby."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Lum"
+                    },
+                    "Definition": {
+                        "S": " A chimney."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Lump"
+                    },
+                    "Definition": {
+                        "S": " A small mass of matter of irregular shape; an irregular or shapeless mass;  s>as, a  x>lump"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Lump"
+                    },
+                    "Definition": {
+                        "S": " To throw into a mass; to unite in a body or sum without distinction of particulars."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Lumpy"
+                    },
+                    "Definition": {
+                        "S": " Full of lumps, or small compact masses."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Luna"
+                    },
+                    "Definition": {
+                        "S": " The moon."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Lunar"
+                    },
+                    "Definition": {
+                        "S": " Of or pertaining to the moon;  s>as,  x>lunar"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Lunar"
+                    },
+                    "Definition": {
+                        "S": " A lunar distance."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Lunch"
+                    },
+                    "Definition": {
+                        "S": " A luncheon; specifically, a light repast between breakfast and dinner."}}}}]}

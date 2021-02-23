@@ -1,0 +1,151 @@
+{"Dictionary":[{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Mirk"
+                    },
+                    "Definition": {
+                        "S": " Dark; gloomy; murky."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Mirk"
+                    },
+                    "Definition": {
+                        "S": " Darkness; gloom; murk."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Mirky"
+                    },
+                    "Definition": {
+                        "S": " Dark; gloomy. See  r>Murky"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Mirth"
+                    },
+                    "Definition": {
+                        "S": " Merriment; gayety accompanied with laughter; jollity."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Miry"
+                    },
+                    "Definition": {
+                        "S": " Abounding with deep mud; full of mire; muddy;  s>as, a  x>miry"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Mirza"
+                    },
+                    "Definition": {
+                        "S": " The common title of honor in Persia, prefixed to the surname of an individual. When appended to the surname, it signifies  >Prince"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Mis-"
+                    },
+                    "Definition": {
+                        "S": " A prefix used adjectively and adverbially in the sense of  >amiss"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Mis"
+                    },
+                    "Definition": {
+                        "S": " Wrong; amiss."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Misdo"
+                    },
+                    "Definition": {
+                        "S": " To do wrongly."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Misdo"
+                    },
+                    "Definition": {
+                        "S": " To do wrong; to commit a fault."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Mise"
+                    },
+                    "Definition": {
+                        "S": " The issue in a writ of right."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Miser"
+                    },
+                    "Definition": {
+                        "S": " A wretched person; a person afflicted by any great misfortune."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Migo"
+                    },
+                    "Definition": {
+                        "S": " To go astray."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Misle"
+                    },
+                    "Definition": {
+                        "S": " To rain in very fine drops, like a thick mist; to mizzle."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Misle"
+                    },
+                    "Definition": {
+                        "S": " A fine rain; a thick mist; mizzle."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Milen"
+                    },
+                    "Definition": {
+                        "S": " See  r>Maslin"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Misly"
+                    },
+                    "Definition": {
+                        "S": " Raining in very small drops."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Miss"
+                    },
+                    "Definition": {
+                        "S": " A title of courtesy prefixed to the name of a girl or a woman who has not been married. See  r>Mistress"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Miss"
+                    },
+                    "Definition": {
+                        "S": " To fail of hitting, reaching, getting, finding, seeing, hearing, etc.;  s>as, to  x>miss"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Miss"
+                    },
+                    "Definition": {
+                        "S": " To fail to hit; to fly wide; to deviate from the true direction."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Miss"
+                    },
+                    "Definition": {
+                        "S": " The act of missing; failure to hit, reach, find, obtain, etc."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Missa"
+                    },
+                    "Definition": {
+                        "S": " The service or sacrifice of the Mass."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Missy"
+                    },
+                    "Definition": {
+                        "S": " See  r>Misy"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Missy"
+                    },
+                    "Definition": {
+                        "S": " An affectionate, or contemptuous, form of  >miss"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Mist"
+                    },
+                    "Definition": {
+                        "S": " Visible watery vapor suspended in the atmosphere, at or near the surface of the earth; fog."}}}}]}

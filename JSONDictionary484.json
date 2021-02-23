@@ -1,0 +1,151 @@
+{"Dictionary":[{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Ruby"
+                    },
+                    "Definition": {
+                        "S": " Ruby-colored; red;  s>as,  x>ruby"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Ruby"
+                    },
+                    "Definition": {
+                        "S": " To make red; to redden."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Ruche"
+                    },
+                    "Definition": {
+                        "S": " A plaited, quilled, or goffered strip of lace, net, ribbon, or other material, -- used in place of collars or cuffs, and as a trimming for women's dresses and bonnets."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Ruck"
+                    },
+                    "Definition": {
+                        "S": " A roc."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Ruck"
+                    },
+                    "Definition": {
+                        "S": " To draw into wrinkles or unsightly folds; to crease;  s>as, to  x>ruck"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Ruck"
+                    },
+                    "Definition": {
+                        "S": " A wrinkle or crease in a piece of cloth, or in needlework."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Ruck"
+                    },
+                    "Definition": {
+                        "S": " To cower; to huddle together; to squat; to sit, as a hen on eggs."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Ruck"
+                    },
+                    "Definition": {
+                        "S": " A heap; a rick."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Rud"
+                    },
+                    "Definition": {
+                        "S": " Redness; blush."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Rud"
+                    },
+                    "Definition": {
+                        "S": " To make red."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Rudd"
+                    },
+                    "Definition": {
+                        "S": " A fresh-water European fish of the Carp family ( pn>Leuciscus erythrophthalmus"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Ruddy"
+                    },
+                    "Definition": {
+                        "S": " Of a red color; red, or reddish;  s>as, a  x>ruddy"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Ruddy"
+                    },
+                    "Definition": {
+                        "S": " To make ruddy."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Rude"
+                    },
+                    "Definition": {
+                        "S": " Characterized by roughness; umpolished; raw; lacking delicacy or refinement; coarse."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Rue"
+                    },
+                    "Definition": {
+                        "S": " A perennial suffrutescent plant ( pn>Ruta graveolens"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Rue"
+                    },
+                    "Definition": {
+                        "S": " To lament; to regret extremely; to grieve for or over."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Rue"
+                    },
+                    "Definition": {
+                        "S": " To have compassion."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Rue"
+                    },
+                    "Definition": {
+                        "S": " Sorrow; repetance."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Ruff"
+                    },
+                    "Definition": {
+                        "S": " A game similar to whist, and the predecessor of it."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Ruff"
+                    },
+                    "Definition": {
+                        "S": " To trump."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Ruff"
+                    },
+                    "Definition": {
+                        "S": " A muslin or linen collar plaited, crimped, or fluted, worn formerly by both sexes, now only by women and children."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Ruff"
+                    },
+                    "Definition": {
+                        "S": " To ruffle; to disorder."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Rufol"
+                    },
+                    "Definition": {
+                        "S": " A phenol derivative of anthracene obtained as a white crystalline substance, which on oxidation produces a red dyestuff related to anthraquinone."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Ruft"
+                    },
+                    "Definition": {
+                        "S": " Eructation; belching."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Rug"
+                    },
+                    "Definition": {
+                        "S": " A kind of coarse, heavy frieze, formerly used for garments."}}}}]}

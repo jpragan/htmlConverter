@@ -1,0 +1,151 @@
+{"Dictionary":[{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Pang"
+                    },
+                    "Definition": {
+                        "S": " A paroxysm of extreme pain or anguish; a sudden and transitory agony; a throe;  s>as, the  x>pangs"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Pang"
+                    },
+                    "Definition": {
+                        "S": " To torture; to cause to have great pain or suffering; to torment."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Panic"
+                    },
+                    "Definition": {
+                        "S": " A plant of the genus  pn>Panicum"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Panic"
+                    },
+                    "Definition": {
+                        "S": " Extreme or sudden and causeless; unreasonable; -- said of fear or fright;  s>as,  x>panic"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Panic"
+                    },
+                    "Definition": {
+                        "S": " A sudden, overpowering fright; esp., a sudden and groundless fright; terror inspired by a trifling cause or a misapprehension of danger;  s>as, the troops were seized with a  x>panic"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Panim"
+                    },
+                    "Definition": {
+                        "S": " See  r>Painim"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Pansy"
+                    },
+                    "Definition": {
+                        "S": " A plant of the genus Viola ( pn>V. tricolor"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Pant"
+                    },
+                    "Definition": {
+                        "S": " To breathe quickly or in a labored manner, as after exertion or from eagerness or excitement; to respire with heaving of the breast; to gasp."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Pant"
+                    },
+                    "Definition": {
+                        "S": " To breathe forth quickly or in a labored manner; to gasp out."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Pant"
+                    },
+                    "Definition": {
+                        "S": " A quick breathing; a catching of the breath; a gasp."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Panym"
+                    },
+                    "Definition": {
+                        "S": " See  r>Panim"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Paolo"
+                    },
+                    "Definition": {
+                        "S": " An old Italian silver coin, worth about ten cents."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Pap"
+                    },
+                    "Definition": {
+                        "S": " A nipple; a mammilla; a teat."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Pap"
+                    },
+                    "Definition": {
+                        "S": " A soft food for infants, made of bread boiled or softtened in milk or water."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Pap"
+                    },
+                    "Definition": {
+                        "S": " To feed with pap."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Papa"
+                    },
+                    "Definition": {
+                        "S": " A child's word for father."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Papal"
+                    },
+                    "Definition": {
+                        "S": " Of or pertaining to the pope of Rome; proceeding from the pope; ordered or pronounced by the pope;  s>as,  x>papal"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Papaw"
+                    },
+                    "Definition": {
+                        "S": " A tree ( pn>Carica Papaya"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Pape"
+                    },
+                    "Definition": {
+                        "S": " A spiritual father; specifically, the pope."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Paper"
+                    },
+                    "Definition": {
+                        "S": " A substance in the form of thin sheets or leaves intended to be written or printed on, or to be used in wrapping. It is made of rags, straw, bark, wood, or other fibrous material, which is first reduced"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Paper"
+                    },
+                    "Definition": {
+                        "S": " Of or pertaining to paper; made of paper; resembling paper; existing only on paper; unsubstantial;  s>as, a  x>paper"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Paper"
+                    },
+                    "Definition": {
+                        "S": " To cover with paper; to furnish with paper hangings;  s>as, to  x>paper"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Pappy"
+                    },
+                    "Definition": {
+                        "S": " Like pap; soft; succulent; tender."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Peque"
+                    },
+                    "Definition": {
+                        "S": " See  r>Pasch"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Par"
+                    },
+                    "Definition": {
+                        "S": " See  r>Parr"}}}}]}

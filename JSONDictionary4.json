@@ -1,0 +1,151 @@
+{"Dictionary":[{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Abuzz"
+                    },
+                    "Definition": {
+                        "S": " In a buzz; buzzing."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Abysm"
+                    },
+                    "Definition": {
+                        "S": " An abyss; a gulf."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Abyss"
+                    },
+                    "Definition": {
+                        "S": " A bottomless or unfathomed depth, gulf, or chasm; hence, any deep, immeasurable, and, specifically, hell, or the bottomless pit."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Accoy"
+                    },
+                    "Definition": {
+                        "S": " To render quiet; to soothe."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Ace"
+                    },
+                    "Definition": {
+                        "S": " A unit; a single point or spot on a card or die; the card or die so marked;  s>as, the  x>ace"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Acerb"
+                    },
+                    "Definition": {
+                        "S": " Sour, bitter, and harsh to the taste, as unripe fruit; sharp and harsh."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Ache"
+                    },
+                    "Definition": {
+                        "S": " Continued pain, as distinguished from sudden twinges, or spasmodic pain. 'Such an  >ache"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Ache"
+                    },
+                    "Definition": {
+                        "S": " To suffer pain; to have, or be in, pain, or in continued pain; to be distressed."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Acid"
+                    },
+                    "Definition": {
+                        "S": " Sour, sharp, or biting to the taste; tart; having the taste of vinegar: as,  >acid"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Acid"
+                    },
+                    "Definition": {
+                        "S": " A sour substance."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Acme"
+                    },
+                    "Definition": {
+                        "S": " The top or highest point; the culmination."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Acne"
+                    },
+                    "Definition": {
+                        "S": " A pustular affection of the skin, due to changes in the sebaceous glands."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Acock"
+                    },
+                    "Definition": {
+                        "S": " In a cocked or turned up fashion."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Acold"
+                    },
+                    "Definition": {
+                        "S": " Cold."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Acorn"
+                    },
+                    "Definition": {
+                        "S": " The fruit of the oak, being an oval nut growing in a woody cup or cupule."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Acre"
+                    },
+                    "Definition": {
+                        "S": " Any field of arable or pasture land."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Acred"
+                    },
+                    "Definition": {
+                        "S": " Possessing acres or landed property; -- used in composition;  s>as, large- x>acred"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Acrid"
+                    },
+                    "Definition": {
+                        "S": " Sharp and harsh, or bitter and not, to the taste; pungent;  s>as,  x>acrid"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Act"
+                    },
+                    "Definition": {
+                        "S": " That which is done or doing; the exercise of power, or the effect, of which power exerted is the cause; a performance; a deed."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Act"
+                    },
+                    "Definition": {
+                        "S": " To move to action; to actuate; to animate."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Act"
+                    },
+                    "Definition": {
+                        "S": " To exert power; to produce an effect;  s>as, the stomach  x>acts"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Acton"
+                    },
+                    "Definition": {
+                        "S": " A stuffed jacket worn under the mail, or (later) a jacket plated with mail."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Actor"
+                    },
+                    "Definition": {
+                        "S": " One who acts, or takes part in any affair; a doer."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Acute"
+                    },
+                    "Definition": {
+                        "S": " Sharp at the end; ending in a sharp point; pointed; -- opposed to  >blunt"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Acute"
+                    },
+                    "Definition": {
+                        "S": " To give an acute sound to;  s>as, he  x>acutes"}}}}]}

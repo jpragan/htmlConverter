@@ -1,0 +1,151 @@
+{"Dictionary":[{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Scent"
+                    },
+                    "Definition": {
+                        "S": " That which, issuing from a body, affects the olfactory organs of animals; odor; smell;  s>as, the  x>scent"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Scern"
+                    },
+                    "Definition": {
+                        "S": " To discern; to perceive."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Schah"
+                    },
+                    "Definition": {
+                        "S": " See  r>Shah"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Scink"
+                    },
+                    "Definition": {
+                        "S": " A skink."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Scink"
+                    },
+                    "Definition": {
+                        "S": " A slunk calf."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Scion"
+                    },
+                    "Definition": {
+                        "S": " A shoot or sprout of a plant; a sucker."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Sciot"
+                    },
+                    "Definition": {
+                        "S": " Of or pertaining to the island  >Scio"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Scise"
+                    },
+                    "Definition": {
+                        "S": " To cut; to penetrate."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Scoat"
+                    },
+                    "Definition": {
+                        "S": " To prop; to scotch."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Scobs"
+                    },
+                    "Definition": {
+                        "S": " Raspings of ivory, hartshorn, metals, or other hard substance."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Scoff"
+                    },
+                    "Definition": {
+                        "S": " Derision; ridicule; mockery; derisive or mocking expression of scorn, contempt, or reproach."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Scoff"
+                    },
+                    "Definition": {
+                        "S": " To show insolent ridicule or mockery; to manifest contempt by derisive acts or language; -- often with  >at"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Scoff"
+                    },
+                    "Definition": {
+                        "S": " To treat or address with derision; to assail scornfully; to mock at."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Scoke"
+                    },
+                    "Definition": {
+                        "S": " Poke ( pn>Phytolacca decandra"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Scold"
+                    },
+                    "Definition": {
+                        "S": " To find fault or rail with rude clamor; to brawl; to utter harsh, rude, boisterous rebuke; to chide sharply or coarsely; -- often with  >at"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Scold"
+                    },
+                    "Definition": {
+                        "S": " To chide with rudeness and clamor; to rate; also, to rebuke or reprove with severity."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Scold"
+                    },
+                    "Definition": {
+                        "S": " One who scolds, or makes a practice of scolding; esp., a rude, clamorous woman; a shrew."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Scole"
+                    },
+                    "Definition": {
+                        "S": " School."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Scomm"
+                    },
+                    "Definition": {
+                        "S": " A bufoon."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Scone"
+                    },
+                    "Definition": {
+                        "S": " A cake, thinner than a bannock, made of wheat or barley or oat meal."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Scoop"
+                    },
+                    "Definition": {
+                        "S": " A large ladle; a vessel with a long handle, used for dipping liquids; a utensil for bailing boats."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Scoop"
+                    },
+                    "Definition": {
+                        "S": " To take out or up with, a scoop; to lade out."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Scoot"
+                    },
+                    "Definition": {
+                        "S": " To walk fast; to go quickly; to run hastily away."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Scope"
+                    },
+                    "Definition": {
+                        "S": " That at which one aims; the thing or end to which the mind directs its view; that which is purposed to be reached or accomplished; hence, ultimate design, aim, or purpose; intention; drift; object."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Score"
+                    },
+                    "Definition": {
+                        "S": " A notch or incision; especially, one that is made as a tally mark; hence, a mark, or line, made for the purpose of account."}}}}]}

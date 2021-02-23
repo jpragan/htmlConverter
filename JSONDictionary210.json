@@ -1,0 +1,151 @@
+{"Dictionary":[{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Frisk"
+                    },
+                    "Definition": {
+                        "S": " A frolic; a fit of wanton gayety; a gambol: a little playful skip or leap."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Frisk"
+                    },
+                    "Definition": {
+                        "S": " To leap, skip, dance, or gambol, in fronc and gayety."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Frist"
+                    },
+                    "Definition": {
+                        "S": " To sell upon credit, as goods."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Frit"
+                    },
+                    "Definition": {
+                        "S": " The material of which glass is made, after having been calcined or partly fused in a furnace, but before vitrification. It is a composition of silex and alkali, occasionally with other ingredients."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Frit"
+                    },
+                    "Definition": {
+                        "S": " To prepare by heat (the materials for making glass); to fuse partially."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Frit"
+                    },
+                    "Definition": {
+                        "S": " To fritter; -- with away."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Frith"
+                    },
+                    "Definition": {
+                        "S": " A narrow arm of the sea; an estuary; the opening of a river into the sea;  s>as, the  x>Frith"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Frith"
+                    },
+                    "Definition": {
+                        "S": " A forest; a woody place."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Friz"
+                    },
+                    "Definition": {
+                        "S": " To curl or form into small curls, as hair, with a crisping pin; to crisp."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Friz"
+                    },
+                    "Definition": {
+                        "S": " That which is frizzed; anything crisped or curled, as a wig; a frizzle."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Frize"
+                    },
+                    "Definition": {
+                        "S": " See 1st  r>Frieze"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Frizz"
+                    },
+                    "Definition": {
+                        "S": " See  r>Friz"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Fro"
+                    },
+                    "Definition": {
+                        "S": " From; away; back or backward; -- now used only in oppositionto the word  >to"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Fro"
+                    },
+                    "Definition": {
+                        "S": " From."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Frock"
+                    },
+                    "Definition": {
+                        "S": " A loose outer garment; especially, a gown forming a part of European modern costume for women and children; also, a coarse hirtlike garment worn by some workmen over their ther clothes; a smock frock;  "}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Frock"
+                    },
+                    "Definition": {
+                        "S": " To clothe in a frock."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Froe"
+                    },
+                    "Definition": {
+                        "S": " A dirty woman; a slattern; a frow."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Froe"
+                    },
+                    "Definition": {
+                        "S": " An iron cleaver or splitting tool; a frow."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Frog"
+                    },
+                    "Definition": {
+                        "S": " 1.  ld>(Zoel.)"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Frog"
+                    },
+                    "Definition": {
+                        "S": " To ornament or fasten (a coat, etc.) with trogs. See  r>Frog"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "From"
+                    },
+                    "Definition": {
+                        "S": " Out of the neighborhood of; lessening or losing proximity to; leaving behind; by reason of; out of; by aid of; -- used whenever departure, setting out, commencement of action, being, state, occurrence, "}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Frond"
+                    },
+                    "Definition": {
+                        "S": " The organ formed by the combination or union into one body of stem and leaf, and often bearing the fructification;  s>as, the  x>frond"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Frons"
+                    },
+                    "Definition": {
+                        "S": " The forehead; the part of the cranium between the orbits and the vertex."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Front"
+                    },
+                    "Definition": {
+                        "S": " The forehead or brow, the part of the face above the eyes; sometimes, also, the whole face."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Front"
+                    },
+                    "Definition": {
+                        "S": " Of or relating to the front or forward part; having a position in front; foremost;  s>as, a  x>front"}}}}]}

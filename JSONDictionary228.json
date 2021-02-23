@@ -1,0 +1,151 @@
+{"Dictionary":[{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Glass"
+                    },
+                    "Definition": {
+                        "S": " To reflect, as in a mirror; to mirror; -- used reflexively."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Glaum"
+                    },
+                    "Definition": {
+                        "S": " To grope with the hands, as in the dark."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Glave"
+                    },
+                    "Definition": {
+                        "S": " See  r>Glaive"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Glase"
+                    },
+                    "Definition": {
+                        "S": " To furnish (a window, a house, a sash, a ease, etc.) with glass."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Glaze"
+                    },
+                    "Definition": {
+                        "S": " To become glazed of glassy."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Glaze"
+                    },
+                    "Definition": {
+                        "S": " The vitreous coating of pottery or porcelain; anything used as a coating or color in glazing. See  r>Glaze"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Glazy"
+                    },
+                    "Definition": {
+                        "S": " Having a glazed appearance; -- said of the fractured surface of some kinds of pin iron."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Glead"
+                    },
+                    "Definition": {
+                        "S": " A live coal. See  r>Gleed"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Gleam"
+                    },
+                    "Definition": {
+                        "S": " To disgorge filth, as a hawk."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Gleam"
+                    },
+                    "Definition": {
+                        "S": " A shoot of light; a small stream of light; a beam; a ray; a glimpse."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Gleam"
+                    },
+                    "Definition": {
+                        "S": " To shoot, or dart, as rays of light;  s>as, at the dawn, light  x>gleams"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Gleam"
+                    },
+                    "Definition": {
+                        "S": " To shoot out (flashes of light, etc.)."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Glean"
+                    },
+                    "Definition": {
+                        "S": " To gather after a reaper; to collect in scattered or fragmentary parcels, as the grain left by a reaper, or grapes left after the gathering."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Glean"
+                    },
+                    "Definition": {
+                        "S": " To gather stalks or ears of grain left by reapers."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Glean"
+                    },
+                    "Definition": {
+                        "S": " A collection made by gleaning."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Glean"
+                    },
+                    "Definition": {
+                        "S": " Cleaning; afterbirth."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Glebe"
+                    },
+                    "Definition": {
+                        "S": " A lump; a clod."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Glede"
+                    },
+                    "Definition": {
+                        "S": " The common European kite ( pn>Milvus ictinus"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Glede"
+                    },
+                    "Definition": {
+                        "S": " A live coal."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Glee"
+                    },
+                    "Definition": {
+                        "S": " Music; minstrelsy; entertainment."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Gleed"
+                    },
+                    "Definition": {
+                        "S": " A live or glowing coal; a glede."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Gleek"
+                    },
+                    "Definition": {
+                        "S": " A jest or scoff; a trick or deception."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Gleek"
+                    },
+                    "Definition": {
+                        "S": " To make sport; to gibe; to sneer; to spend time idly."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Gleek"
+                    },
+                    "Definition": {
+                        "S": " A game at cards, once popular, played by three persons."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Gleen"
+                    },
+                    "Definition": {
+                        "S": " To glisten; to gleam."}}}}]}

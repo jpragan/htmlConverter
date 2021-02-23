@@ -1,0 +1,151 @@
+{"Dictionary":[{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Nabob"
+                    },
+                    "Definition": {
+                        "S": " A deputy or viceroy in India; a governor of a province of the ancient Mogul empire."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Nacre"
+                    },
+                    "Definition": {
+                        "S": " A pearly substance which lines the interior of many shells, and is most perfect in the mother-of-pearl.  ltsp>[Written also  sp>nacker"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Nadir"
+                    },
+                    "Definition": {
+                        "S": " That point of the heavens, or lower hemisphere, directly opposite the zenith; the inferior pole of the horizon; the point of the celestial sphere directly under the place where we stand."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Nenia"
+                    },
+                    "Definition": {
+                        "S": " See  r>Nenia"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Neve"
+                    },
+                    "Definition": {
+                        "S": " A nevus."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Navus"
+                    },
+                    "Definition": {
+                        "S": " A spot or mark on the skin of children when born; a birthmark; -- usually applied to vascular tumors, i. e., those consisting mainly of blood vessels, as dilated arteries, veins, or capillaries."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Nag"
+                    },
+                    "Definition": {
+                        "S": " A small horse; a pony; hence, any horse."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Nag"
+                    },
+                    "Definition": {
+                        "S": " To tease in a petty way; to scold habitually; to annoy; to fret pertinaciously."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Naggy"
+                    },
+                    "Definition": {
+                        "S": " Irritable; touchy."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Nagor"
+                    },
+                    "Definition": {
+                        "S": " A West African gazelle ( pn>Gazella redunca"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Naiad"
+                    },
+                    "Definition": {
+                        "S": " A water nymph; one of the lower female divinities, fabled to preside over some body of fresh water, as a lake, river, brook, or fountain."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Naid"
+                    },
+                    "Definition": {
+                        "S": " Any one of numerous species of small, fresh-water, chetopod annelids of the tribe  pn>Naidina"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Naef"
+                    },
+                    "Definition": {
+                        "S": " Having a true natural luster without being cut; -- applied by jewelers to a precious stone."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Naik"
+                    },
+                    "Definition": {
+                        "S": " A chief; a leader; a Sepoy corporal."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Nail"
+                    },
+                    "Definition": {
+                        "S": " the horny scale of plate of epidermis at the end of the fingers and toes of man and many apes."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Nail"
+                    },
+                    "Definition": {
+                        "S": " To fasten with a nail or nails; to close up or secure by means of nails;  s>as, to  x>nail"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Nais"
+                    },
+                    "Definition": {
+                        "S": " See  r>Naiad"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Naeve"
+                    },
+                    "Definition": {
+                        "S": " Having native or unaffected simplicity; ingenuous; artless; frank;  s>as,  x>naeve"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Nake"
+                    },
+                    "Definition": {
+                        "S": " ,v.t. To make naked."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Naked"
+                    },
+                    "Definition": {
+                        "S": " Having no clothes on; uncovered; nude; bare;  s>as, a  x>naked"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Naker"
+                    },
+                    "Definition": {
+                        "S": " Same as  r>Nacre"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Naker"
+                    },
+                    "Definition": {
+                        "S": " A kind of kettledrum."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Nakoo"
+                    },
+                    "Definition": {
+                        "S": " The gavial."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Nale"
+                    },
+                    "Definition": {
+                        "S": " Ale; also, an alehouse."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Nall"
+                    },
+                    "Definition": {
+                        "S": " An awl."}}}}]}

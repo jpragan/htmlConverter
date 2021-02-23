@@ -1,0 +1,151 @@
+{"Dictionary":[{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Gist"
+                    },
+                    "Definition": {
+                        "S": " A resting place."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Git"
+                    },
+                    "Definition": {
+                        "S": " See  r>Geat"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Gite"
+                    },
+                    "Definition": {
+                        "S": " A gown."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Gith"
+                    },
+                    "Definition": {
+                        "S": " The corn cockle; also anciently applied to the  >Nigella"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Guist"
+                    },
+                    "Definition": {
+                        "S": " Same as  r>Joust"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Give"
+                    },
+                    "Definition": {
+                        "S": " To bestow without receiving a return; to confer without compensation; to impart, as a possession; to grant, as authority or permission; to yield up or allow."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Give"
+                    },
+                    "Definition": {
+                        "S": " To give a gift or gifts."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Given"
+                    },
+                    "Definition": {
+                        "S": "  t>p. p. & a."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Giver"
+                    },
+                    "Definition": {
+                        "S": " One who gives; a donor; a bestower; a grantor; one who imparts or distributes."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Gives"
+                    },
+                    "Definition": {
+                        "S": " Fetters."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Glad"
+                    },
+                    "Definition": {
+                        "S": " Pleased; joyous; happy; cheerful; gratified; -- opposed to  >sorry"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Glad"
+                    },
+                    "Definition": {
+                        "S": " To make glad; to cheer; to gladden; to exhilarate."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Glad"
+                    },
+                    "Definition": {
+                        "S": " To be glad; to rejoice."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Glade"
+                    },
+                    "Definition": {
+                        "S": " An open passage through a wood; a grassy open or cleared space in a forest."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Glair"
+                    },
+                    "Definition": {
+                        "S": " The white of egg. It is used as a size or a glaze in bookbinding, for pastry, etc."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Glair"
+                    },
+                    "Definition": {
+                        "S": " To smear with the white of an egg."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Glama"
+                    },
+                    "Definition": {
+                        "S": " A copious gummy secretion of the humor of the eyelids, in consequence of some disorder; blearedness; lippitude."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Gland"
+                    },
+                    "Definition": {
+                        "S": " An organ for secreting something to be used in, or eliminated from, the body;  s>as, the sebaceous  x>glands"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Glans"
+                    },
+                    "Definition": {
+                        "S": " The vascular body which forms the apex of the penis, and the extremity of the clitoris."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Glare"
+                    },
+                    "Definition": {
+                        "S": " To shine with a bright, dazzling light."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Glare"
+                    },
+                    "Definition": {
+                        "S": " To shoot out, or emit, as a dazzling light."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Glare"
+                    },
+                    "Definition": {
+                        "S": " A bright, dazzling light; splendor that dazzles the eyes; a confusing and bewildering light."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Glare"
+                    },
+                    "Definition": {
+                        "S": " Smooth and bright or translucent; -- used almost exclusively of ice;  s>as, skating on  x>glare"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Glary"
+                    },
+                    "Definition": {
+                        "S": " Of a dazzling luster; glaring; bright; shining; smooth."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Glass"
+                    },
+                    "Definition": {
+                        "S": " A hard, brittle, translucent, and commonly transparent substance, white or colored, having a conchoidal fracture, and made by fusing together sand or silica with lime, potash, soda, or lead oxide. It is"}}}}]}

@@ -1,0 +1,151 @@
+{"Dictionary":[{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Wages"
+                    },
+                    "Definition": {
+                        "S": " A compensation given to a hired person for services; price paid for labor; recompense; hire.  See  r>Wage"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Wagon"
+                    },
+                    "Definition": {
+                        "S": " A wheeled carriage; a vehicle on four wheels, and usually drawn by horses; especially, one used for carrying freight or merchandise."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Wagon"
+                    },
+                    "Definition": {
+                        "S": " To transport in a wagon or wagons;  s>as, goods are  x>wagoned"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Wagon"
+                    },
+                    "Definition": {
+                        "S": " To wagon goods as a business;  s>as, the man  x>wagons"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Wah"
+                    },
+                    "Definition": {
+                        "S": " The panda."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Waid"
+                    },
+                    "Definition": {
+                        "S": " Oppressed with weight; crushed; weighed down."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Waif"
+                    },
+                    "Definition": {
+                        "S": " Goods found of which the owner is not known; originally, such goods as a pursued thief threw away to prevent being apprehended, which belonged to the king unless the owner made pursuit of the felon, too"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Waift"
+                    },
+                    "Definition": {
+                        "S": " A waif."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Wail"
+                    },
+                    "Definition": {
+                        "S": " To choose; to select."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Wail"
+                    },
+                    "Definition": {
+                        "S": " To lament; to bewail; to grieve over;  s>as, to  x>wail"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Wail"
+                    },
+                    "Definition": {
+                        "S": " To express sorrow audibly; to make mournful outcry; to weep."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Wail"
+                    },
+                    "Definition": {
+                        "S": " Loud weeping; violent lamentation; wailing."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Wain"
+                    },
+                    "Definition": {
+                        "S": " A four-wheeled vehicle for the transportation of goods, produce, etc.; a wagon."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "3."
+                    },
+                    "Definition": {
+                        "S": " Any one of numerous species of European moths of the family  pn>Leucanide"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Wair"
+                    },
+                    "Definition": {
+                        "S": " A piece of plank two yard long and a foot broad."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Waist"
+                    },
+                    "Definition": {
+                        "S": " That part of the human body which is immediately below the ribs or thorax; the small part of the body between the thorax and hips."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Wait"
+                    },
+                    "Definition": {
+                        "S": " To watch; to observe; to take notice."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Wait"
+                    },
+                    "Definition": {
+                        "S": " To stay for; to rest or remain stationary in expectation of; to await;  s>as, to  x>wait"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Wait"
+                    },
+                    "Definition": {
+                        "S": " The act of waiting; a delay; a halt."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Waive"
+                    },
+                    "Definition": {
+                        "S": " A waif; a castaway."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Waive"
+                    },
+                    "Definition": {
+                        "S": " To relinquish; to give up claim to; not to insist on or claim; to refuse; to forego."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Waive"
+                    },
+                    "Definition": {
+                        "S": " To turn aside; to recede."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Wake"
+                    },
+                    "Definition": {
+                        "S": " The track left by a vessel in the water; by extension, any track;  s>as, the  x>wake"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Wake"
+                    },
+                    "Definition": {
+                        "S": " To be or to continue awake; to watch; not to sleep."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Wake"
+                    },
+                    "Definition": {
+                        "S": " To rouse from sleep; to awake."}}}}]}

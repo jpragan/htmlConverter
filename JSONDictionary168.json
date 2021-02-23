@@ -1,0 +1,151 @@
+{"Dictionary":[{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Elix"
+                    },
+                    "Definition": {
+                        "S": " To extract."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Elk"
+                    },
+                    "Definition": {
+                        "S": " A large deer, of several species. The European elk ( pn>Alces machlis"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Ell"
+                    },
+                    "Definition": {
+                        "S": " A measure for cloth; -- now rarely used. It is of different lengths in different countries; the English ell being 45 inches, the Dutch or Flemish ell 27, the Scotch about 37."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Ell"
+                    },
+                    "Definition": {
+                        "S": " See  r>L"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Elles"
+                    },
+                    "Definition": {
+                        "S": " See  r>Else"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Elm"
+                    },
+                    "Definition": {
+                        "S": " A tree of the genus  pn>Ulmus"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Elmen"
+                    },
+                    "Definition": {
+                        "S": " Belonging to elms."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Elmy"
+                    },
+                    "Definition": {
+                        "S": " Abounding with elms."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": ""
+                    },
+                    "Definition": {
+                        "S": " A panegyrical funeral oration."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Eloin"
+                    },
+                    "Definition": {
+                        "S": " See  r>Eloign"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Elong"
+                    },
+                    "Definition": {
+                        "S": " To lengthen out; to prolong."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Elope"
+                    },
+                    "Definition": {
+                        "S": " To run away, or escape privately, from the place or station to which one is bound by duty; -- said especially of a woman or a man, either married or unmarried, who runs away with a paramour or a sweethe"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Elops"
+                    },
+                    "Definition": {
+                        "S": " A genus of fishes. See  r>Saury"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Else"
+                    },
+                    "Definition": {
+                        "S": " Other; one or something beside;  s>as, Who  x>else"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Else"
+                    },
+                    "Definition": {
+                        "S": " Besides; except that mentioned; in addition;  s>as, nowhere  x>else"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Elsin"
+                    },
+                    "Definition": {
+                        "S": " A shoemaker's awl."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Elude"
+                    },
+                    "Definition": {
+                        "S": " To avoid slyly, by artifice, stratagem, or dexterity; to escape from in a covert manner; to mock by an unexpected escape; to baffle;  s>as, to  x>elude"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Elul"
+                    },
+                    "Definition": {
+                        "S": " The sixth month of the Jewish year, by the sacred reckoning, or the twelfth, by the civil reckoning, corresponding nearly to the month of September."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Elute"
+                    },
+                    "Definition": {
+                        "S": " To wash out."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Elvan"
+                    },
+                    "Definition": {
+                        "S": " Pertaining to elves; elvish."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Elve"
+                    },
+                    "Definition": {
+                        "S": " An old form of Elf."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Elver"
+                    },
+                    "Definition": {
+                        "S": " A young eel; a young conger or sea eel; -- called also  ltname>elvene"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Elves"
+                    },
+                    "Definition": {
+                        "S": " Pertaining to elves; implike; mischievous; weird; also, vacant; absent in demeanor. See  r>Elfish"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "'Em"
+                    },
+                    "Definition": {
+                        "S": " An obsolete or colloquial contraction of the old form  >hem"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Em"
+                    },
+                    "Definition": {
+                        "S": " The portion of a line formerly occupied by the letter  >m"}}}}]}

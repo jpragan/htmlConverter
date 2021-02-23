@@ -1,0 +1,151 @@
+{"Dictionary":[{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Stop"
+                    },
+                    "Definition": {
+                        "S": " To cease to go on; to halt, or stand still; to come to a stop."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Stop"
+                    },
+                    "Definition": {
+                        "S": " The act of stopping, or the state of being stopped; hindrance of progress or of action; cessation; repression; interruption; check; obstruction."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Stope"
+                    },
+                    "Definition": {
+                        "S": " A horizontal working forming one of a series, the working faces of which present the appearance of a flight of steps."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Stope"
+                    },
+                    "Definition": {
+                        "S": " To excavate in the form of stopes."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Stor"
+                    },
+                    "Definition": {
+                        "S": " See  r>Stoor"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Store"
+                    },
+                    "Definition": {
+                        "S": " That which is accumulated, or massed together; a source from which supplies may be drawn; hence, an abundance; a great quantity, or a great number."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Store"
+                    },
+                    "Definition": {
+                        "S": " Accumulated; hoarded."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Store"
+                    },
+                    "Definition": {
+                        "S": " To collect as a reserved supply; to accumulate; to lay away."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Stork"
+                    },
+                    "Definition": {
+                        "S": " Any one of several species of large wading birds of the family  pn>Ciconide"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Storm"
+                    },
+                    "Definition": {
+                        "S": " A violent disturbance of the atmosphere, attended by wind, rain, snow, hail, or thunder and lightning; hence, often, a heavy fall of rain, snow, or hail, whether accompanied with wind or not."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Storm"
+                    },
+                    "Definition": {
+                        "S": " To assault; to attack, and attempt to take, by scaling walls, forcing gates, breaches, or the like;  s>as, to  x>storm"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Storm"
+                    },
+                    "Definition": {
+                        "S": " To raise a tempest."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Story"
+                    },
+                    "Definition": {
+                        "S": " A set of rooms on the same floor or level; a floor, or the space between two floors. Also, a horizontal division of a building's exterior considered architecturally, which need not correspond exactly wi"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Story"
+                    },
+                    "Definition": {
+                        "S": " A narration or recital of that which has occurred; a description of past events; a history; a statement; a record."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Story"
+                    },
+                    "Definition": {
+                        "S": " To tell in historical relation; to make the subject of a story; to narrate or describe in story."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Stot"
+                    },
+                    "Definition": {
+                        "S": " A horse."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Stote"
+                    },
+                    "Definition": {
+                        "S": " See  r>Stoat"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Stoup"
+                    },
+                    "Definition": {
+                        "S": " A flagon; a vessel or measure for liquids."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Stour"
+                    },
+                    "Definition": {
+                        "S": " A battle or tumult; encounter; combat; disturbance; passion."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Stour"
+                    },
+                    "Definition": {
+                        "S": " Tall; strong; stern."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Stout"
+                    },
+                    "Definition": {
+                        "S": " Strong; lusty; vigorous; robust; sinewy; muscular; hence, firm; resolute; dauntless."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Stout"
+                    },
+                    "Definition": {
+                        "S": " A strong malt liquor; strong porter."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Stove"
+                    },
+                    "Definition": {
+                        "S": "  t>imp."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Stove"
+                    },
+                    "Definition": {
+                        "S": " A house or room artificially warmed or heated; a forcing house, or hothouse; a drying room; -- formerly, designating an artificially warmed dwelling or room, a parlor, or a bathroom, but now restricted,"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Stove"
+                    },
+                    "Definition": {
+                        "S": " To keep warm, in a house or room, by artificial heat;  s>as, to  x>stove"}}}}]}

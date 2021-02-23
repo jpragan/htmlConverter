@@ -1,0 +1,151 @@
+{"Dictionary":[{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Parse"
+                    },
+                    "Definition": {
+                        "S": " To resolve into its elements, as a sentence, pointing out the several parts of speech, and their relation to each other by government or agreement; to analyze and describe grammatically."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Part"
+                    },
+                    "Definition": {
+                        "S": " One of the portions, equal or unequal, into which anything is divided, or regarded as divided; something less than a whole; a number, quantity, mass, or the like, regarded as going to make up, with othe"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Part"
+                    },
+                    "Definition": {
+                        "S": " To divide; to separate into distinct parts; to break into two or more parts or pieces; to sever."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Part"
+                    },
+                    "Definition": {
+                        "S": " To be broken or divided into parts or pieces; to break; to become separated; to go asunder;  s>as, rope  x>parts"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Part"
+                    },
+                    "Definition": {
+                        "S": " Partly; in a measure."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Party"
+                    },
+                    "Definition": {
+                        "S": " A part or portion."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Party"
+                    },
+                    "Definition": {
+                        "S": " Parted or divided, as in the direction or form of one of the ordinaries;  s>as, an escutcheon  x>party"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Party"
+                    },
+                    "Definition": {
+                        "S": " Partly."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Pas"
+                    },
+                    "Definition": {
+                        "S": " A pace; a step, as in a dance."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Pasan"
+                    },
+                    "Definition": {
+                        "S": " The gemsbok."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Pash"
+                    },
+                    "Definition": {
+                        "S": " To strike; to crush; to smash; to dash in pieces."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Pash"
+                    },
+                    "Definition": {
+                        "S": " The head; the poll."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Pasha"
+                    },
+                    "Definition": {
+                        "S": " An honorary title given to officers of high rank in Turkey, as to governers of provinces, military commanders, etc. The earlier form was  ltname>bashaw"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Pask"
+                    },
+                    "Definition": {
+                        "S": " See  r>Pasch"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Paspy"
+                    },
+                    "Definition": {
+                        "S": " A kind of minuet, in triple time, of French origin, popular in the reign of Queen Elizabeth and for some time after; -- called also  ltname>passing measure"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Pass"
+                    },
+                    "Definition": {
+                        "S": " To go; to move; to proceed; to be moved or transferred from one point to another; to make a transit; -- usually with a following adverb or adverbal phrase defining the kind or manner of motion;  s>as, "}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Pass"
+                    },
+                    "Definition": {
+                        "S": " To go by, beyond, over, through, or the like; to proceed from one side to the other of;  s>as, to  x>pass"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Pass"
+                    },
+                    "Definition": {
+                        "S": " An opening, road, or track, available for passing; especially, one through or over some dangerous or otherwise impracticable barrier; a passageway; a defile; a ford;  s>as, a mountain  x>pass"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Past"
+                    },
+                    "Definition": {
+                        "S": " Of or pertaining to a former time or state; neither present nor future; gone by; elapsed; ended; spent;  s>as,  x>past"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Past"
+                    },
+                    "Definition": {
+                        "S": " A former time or state; a state of things gone by."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Past"
+                    },
+                    "Definition": {
+                        "S": " Beyond, in position, or degree; further than; beyond the reach or influence of."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Past"
+                    },
+                    "Definition": {
+                        "S": " By; beyond;  s>as, he ran  x>past"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Paste"
+                    },
+                    "Definition": {
+                        "S": " A soft composition, as of flour moistened with water or milk, or of earth moistened to the consistence of dough, as in making potter's ware."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Paste"
+                    },
+                    "Definition": {
+                        "S": " To unite with paste; to fasten or join by means of paste."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Pasty"
+                    },
+                    "Definition": {
+                        "S": " Like paste, as in color, softness, stickness."}}}}]}

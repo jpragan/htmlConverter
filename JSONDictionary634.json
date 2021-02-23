@@ -1,0 +1,151 @@
+{"Dictionary":[{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Venal"
+                    },
+                    "Definition": {
+                        "S": " Capable of being bought or obtained for money or other valuable consideration; made matter of trade or barter; held for sale; salable; mercenary; purchasable; hireling;  s>as,  x>venal"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Vend"
+                    },
+                    "Definition": {
+                        "S": " To transfer to another person for a pecuniary equivalent; to make an object of trade; to dispose of by sale; to sell;  s>as, to  x>vend"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Vend"
+                    },
+                    "Definition": {
+                        "S": " The act of vending or selling; a sale."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Vends"
+                    },
+                    "Definition": {
+                        "S": " See  r>Wends"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Venew"
+                    },
+                    "Definition": {
+                        "S": " A bout, or turn, as at fencing; a thrust; a hit; a veney."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Veney"
+                    },
+                    "Definition": {
+                        "S": " A bout; a thrust; a venew."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Venge"
+                    },
+                    "Definition": {
+                        "S": " To avenge; to punish; to revenge.  ark>[Obs.]"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Venom"
+                    },
+                    "Definition": {
+                        "S": " Matter fatal or injurious to life; poison; particularly, the poisonous, the poisonous matter which certain animals, such as serpents, scorpions, bees, etc., secrete in a state of health, and communicate"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Venom"
+                    },
+                    "Definition": {
+                        "S": " To infect with venom; to envenom; to poison."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Vent"
+                    },
+                    "Definition": {
+                        "S": " Sale; opportunity to sell; market."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Vent"
+                    },
+                    "Definition": {
+                        "S": " To sell; to vend."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Vent"
+                    },
+                    "Definition": {
+                        "S": " A baiting place; an inn."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Vent"
+                    },
+                    "Definition": {
+                        "S": " To snuff; to breathe or puff out; to snort."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Vent"
+                    },
+                    "Definition": {
+                        "S": " A small aperture; a hole or passage for air or any fluid to escape;  s>as, the  x>vent"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Vent"
+                    },
+                    "Definition": {
+                        "S": " To let out at a vent, or small aperture; to give passage or outlet to."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Venue"
+                    },
+                    "Definition": {
+                        "S": " A neighborhood or near place; the place or county in which anything is alleged to have happened; also, the place where an action is laid."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Venus"
+                    },
+                    "Definition": {
+                        "S": " The goddess of beauty and love, that is, beauty or love deified."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Verb"
+                    },
+                    "Definition": {
+                        "S": " A word; a vocable."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Verd"
+                    },
+                    "Definition": {
+                        "S": " The privilege of cutting green wood within a forest for fuel."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Verge"
+                    },
+                    "Definition": {
+                        "S": " A rod or staff, carried as an emblem of authority;  s>as, the  x>verge"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Verge"
+                    },
+                    "Definition": {
+                        "S": " To border upon; to tend; to incline; to come near; to approach."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Vers"
+                    },
+                    "Definition": {
+                        "S": " A verse or verses.  See  r>Verse"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Verse"
+                    },
+                    "Definition": {
+                        "S": " A line consisting of a certain number of metrical feet (see  r>Foot"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Verse"
+                    },
+                    "Definition": {
+                        "S": " To tell in verse, or poetry."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Verse"
+                    },
+                    "Definition": {
+                        "S": " To make verses; to versify."}}}}]}

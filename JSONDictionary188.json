@@ -1,0 +1,151 @@
+{"Dictionary":[{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Ferly"
+                    },
+                    "Definition": {
+                        "S": " Singular; wonderful; extraordinary."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Fern"
+                    },
+                    "Definition": {
+                        "S": " Long ago."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Fern"
+                    },
+                    "Definition": {
+                        "S": " Ancient; old.  ark>[Obs.]"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Fern"
+                    },
+                    "Definition": {
+                        "S": " An order of cryptogamous plants, the  pn>Filices"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Ferny"
+                    },
+                    "Definition": {
+                        "S": " Abounding in ferns."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Ferry"
+                    },
+                    "Definition": {
+                        "S": " To carry or transport over a river, strait, or other narrow water, in a boat."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Ferry"
+                    },
+                    "Definition": {
+                        "S": " To pass over water in a boat or by a ferry."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Ferry"
+                    },
+                    "Definition": {
+                        "S": " A place where persons or things are carried across a river, arm of the sea, etc., in a ferryboat."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Fers"
+                    },
+                    "Definition": {
+                        "S": " Fierce."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Fest"
+                    },
+                    "Definition": {
+                        "S": " The fist."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Fet"
+                    },
+                    "Definition": {
+                        "S": " A piece."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Fet"
+                    },
+                    "Definition": {
+                        "S": " To fetch."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Fet"
+                    },
+                    "Definition": {
+                        "S": " Fetched."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Fetal"
+                    },
+                    "Definition": {
+                        "S": " Pertaining to, or connected with, a fetus;  s>as,  x>fetal circulation"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Fetch"
+                    },
+                    "Definition": {
+                        "S": " To bear toward the person speaking, or the person or thing from whose point of view the action is contemplated; to go and bring; to get."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "fetch"
+                    },
+                    "Definition": {
+                        "S": " To bring one's self; to make headway; to veer;  s>as, to  x>fetch"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Fetch"
+                    },
+                    "Definition": {
+                        "S": " A stratagem by which a thing is indirectly brought to pass, or by which one thing seems intended and another is done; a trick; an artifice."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Fete"
+                    },
+                    "Definition": {
+                        "S": " A feat."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Fete"
+                    },
+                    "Definition": {
+                        "S": " Feet."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Fete"
+                    },
+                    "Definition": {
+                        "S": " A festival."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Fete"
+                    },
+                    "Definition": {
+                        "S": " To feast; to honor with a festival."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Fetid"
+                    },
+                    "Definition": {
+                        "S": " Having an offensive smell; stinking."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Fetis"
+                    },
+                    "Definition": {
+                        "S": " Neat; pretty; well made; graceful."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Fetor"
+                    },
+                    "Definition": {
+                        "S": " A strong, offensive smell; stench; fetidness."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Fette"
+                    },
+                    "Definition": {
+                        "S": " To fetch."}}}}]}

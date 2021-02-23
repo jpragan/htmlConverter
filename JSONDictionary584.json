@@ -1,0 +1,151 @@
+{"Dictionary":[{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Tap"
+                    },
+                    "Definition": {
+                        "S": " A gentle or slight blow; a light rap; a pat."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Tap"
+                    },
+                    "Definition": {
+                        "S": " To strike a gentle blow."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Tap"
+                    },
+                    "Definition": {
+                        "S": " A hole or pipe through which liquor is drawn."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Tap"
+                    },
+                    "Definition": {
+                        "S": " To pierce so as to let out, or draw off, a fluid;  s>as, to  x>tap"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Tapa"
+                    },
+                    "Definition": {
+                        "S": " A kind of cloth prepared by the Polynesians from the inner bark of the paper mulberry; -- sometimes called also  ltname>kapa"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Tape"
+                    },
+                    "Definition": {
+                        "S": " A narrow fillet or band of cotton or linen; a narrow woven fabric used for strings and the like;  s>as, curtains tied with  x>tape"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Taper"
+                    },
+                    "Definition": {
+                        "S": " A small wax candle; a small lighted wax candle; hence, a small light."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Taper"
+                    },
+                    "Definition": {
+                        "S": " Regularly narrowed toward the point; becoming small toward one end; conical; pyramidical;  s>as,  x>taper"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Taper"
+                    },
+                    "Definition": {
+                        "S": " To become gradually smaller toward one end;  s>as, a sugar loaf  x>tapers"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Taper"
+                    },
+                    "Definition": {
+                        "S": " To make or cause to taper."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Tapet"
+                    },
+                    "Definition": {
+                        "S": " Worked or figured stuff; tapestry."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Tapir"
+                    },
+                    "Definition": {
+                        "S": " Any one of several species of large odd-toed ungulates belonging to  pn>Tapirus"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Tapis"
+                    },
+                    "Definition": {
+                        "S": " Tapestry; formerly, the cover of a council table."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Tapis"
+                    },
+                    "Definition": {
+                        "S": " To cover or work with figures like tapestry."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Tar"
+                    },
+                    "Definition": {
+                        "S": " A sailor; a seaman."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Tar"
+                    },
+                    "Definition": {
+                        "S": " A thick, black, viscous liquid obtained by the distillation of wood, coal, etc., and having a varied composition according to the temperature and material employed in obtaining it."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Tar"
+                    },
+                    "Definition": {
+                        "S": " To smear with tar, or as with tar;  s>as, to  x>tar"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Tardo"
+                    },
+                    "Definition": {
+                        "S": " Slow; -- a direction to perform a passage slowly."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Tardo"
+                    },
+                    "Definition": {
+                        "S": " A sloth."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Tardy"
+                    },
+                    "Definition": {
+                        "S": " Moving with a slow pace or motion; slow; not swift."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Tardy"
+                    },
+                    "Definition": {
+                        "S": " To make tardy."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Tare"
+                    },
+                    "Definition": {
+                        "S": " Tore."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Tare"
+                    },
+                    "Definition": {
+                        "S": " A weed that grows among wheat and other grain; -- alleged by modern naturalists to be the  pn>Lolium temulentum"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Tare"
+                    },
+                    "Definition": {
+                        "S": " Deficientcy in the weight or quantity of goods by reason of the weight of the cask, bag, or whatever contains the commodity, and is weighed with it; hence, the allowance or abatement of a certain weight"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Tare"
+                    },
+                    "Definition": {
+                        "S": " To ascertain or mark the tare of (goods)."}}}}]}

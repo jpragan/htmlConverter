@@ -1,0 +1,151 @@
+{"Dictionary":[{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Visa"
+                    },
+                    "Definition": {
+                        "S": " To indorse, after examination, with the word  >vise"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Vise"
+                    },
+                    "Definition": {
+                        "S": " An instrument consisting of two jaws, closing by a screw, lever, cam, or the like, for holding work, as in filing."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Vise"
+                    },
+                    "Definition": {
+                        "S": " An indorsement made on a passport by the proper authorities of certain countries on the continent of Europe, denoting that it has been examined, and that the person who bears it is permitted to proceed "}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Vise"
+                    },
+                    "Definition": {
+                        "S": " To examine and indorse, as a passport; to visa."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Visit"
+                    },
+                    "Definition": {
+                        "S": " To go or come to see, as for the purpose of friendship, business, curiosity, etc.; to attend; to call upon;  s>as, the physician  x>visits"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Visit"
+                    },
+                    "Definition": {
+                        "S": " To make a visit or visits; to maintain visiting relations; to practice calling on others."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Visit"
+                    },
+                    "Definition": {
+                        "S": " The act of visiting, or going to see a person or thing; a brief stay of business, friendship, ceremony, curiosity, or the like, usually longer than a call;  s>as, a  x>visit"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Visne"
+                    },
+                    "Definition": {
+                        "S": " Neighborhood; vicinity; venue.  See  r>Venue"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Vison"
+                    },
+                    "Definition": {
+                        "S": " The mink."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Visor"
+                    },
+                    "Definition": {
+                        "S": " A part of a helmet, arranged so as to lift or open, and so show the face. The openings for seeing and breathing are generally in it."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Vista"
+                    },
+                    "Definition": {
+                        "S": " A view; especially, a view through or between intervening objects, as trees; a view or prospect through an avenue, or the like; hence, the trees or other objects that form the avenue."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Visto"
+                    },
+                    "Definition": {
+                        "S": " A vista; a prospect."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Vital"
+                    },
+                    "Definition": {
+                        "S": " Belonging or relating to life, either animal or vegetable;  s>as,  x>vital"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Vital"
+                    },
+                    "Definition": {
+                        "S": " A vital part; one of the vitals."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Vitis"
+                    },
+                    "Definition": {
+                        "S": " A genus of plants including all true grapevines."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Vitoe"
+                    },
+                    "Definition": {
+                        "S": " See  r>Durukuli"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Vitta"
+                    },
+                    "Definition": {
+                        "S": " One of the oil tubes in the fruit of umbelliferous plants."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Vivda"
+                    },
+                    "Definition": {
+                        "S": " See  r>Vifda"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Vive"
+                    },
+                    "Definition": {
+                        "S": " Long live, that is, success to;  s>as,  x>vive le roi"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Vive"
+                    },
+                    "Definition": {
+                        "S": " Lively; animated; forcible."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Vives"
+                    },
+                    "Definition": {
+                        "S": " A disease of brute animals, especially of horses, seated in the glands under the ear, where a tumor is formed which sometimes ends in suppuration."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Vivid"
+                    },
+                    "Definition": {
+                        "S": " True to the life; exhibiting the appearance of life or freshness; animated; spirited; bright; strong; intense;  s>as,  x>vivid"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Vixen"
+                    },
+                    "Definition": {
+                        "S": " A female fox."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Viz"
+                    },
+                    "Definition": {
+                        "S": " To wit; that is; namely."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Vizir"
+                    },
+                    "Definition": {
+                        "S": " See  r>Vizier"}}}}]}

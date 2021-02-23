@@ -1,0 +1,151 @@
+{"Dictionary":[{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Slack"
+                    },
+                    "Definition": {
+                        "S": " The part of anything that hangs loose, having no strain upon it;  s>as, the  x>slack"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Slade"
+                    },
+                    "Definition": {
+                        "S": " A little dell or valley; a flat piece of low, moist ground."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Slag"
+                    },
+                    "Definition": {
+                        "S": " The dross, or recrement, of a metal; also, vitrified cinders."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Slaie"
+                    },
+                    "Definition": {
+                        "S": " A weaver's reed; a sley."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Slake"
+                    },
+                    "Definition": {
+                        "S": " To allay; to quench; to extinguish;  s>as, to  x>slake"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Slake"
+                    },
+                    "Definition": {
+                        "S": " To go out; to become extinct."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Slam"
+                    },
+                    "Definition": {
+                        "S": " To shut with force and a loud noise; to bang;  s>as, he  x>slammed"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Slam"
+                    },
+                    "Definition": {
+                        "S": " To come or swing against something, or to shut, with sudden force so as to produce a shock and noise;  s>as, a door or shutter  x>slams"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Slam"
+                    },
+                    "Definition": {
+                        "S": " The act of one who, or that which, slams."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Slang"
+                    },
+                    "Definition": {
+                        "S": "  t>imp."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Slang"
+                    },
+                    "Definition": {
+                        "S": " Any long, narrow piece of land; a promontory."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Slang"
+                    },
+                    "Definition": {
+                        "S": " A fetter worn on the leg by a convict."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Slang"
+                    },
+                    "Definition": {
+                        "S": " Low, vulgar, unauthorized language; a popular but unauthorized word, phrase, or mode of expression; also, the jargon of some particular calling or class in society; low popular cant;  s>as, the  x>sla"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Slang"
+                    },
+                    "Definition": {
+                        "S": " To address with slang or ribaldry; to insult with vulgar language."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Slank"
+                    },
+                    "Definition": {
+                        "S": "  t>imp. & p. p."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Slant"
+                    },
+                    "Definition": {
+                        "S": " To be turned or inclined from a right line or level; to lie obliquely; to slope."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Slant"
+                    },
+                    "Definition": {
+                        "S": " To turn from a direct line; to give an oblique or sloping direction to;  s>as, to  x>slant"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Slant"
+                    },
+                    "Definition": {
+                        "S": " A slanting direction or plane; a slope;  s>as, it lies on a  x>slant"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Slant"
+                    },
+                    "Definition": {
+                        "S": " Inclined from a direct line, whether horizontal or perpendicular; sloping; oblique."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Slap"
+                    },
+                    "Definition": {
+                        "S": " A blow, esp. one given with the open hand, or with something broad."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Slap"
+                    },
+                    "Definition": {
+                        "S": " To strike with the open hand, or with something broad."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Slap"
+                    },
+                    "Definition": {
+                        "S": " With a sudden and violent blow; hence, quickly; instantly; directly."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Slape"
+                    },
+                    "Definition": {
+                        "S": " Slippery; smooth; crafty; hypocritical."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Slash"
+                    },
+                    "Definition": {
+                        "S": " To cut by striking violently and at random; to cut in long slits."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Slash"
+                    },
+                    "Definition": {
+                        "S": " To strike violently and at random, esp. with an edged instrument; to lay about one indiscriminately with blows; to cut hastily and carelessly."}}}}]}

@@ -1,0 +1,151 @@
+{"Dictionary":[{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Plane"
+                    },
+                    "Definition": {
+                        "S": " Without elevations or depressions; even; level; flat; lying in, or constituting, a plane;  s>as, a  x>plane"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Plane"
+                    },
+                    "Definition": {
+                        "S": " A surface, real or imaginary, in which, if any two points are taken, the straight line which joins them lies wholly in that surface; or a surface, any section of which by a like surface is a straight li"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Plane"
+                    },
+                    "Definition": {
+                        "S": " To make smooth; to level; to pare off the inequalities of the surface of, as of a board or other piece of wood, by the use of a plane;  s>as, to  x>plane"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Plank"
+                    },
+                    "Definition": {
+                        "S": " A broad piece of sawed timber, differing from a board only in being thicker. See  r>Board"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Plank"
+                    },
+                    "Definition": {
+                        "S": " To cover or lay with planks;  s>as, to  x>plank"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Plant"
+                    },
+                    "Definition": {
+                        "S": " A vegetable; an organized living being, generally without feeling and voluntary motion, and having, when complete, a root, stem, and leaves, though consisting sometimes only of a single leafy expansion,"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Plant"
+                    },
+                    "Definition": {
+                        "S": " To put in the ground and cover, as seed for growth;  s>as, to  x>plant"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Plant"
+                    },
+                    "Definition": {
+                        "S": " To perform the act of planting."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Plash"
+                    },
+                    "Definition": {
+                        "S": " A small pool of standing water; a puddle."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Plash"
+                    },
+                    "Definition": {
+                        "S": " To dabble in water; to splash."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Plash"
+                    },
+                    "Definition": {
+                        "S": " To splash, as water."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Plash"
+                    },
+                    "Definition": {
+                        "S": " To cut partly, or to bend and intertwine the branches of;  s>as, to  x>plash"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Plash"
+                    },
+                    "Definition": {
+                        "S": " The branch of a tree partly cut or bent, and bound to, or intertwined with, other branches."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Plasm"
+                    },
+                    "Definition": {
+                        "S": " A mold or matrix in which anything is cast or formed to a particular shape."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Plat"
+                    },
+                    "Definition": {
+                        "S": " To form by interlaying interweaving; to braid; to plait."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Plat"
+                    },
+                    "Definition": {
+                        "S": " Work done by platting or braiding; a plait."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Plat"
+                    },
+                    "Definition": {
+                        "S": " A small piece or plot of ground laid out with some design, or for a special use; usually, a portion of flat, even ground."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Plat"
+                    },
+                    "Definition": {
+                        "S": " To lay out in plats or plots, as ground."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Plat"
+                    },
+                    "Definition": {
+                        "S": " Plain; flat; level."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Plat"
+                    },
+                    "Definition": {
+                        "S": " Plainly; flatly; downright."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Plat"
+                    },
+                    "Definition": {
+                        "S": " The flat or broad side of a sword."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Plate"
+                    },
+                    "Definition": {
+                        "S": " A flat, or nearly flat, piece of metal, the thickness of which is small in comparison with the other dimensions; a thick sheet of metal;  s>as, a steel  x>plate"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Plate"
+                    },
+                    "Definition": {
+                        "S": " To cover or overlay with gold, silver, or other metals, either by a mechanical process, as hammering, or by a chemical process, as electrotyping."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Platt"
+                    },
+                    "Definition": {
+                        "S": " See  r>Lodge"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Platy"
+                    },
+                    "Definition": {
+                        "S": " Like a plate; consisting of plates."}}}}]}

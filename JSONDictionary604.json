@@ -1,0 +1,151 @@
+{"Dictionary":[{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Tomb"
+                    },
+                    "Definition": {
+                        "S": " A pit in which the dead body of a human being is deposited; a grave; a sepulcher."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Tomb"
+                    },
+                    "Definition": {
+                        "S": " To place in a tomb; to bury; to inter; to entomb."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Tome"
+                    },
+                    "Definition": {
+                        "S": " As many writings as are bound in a volume, forming part of a larger work; a book; -- usually applied to a ponderous volume."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Tommy"
+                    },
+                    "Definition": {
+                        "S": " Bread, -- generally a penny roll; the supply of food carried by workmen as their daily allowance."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Ton"
+                    },
+                    "Definition": {
+                        "S": "  t>pl."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Ton"
+                    },
+                    "Definition": {
+                        "S": " The common tunny, or house mackerel."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Ton"
+                    },
+                    "Definition": {
+                        "S": " The prevailing fashion or mode; vogue;  s>as, things of  x>ton"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Ton"
+                    },
+                    "Definition": {
+                        "S": " A measure of weight or quantity."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Tone"
+                    },
+                    "Definition": {
+                        "S": " Sound, or the character of a sound, or a sound considered as of this or that character;  s>as, a low, high, loud, grave, acute, sweet, or harsh  x>tone"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Tone"
+                    },
+                    "Definition": {
+                        "S": " To utter with an affected tone."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Toned"
+                    },
+                    "Definition": {
+                        "S": " Having (such) a tone; -- chiefly used in composition;  s>as, high- x>toned"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Tonga"
+                    },
+                    "Definition": {
+                        "S": " A drug useful in neuralgia, derived from a Fijian plant supposed to be of the aroid genus  pn>Epipremnum"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Tongo"
+                    },
+                    "Definition": {
+                        "S": " The mangrove; -- so called in the Pacific Islands."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Tongs"
+                    },
+                    "Definition": {
+                        "S": " An instrument, usually of metal, consisting of two parts, or long shafts, jointed together at or near one end, or united by an elastic bow, used for handling things, especially hot coals or metals; -- o"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Tonic"
+                    },
+                    "Definition": {
+                        "S": " Of or relating to tones or sounds; specifically  ld>(Phon.)"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Tonic"
+                    },
+                    "Definition": {
+                        "S": " A tonic element or letter; a vowel or a diphthong."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Tonne"
+                    },
+                    "Definition": {
+                        "S": " A tun."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Tonus"
+                    },
+                    "Definition": {
+                        "S": " Tonicity, or tone;  s>as, muscular  x>tonus"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Tony"
+                    },
+                    "Definition": {
+                        "S": " A simpleton."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Too"
+                    },
+                    "Definition": {
+                        "S": " Over; more than enough; -- noting excess;  s>as, a thing is  x>too"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Took"
+                    },
+                    "Definition": {
+                        "S": "  t>imp."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Tool"
+                    },
+                    "Definition": {
+                        "S": " An instrument such as a hammer, saw, plane, file, and the like, used in the manual arts, to facilitate mechanical operations; any instrument used by a craftsman or laborer at his work; an implement;  s"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Tool"
+                    },
+                    "Definition": {
+                        "S": " To shape, form, or finish with a tool."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Toom"
+                    },
+                    "Definition": {
+                        "S": " Empty."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Toom"
+                    },
+                    "Definition": {
+                        "S": " To empty."}}}}]}

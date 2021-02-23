@@ -1,0 +1,151 @@
+{"Dictionary":[{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Mob"
+                    },
+                    "Definition": {
+                        "S": " A mobcap."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Mob"
+                    },
+                    "Definition": {
+                        "S": " To wrap up in, or cover with, a cowl."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Mob"
+                    },
+                    "Definition": {
+                        "S": " The lower classes of a community; the populace, or the lowest part of it."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Mob"
+                    },
+                    "Definition": {
+                        "S": " To crowd about, as a mob, and attack or annoy;  s>as, to  x>mob"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Moble"
+                    },
+                    "Definition": {
+                        "S": " To wrap the head of in a hood."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Mocha"
+                    },
+                    "Definition": {
+                        "S": " A seaport town of Arabia, on the Red Sea."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Moche"
+                    },
+                    "Definition": {
+                        "S": " A bale of raw silk."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Moche"
+                    },
+                    "Definition": {
+                        "S": " Much."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Mock"
+                    },
+                    "Definition": {
+                        "S": " To imitate; to mimic; esp., to mimic in sport, contempt, or derision; to deride by mimicry."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Mock"
+                    },
+                    "Definition": {
+                        "S": " To make sport contempt or in jest; to speak in a scornful or jeering manner."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Mock"
+                    },
+                    "Definition": {
+                        "S": " An act of ridicule or derision; a scornful or contemptuous act or speech; a sneer; a jibe; a jeer."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Mock"
+                    },
+                    "Definition": {
+                        "S": " Imitating reality, but not real; false; counterfeit; assumed; sham."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Moco"
+                    },
+                    "Definition": {
+                        "S": " A South American rodent ( pn>Cavia rupestris"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Modal"
+                    },
+                    "Definition": {
+                        "S": " Of or pertaining to a mode or mood; consisting in mode or form only; relating to form; having the form without the essence or reality."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Mode"
+                    },
+                    "Definition": {
+                        "S": " Manner of doing or being; method; form; fashion; custom; way; style;  s>as, the  x>mode"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Model"
+                    },
+                    "Definition": {
+                        "S": " A miniature representation of a thing, with the several parts in due proportion; sometimes, a facsimile of the same size."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Model"
+                    },
+                    "Definition": {
+                        "S": " Suitable to be taken as a model or pattern;  s>as, a  x>model"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Model"
+                    },
+                    "Definition": {
+                        "S": " To plan or form after a pattern; to form in model; to form a model or pattern for; to shape; to mold; to fashion;  s>as, to  x>model"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Model"
+                    },
+                    "Definition": {
+                        "S": " To make a copy or a pattern; to design or imitate forms;  s>as, to  x>model"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Moder"
+                    },
+                    "Definition": {
+                        "S": " A mother."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Moder"
+                    },
+                    "Definition": {
+                        "S": " To moderate."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Modus"
+                    },
+                    "Definition": {
+                        "S": " The arrangement of, or mode of expressing, the terms of a contract or conveyance."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Mody"
+                    },
+                    "Definition": {
+                        "S": " Fashionable."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Moe"
+                    },
+                    "Definition": {
+                        "S": " A wry face or mouth; a mow."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Moe"
+                    },
+                    "Definition": {
+                        "S": " To make faces; to mow."}}}}]}

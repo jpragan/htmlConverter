@@ -1,0 +1,151 @@
+{"Dictionary":[{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Mail"
+                    },
+                    "Definition": {
+                        "S": " A small piece of money; especially, an English silver half-penny of the time of Henry V."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Mail"
+                    },
+                    "Definition": {
+                        "S": " A flexible fabric made of metal rings interlinked. It was used especially for defensive armor."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Mail"
+                    },
+                    "Definition": {
+                        "S": " To arm with mail."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Mail"
+                    },
+                    "Definition": {
+                        "S": " A bag; a wallet."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Mail"
+                    },
+                    "Definition": {
+                        "S": " To deliver into the custody of the postoffice officials, or place in a government letter box, for transmission by mail; to post;  s>as, to  x>mail"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Maim"
+                    },
+                    "Definition": {
+                        "S": " To deprive of the use of a limb, so as to render a person on fighting less able either to defend himself or to annoy his adversary."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Maim"
+                    },
+                    "Definition": {
+                        "S": " The privation of the use of a limb or member of the body, by which one is rendered less able to defend himself or to annoy his adversary."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Main"
+                    },
+                    "Definition": {
+                        "S": " A hand or match at dice."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Main"
+                    },
+                    "Definition": {
+                        "S": " Strength; force; might; violent effort."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Main"
+                    },
+                    "Definition": {
+                        "S": " Very or extremely strong."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Main"
+                    },
+                    "Definition": {
+                        "S": " Very extremely;  s>as,  x>main"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Maine"
+                    },
+                    "Definition": {
+                        "S": " One of the New England States."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Mains"
+                    },
+                    "Definition": {
+                        "S": " The farm attached to a mansion house."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Maize"
+                    },
+                    "Definition": {
+                        "S": " A large species of American grass of the genus  pn>Zea"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Major"
+                    },
+                    "Definition": {
+                        "S": " Greater in number, quantity, or extent;  s>as, the  x>major"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Major"
+                    },
+                    "Definition": {
+                        "S": " An officer next in rank above a captain and next below a lieutenant colonel; the lowest field officer."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Make"
+                    },
+                    "Definition": {
+                        "S": " A companion; a mate; often, a husband or a wife."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Make"
+                    },
+                    "Definition": {
+                        "S": " To cause to exist; to bring into being; to form; to produce; to frame; to fashion; to create."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Make"
+                    },
+                    "Definition": {
+                        "S": " To act in a certain manner; to have to do; to manage; to interfere; to be active; -- often in the phrase  >to meddle or make"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Make"
+                    },
+                    "Definition": {
+                        "S": " Structure, texture, constitution of parts; construction; shape; form."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Maked"
+                    },
+                    "Definition": {
+                        "S": " Made."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Maker"
+                    },
+                    "Definition": {
+                        "S": " One who makes, forms, or molds; a manufacturer; specifically, the Creator."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Maki"
+                    },
+                    "Definition": {
+                        "S": " A lemur. See  r>Lemur"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Mal-"
+                    },
+                    "Definition": {
+                        "S": " . A prefix in composition denoting  >ill"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Mala"
+                    },
+                    "Definition": {
+                        "S": " Evils; wrongs; offenses against right and law."}}}}]}

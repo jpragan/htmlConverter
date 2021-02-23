@@ -1,0 +1,151 @@
+{"Dictionary":[{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Slash"
+                    },
+                    "Definition": {
+                        "S": " A long cut; a cut made at random."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Slat"
+                    },
+                    "Definition": {
+                        "S": " A thin, narrow strip or bar of wood or metal;  s>as, the  x>slats"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Slat"
+                    },
+                    "Definition": {
+                        "S": " To slap; to strike; to beat; to throw down violently."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Slate"
+                    },
+                    "Definition": {
+                        "S": " An argillaceous rock which readily splits into thin plates; argillite; argillaceous schist."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Slate"
+                    },
+                    "Definition": {
+                        "S": " To cover with slate, or with a substance resembling slate;  s>as, to  x>slate"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Slate"
+                    },
+                    "Definition": {
+                        "S": " To set a dog upon; to bait; to slat. See 2d  r>Slat"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Slatt"
+                    },
+                    "Definition": {
+                        "S": " A slab of stone used as a veneer for coarse masonry."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Slaty"
+                    },
+                    "Definition": {
+                        "S": " Resembling slate; having the nature, appearance, or properties, of slate; composed of thin parallel plates, capable of being separated by splitting;  s>as, a  x>slaty"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Slav"
+                    },
+                    "Definition": {
+                        "S": " One of a race of people occupying a large part of Eastern and Northern Europe, including the Russians, Bulgarians, Roumanians, Servo-Croats, Slovenes, Poles, Czechs, Wends or Sorbs, Slovaks, etc."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Slave"
+                    },
+                    "Definition": {
+                        "S": " See  r>Slav"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Slave"
+                    },
+                    "Definition": {
+                        "S": " A person who is held in bondage to another; one who is wholly subject to the will of another; one who is held as a chattel; one who has no freedom of action, but whose person and services are wholly und"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Slave"
+                    },
+                    "Definition": {
+                        "S": " To drudge; to toil; to labor as a slave."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Slave"
+                    },
+                    "Definition": {
+                        "S": " To enslave."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Slaw"
+                    },
+                    "Definition": {
+                        "S": " Sliced cabbage served as a salad, cooked or uncooked."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Slay"
+                    },
+                    "Definition": {
+                        "S": " To put to death with a weapon, or by violence; hence, to kill; to put an end to; to destroy."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Slazy"
+                    },
+                    "Definition": {
+                        "S": " See  r>Sleazy"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Sle"
+                    },
+                    "Definition": {
+                        "S": " To slay."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Sled"
+                    },
+                    "Definition": {
+                        "S": " A vehicle on runners, used for conveying loads over the snow or ice; -- in England called  >sledge"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Sled"
+                    },
+                    "Definition": {
+                        "S": " To convey or transport on a sled;  s>as, to  x>sled"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Slee"
+                    },
+                    "Definition": {
+                        "S": " To slay."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Sleek"
+                    },
+                    "Definition": {
+                        "S": " Having an even, smooth surface; smooth; hence, glossy;  s>as,  x>sleek"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Sleek"
+                    },
+                    "Definition": {
+                        "S": " With ease and dexterity."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Sleek"
+                    },
+                    "Definition": {
+                        "S": " That which makes smooth; varnish."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Sleek"
+                    },
+                    "Definition": {
+                        "S": " To make even and smooth; to render smooth, soft, and glossy; to smooth over."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Sleep"
+                    },
+                    "Definition": {
+                        "S": "  t>imp."}}}}]}

@@ -1,0 +1,151 @@
+{"Dictionary":[{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Cater"
+                    },
+                    "Definition": {
+                        "S": " A provider; a purveyor; a caterer."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Cater"
+                    },
+                    "Definition": {
+                        "S": " To provide food; to buy, procure, or prepare provisions."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Cater"
+                    },
+                    "Definition": {
+                        "S": " The four of cards or dice."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Cater"
+                    },
+                    "Definition": {
+                        "S": " To cut diagonally."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Cates"
+                    },
+                    "Definition": {
+                        "S": " Provisions; food; viands; especially, luxurious food; delicacies; dainties."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Catso"
+                    },
+                    "Definition": {
+                        "S": " A base fellow; a rogue; a cheat."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Catty"
+                    },
+                    "Definition": {
+                        "S": " An East Indian Weight of 1e7 pounds."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Cauf"
+                    },
+                    "Definition": {
+                        "S": " A chest with holes for keeping fish alive in water."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Caul"
+                    },
+                    "Definition": {
+                        "S": " A covering of network for the head, worn by women; also, a net."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Caulk"
+                    },
+                    "Definition": {
+                        "S": " See  r>Calk"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Cauma"
+                    },
+                    "Definition": {
+                        "S": " Great heat, as of the body in fever."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Cause"
+                    },
+                    "Definition": {
+                        "S": " That which produces or effects a result; that from which anything proceeds, and without which it would not exist."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Cause"
+                    },
+                    "Definition": {
+                        "S": " To effect as an agent; to produce; to be the occasion of; to bring about; to bring into existence; to make; -- usually followed by an infinitive, sometimes by  >that"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Cause"
+                    },
+                    "Definition": {
+                        "S": " To assign or show cause; to give a reason; to make excuse."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Cause"
+                    },
+                    "Definition": {
+                        "S": " Abbreviation of  r>Because"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Cave"
+                    },
+                    "Definition": {
+                        "S": " A hollow place in the earth, either natural or artificial; a subterraneous cavity; a cavern; a den."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Cave"
+                    },
+                    "Definition": {
+                        "S": " To make hollow; to scoop out."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Cave"
+                    },
+                    "Definition": {
+                        "S": " To dwell in a cave."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Cavil"
+                    },
+                    "Definition": {
+                        "S": " To raise captious and frivolous objections; to find fault without good reason."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Cavil"
+                    },
+                    "Definition": {
+                        "S": " To cavil at."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Cavil"
+                    },
+                    "Definition": {
+                        "S": " A captious or frivolous objection."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Cavin"
+                    },
+                    "Definition": {
+                        "S": " A hollow way, adapted to cover troops, and facilitate their aproach to a place."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Cavy"
+                    },
+                    "Definition": {
+                        "S": " A rodent of the genera  pn>cavia"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Caw"
+                    },
+                    "Definition": {
+                        "S": " To cry like a crow, rook, or raven."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Caw"
+                    },
+                    "Definition": {
+                        "S": " The cry made by the crow, rook, or raven."}}}}]}

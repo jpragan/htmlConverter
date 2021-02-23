@@ -1,0 +1,151 @@
+{"Dictionary":[{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Disc"
+                    },
+                    "Definition": {
+                        "S": " A flat round plate"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Dish"
+                    },
+                    "Definition": {
+                        "S": " A vessel, as a platter, a plate, a bowl, used for serving up food at the table."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Dish"
+                    },
+                    "Definition": {
+                        "S": " To put in a dish, ready for the table."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Disk"
+                    },
+                    "Definition": {
+                        "S": " A discus; a quoit."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Disme"
+                    },
+                    "Definition": {
+                        "S": " A tenth; a tenth part; a tithe."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Dit"
+                    },
+                    "Definition": {
+                        "S": " A word; a decree."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Dit"
+                    },
+                    "Definition": {
+                        "S": " To close up."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Ditch"
+                    },
+                    "Definition": {
+                        "S": " A trench made in the earth by digging, particularly a trench for draining wet land, for guarding or fencing inclosures, or for preventing an approach to a town or fortress. In the latter sense, it is ca"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Ditch"
+                    },
+                    "Definition": {
+                        "S": " To dig a ditch or ditches in; to drain by a ditch or ditches;  s>as, to  x>ditch"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Ditch"
+                    },
+                    "Definition": {
+                        "S": " To dig a ditch or ditches."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Dite"
+                    },
+                    "Definition": {
+                        "S": " To prepare for action or use; to make ready; to dight."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Ditt"
+                    },
+                    "Definition": {
+                        "S": " See  r>Dit"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Ditto"
+                    },
+                    "Definition": {
+                        "S": " The aforesaid thing; the same (as before). Often contracted to  >do"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Ditto"
+                    },
+                    "Definition": {
+                        "S": " As before, or aforesaid; in the same manner; also."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Ditty"
+                    },
+                    "Definition": {
+                        "S": " A saying or utterance; especially, one that is short and frequently repeated; a theme."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Ditty"
+                    },
+                    "Definition": {
+                        "S": " To sing; to warble a little tune."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Divan"
+                    },
+                    "Definition": {
+                        "S": " A book; esp., a collection of poems written by one author;  s>as, the  x>divan"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Dive"
+                    },
+                    "Definition": {
+                        "S": " To plunge into water head foremost; to thrust the body under, or deeply into, water or other fluid."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Dive"
+                    },
+                    "Definition": {
+                        "S": " To plunge (a person or thing) into water; to dip; to duck."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Dive"
+                    },
+                    "Definition": {
+                        "S": " A plunge headforemost into water, the act of one who dives, literally or figuratively."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Divel"
+                    },
+                    "Definition": {
+                        "S": " To rend apart."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Diver"
+                    },
+                    "Definition": {
+                        "S": " One who, or that which, dives."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Dives"
+                    },
+                    "Definition": {
+                        "S": " The name popularly given to the rich man in our Lord's parable of the 'Rich Man and Lazarus' ( >Luke xvi. 19-31"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Divet"
+                    },
+                    "Definition": {
+                        "S": " See  r>Divot"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Divot"
+                    },
+                    "Definition": {
+                        "S": " A thin, oblong turf used for covering cottages, and also for fuel."}}}}]}

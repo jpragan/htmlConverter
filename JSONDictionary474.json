@@ -1,0 +1,151 @@
+{"Dictionary":[{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Ring"
+                    },
+                    "Definition": {
+                        "S": " A circle, or a circular line, or anything in the form of a circular line or hoop."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Ring"
+                    },
+                    "Definition": {
+                        "S": " To surround with a ring, or as with a ring; to encircle."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Ring"
+                    },
+                    "Definition": {
+                        "S": " To rise in the air spirally."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Rink"
+                    },
+                    "Definition": {
+                        "S": " The smooth and level extent of ice marked off for the game of curling."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Rinse"
+                    },
+                    "Definition": {
+                        "S": " To wash lightly; to cleanse with a second or repeated application of water after washing."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Rinse"
+                    },
+                    "Definition": {
+                        "S": " The act of rinsing."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Riot"
+                    },
+                    "Definition": {
+                        "S": " Wanton or unrestrained behavior; uproar; tumult."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Riot"
+                    },
+                    "Definition": {
+                        "S": " To engage in riot; to act in an unrestrained or wanton manner; to indulge in excess of luxury, feasting, or the like; to revel; to run riot; to go to excess."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Riot"
+                    },
+                    "Definition": {
+                        "S": " To spend or pass in riot."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Rip"
+                    },
+                    "Definition": {
+                        "S": " A wicker fish basket."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Rip"
+                    },
+                    "Definition": {
+                        "S": " To divide or separate the parts of, by cutting or tearing; to tear or cut open or off; to tear off or out by violence;  s>as, to  x>rip"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Rip"
+                    },
+                    "Definition": {
+                        "S": " A rent made by ripping, esp. by a seam giving way; a tear; a place torn; laceration."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Ripe"
+                    },
+                    "Definition": {
+                        "S": " The bank of a river."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Ripe"
+                    },
+                    "Definition": {
+                        "S": " Ready for reaping or gathering; having attained perfection; mature; -- said of fruits, seeds, etc.;  s>as,  x>ripe"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Ripe"
+                    },
+                    "Definition": {
+                        "S": " To ripen; to grow ripe."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Ripe"
+                    },
+                    "Definition": {
+                        "S": " To mature; to ripen."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Ripen"
+                    },
+                    "Definition": {
+                        "S": " To grow ripe; to become mature, as grain, fruit, flowers, and the like;  s>as, grapes  x>ripen"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Ripen"
+                    },
+                    "Definition": {
+                        "S": " To cause to mature; to make ripe;  s>as, the warm days  x>ripened"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Ris"
+                    },
+                    "Definition": {
+                        "S": " A bough or branch; a twig."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Rise"
+                    },
+                    "Definition": {
+                        "S": " To move from a lower position to a higher; to ascend; to mount up. Specifically: --  d>(a)"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Rise"
+                    },
+                    "Definition": {
+                        "S": " The act of rising, or the state of being risen."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Risen"
+                    },
+                    "Definition": {
+                        "S": "  t>p. p. & a."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Riser"
+                    },
+                    "Definition": {
+                        "S": " One who rises;  s>as, an early  x>riser"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Rish"
+                    },
+                    "Definition": {
+                        "S": " A rush (the plant)."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Risk"
+                    },
+                    "Definition": {
+                        "S": " Hazard; danger; peril; exposure to loss, injury, or destruction."}}}}]}

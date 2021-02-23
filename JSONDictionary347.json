@@ -1,0 +1,151 @@
+{"Dictionary":[{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Mary"
+                    },
+                    "Definition": {
+                        "S": " See  r>Marry"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Mase"
+                    },
+                    "Definition": {
+                        "S": " See  r>Maze"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Maser"
+                    },
+                    "Definition": {
+                        "S": " Same as  r>Mazer"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Mash"
+                    },
+                    "Definition": {
+                        "S": " A mesh."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Mash"
+                    },
+                    "Definition": {
+                        "S": " A mass of mixed ingredients reduced to a soft pulpy state by beating or pressure; a mass of anything in a soft pulpy state. Specifically  ld>(Brewing)"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Mash"
+                    },
+                    "Definition": {
+                        "S": " To convert into a mash; to reduce to a soft pulpy state by beating or pressure; to bruise; to crush;  s>as, to  x>mash"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Mashy"
+                    },
+                    "Definition": {
+                        "S": " Produced by crushing or bruising; resembling, or consisting of, a mash."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Mask"
+                    },
+                    "Definition": {
+                        "S": " A cover, or partial cover, for the face, used for disguise or protection;  s>as, a dancer's  x>mask"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Mask"
+                    },
+                    "Definition": {
+                        "S": " To cover, as the face, by way of concealment or defense against injury; to conceal with a mask or visor."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Mask"
+                    },
+                    "Definition": {
+                        "S": " To take part as a masker in a masquerade."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Mason"
+                    },
+                    "Definition": {
+                        "S": " One whose occupation is to build with stone or brick; also, one who prepares stone for building purposes."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Mason"
+                    },
+                    "Definition": {
+                        "S": " To build stonework or brickwork about, under, in, over, etc.; to construct by masons; -- with a prepositional suffix;  s>as, to  x>mason"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Mass"
+                    },
+                    "Definition": {
+                        "S": " The sacrifice in the sacrament of the Eucharist, or the consecration and oblation of the host."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Mass"
+                    },
+                    "Definition": {
+                        "S": " To celebrate Mass."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Mass"
+                    },
+                    "Definition": {
+                        "S": " A quantity of matter cohering together so as to make one body, or an aggregation of particles or things which collectively make one body or quantity, usually of considerable size;  s>as, a  x>mass"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Mass"
+                    },
+                    "Definition": {
+                        "S": " To form or collect into a mass; to form into a collective body; to bring together into masses; to assemble."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Massy"
+                    },
+                    "Definition": {
+                        "S": " Compacted into, or consisting of, a mass; having bulk and weight ot substance; ponderous; bulky and heavy; weight; heavy;  s>as, a  x>massy"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Mast"
+                    },
+                    "Definition": {
+                        "S": " The fruit of the oak and beech, or other forest trees; nuts; acorns."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Mast"
+                    },
+                    "Definition": {
+                        "S": " A pole, or long, strong, round piece of timber, or spar, set upright in a boat or vessel, to sustain the sails, yards, rigging, etc. A mast may also consist of several pieces of timber united by iron ba"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Mast"
+                    },
+                    "Definition": {
+                        "S": " To furnish with a mast or masts; to put the masts of in position;  s>as, to  x>mast"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Masty"
+                    },
+                    "Definition": {
+                        "S": " Full of mast; abounding in acorns, etc."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Mat"
+                    },
+                    "Definition": {
+                        "S": " A name given by coppersmiths to an alloy of copper, tin, iron, etc., usually called  >white metal"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Mat"
+                    },
+                    "Definition": {
+                        "S": " Cast down; dejected; overthrown; slain."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Mat"
+                    },
+                    "Definition": {
+                        "S": " A fabric of sedge, rushes, flags, husks, straw, hemp, or similar material, used for wiping and cleaning shoes at the door, for covering the floor of a hall or room, and for other purposes."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Mat"
+                    },
+                    "Definition": {
+                        "S": " To cover or lay with mats."}}}}]}

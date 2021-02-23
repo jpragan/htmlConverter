@@ -1,0 +1,151 @@
+{"Dictionary":[{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Ward"
+                    },
+                    "Definition": {
+                        "S": " To keep in safety; to watch; to guard; formerly, in a specific sense, to guard during the day time."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Ward"
+                    },
+                    "Definition": {
+                        "S": " To be vigilant; to keep guard."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Ware"
+                    },
+                    "Definition": {
+                        "S": " Wore."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Ware"
+                    },
+                    "Definition": {
+                        "S": " To wear, or veer.  See  r>Wear"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Ware"
+                    },
+                    "Definition": {
+                        "S": " Seaweed."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Ware"
+                    },
+                    "Definition": {
+                        "S": " Articles of merchandise; the sum of articles of a particular kind or class; style or class of manufactures; especially, in the plural, goods; commodities; merchandise."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Ware"
+                    },
+                    "Definition": {
+                        "S": " A ware; taking notice; hence, wary; cautious; on one's guard.  See  r>Beware"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Ware"
+                    },
+                    "Definition": {
+                        "S": " The state of being ware or aware; heed."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Ware"
+                    },
+                    "Definition": {
+                        "S": " To make ware; to warn; to take heed of; to beware of; to guard against."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Wares"
+                    },
+                    "Definition": {
+                        "S": " See 4th  r>Ware"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Wark"
+                    },
+                    "Definition": {
+                        "S": " Work; a building."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Warly"
+                    },
+                    "Definition": {
+                        "S": " Warlike."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Warm"
+                    },
+                    "Definition": {
+                        "S": " Having heat in a moderate degree; not cold as,  >warm"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Warm"
+                    },
+                    "Definition": {
+                        "S": " To communicate a moderate degree of heat to; to render warm; to supply or furnish heat to;  s>as, a stove  x>warms"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Warm"
+                    },
+                    "Definition": {
+                        "S": " To become warm, or moderately heated;  s>as, the earth soon  x>warms"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Warm"
+                    },
+                    "Definition": {
+                        "S": " The act of warming, or the state of being warmed; a warming; a heating."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Warn"
+                    },
+                    "Definition": {
+                        "S": " To refuse."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Warn"
+                    },
+                    "Definition": {
+                        "S": " To make ware or aware; to give previous information to; to give notice to; to notify; to admonish; hence, to notify or summon by authority;  s>as, to  x>warn"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Warp"
+                    },
+                    "Definition": {
+                        "S": " To throw; hence, to send forth, or throw out, as words; to utter."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Warp"
+                    },
+                    "Definition": {
+                        "S": " To turn, twist, or be twisted out of shape; esp., to be twisted or bent out of a flat plane;  s>as, a board  x>warps"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Warp"
+                    },
+                    "Definition": {
+                        "S": " The threads which are extended lengthwise in the loom, and crossed by the woof."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Warre"
+                    },
+                    "Definition": {
+                        "S": " Worse."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Warry"
+                    },
+                    "Definition": {
+                        "S": " See  r>Warye"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Wart"
+                    },
+                    "Definition": {
+                        "S": " A small, usually hard, tumor on the skin formed by enlargement of its vascular papille, and thickening of the epidermis which covers them."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Warty"
+                    },
+                    "Definition": {
+                        "S": " Having warts; full of warts; overgrow with warts;  s>as, a  x>warty"}}}}]}

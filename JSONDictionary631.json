@@ -1,0 +1,151 @@
+{"Dictionary":[{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Vairy"
+                    },
+                    "Definition": {
+                        "S": " Charged with vair; variegated with shield-shaped figures. See  r>Vair"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Vale"
+                    },
+                    "Definition": {
+                        "S": " A tract of low ground, or of land between hills; a valley."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Vale"
+                    },
+                    "Definition": {
+                        "S": " See 2d  r>Vail"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Valet"
+                    },
+                    "Definition": {
+                        "S": " A male waiting servant; a servant who attends on gentleman's person; a body servant."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Valid"
+                    },
+                    "Definition": {
+                        "S": " Strong; powerful; efficient."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Valor"
+                    },
+                    "Definition": {
+                        "S": " Value; worth."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Value"
+                    },
+                    "Definition": {
+                        "S": " The property or aggregate properties of a thing by which it is rendered useful or desirable, or the degree of such property or sum of properties; worth; excellence; utility; importance."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Value"
+                    },
+                    "Definition": {
+                        "S": " To estimate the value, or worth, of; to rate at a certain price; to appraise; to reckon with respect to number, power, importance, etc."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Valve"
+                    },
+                    "Definition": {
+                        "S": " A door; especially, one of a pair of folding doors, or one of the leaves of such a door."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Vamp"
+                    },
+                    "Definition": {
+                        "S": " To advance; to travel."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Vamp"
+                    },
+                    "Definition": {
+                        "S": " The part of a boot or shoe above the sole and welt, and in front of the ankle seam; an upper."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Vamp"
+                    },
+                    "Definition": {
+                        "S": " To provide, as a shoe, with new upper leather; hence, to piece, as any old thing, with a new part; to repair; to patch; -- often followed by  >up"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Van"
+                    },
+                    "Definition": {
+                        "S": " The front of an army; the first line or leading column; also, the front line or foremost division of a fleet, either in sailing or in battle."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Van"
+                    },
+                    "Definition": {
+                        "S": " A shovel used in cleansing ore."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Van"
+                    },
+                    "Definition": {
+                        "S": " To wash or cleanse, as a small portion of ore, on a shovel."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Van"
+                    },
+                    "Definition": {
+                        "S": " A light wagon, either covered or open, used by tradesmen and others fore the transportation of goods."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Van"
+                    },
+                    "Definition": {
+                        "S": " A fan or other contrivance, as a sieve, for winnowing grain."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Van"
+                    },
+                    "Definition": {
+                        "S": " To fan, or to cleanse by fanning; to winnow."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Vane"
+                    },
+                    "Definition": {
+                        "S": " A contrivance attached to some elevated object for the purpose of showing which way the wind blows; a weathercock. It is usually a plate or strip of metal, or slip of wood, often cut into some fanciful "}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Vang"
+                    },
+                    "Definition": {
+                        "S": " A rope to steady the peak of a gaff."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Vant"
+                    },
+                    "Definition": {
+                        "S": " See  r>Vaunt"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Vap"
+                    },
+                    "Definition": {
+                        "S": " That which is vapid, insipid, or lifeless; especially, the lifeless part of liquor or wine."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Vapid"
+                    },
+                    "Definition": {
+                        "S": " Having lost its life and spirit; dead; spiritless; insipid; flat; dull; unanimated;  s>as,  x>vapid"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Vapor"
+                    },
+                    "Definition": {
+                        "S": " Any substance in the gaseous, or aeriform, state, the condition of which is ordinarily that of a liquid or solid."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Vapor"
+                    },
+                    "Definition": {
+                        "S": " To pass off in fumes, or as a moist, floating substance, whether visible or invisible, to steam; to be exhaled; to evaporate."}}}}]}

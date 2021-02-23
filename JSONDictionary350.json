@@ -1,0 +1,151 @@
+{"Dictionary":[{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Meach"
+                    },
+                    "Definition": {
+                        "S": " To skulk; to cower. See  r>Mich"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Mead"
+                    },
+                    "Definition": {
+                        "S": " A fermented drink made of water and honey with malt, yeast, etc.; metheglin; hydromel."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Mead"
+                    },
+                    "Definition": {
+                        "S": " A meadow."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Meak"
+                    },
+                    "Definition": {
+                        "S": " A hook with a long handle."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Meal"
+                    },
+                    "Definition": {
+                        "S": " A part; a fragment; a portion."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Meal"
+                    },
+                    "Definition": {
+                        "S": " The portion of food taken at a particular time for the satisfaction of appetite; the quantity usually taken at one time with the purpose of satisfying hunger; a repast; the ac or time of eating a meal; "}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Meal"
+                    },
+                    "Definition": {
+                        "S": " Grain (esp. maize, rye, or oats) that is coarsely ground and unbolted; also, a kind of flour made from beans, pease, etc.; sometimes, any flour, esp. if coarse."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Meal"
+                    },
+                    "Definition": {
+                        "S": " To sprinkle with, or as with, meal."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Mealy"
+                    },
+                    "Definition": {
+                        "S": " Having the qualities of meal; resembling meal; soft, dry, and friable; easily reduced to a condition resembling meal;  s>as, a  x>mealy"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Mean"
+                    },
+                    "Definition": {
+                        "S": " To have in the mind, as a purpose, intention, etc.; to intend; to purpose; to design;  s>as, what do you  x>mean"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Mean"
+                    },
+                    "Definition": {
+                        "S": " To have a purpose or intention."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Mean"
+                    },
+                    "Definition": {
+                        "S": " Destitute of distinction or eminence; common; low; vulgar; humble."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Mean"
+                    },
+                    "Definition": {
+                        "S": " Occupying a middle position; middle; being about midway between extremes."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Mean"
+                    },
+                    "Definition": {
+                        "S": " That which is mean, or intermediate, between two extremes of place, time, or number; the middle point or place; middle rate or degree; mediocrity; medium; absence of extremes or excess; moderation; meas"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Meant"
+                    },
+                    "Definition": {
+                        "S": " of  r>Mean"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Mear"
+                    },
+                    "Definition": {
+                        "S": " A boundary. See  r>Mere"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Mease"
+                    },
+                    "Definition": {
+                        "S": " Five hundred;  s>as, a  x>mease"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Meat"
+                    },
+                    "Definition": {
+                        "S": " Food, in general; anything eaten for nourishment, either by man or beast. Hence, the edible part of anything;  s>as, the  x>meat"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Meat"
+                    },
+                    "Definition": {
+                        "S": " To supply with food."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Meaty"
+                    },
+                    "Definition": {
+                        "S": " Abounding in meat."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Meaw"
+                    },
+                    "Definition": {
+                        "S": " The sea mew."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Meaw"
+                    },
+                    "Definition": {
+                        "S": " See  r>Mew"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Meawl"
+                    },
+                    "Definition": {
+                        "S": " See  r>Mewl"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Medal"
+                    },
+                    "Definition": {
+                        "S": " A piece of metal in the form of a coin, struck with a device, and intended to preserve the remembrance of a notable event or an illustrious person, or to serve as a reward."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Medal"
+                    },
+                    "Definition": {
+                        "S": " To honor or reward with a medal."}}}}]}

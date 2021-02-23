@@ -1,0 +1,151 @@
+{"Dictionary":[{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Job"
+                    },
+                    "Definition": {
+                        "S": " A sudden thrust or stab; a jab."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Job"
+                    },
+                    "Definition": {
+                        "S": " To strike or stab with a pointed instrument."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Job"
+                    },
+                    "Definition": {
+                        "S": " To do chance work for hire; to work by the piece; to do petty work."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Job"
+                    },
+                    "Definition": {
+                        "S": " The hero of the book of that name in the Old Testament; the typical patient man."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Joe"
+                    },
+                    "Definition": {
+                        "S": " See  r>Johannes"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Jog"
+                    },
+                    "Definition": {
+                        "S": " To push or shake with the elbow or hand; to jostle; esp., to push or touch, in order to give notice, to excite one's attention, or to warn."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Jog"
+                    },
+                    "Definition": {
+                        "S": " To move by jogs or small shocks, like those of a slow trot; to move slowly, leisurely, or monotonously; -- usually with  >on"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Jog"
+                    },
+                    "Definition": {
+                        "S": " A slight shake; a shake or push intended to give notice or awaken attention; a push; a jolt."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "John"
+                    },
+                    "Definition": {
+                        "S": " A proper name of a man."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Join"
+                    },
+                    "Definition": {
+                        "S": " To bring together, literally or figuratively; to place in contact; to connect; to couple; to unite; to combine; to associate; to add; to append."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Join"
+                    },
+                    "Definition": {
+                        "S": " To be contiguous, close, or in contact; to come together; to unite; to mingle; to form a union;  s>as, the hones of the skull  x>join"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Join"
+                    },
+                    "Definition": {
+                        "S": " The line joining two points; the point common to two intersecting lines."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Joint"
+                    },
+                    "Definition": {
+                        "S": " The place or part where two things or parts are joined or united; the union of two or more smooth or even surfaces admitting of a close-fitting or junction; junction as, a  >joint"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Joint"
+                    },
+                    "Definition": {
+                        "S": " Joined; united; combined; concerted; as  >joint"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Joint"
+                    },
+                    "Definition": {
+                        "S": " To unite by a joint or joints; to fit together; to prepare so as to fit together;  s>as, to  x>joint"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Joint"
+                    },
+                    "Definition": {
+                        "S": " To fit as if by joints; to coalesce as joints do;  s>as, the stones  x>joint"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Joist"
+                    },
+                    "Definition": {
+                        "S": " A piece of timber laid horizontally, or nearly so, to which the planks of the floor, or the laths or furring strips of a ceiling, are nailed; -- called, according to its position or use,  type>binding "}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Joist"
+                    },
+                    "Definition": {
+                        "S": " To fit or furnish with joists."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Joke"
+                    },
+                    "Definition": {
+                        "S": " Something said for the sake of exciting a laugh; something witty or sportive (commonly indicating more of hilarity or humor than  >jest"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Joke"
+                    },
+                    "Definition": {
+                        "S": " To make merry with; to make jokes upon; to rally; to banter;  s>as, to joke a comrade"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Joke"
+                    },
+                    "Definition": {
+                        "S": " To do something for sport, or as a joke; to be merry in words or actions; to jest."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Joker"
+                    },
+                    "Definition": {
+                        "S": " One who makes jokes or jests."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Jolif"
+                    },
+                    "Definition": {
+                        "S": " Joyful; merry; pleasant; jolly."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Jolly"
+                    },
+                    "Definition": {
+                        "S": " Full of life and mirth; jovial; joyous; merry; mirthful."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Jolt"
+                    },
+                    "Definition": {
+                        "S": " To shake with short, abrupt risings and fallings, as a carriage moving on rough ground;  s>as, the coach  x>jolts"}}}}]}

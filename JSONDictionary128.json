@@ -1,0 +1,151 @@
+{"Dictionary":[{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Curst"
+                    },
+                    "Definition": {
+                        "S": "  t>imp. & p.p."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Curst"
+                    },
+                    "Definition": {
+                        "S": " Froward; malignant; mischievous; malicious; snarling."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Curt"
+                    },
+                    "Definition": {
+                        "S": " Characterized by exessive brevity; short; rudely concise;  s>as,  x>curt"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Curve"
+                    },
+                    "Definition": {
+                        "S": " Bent without angles; crooked; curved;  s>as, a  x>curve"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Curve"
+                    },
+                    "Definition": {
+                        "S": " A bending without angles; that wcich is bent; a flexure;  s>as, a  x>curve"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Curve"
+                    },
+                    "Definition": {
+                        "S": " To bend; to crook;  s>as, to  x>curve"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Curve"
+                    },
+                    "Definition": {
+                        "S": " To bend or turn gradually from a given direction;  s>as, the road  x>curves"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Cusk"
+                    },
+                    "Definition": {
+                        "S": " A large, edible, marine fish ( pn>Brosmius brosme"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Cusp"
+                    },
+                    "Definition": {
+                        "S": " A triangular protection from the intrados of an arch, or from an inner curve of tracery."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Cusp"
+                    },
+                    "Definition": {
+                        "S": " To furnish with a cusp or cusps."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Cut"
+                    },
+                    "Definition": {
+                        "S": " To sparate the parts of with, or as with, a sharp instrument; to make an incision in; to gash; to sever; to divide."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Cut"
+                    },
+                    "Definition": {
+                        "S": " To do the work of an edged tool; to serve in dividing or gashing;  s>as, a knife  x>cuts"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Cut"
+                    },
+                    "Definition": {
+                        "S": " An opening made with an edged instrument; a cleft; a gash; a slash; a wound made by cutting;  s>as, a sword  x>cut"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Cut"
+                    },
+                    "Definition": {
+                        "S": " Gashed or divided, as by a cutting instrument."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Cutch"
+                    },
+                    "Definition": {
+                        "S": " See  r>Catechu"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Cutch"
+                    },
+                    "Definition": {
+                        "S": " See  r>Cultch"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Cute"
+                    },
+                    "Definition": {
+                        "S": " Clever; sharp; shrewd; ingenious; cunning."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Cutin"
+                    },
+                    "Definition": {
+                        "S": " The substance which, added to the material of a cell wall, makes it waterproof, as in cork."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Cutis"
+                    },
+                    "Definition": {
+                        "S": " See  r>Dermis"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Cytty"
+                    },
+                    "Definition": {
+                        "S": " Short;  s>as, a  x>cutty"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Cutty"
+                    },
+                    "Definition": {
+                        "S": " A short spoon."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Cycad"
+                    },
+                    "Definition": {
+                        "S": " Any plant of the natural order  pn>Cycadecee"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Cycas"
+                    },
+                    "Definition": {
+                        "S": " A genus of trees, intermediate in character between the palms and the pines. The pith of the trunk of some species furnishes a valuable kind of sago."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Cycle"
+                    },
+                    "Definition": {
+                        "S": " An imaginary circle or orbit in the heavens; one of the celestial spheres."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Cycle"
+                    },
+                    "Definition": {
+                        "S": " To pass through a cycle of changes; to recur in cycles."}}}}]}

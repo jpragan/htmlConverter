@@ -1,0 +1,151 @@
+{"Dictionary":[{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Dom"
+                    },
+                    "Definition": {
+                        "S": " A title anciently given to the pope, and later to other church dignitaries and some monastic orders. See  r>Don"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Domal"
+                    },
+                    "Definition": {
+                        "S": " Pertaining to a house."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Dome"
+                    },
+                    "Definition": {
+                        "S": " A building; a house; an edifice; -- used chiefly in poetry."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Dome"
+                    },
+                    "Definition": {
+                        "S": " Decision; judgment; opinion; a court decision."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Domed"
+                    },
+                    "Definition": {
+                        "S": " Furnished with a dome; shaped like a dome."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Don"
+                    },
+                    "Definition": {
+                        "S": " Sir; Mr; Signior; -- a title in Spain, formerly given to noblemen and gentlemen only, but now common to all classes."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Don"
+                    },
+                    "Definition": {
+                        "S": " To put on; to dress in; to invest one's self with."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Doe4a"
+                    },
+                    "Definition": {
+                        "S": " Lady; mistress; madam; -- a title of respect used in Spain, prefixed to the Christian name of a lady."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Donat"
+                    },
+                    "Definition": {
+                        "S": " A grammar."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Donax"
+                    },
+                    "Definition": {
+                        "S": " A canelike grass of southern Europe ( pn>Arundo Donax"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Done"
+                    },
+                    "Definition": {
+                        "S": "  t>p. p."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Done"
+                    },
+                    "Definition": {
+                        "S": " Given; executed; issued; made public; -- used chiefly in the clause giving the date of a proclamation or public act."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Donee"
+                    },
+                    "Definition": {
+                        "S": " The person to whom a gift or donation is made."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Donet"
+                    },
+                    "Definition": {
+                        "S": " Same as  r>Donat"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Doni"
+                    },
+                    "Definition": {
+                        "S": " A clumsy craft, having one mast with a long sail, used for trading purposes on the coasts of Coromandel and Ceylon."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Donna"
+                    },
+                    "Definition": {
+                        "S": " A lady; madam; mistress; -- the title given a lady in Italy."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Donor"
+                    },
+                    "Definition": {
+                        "S": " One who gives or bestows; one who confers anything gratuitously; a benefactor."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Doo"
+                    },
+                    "Definition": {
+                        "S": " A dove."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Doole"
+                    },
+                    "Definition": {
+                        "S": " Sorrow; dole."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Dooly"
+                    },
+                    "Definition": {
+                        "S": " A kind of litter suspended from men's shoulders, for carrying persons or things; a palanquin."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Doom"
+                    },
+                    "Definition": {
+                        "S": " Judgment; judicial sentence; penal decree; condemnation."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Doom"
+                    },
+                    "Definition": {
+                        "S": " To judge; to estimate or determine as a judge."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Door"
+                    },
+                    "Definition": {
+                        "S": " An opening in the wall of a house or of an apartment, by which to go in and out; an entrance way."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Dop"
+                    },
+                    "Definition": {
+                        "S": " To dip."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Dop"
+                    },
+                    "Definition": {
+                        "S": " A dip; a low courtesy."}}}}]}

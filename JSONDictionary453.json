@@ -1,0 +1,151 @@
+{"Dictionary":[{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Quite"
+                    },
+                    "Definition": {
+                        "S": " Completely; wholly; entirely; totally; perfectly;  s>as, the work is not  x>quite"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Quits"
+                    },
+                    "Definition": {
+                        "S": " See the Note under  r>Quit"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Quiz"
+                    },
+                    "Definition": {
+                        "S": " A riddle or obscure question; an enigma; a ridiculous hoax."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Quiz"
+                    },
+                    "Definition": {
+                        "S": " To puzzle; to banter; to chaff or mock with pretended seriousness of discourse; to make sport of, as by obscure questions."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Quiz"
+                    },
+                    "Definition": {
+                        "S": " To conduct a quiz. See  r>Quiz"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Quob"
+                    },
+                    "Definition": {
+                        "S": " To throb; to quiver."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Quod"
+                    },
+                    "Definition": {
+                        "S": " A quadrangle or court, as of a prison; hence, a prison."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Quod"
+                    },
+                    "Definition": {
+                        "S": " Quoth; said. See  r>Quoth"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Quoif"
+                    },
+                    "Definition": {
+                        "S": " See  r>Coif"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Quoil"
+                    },
+                    "Definition": {
+                        "S": " See  r>Coil"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Quoin"
+                    },
+                    "Definition": {
+                        "S": " Originally, a solid exterior angle, as of a building; now, commonly, one of the selected pieces of material by which the corner is marked."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Quoit"
+                    },
+                    "Definition": {
+                        "S": " A flattened ring-shaped piece of iron, to be pitched at a fixed object in play; hence, any heavy flat missile used for the same purpose, as a stone, piece of iron, etc."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Quoit"
+                    },
+                    "Definition": {
+                        "S": " To throw quoits; to play at quoits."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Quoit"
+                    },
+                    "Definition": {
+                        "S": " To throw; to pitch."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Quoke"
+                    },
+                    "Definition": {
+                        "S": "  t>imp."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Quoll"
+                    },
+                    "Definition": {
+                        "S": " A marsupial of Australia ( pn>Dasyurus macrurus"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Quook"
+                    },
+                    "Definition": {
+                        "S": "  t>imp."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Quop"
+                    },
+                    "Definition": {
+                        "S": " See  r>Quob"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Quota"
+                    },
+                    "Definition": {
+                        "S": " A proportional part or share; the share or proportion assigned to each in a division."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Quote"
+                    },
+                    "Definition": {
+                        "S": " To cite, as a passage from some author; to name, repeat, or adduce, as a passage from an author or speaker, by way of authority or illustration;  s>as, to  x>quote"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Quote"
+                    },
+                    "Definition": {
+                        "S": " A note upon an author."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Quoth"
+                    },
+                    "Definition": {
+                        "S": " Said; spoke; uttered; -- used only in the first and third persons in the past tenses, and always followed by its nominative, the word or words said being the object;  s>as,  x>quoth"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Quran"
+                    },
+                    "Definition": {
+                        "S": " See  r>Koran"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Race"
+                    },
+                    "Definition": {
+                        "S": " A root."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Race"
+                    },
+                    "Definition": {
+                        "S": " The descendants of a common ancestor; a family, tribe, people, or nation, believed or presumed to belong to the same stock; a lineage; a breed."}}}}]}

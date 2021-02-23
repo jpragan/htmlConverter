@@ -1,0 +1,151 @@
+{"Dictionary":[{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Row"
+                    },
+                    "Definition": {
+                        "S": " A noisy, turbulent quarrel or disturbance; a brawl."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Row"
+                    },
+                    "Definition": {
+                        "S": " A series of persons or things arranged in a continued line; a line; a rank; a file;  s>as, a  x>row"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Row"
+                    },
+                    "Definition": {
+                        "S": " To propel with oars, as a boat or vessel, along the surface of water;  s>as, to  x>row"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Row"
+                    },
+                    "Definition": {
+                        "S": " To use the oar;  s>as, to  x>row"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Row"
+                    },
+                    "Definition": {
+                        "S": " The act of rowing; excursion in a rowboat."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Rowan"
+                    },
+                    "Definition": {
+                        "S": " Rowan tree."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Rowdy"
+                    },
+                    "Definition": {
+                        "S": " One who engages in rows, or noisy quarrels; a ruffianly fellow."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Rowed"
+                    },
+                    "Definition": {
+                        "S": " Formed into a row, or rows; having a row, or rows;  s>as, a twelve- x>rowed"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Rowel"
+                    },
+                    "Definition": {
+                        "S": " The little wheel of a spur, with sharp points."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Rowel"
+                    },
+                    "Definition": {
+                        "S": " To insert a rowel, or roll of hair or silk, into (as the flesh of a horse)."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Rowen"
+                    },
+                    "Definition": {
+                        "S": " A stubble field left unplowed till late in the autumn, that it may be cropped by cattle."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Rower"
+                    },
+                    "Definition": {
+                        "S": " One who rows with an oar."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Rown"
+                    },
+                    "Definition": {
+                        "S": " see  r>Roun"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Roy"
+                    },
+                    "Definition": {
+                        "S": " A king."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Roy"
+                    },
+                    "Definition": {
+                        "S": " Royal."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Royal"
+                    },
+                    "Definition": {
+                        "S": " Kingly; pertaining to the crown or the sovereign; suitable for a king or queen; regal;  s>as,  x>royal"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Royal"
+                    },
+                    "Definition": {
+                        "S": " Printing and writing papers of particular sizes. See under  r>paper"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Royne"
+                    },
+                    "Definition": {
+                        "S": " To bite; to gnaw."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Rub"
+                    },
+                    "Definition": {
+                        "S": " To subject (a body) to the action of something moving over its surface with pressure and friction, especially to the action of something moving back and forth;  s>as, to  x>rub"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Rub"
+                    },
+                    "Definition": {
+                        "S": " To move along the surface of a body with pressure; to grate;  s>as, a wheel  x>rubs"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Rub"
+                    },
+                    "Definition": {
+                        "S": " The act of rubbing; friction."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Rubin"
+                    },
+                    "Definition": {
+                        "S": " A ruby."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Ruble"
+                    },
+                    "Definition": {
+                        "S": " The unit of monetary value in Russia.  It is divided into 100 copecks, and in the gold coin of the realm (as in the five and ten ruble pieces) is worth about 7"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Rubus"
+                    },
+                    "Definition": {
+                        "S": " A genus of rosaceous plants, including the raspberry and blackberry."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Ruby"
+                    },
+                    "Definition": {
+                        "S": " A precious stone of a carmine red color, sometimes verging to violet, or intermediate between carmine and hyacinth red.  It is a red crystallized variety of corundum."}}}}]}

@@ -1,0 +1,151 @@
+{"Dictionary":[{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Scudo"
+                    },
+                    "Definition": {
+                        "S": " A silver coin, and money of account, used in Italy and Sicily, varying in value, in different parts, but worth about 4 shillings sterling, or about 96 cents; also, a gold coin worth about the same."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Scuff"
+                    },
+                    "Definition": {
+                        "S": " The back part of the neck; the scruff."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Scuff"
+                    },
+                    "Definition": {
+                        "S": " To walk without lifting the feet; to proceed with a scraping or dragging movement; to shuffle."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Scug"
+                    },
+                    "Definition": {
+                        "S": " To hide."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Scug"
+                    },
+                    "Definition": {
+                        "S": " A place of shelter; the declivity of a hill."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Scull"
+                    },
+                    "Definition": {
+                        "S": " The skull."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Scull"
+                    },
+                    "Definition": {
+                        "S": " A shoal of fish."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Scull"
+                    },
+                    "Definition": {
+                        "S": " A boat; a cockboat. See  r>Sculler"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Scull"
+                    },
+                    "Definition": {
+                        "S": " To impel (a boat) with a pair of sculls, or with a single scull or oar worked over the stern obliquely from side to side."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Scull"
+                    },
+                    "Definition": {
+                        "S": " To impel a boat with a scull or sculls."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Sculp"
+                    },
+                    "Definition": {
+                        "S": " To sculpture; to carve; to engrave."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Scum"
+                    },
+                    "Definition": {
+                        "S": " The extraneous matter or impurities which rise to the surface of liquids in boiling or fermentation, or which form on the surface by other means; also, the scoria of metals in a molten state; dross."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Scum"
+                    },
+                    "Definition": {
+                        "S": " To take the scum from; to clear off the impure matter from the surface of; to skim."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Scum"
+                    },
+                    "Definition": {
+                        "S": " To form a scum; to become covered with scum. Also used figuratively."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Scup"
+                    },
+                    "Definition": {
+                        "S": " A swing."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Scup"
+                    },
+                    "Definition": {
+                        "S": " A marine sparoid food fish ( pn>Stenotomus chrysops"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Scur"
+                    },
+                    "Definition": {
+                        "S": " To move hastily; to scour."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Scurf"
+                    },
+                    "Definition": {
+                        "S": " Thin dry scales or scabs upon the body; especially, thin scales exfoliated from the cuticle, particularly of the scalp; dandruff."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Scut"
+                    },
+                    "Definition": {
+                        "S": " The tail of a hare, or of a deer, or other animal whose tail is short, sp. when carried erect; hence, sometimes, the animal itself."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Scuta"
+                    },
+                    "Definition": {
+                        "S": " See  r>Scutum"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Scute"
+                    },
+                    "Definition": {
+                        "S": " A small shield."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Scye"
+                    },
+                    "Definition": {
+                        "S": " Arm scye, a cutter's term for the armhole or part of the armhole of the waist of a garnment."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Scyle"
+                    },
+                    "Definition": {
+                        "S": " To hide; to secrete; to conceal."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Sdan"
+                    },
+                    "Definition": {
+                        "S": " Disdain."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Sea"
+                    },
+                    "Definition": {
+                        "S": " One of the larger bodies of salt water, less than an ocean, found on the earth's surface; a body of salt water of second rank, generally forming part of, or connecting with, an ocean or a larger sea;  "}}}}]}

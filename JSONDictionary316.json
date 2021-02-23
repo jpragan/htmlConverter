@@ -1,0 +1,151 @@
+{"Dictionary":[{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Leap"
+                    },
+                    "Definition": {
+                        "S": " A basket."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Leap"
+                    },
+                    "Definition": {
+                        "S": " To spring clear of the ground, with the feet; to jump; to vault;  s>as, a man  x>leaps"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Leap"
+                    },
+                    "Definition": {
+                        "S": " To pass over by a leap or jump;  s>as, to  x>leap"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Leap"
+                    },
+                    "Definition": {
+                        "S": " The act of leaping, or the space passed by leaping; a jump; a spring; a bound."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Lear"
+                    },
+                    "Definition": {
+                        "S": " To learn. See  r>Lere"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Lear"
+                    },
+                    "Definition": {
+                        "S": " Lore; lesson."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Lear"
+                    },
+                    "Definition": {
+                        "S": " See  r>Leer"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Lear"
+                    },
+                    "Definition": {
+                        "S": " An annealing oven. See  r>Leer"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Learn"
+                    },
+                    "Definition": {
+                        "S": " To gain knowledge or information of; to ascertain by inquiry, study, or investigation; to receive instruction concerning; to fix in the mind; to acquire understanding of, or skill;  s>as, to  x>learn"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Learn"
+                    },
+                    "Definition": {
+                        "S": " To acquire knowledge or skill; to make progress in acquiring knowledge or skill; to receive information or instruction;  s>as, this child  x>learns"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Lease"
+                    },
+                    "Definition": {
+                        "S": " To gather what harvesters have left behind; to glean."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Lease"
+                    },
+                    "Definition": {
+                        "S": " To grant to another by lease the possession of, as of lands, tenements, and hereditaments; to let; to demise;  s>as, a landowner  x>leases"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Lease"
+                    },
+                    "Definition": {
+                        "S": " A demise or letting of lands, tenements, or hereditaments to another for life, for a term of years, or at will, or for any less interest than that which the lessor has in the property, usually for a spe"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Leash"
+                    },
+                    "Definition": {
+                        "S": " A thong of leather, or a long cord, by which a falconer holds his hawk, or a courser his dog."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Leash"
+                    },
+                    "Definition": {
+                        "S": " To tie together, or hold, with a leash."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Least"
+                    },
+                    "Definition": {
+                        "S": " In the smallest or lowest degree; in a degree below all others;  s>as, to reward those who  x>least"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Least"
+                    },
+                    "Definition": {
+                        "S": " See  r>Lest"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Leasy"
+                    },
+                    "Definition": {
+                        "S": " Flimsy; vague; deceptive."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Leat"
+                    },
+                    "Definition": {
+                        "S": " An artificial water trench, esp. one to or from a mill."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Leave"
+                    },
+                    "Definition": {
+                        "S": " To send out leaves; to leaf; -- often with  >out"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Leave"
+                    },
+                    "Definition": {
+                        "S": " To raise; to levy."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Leave"
+                    },
+                    "Definition": {
+                        "S": " Liberty granted by which restraint or illegality is removed; permission; allowance; license."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Leave"
+                    },
+                    "Definition": {
+                        "S": " To withdraw one's self from; to go away from; to depart from;  s>as, to  x>leave"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Leave"
+                    },
+                    "Definition": {
+                        "S": " To depart; to set out."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Leavy"
+                    },
+                    "Definition": {
+                        "S": " Leafy."}}}}]}

@@ -1,0 +1,151 @@
+{"Dictionary":[{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Jasey"
+                    },
+                    "Definition": {
+                        "S": " A wig; -- so called, perhaps, from being made of, or resembling,  >Jersey"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Jasp"
+                    },
+                    "Definition": {
+                        "S": " Jasper."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Jaunt"
+                    },
+                    "Definition": {
+                        "S": " To ramble here and there; to stroll; to make an excursion."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Jaunt"
+                    },
+                    "Definition": {
+                        "S": " To jolt; to jounce."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Jaunt"
+                    },
+                    "Definition": {
+                        "S": " A wearisome journey."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Java"
+                    },
+                    "Definition": {
+                        "S": " One of the islands of the Malay Archipelago belonging to the Netherlands."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Javel"
+                    },
+                    "Definition": {
+                        "S": " A vagabond."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Jaw"
+                    },
+                    "Definition": {
+                        "S": " One of the bones, usually bearing teeth, which form the framework of the mouth."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Jaw"
+                    },
+                    "Definition": {
+                        "S": " To scold; to clamor."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Jaw"
+                    },
+                    "Definition": {
+                        "S": " To assail or abuse by scolding."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Jawed"
+                    },
+                    "Definition": {
+                        "S": " Having jaws; -- chiefly in composition;  s>as, lantern- x>jawed"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Jawn"
+                    },
+                    "Definition": {
+                        "S": " See  r>Yawn"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Jawy"
+                    },
+                    "Definition": {
+                        "S": " Relating to the jaws."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Jay"
+                    },
+                    "Definition": {
+                        "S": " Any one of the numerous species of birds belonging to  pn>Garrulus"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Jayet"
+                    },
+                    "Definition": {
+                        "S": " See  r>Jet"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Jazel"
+                    },
+                    "Definition": {
+                        "S": " A gem of an azure color."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Jean"
+                    },
+                    "Definition": {
+                        "S": " A twilled cotton cloth."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Jears"
+                    },
+                    "Definition": {
+                        "S": " See 1st  r>Jeer"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Jeat"
+                    },
+                    "Definition": {
+                        "S": " See  r>Jet"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Jee"
+                    },
+                    "Definition": {
+                        "S": " See  r>Gee"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Jeel"
+                    },
+                    "Definition": {
+                        "S": " A morass; a shallow lake."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Jeer"
+                    },
+                    "Definition": {
+                        "S": " A gear; a tackle."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Jeer"
+                    },
+                    "Definition": {
+                        "S": " To utter sarcastic or scoffing reflections; to speak with mockery or derision; to use taunting language; to scoff;  s>as, to  x>jeer"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Jeer"
+                    },
+                    "Definition": {
+                        "S": " To treat with scoffs or derision; to address with jeers; to taunt; to flout; to mock at."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Jeer"
+                    },
+                    "Definition": {
+                        "S": " A railing remark or reflection; a scoff; a taunt; a biting jest; a flout; a jibe; mockery."}}}}]}

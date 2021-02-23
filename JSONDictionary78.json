@@ -1,0 +1,151 @@
+{"Dictionary":[{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Burel"
+                    },
+                    "Definition": {
+                        "S": " Same as  r>Borrel"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Burg"
+                    },
+                    "Definition": {
+                        "S": " A fortified town."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Burgh"
+                    },
+                    "Definition": {
+                        "S": " A borough or incorporated town, especially, one in Scotland. See  r>Borough"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Burh"
+                    },
+                    "Definition": {
+                        "S": " See  r>Burg"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Burin"
+                    },
+                    "Definition": {
+                        "S": " The cutting tool of an engraver on metal, used in line engraving. It is made of tempered steel, one end being ground off obliquely so as to produce a sharp point, and the other end inserted in a handle;"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Burke"
+                    },
+                    "Definition": {
+                        "S": " To murder by suffocation, or so as to produce few marks of violence, for the purpose of obtaining a body to be sold for dissection."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Burl"
+                    },
+                    "Definition": {
+                        "S": " To dress or finish up (cloth); to pick knots, burs, loose threads, etc., from, as in finishing cloth."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Burl"
+                    },
+                    "Definition": {
+                        "S": " A knot or lump in thread or cloth."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Burly"
+                    },
+                    "Definition": {
+                        "S": " Having a large, strong, or gross body; stout; lusty; -- now used chiefly of human beings, but formerly of animals, in the sense of stately or beautiful, and of inanimate things that were huge and bulky."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Burn"
+                    },
+                    "Definition": {
+                        "S": " To consume with fire; to reduce to ashes by the action of heat or fire; -- frequently intensified by  >up"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Burn"
+                    },
+                    "Definition": {
+                        "S": " To be of fire; to flame."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Burn"
+                    },
+                    "Definition": {
+                        "S": " A hurt, injury, or effect caused by fire or excessive or intense heat."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Burn"
+                    },
+                    "Definition": {
+                        "S": " A small stream."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Burnt"
+                    },
+                    "Definition": {
+                        "S": " Consumed with, or as with, fire; scorched or dried, as with fire or heat; baked or hardened in the fire or the sun."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Burr"
+                    },
+                    "Definition": {
+                        "S": " A prickly seed vessel. See  r>Bur"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Burr"
+                    },
+                    "Definition": {
+                        "S": " To speak with burr; to make a hoarse or guttural murmur."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Burro"
+                    },
+                    "Definition": {
+                        "S": " A donkey."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Burry"
+                    },
+                    "Definition": {
+                        "S": " Abounding in burs, or containing burs; resembling burs;  s>as,  x>burry"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Bursa"
+                    },
+                    "Definition": {
+                        "S": " Any sac or saclike cavity; especially, one of the synovial sacs, or small spaces, often lined with synovial membrane, interposed between tendons and bony prominences."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Burse"
+                    },
+                    "Definition": {
+                        "S": " A purse; also, a vesicle; a pod; a hull."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Burst"
+                    },
+                    "Definition": {
+                        "S": " To fly apart or in pieces; of break open; to yield to force or pressure, especially to a sudden and violent exertion of force, or to pressure from within; to explode;  s>as, the boiler had  x>burst"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Burst"
+                    },
+                    "Definition": {
+                        "S": " To break or rend by violence, as by an overcharge or by strain or pressure, esp. from within; to force open suddenly;  s>as, to  x>burst"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Burst"
+                    },
+                    "Definition": {
+                        "S": " A sudden breaking forth; a violent rending; an explosion;  s>as, a  x>burst"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Burt"
+                    },
+                    "Definition": {
+                        "S": " See  r>Birt"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Bury"
+                    },
+                    "Definition": {
+                        "S": " A borough; a manor;  s>as, the  x>Bury"}}}}]}

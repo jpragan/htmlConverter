@@ -1,0 +1,151 @@
+{"Dictionary":[{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Welk"
+                    },
+                    "Definition": {
+                        "S": " A whelk."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Well"
+                    },
+                    "Definition": {
+                        "S": " An issue of water from the earth; a spring; a fountain."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Well"
+                    },
+                    "Definition": {
+                        "S": " To issue forth, as water from the earth; to flow; to spring."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Well"
+                    },
+                    "Definition": {
+                        "S": " To pour forth, as from a well."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Well"
+                    },
+                    "Definition": {
+                        "S": " In a good or proper manner; justly; rightly; not ill or wickedly."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Well"
+                    },
+                    "Definition": {
+                        "S": " Good in condition or circumstances; desirable, either in a natural or moral sense; fortunate; convenient; advantageous; happy;  s>as, it is  x>well"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "We'll"
+                    },
+                    "Definition": {
+                        "S": " Contraction for  >we will"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Wels"
+                    },
+                    "Definition": {
+                        "S": " The sheatfish; -- called also  ltname>waller"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Welsh"
+                    },
+                    "Definition": {
+                        "S": " Of or pertaining to Wales, or its inhabitants."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Welsh"
+                    },
+                    "Definition": {
+                        "S": " The language of Wales, or of the Welsh people."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Welt"
+                    },
+                    "Definition": {
+                        "S": " That which, being sewed or otherwise fastened to an edge or border, serves to guard, strengthen, or adorn it"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Welt"
+                    },
+                    "Definition": {
+                        "S": " To furnish with a welt; to sew or fasten a welt on;  s>as, to  x>welt"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Welt"
+                    },
+                    "Definition": {
+                        "S": " To wilt."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Welte"
+                    },
+                    "Definition": {
+                        "S": "  t>imp."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Wem"
+                    },
+                    "Definition": {
+                        "S": " The abdomen; the uterus; the womb."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Wem"
+                    },
+                    "Definition": {
+                        "S": " Spot; blemish; harm; hurt."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Wem"
+                    },
+                    "Definition": {
+                        "S": " To stain; to blemish; to harm; to corrupt."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Wem"
+                    },
+                    "Definition": {
+                        "S": " An indolent, encysted tumor of the skin; especially, a sebaceous cyst."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Wench"
+                    },
+                    "Definition": {
+                        "S": " A young woman; a girl; a maiden."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Wench"
+                    },
+                    "Definition": {
+                        "S": " To frequent the company of wenches, or women of ill fame."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Wend"
+                    },
+                    "Definition": {
+                        "S": "  t>p. p."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Wend"
+                    },
+                    "Definition": {
+                        "S": " To go; to pass; to betake one's self."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Wend"
+                    },
+                    "Definition": {
+                        "S": " To direct; to betake;- used chiefly in the phrase to  >wend one's way"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Wend"
+                    },
+                    "Definition": {
+                        "S": " A large extent of ground; a perambulation; a circuit."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Wende"
+                    },
+                    "Definition": {
+                        "S": "  t>imp."}}}}]}

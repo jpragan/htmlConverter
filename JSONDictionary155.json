@@ -1,0 +1,151 @@
+{"Dictionary":[{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Droll"
+                    },
+                    "Definition": {
+                        "S": " To jest; to play the buffoon."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Droll"
+                    },
+                    "Definition": {
+                        "S": " To lead or influence by jest or trick; to banter or jest; to cajole."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Drome"
+                    },
+                    "Definition": {
+                        "S": " The crab plover ( pn>Dromas ardeola"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Drone"
+                    },
+                    "Definition": {
+                        "S": " The male of bees, esp. of the honeybee. It gathers no honey. See  r>Honeybee"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Drone"
+                    },
+                    "Definition": {
+                        "S": " To utter or make a low, dull, monotonous, humming or murmuring sound."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Drony"
+                    },
+                    "Definition": {
+                        "S": " Like a drone; sluggish; lazy."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Drool"
+                    },
+                    "Definition": {
+                        "S": " To drivel, or drop saliva;  s>as, the child  x>drools"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Droop"
+                    },
+                    "Definition": {
+                        "S": " To hang bending downward; to sink or hang down, as an animal, plant, etc., from physical inability or exhaustion, want of nourishment, or the like."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Droop"
+                    },
+                    "Definition": {
+                        "S": " To let droop or sink."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Droop"
+                    },
+                    "Definition": {
+                        "S": " A drooping;  s>as, a  x>droop"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Drop"
+                    },
+                    "Definition": {
+                        "S": " The quantity of fluid which falls in one small spherical mass; a liquid globule; a minim; hence, also, the smallest easily measured portion of a fluid; a small quantity;  s>as, a  x>drop"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Drop"
+                    },
+                    "Definition": {
+                        "S": " To pour or let fall in drops; to pour in small globules; to distill."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Drop"
+                    },
+                    "Definition": {
+                        "S": " To fall in drops."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Dropt"
+                    },
+                    "Definition": {
+                        "S": "  t>imp. & p. p."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Dross"
+                    },
+                    "Definition": {
+                        "S": " The scum or refuse matter which is thrown off, or falls from, metals in smelting the ore, or in the process of melting; recrement."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Drove"
+                    },
+                    "Definition": {
+                        "S": " of  r>Drive"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Drove"
+                    },
+                    "Definition": {
+                        "S": " A collection of cattle driven, or cattle collected for driving; a number of animals, as oxen, sheep, or swine, driven in a body."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Drovy"
+                    },
+                    "Definition": {
+                        "S": " Turbid; muddy; filthy."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Drow"
+                    },
+                    "Definition": {
+                        "S": " of  r>Draw"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Drown"
+                    },
+                    "Definition": {
+                        "S": " To be suffocated in water or other fluid; to perish in water."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Drown"
+                    },
+                    "Definition": {
+                        "S": " To overwhelm in water; to submerge; to inundate."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Drub"
+                    },
+                    "Definition": {
+                        "S": " To beat with a stick; to thrash; to cudgel."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Drub"
+                    },
+                    "Definition": {
+                        "S": " A blow with a cudgel; a thump."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Drug"
+                    },
+                    "Definition": {
+                        "S": " To drudge; to toil laboriously."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Drug"
+                    },
+                    "Definition": {
+                        "S": " A drudge (?)."}}}}]}

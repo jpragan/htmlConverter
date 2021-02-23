@@ -1,0 +1,151 @@
+{"Dictionary":[{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Heck"
+                    },
+                    "Definition": {
+                        "S": " The bolt or latch of a door."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Hedge"
+                    },
+                    "Definition": {
+                        "S": " A thicket of bushes, usually thorn bushes; especially, such a thicket planted as a fence between any two portions of land; and also any sort of shrubbery, as evergreens, planted in a line or as a fence;"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Hedge"
+                    },
+                    "Definition": {
+                        "S": " To inclose or separate with a hedge; to fence with a thickly set line or thicket of shrubs or small trees;  s>as, to  x>hedge"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Hedge"
+                    },
+                    "Definition": {
+                        "S": " To shelter one's self from danger, risk, duty, responsibility, etc., as if by hiding in or behind a hedge; to skulk; to slink; to shirk obligations."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Heed"
+                    },
+                    "Definition": {
+                        "S": " To mind; to regard with care; to take notice of; to attend to; to observe."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Heed"
+                    },
+                    "Definition": {
+                        "S": " To mind; to consider."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Heed"
+                    },
+                    "Definition": {
+                        "S": " Attention; notice; observation; regard; -- often with  >give"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Heedy"
+                    },
+                    "Definition": {
+                        "S": " Heedful."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Heel"
+                    },
+                    "Definition": {
+                        "S": " To lean or tip to one side, as a ship;  s>as, the ship  x>heels"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Heel"
+                    },
+                    "Definition": {
+                        "S": " The hinder part of the foot; sometimes, the whole foot; -- in man or quadrupeds."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Heel"
+                    },
+                    "Definition": {
+                        "S": " To perform by the use of the heels, as in dancing, running, and the like."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Heep"
+                    },
+                    "Definition": {
+                        "S": " The hip of the dog-rose."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Heer"
+                    },
+                    "Definition": {
+                        "S": " A yarn measure of six hundred yards or e-- fr. 1/24--e of a spindle. See  r>Spindle"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Heer"
+                    },
+                    "Definition": {
+                        "S": " Hair."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Heft"
+                    },
+                    "Definition": {
+                        "S": " Same as  r>Haft"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Heft"
+                    },
+                    "Definition": {
+                        "S": " The act or effort of heaving violent strain or exertion."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Heft"
+                    },
+                    "Definition": {
+                        "S": " To heave up; to raise aloft."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Hefty"
+                    },
+                    "Definition": {
+                        "S": " Moderately heavy."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Hegge"
+                    },
+                    "Definition": {
+                        "S": " A hedge."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Heir"
+                    },
+                    "Definition": {
+                        "S": " One who inherits, or is entitled to succeed to the possession of, any property after the death of its owner; one on whom the law bestows the title or property of another at the death of the latter."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Heir"
+                    },
+                    "Definition": {
+                        "S": " To inherit; to succeed to."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Held"
+                    },
+                    "Definition": {
+                        "S": "  t>imp. & p. p."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Hele"
+                    },
+                    "Definition": {
+                        "S": " Health; welfare."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Hele"
+                    },
+                    "Definition": {
+                        "S": " To hide; to cover; to roof."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Helix"
+                    },
+                    "Definition": {
+                        "S": " A nonplane curve whose tangents are all equally inclined to a given plane. The common helix is the curve formed by the thread of the ordinary screw. It is distinguished from the  >spiral"}}}}]}

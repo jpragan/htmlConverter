@@ -1,0 +1,151 @@
+{"Dictionary":[{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Work"
+                    },
+                    "Definition": {
+                        "S": " To labor or operate upon; to give exertion and effort to; to prepare for use, or to utilize, by labor."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "World"
+                    },
+                    "Definition": {
+                        "S": " The earth and the surrounding heavens; the creation; the system of created things; existent creation; the universe."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Worm"
+                    },
+                    "Definition": {
+                        "S": " A creeping or a crawling animal of any kind or size, as a serpent, caterpillar, snail, or the like."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Worm"
+                    },
+                    "Definition": {
+                        "S": " To work slowly, gradually, and secretly."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Worm"
+                    },
+                    "Definition": {
+                        "S": " To effect, remove, drive, draw, or the like, by slow and secret means; -- often followed by  >out"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Wormy"
+                    },
+                    "Definition": {
+                        "S": " Containing a worm; abounding with worms."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Worn"
+                    },
+                    "Definition": {
+                        "S": "  t>p. p."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Worry"
+                    },
+                    "Definition": {
+                        "S": " To harass by pursuit and barking; to attack repeatedly; also, to tear or mangle with the teeth."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Worry"
+                    },
+                    "Definition": {
+                        "S": " To feel or express undue care and anxiety; to manifest disquietude or pain; to be fretful; to chafe;  s>as, the child  x>worries"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Worry"
+                    },
+                    "Definition": {
+                        "S": " A state of undue solicitude; a state of disturbance from care and anxiety; vexation; anxiety; fret;  s>as, to be in a  x>worry"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Worse"
+                    },
+                    "Definition": {
+                        "S": " Bad, ill, evil, or corrupt, in a greater degree; more bad or evil; less good; specifically, in poorer health; more sick; -- used both in a physical and moral sense."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Worse"
+                    },
+                    "Definition": {
+                        "S": " Loss; disadvantage; defeat."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Worse"
+                    },
+                    "Definition": {
+                        "S": " In a worse degree; in a manner more evil or bad."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Worse"
+                    },
+                    "Definition": {
+                        "S": " To make worse; to put disadvantage; to discomfit; to worst.  See  r>Worst"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Worst"
+                    },
+                    "Definition": {
+                        "S": " Bad, evil, or pernicious, in the highest degree, whether in a physical or moral sense.  See  r>Worse"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Worst"
+                    },
+                    "Definition": {
+                        "S": " That which is most bad or evil; the most severe, pernicious, calamitous, or wicked state or degree."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Worst"
+                    },
+                    "Definition": {
+                        "S": " To gain advantage over, in contest or competition; to get the better of; to defeat; to overthrow; to discomfit."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Worst"
+                    },
+                    "Definition": {
+                        "S": " To grow worse; to deteriorate."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Wort"
+                    },
+                    "Definition": {
+                        "S": " A plant of any kind."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Wort"
+                    },
+                    "Definition": {
+                        "S": " An infusion of malt which is unfermented, or is in the act of fermentation; the sweet infusion of malt, which ferments and forms beer; hence, any similar liquid in a state of incipient fermentation."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Worth"
+                    },
+                    "Definition": {
+                        "S": " To be; to become; to betide; -- now used only in the phrases, woe  >worth"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Worth"
+                    },
+                    "Definition": {
+                        "S": " Valuable; of worthy; estimable; also, worth while."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Worth"
+                    },
+                    "Definition": {
+                        "S": " That quality of a thing which renders it valuable or useful; sum of valuable qualities which render anything useful and sought; value; hence, often, value as expressed in a standard, as money; equivalen"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Wost"
+                    },
+                    "Definition": {
+                        "S": "  t>2d pers. sing. pres."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Wot"
+                    },
+                    "Definition": {
+                        "S": "  t>1st & 3d pers. sing. pres."}}}}]}

@@ -1,0 +1,151 @@
+{"Dictionary":[{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Wray"
+                    },
+                    "Definition": {
+                        "S": " To reveal; to disclose."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Wreak"
+                    },
+                    "Definition": {
+                        "S": " To reck; to care."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Wreak"
+                    },
+                    "Definition": {
+                        "S": " To revenge; to avenge."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Wreak"
+                    },
+                    "Definition": {
+                        "S": " Revenge; vengeance; furious passion; resentment."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Wreck"
+                    },
+                    "Definition": {
+                        "S": " See 2d & 3d  r>Wreak"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Wreck"
+                    },
+                    "Definition": {
+                        "S": " The destruction or injury of a vessel by being cast on shore, or on rocks, or by being disabled or sunk by the force of winds or waves; shipwreck."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Wreck"
+                    },
+                    "Definition": {
+                        "S": " To destroy, disable, or seriously damage, as a vessel, by driving it against the shore or on rocks, by causing it to become unseaworthy, to founder, or the like; to shipwreck."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Wreck"
+                    },
+                    "Definition": {
+                        "S": " To suffer wreck or ruin."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Wren"
+                    },
+                    "Definition": {
+                        "S": " Any one of numerous species of small singing birds belonging to  pn>Troglodytes"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Wrest"
+                    },
+                    "Definition": {
+                        "S": " To turn; to twist; esp., to twist or extort by violence; to pull of force away by, or as if by, violent wringing or twisting."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Wrest"
+                    },
+                    "Definition": {
+                        "S": " The act of wresting; a wrench; a violent twist; hence, distortion; perversion."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Wrey"
+                    },
+                    "Definition": {
+                        "S": " See  r>Wray"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Wrie"
+                    },
+                    "Definition": {
+                        "S": " See  r>Wry"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Wrig"
+                    },
+                    "Definition": {
+                        "S": " To wriggle."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Wring"
+                    },
+                    "Definition": {
+                        "S": " To twist and compress; to turn and strain with violence; to writhe; to squeeze hard; to pinch;  s>as, to  x>wring"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Wring"
+                    },
+                    "Definition": {
+                        "S": " To writhe; to twist, as with anguish."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Wring"
+                    },
+                    "Definition": {
+                        "S": " A writhing, as in anguish; a twisting; a griping."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Wrist"
+                    },
+                    "Definition": {
+                        "S": " The joint, or the region of the joint, between the hand and the arm; the carpus.  See  r>Carpus"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Writ"
+                    },
+                    "Definition": {
+                        "S": "  t>3d pers. sing. pres."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Writ"
+                    },
+                    "Definition": {
+                        "S": "  t>imp. & p. p."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Writ"
+                    },
+                    "Definition": {
+                        "S": " That which is written; writing; scripture; -- applied especially to the Scriptures, or the books of the Old and New testaments;  s>as, sacred  x>writ"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Write"
+                    },
+                    "Definition": {
+                        "S": " To set down, as legible characters; to form the conveyance of meaning; to inscribe on any material by a suitable instrument;  s>as, to  x>write"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Write"
+                    },
+                    "Definition": {
+                        "S": " To form characters, letters, or figures, as representative of sounds or ideas; to express words and sentences by written signs."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Wrong"
+                    },
+                    "Definition": {
+                        "S": "  t>imp."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Wrong"
+                    },
+                    "Definition": {
+                        "S": " Twisted; wry;  s>as, a  x>wrong"}}}}]}

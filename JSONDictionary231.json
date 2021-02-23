@@ -1,0 +1,151 @@
+{"Dictionary":[{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Gloze"
+                    },
+                    "Definition": {
+                        "S": " To flatter; to wheedle; to fawn; to talk smoothly."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Gloze"
+                    },
+                    "Definition": {
+                        "S": " To smooth over; to palliate."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Gloze"
+                    },
+                    "Definition": {
+                        "S": " Flattery; adulation; smooth speech."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Glue"
+                    },
+                    "Definition": {
+                        "S": " A hard brittle brownish gelatin, obtained by boiling to a jelly the skins, hoofs, etc., of animals. When gently heated with water, it becomes viscid and tenaceous, and is used as a cement for uniting su"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Glue"
+                    },
+                    "Definition": {
+                        "S": " To join with glue or a viscous substance; to cause to stick or hold fast, as if with glue; to fix or fasten."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Gluer"
+                    },
+                    "Definition": {
+                        "S": " One who cements with glue."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Gluey"
+                    },
+                    "Definition": {
+                        "S": " Viscous; glutinous; of the nature of, or like, glue."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Glum"
+                    },
+                    "Definition": {
+                        "S": " Sullenness."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Glum"
+                    },
+                    "Definition": {
+                        "S": " Moody; silent; sullen."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Glum"
+                    },
+                    "Definition": {
+                        "S": " To look sullen; to be of a sour countenance; to be glum."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Glume"
+                    },
+                    "Definition": {
+                        "S": " The bracteal covering of the flowers or seeds of grain and grasses; esp., an outer husk or bract of a spikelt."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Glump"
+                    },
+                    "Definition": {
+                        "S": " To manifest sullenness; to sulk."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Glut"
+                    },
+                    "Definition": {
+                        "S": " To fill to satiety; to satisfy fully the desire or craving of; to satiate; to sate; to cloy."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Glut"
+                    },
+                    "Definition": {
+                        "S": " To eat gluttonously or to satiety."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Glut"
+                    },
+                    "Definition": {
+                        "S": " That which is swallowed."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Glyph"
+                    },
+                    "Definition": {
+                        "S": " A sunken channel or groove, usually vertical. See  r>Triglyph"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Gnar"
+                    },
+                    "Definition": {
+                        "S": " A knot or gnarl in wood; hence, a tough, thickset man; -- written also  >gnarr"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Gnar"
+                    },
+                    "Definition": {
+                        "S": " To gnarl; to snarl; to growl; -- written also  >gnarr"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Gnarl"
+                    },
+                    "Definition": {
+                        "S": " To growl; to snarl."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Gnarl"
+                    },
+                    "Definition": {
+                        "S": " a knot in wood; a large or hard knot, or a protuberance with twisted grain, on a tree."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Gnash"
+                    },
+                    "Definition": {
+                        "S": " To strike together, as in anger or pain;  s>as, to  x>gnash"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Gnash"
+                    },
+                    "Definition": {
+                        "S": " To grind or strike the teeth together."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Gnat"
+                    },
+                    "Definition": {
+                        "S": " A blood-sucking dipterous fly, of the genus  pn>Culex"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Gnaw"
+                    },
+                    "Definition": {
+                        "S": " To bite, as something hard or tough, which is not readily separated or crushed; to bite off little by little, with effort; to wear or eat away by scraping or continuous biting with the teeth; to nibble "}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Gnaw"
+                    },
+                    "Definition": {
+                        "S": " To use the teeth in biting; to bite with repeated effort, as in eating or removing with the teethsomething hard, unwiedly, or unmanageable."}}}}]}

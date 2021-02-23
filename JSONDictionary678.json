@@ -1,0 +1,109 @@
+{"Dictionary":[{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Zokor"
+                    },
+                    "Definition": {
+                        "S": " An Asiatic burrowing rodent ( pn>Siphneus aspalax"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Zona"
+                    },
+                    "Definition": {
+                        "S": " A zone or band; a layer."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Zonal"
+                    },
+                    "Definition": {
+                        "S": " Of or pertaining to a zone; having the form of a zone or zones."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Zonar"
+                    },
+                    "Definition": {
+                        "S": " A belt or girdle which the Christians and Jews of the Levant were obliged to wear to distinguish them from Mohammedans."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Zone"
+                    },
+                    "Definition": {
+                        "S": " A girdle; a cincture."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Zone"
+                    },
+                    "Definition": {
+                        "S": " To girdle; to encircle."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Zoned"
+                    },
+                    "Definition": {
+                        "S": " Wearing a zone, or girdle."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Zoe-"
+                    },
+                    "Definition": {
+                        "S": " A combining form from Gr.  rk>zwo^,n"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Zooid"
+                    },
+                    "Definition": {
+                        "S": " Pertaining to, or resembling, an animal."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Zooid"
+                    },
+                    "Definition": {
+                        "S": " An organic body or cell having locomotion, as a spermatic cell or spermatozooid."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Zoen"
+                    },
+                    "Definition": {
+                        "S": " An animal which is the sole product of a single egg; -- opposed to  >zooid"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Zope"
+                    },
+                    "Definition": {
+                        "S": " A European fresh-water bream ( pn>Abramis ballerus"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Zoril"
+                    },
+                    "Definition": {
+                        "S": " Same as  r>Zorilla"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Zubr"
+                    },
+                    "Definition": {
+                        "S": " The aurochs."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Zuche"
+                    },
+                    "Definition": {
+                        "S": " A stump of a tree."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Zulus"
+                    },
+                    "Definition": {
+                        "S": " The most important tribe belonging to the Kaffir race. They inhabit a region on the southeast coast of Africa, but formerly occupied a much more extensive country. They are noted for their warlike dispo"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Zyme"
+                    },
+                    "Definition": {
+                        "S": " A ferment."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Zymic"
+                    },
+                    "Definition": {
+                        "S": " Pertaining to, or produced by, fermentation; -- formerly, by confusion, used to designate lactic acid."}}}}]}

@@ -1,0 +1,151 @@
+{"Dictionary":[{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Trot"
+                    },
+                    "Definition": {
+                        "S": " To cause to move, as a horse or other animal, in the pace called a trot; to cause to run without galloping or cantering."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Trot"
+                    },
+                    "Definition": {
+                        "S": " The pace of a horse or other quadruped, more rapid than a walk, but of various degrees of swiftness, in which one fore foot and the hind foot of the opposite side are lifted at the same time."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Troth"
+                    },
+                    "Definition": {
+                        "S": " Belief; faith; fidelity."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Troul"
+                    },
+                    "Definition": {
+                        "S": " See  r>Troll"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Trout"
+                    },
+                    "Definition": {
+                        "S": " Any one of numerous species of fishes belonging to  pn>Salmo"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Trow"
+                    },
+                    "Definition": {
+                        "S": " A boat with an open well amidships. It is used in spearing fish."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Trow"
+                    },
+                    "Definition": {
+                        "S": " To believe; to trust; to think or suppose."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Trowl"
+                    },
+                    "Definition": {
+                        "S": " See  r>Troll"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Troy"
+                    },
+                    "Definition": {
+                        "S": " Troy weight."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Trub"
+                    },
+                    "Definition": {
+                        "S": " A truffle."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Trubu"
+                    },
+                    "Definition": {
+                        "S": " An East India herring ( pn>Clupea toli"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Truce"
+                    },
+                    "Definition": {
+                        "S": " A suspension of arms by agreement of the commanders of opposing forces; a temporary cessation of hostilities, for negotiation or other purpose; an armistice."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Truck"
+                    },
+                    "Definition": {
+                        "S": " A small wheel, as of a vehicle; specifically  ld>(Ord.)"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Truck"
+                    },
+                    "Definition": {
+                        "S": " To transport on a truck or trucks."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Truck"
+                    },
+                    "Definition": {
+                        "S": " To exchange; to give in exchange; to barter;  s>as, to  x>truck"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Truck"
+                    },
+                    "Definition": {
+                        "S": " To exchange commodities; to barter; to trade; to deal."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Truck"
+                    },
+                    "Definition": {
+                        "S": " Exchange of commodities; barter."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "True"
+                    },
+                    "Definition": {
+                        "S": " Conformable to fact; in accordance with the actual state of things; correct; not false, erroneous, inaccurate, or the like;  s>as, a  x>true"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "True"
+                    },
+                    "Definition": {
+                        "S": " In accordance with truth; truly."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Trug"
+                    },
+                    "Definition": {
+                        "S": " A trough, or tray."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Trull"
+                    },
+                    "Definition": {
+                        "S": " A drab; a strumpet; a harlot; a trollop."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Truly"
+                    },
+                    "Definition": {
+                        "S": " In a true manner; according to truth; in agreement with fact;  s>as, to state things  x>truly"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Trump"
+                    },
+                    "Definition": {
+                        "S": " A wind instrument of music; a trumpet, or sound of a trumpet; -- used chiefly in Scripture and poetry."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Trump"
+                    },
+                    "Definition": {
+                        "S": " To blow a trumpet."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Trump"
+                    },
+                    "Definition": {
+                        "S": " A winning card; one of a particular suit (usually determined by chance for each deal) any card of which takes any card of the other suits."}}}}]}

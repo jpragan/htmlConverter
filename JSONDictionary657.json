@@ -1,0 +1,151 @@
+{"Dictionary":[{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Whiz"
+                    },
+                    "Definition": {
+                        "S": " To make a humming or hissing sound, like an arrow or ball flying through the air; to fly or move swiftly with a sharp hissing or whistling sound."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Whiz"
+                    },
+                    "Definition": {
+                        "S": " A hissing and humming sound."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Who"
+                    },
+                    "Definition": {
+                        "S": " Originally, an interrogative pronoun, later, a relative pronoun also; -- used always substantively, and either as singular or plural.  See the Note under  r>What"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Whoa"
+                    },
+                    "Definition": {
+                        "S": " Stop; stand; hold.  See  r>Ho"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Whole"
+                    },
+                    "Definition": {
+                        "S": " Containing the total amount, number, etc.; comprising all the parts; free from deficiency; all; total; entire;  s>as, the  x>whole"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Whole"
+                    },
+                    "Definition": {
+                        "S": " The entire thing; the entire assemblage of parts; totality; all of a thing, without defect or exception; a thing complete in itself."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Whom"
+                    },
+                    "Definition": {
+                        "S": " The objective case of  >who"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Whoop"
+                    },
+                    "Definition": {
+                        "S": " The hoopoe."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Whoop"
+                    },
+                    "Definition": {
+                        "S": " To utter a whoop, or loud cry, as eagerness, enthusiasm, or enjoyment; to cry out; to shout; to halloo; to utter a war whoop; to hoot, as an owl."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Whoop"
+                    },
+                    "Definition": {
+                        "S": " To insult with shouts; to chase with derision."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Whoop"
+                    },
+                    "Definition": {
+                        "S": " A shout of pursuit or of war; a very of eagerness, enthusiasm, enjoyment, vengeance, terror, or the like; an halloo; a hoot, or cry, as of an owl."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Whoot"
+                    },
+                    "Definition": {
+                        "S": " To hoot."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Whop"
+                    },
+                    "Definition": {
+                        "S": " Same as  r>Whap"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Whop"
+                    },
+                    "Definition": {
+                        "S": " Same as  r>Whap"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Whore"
+                    },
+                    "Definition": {
+                        "S": " A woman who practices unlawful sexual commerce with men, especially one who prostitutes her body for hire; a prostitute; a harlot."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Whore"
+                    },
+                    "Definition": {
+                        "S": " To have unlawful sexual intercourse; to practice lewdness."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Whore"
+                    },
+                    "Definition": {
+                        "S": " To corrupt by lewd intercourse; to make a whore of; to debauch."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Whorl"
+                    },
+                    "Definition": {
+                        "S": " A circle of two or more leaves, flowers, or other organs, about the same part or joint of a stem."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Whort"
+                    },
+                    "Definition": {
+                        "S": " The whortleberry, or bilberry.  See  r>Whortleberry"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Whose"
+                    },
+                    "Definition": {
+                        "S": " The possessive case of  >who"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Whoso"
+                    },
+                    "Definition": {
+                        "S": " Whosoever."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Whot"
+                    },
+                    "Definition": {
+                        "S": " Hot."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Whur"
+                    },
+                    "Definition": {
+                        "S": " To make a rough, humming sound, like one who pronounces the letter  >r"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Whur"
+                    },
+                    "Definition": {
+                        "S": " A humming or whirring sound, like that of a body moving through the air with velocity; a whir."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Whurt"
+                    },
+                    "Definition": {
+                        "S": " See  r>Whort"}}}}]}

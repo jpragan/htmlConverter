@@ -1,0 +1,151 @@
+{"Dictionary":[{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Geode"
+                    },
+                    "Definition": {
+                        "S": " A nodule of stone, containing a cavity, lined with crystals or mineral matter."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Gerah"
+                    },
+                    "Definition": {
+                        "S": " A small coin and weight; 1-20th of a shekel."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Gerbe"
+                    },
+                    "Definition": {
+                        "S": " A kind of ornamental firework."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Gere"
+                    },
+                    "Definition": {
+                        "S": " Gear."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Germ"
+                    },
+                    "Definition": {
+                        "S": " That which is to develop a new individual;  s>as, the  x>germ"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Germ"
+                    },
+                    "Definition": {
+                        "S": " To germinate."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Gern"
+                    },
+                    "Definition": {
+                        "S": " To grin or yawn."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Gery"
+                    },
+                    "Definition": {
+                        "S": " Changeable; fickle."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Gesse"
+                    },
+                    "Definition": {
+                        "S": " To guess."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Gest"
+                    },
+                    "Definition": {
+                        "S": " A guest."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Gest"
+                    },
+                    "Definition": {
+                        "S": " Something done or achieved; a deed or an action; an adventure."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Gest"
+                    },
+                    "Definition": {
+                        "S": " A stage in traveling; a stop for rest or lodging in a journey or progress; a rest."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Geste"
+                    },
+                    "Definition": {
+                        "S": " To tell stories or gests."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Get"
+                    },
+                    "Definition": {
+                        "S": " Jet, the mineral."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Get"
+                    },
+                    "Definition": {
+                        "S": " Fashion; manner; custom."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Get"
+                    },
+                    "Definition": {
+                        "S": " To procure; to obtain; to gain possession of; to acquire; to earn; to obtain as a price or reward; to come by; to win, by almost any means;  s>as, to  x>get"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Get"
+                    },
+                    "Definition": {
+                        "S": " To make acquisition; to gain; to profit; to receive accessions; to be increased."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Get"
+                    },
+                    "Definition": {
+                        "S": " Offspring; progeny;  s>as, the  x>get"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Geten"
+                    },
+                    "Definition": {
+                        "S": "  t>p. p."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Geth"
+                    },
+                    "Definition": {
+                        "S": " the original  t>third pers. sing. pres."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Ghast"
+                    },
+                    "Definition": {
+                        "S": " To strike aghast; to affright."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Ghee"
+                    },
+                    "Definition": {
+                        "S": " Butter clarified by boiling, and thus converted into a kind of oil."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Ghess"
+                    },
+                    "Definition": {
+                        "S": " See  r>Guess"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Ghole"
+                    },
+                    "Definition": {
+                        "S": " See  r>Ghoul"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Ghost"
+                    },
+                    "Definition": {
+                        "S": " The spirit; the soul of man."}}}}]}

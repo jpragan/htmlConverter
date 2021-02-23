@@ -1,0 +1,151 @@
+{"Dictionary":[{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Round"
+                    },
+                    "Definition": {
+                        "S": " To grow round or full; hence, to attain to fullness, completeness, or perfection."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Roup"
+                    },
+                    "Definition": {
+                        "S": " To cry or shout; hence, to sell by auction."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Roup"
+                    },
+                    "Definition": {
+                        "S": " An outcry; hence, a sale of gods by auction."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Rouse"
+                    },
+                    "Definition": {
+                        "S": " To pull or haul strongly and all together, as upon a rope, without the assistance of mechanical appliances."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Rouse"
+                    },
+                    "Definition": {
+                        "S": " A bumper in honor of a toast or health."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Rouse"
+                    },
+                    "Definition": {
+                        "S": " To cause to start from a covert or lurking place;  s>as, to  x>rouse"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Rouse"
+                    },
+                    "Definition": {
+                        "S": " To get or start up; to rise."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Roust"
+                    },
+                    "Definition": {
+                        "S": " To rouse; to disturb;  s>as, to  x>roust"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Roust"
+                    },
+                    "Definition": {
+                        "S": " A strong tide or current, especially in a narrow channel."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Rout"
+                    },
+                    "Definition": {
+                        "S": " To roar; to bellow; to snort; to snore loudly."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Rout"
+                    },
+                    "Definition": {
+                        "S": " A bellowing; a shouting; noise; clamor; uproar; disturbance; tumult."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Rout"
+                    },
+                    "Definition": {
+                        "S": " To scoop out with a gouge or other tool; to furrow."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Rout"
+                    },
+                    "Definition": {
+                        "S": " To search or root in the ground, as a swine."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Rout"
+                    },
+                    "Definition": {
+                        "S": " A troop; a throng; a company; an assembly; especially, a traveling company or throng."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Rout"
+                    },
+                    "Definition": {
+                        "S": " To break the ranks of, as troops, and put them to flight in disorder; to put to rout."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Rout"
+                    },
+                    "Definition": {
+                        "S": " To assemble in a crowd, whether orderly or disorderly; to collect in company."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Route"
+                    },
+                    "Definition": {
+                        "S": " The course or way which is traveled or passed, or is to be passed; a passing; a course; a road or path; a march."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Roux"
+                    },
+                    "Definition": {
+                        "S": " A thickening, made of flour, for soups and gravies."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Rove"
+                    },
+                    "Definition": {
+                        "S": " To draw through an eye or aperture."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Rove"
+                    },
+                    "Definition": {
+                        "S": " A copper washer upon which the end of a nail is clinched in boat building."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Rove"
+                    },
+                    "Definition": {
+                        "S": " To practice robbery on the seas;to wander about on the seas in piracy."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Rove"
+                    },
+                    "Definition": {
+                        "S": " To wander over or through."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Rove"
+                    },
+                    "Definition": {
+                        "S": " The act of wandering; a ramble."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Rover"
+                    },
+                    "Definition": {
+                        "S": " One who practices robbery on the seas; a pirate."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Row"
+                    },
+                    "Definition": {
+                        "S": " Rough; stern; angry."}}}}]}

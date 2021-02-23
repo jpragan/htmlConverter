@@ -1,0 +1,151 @@
+{"Dictionary":[{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Drug"
+                    },
+                    "Definition": {
+                        "S": " Any animal, vegetable, or mineral substance used in the composition of medicines; any stuff used in dyeing or in chemical operations."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Drug"
+                    },
+                    "Definition": {
+                        "S": " To prescribe or administer drugs or medicines."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Drug"
+                    },
+                    "Definition": {
+                        "S": " To affect or season with drugs or ingredients; esp., to stupefy by a narcotic drug. Also Fig."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Druid"
+                    },
+                    "Definition": {
+                        "S": " One of an order of priests which in ancient times existed among certain branches of the Celtic race, especially among the Gauls and Britons."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Drum"
+                    },
+                    "Definition": {
+                        "S": " An instrument of percussion, consisting either of a hollow cylinder, over each end of which is stretched a piece of skin or vellum, to be beaten with a stick; or of a metallic hemisphere (kettledrum) wi"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Drum"
+                    },
+                    "Definition": {
+                        "S": " To beat a drum with sticks; to beat or play a tune on a drum."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Drum"
+                    },
+                    "Definition": {
+                        "S": " To execute on a drum, as a tune."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Drunk"
+                    },
+                    "Definition": {
+                        "S": " Intoxicated with, or as with, strong drink; inebriated; drunken; -- never used  >attributively"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Drunk"
+                    },
+                    "Definition": {
+                        "S": " A drunken condition; a spree."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Drupe"
+                    },
+                    "Definition": {
+                        "S": " A fruit consisting of pulpy, coriaceous, or fibrous exocarp, without valves, containing a nut or stone with a kernel. The exocarp is succulent in the plum, cherry, apricot, peach, etc.; dry and subcoria"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Druse"
+                    },
+                    "Definition": {
+                        "S": " A cavity in a rock, having its interior surface studded with crystals and sometimes filled with water; a geode."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Druse"
+                    },
+                    "Definition": {
+                        "S": " One of a people and religious sect dwelling chiefly in the Lebanon mountains of Syria."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Dry"
+                    },
+                    "Definition": {
+                        "S": " Free from moisture; having little humidity or none; arid; not wet or moist; deficient in the natural or normal supply of moisture, as rain or fluid of any kind; -- said especially:  d>(a)"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Dry"
+                    },
+                    "Definition": {
+                        "S": " To make dry; to free from water, or from moisture of any kind, and by any means; to exsiccate;  s>as, to  x>dry"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Dry"
+                    },
+                    "Definition": {
+                        "S": " To grow dry; to become free from wetness, moisture, or juice;  s>as, the road  x>dries"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Dryad"
+                    },
+                    "Definition": {
+                        "S": " A wood nymph; a nymph whose life was bound up with that of her tree."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Dryas"
+                    },
+                    "Definition": {
+                        "S": " A dryad."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Dryer"
+                    },
+                    "Definition": {
+                        "S": " See  r>Drier"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Dryly"
+                    },
+                    "Definition": {
+                        "S": " In a dry manner; not succulently; without interest; without sympathy; coldly."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Duad"
+                    },
+                    "Definition": {
+                        "S": " A union of two; duality."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Dual"
+                    },
+                    "Definition": {
+                        "S": " Expressing, or consisting of, the number two; belonging to two;  s>as, the  x>dual"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Duan"
+                    },
+                    "Definition": {
+                        "S": " A division of a poem corresponding to a canto; a poem or song."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Dub"
+                    },
+                    "Definition": {
+                        "S": " To confer knight."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Dub"
+                    },
+                    "Definition": {
+                        "S": " To make a noise by brisk drumbeats."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Dub"
+                    },
+                    "Definition": {
+                        "S": " A blow."}}}}]}

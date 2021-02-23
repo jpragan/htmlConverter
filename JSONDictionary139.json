@@ -1,0 +1,151 @@
+{"Dictionary":[{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Depot"
+                    },
+                    "Definition": {
+                        "S": " A place of deposit storing of goods; a warehouse; a storehouse."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Depth"
+                    },
+                    "Definition": {
+                        "S": " The quality of being deep; deepness; perpendicular measurement downward from the surface,or horizontal measurement backward from the front;  s>as, the  x>depth"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Deray"
+                    },
+                    "Definition": {
+                        "S": " Disorder; merriment."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Derby"
+                    },
+                    "Definition": {
+                        "S": " A race for three-old horses, run annually at Epsom (near London), for the Derby stakes. It was instituted by the 12th Earl of Derby, in 1780."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Dere"
+                    },
+                    "Definition": {
+                        "S": " To hurt; to harm; to injure."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Dere"
+                    },
+                    "Definition": {
+                        "S": " Harm."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Derf"
+                    },
+                    "Definition": {
+                        "S": " Strong; powerful; fierce."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Derk"
+                    },
+                    "Definition": {
+                        "S": " Dark."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "-derm"
+                    },
+                    "Definition": {
+                        "S": " A suffix or terminal formative, much used in anatomical terms, and signifying  >skin"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Derm"
+                    },
+                    "Definition": {
+                        "S": " The integument of animal; the skin."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Derma"
+                    },
+                    "Definition": {
+                        "S": " See  r>Dermis"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Dern"
+                    },
+                    "Definition": {
+                        "S": " A gatepost or doorpost."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Dern"
+                    },
+                    "Definition": {
+                        "S": " Hidden; concealed; secret."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Derne"
+                    },
+                    "Definition": {
+                        "S": " To hide; to skulk."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Derre"
+                    },
+                    "Definition": {
+                        "S": " Dearer."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Derth"
+                    },
+                    "Definition": {
+                        "S": " Dearth; scarcity."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Desk"
+                    },
+                    "Definition": {
+                        "S": " A table, frame, or case, usually with sloping top, but often with flat top, for the use writers and readers. It often has a drawer or repository underneath."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Desk"
+                    },
+                    "Definition": {
+                        "S": " To shut up, as in a desk; to treasure."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Dess"
+                    },
+                    "Definition": {
+                        "S": " Dais."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Deter"
+                    },
+                    "Definition": {
+                        "S": " To prevent by fear; hence, to hinder or prevent from action by fear of consequences, or difficulty, risk, etc."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Dette"
+                    },
+                    "Definition": {
+                        "S": " Debt."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Detur"
+                    },
+                    "Definition": {
+                        "S": " A present of books given to a meritorious undergraduate student as a prize."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Deuce"
+                    },
+                    "Definition": {
+                        "S": " Two; a card or a die with two spots;  s>as, the  x>deuce"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Deuce"
+                    },
+                    "Definition": {
+                        "S": " The devil; a demon."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Deve"
+                    },
+                    "Definition": {
+                        "S": " Deaf."}}}}]}

@@ -1,0 +1,151 @@
+{"Dictionary":[{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Sally"
+                    },
+                    "Definition": {
+                        "S": " A leaping forth; a darting; a spring."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Salm"
+                    },
+                    "Definition": {
+                        "S": " Psalm."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Salmi"
+                    },
+                    "Definition": {
+                        "S": " Same as  r>Salmis"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Salol"
+                    },
+                    "Definition": {
+                        "S": " A white crystalline substance consisting of phenol salicylate."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Salom"
+                    },
+                    "Definition": {
+                        "S": " An apartment for the reception of company; hence, in the plural, faschionable parties; circles of fashionable society."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Salp"
+                    },
+                    "Definition": {
+                        "S": " Any species of Salpa, or of the family  pn>Salpide"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Salpa"
+                    },
+                    "Definition": {
+                        "S": " A genus of transparent, tubular, free-swimming oceanic tunicates found abundantly in all the warmer latitudes. See  >Illustration"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Salse"
+                    },
+                    "Definition": {
+                        "S": " A mud volcano, the water of which is often impregnated with salts, whence the name."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Salt"
+                    },
+                    "Definition": {
+                        "S": " The chloride of sodium, a substance used for seasoning food, for the preservation of meat, etc. It is found native in the earth, and is also produced, by evaporation and crystallization, from sea water "}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Salt"
+                    },
+                    "Definition": {
+                        "S": " Of or relating to salt; abounding in, or containing, salt; prepared or preserved with, or tasting of, salt; salted;  s>as,  x>salt"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Salt"
+                    },
+                    "Definition": {
+                        "S": " To sprinkle, impregnate, or season with salt; to preserve with salt or in brine; to supply with salt;  s>as, to  x>salt"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Salt"
+                    },
+                    "Definition": {
+                        "S": " To deposit salt as a saline solution;  s>as, the brine begins to  x>salt"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Salt"
+                    },
+                    "Definition": {
+                        "S": " The act of leaping or jumping; a leap."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Salty"
+                    },
+                    "Definition": {
+                        "S": " Somewhat salt; saltish."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Salue"
+                    },
+                    "Definition": {
+                        "S": " To salute."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Salve"
+                    },
+                    "Definition": {
+                        "S": " Hail!"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Salve"
+                    },
+                    "Definition": {
+                        "S": " To say ' >Salve"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Salve"
+                    },
+                    "Definition": {
+                        "S": " An adhesive composition or substance to be applied to wounds or sores; a healing ointment."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Salve"
+                    },
+                    "Definition": {
+                        "S": " To heal by applications or medicaments; to cure by remedial traetment; to apply salve to;  s>as, to  x>salve"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Salve"
+                    },
+                    "Definition": {
+                        "S": " To save, as a ship or goods, from the perils of the sea."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Salvo"
+                    },
+                    "Definition": {
+                        "S": " An exception; a reservation; an excuse."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Salvo"
+                    },
+                    "Definition": {
+                        "S": " A concentrated fire from pieces of artillery, as in endeavoring to make a break in a fortification; a volley."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Sam"
+                    },
+                    "Definition": {
+                        "S": " Together."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Sambo"
+                    },
+                    "Definition": {
+                        "S": " A colloquial or humorous appelation for a negro; sometimes, the offspring of a black person and a mulatto; a zambo."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Same"
+                    },
+                    "Definition": {
+                        "S": " Not different or other; not another or others; identical; unchanged."}}}}]}

@@ -1,0 +1,151 @@
+{"Dictionary":[{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Hurt"
+                    },
+                    "Definition": {
+                        "S": " To cause physical pain to; to do bodily harm to; to wound or bruise painfully."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Hush"
+                    },
+                    "Definition": {
+                        "S": " To still; to silence; to calm; to make quiet; to repress the noise or clamor of."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Hush"
+                    },
+                    "Definition": {
+                        "S": " To become or to keep still or quiet; to become silent; -- esp. used in the imperative, as an exclamation; be still; be silent or quiet; make no noise."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Hush"
+                    },
+                    "Definition": {
+                        "S": " Stillness; silence; quiet."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Hush"
+                    },
+                    "Definition": {
+                        "S": " Silent; quiet."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Husk"
+                    },
+                    "Definition": {
+                        "S": " The external covering or envelope of certain fruits or seeds; glume; hull; rind; in the United States, especially applied to the covering of the ears of maize."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Husk"
+                    },
+                    "Definition": {
+                        "S": " To strip off the external covering or envelope of;  s>as, to  x>husk"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Husky"
+                    },
+                    "Definition": {
+                        "S": " Abounding with husks; consisting of husks."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Husky"
+                    },
+                    "Definition": {
+                        "S": " Rough in tone; harsh; hoarse; raucous;  s>as, a  x>husky"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Huso"
+                    },
+                    "Definition": {
+                        "S": " A large European sturgeon ( pn>Acipenser huso"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Hussy"
+                    },
+                    "Definition": {
+                        "S": " A housewife or housekeeper."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Hussy"
+                    },
+                    "Definition": {
+                        "S": " A case or bag. See  r>Housewife"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Hut"
+                    },
+                    "Definition": {
+                        "S": " A small house, hivel, or cabin; a mean lodge or dwelling; a slightly built or temporary structure."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Hutch"
+                    },
+                    "Definition": {
+                        "S": " To place in huts; to live in huts;  s>as, to  x>hut"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Hutch"
+                    },
+                    "Definition": {
+                        "S": " A chest, box, coffer, bin, coop, or the like, in which things may be stored, or animals kept;  s>as, a grain  x>hutch"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Hutch"
+                    },
+                    "Definition": {
+                        "S": " To hoard or lay up, in a chest."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Huzz"
+                    },
+                    "Definition": {
+                        "S": " To buzz; to murmur."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Huzza"
+                    },
+                    "Definition": {
+                        "S": " A word used as a shout of joy, exultation, approbation, or encouragement."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Huzza"
+                    },
+                    "Definition": {
+                        "S": " A shout of  >huzza"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Huzza"
+                    },
+                    "Definition": {
+                        "S": " To shout huzza; to cheer."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Huzza"
+                    },
+                    "Definition": {
+                        "S": " To receive or attend with huzzas."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Hy"
+                    },
+                    "Definition": {
+                        "S": " High."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Hyena"
+                    },
+                    "Definition": {
+                        "S": " Same as  r>Hyena"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Hydr-"
+                    },
+                    "Definition": {
+                        "S": " . See under  r>Hydro-"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Hydra"
+                    },
+                    "Definition": {
+                        "S": " A serpent or monster in the lake or marsh of Lerna, in the Peloponnesus, represented as having many heads, one of which, when cut off, was immediately succeeded by two others, unless the wound was caute"}}}}]}

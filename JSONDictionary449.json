@@ -1,0 +1,151 @@
+{"Dictionary":[{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Quad"
+                    },
+                    "Definition": {
+                        "S": " A quadrangle; hence, a prison."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Quere"
+                    },
+                    "Definition": {
+                        "S": " Inquire; question; see; -- used to signify doubt or to suggest investigation."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Quaff"
+                    },
+                    "Definition": {
+                        "S": " To drink with relish; to drink copiously of; to swallow in large draughts."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Quaff"
+                    },
+                    "Definition": {
+                        "S": " To drink largely or luxuriously."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Quag"
+                    },
+                    "Definition": {
+                        "S": " A quagmire."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Quail"
+                    },
+                    "Definition": {
+                        "S": " To die; to perish; hence, to wither; to fade."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Quail"
+                    },
+                    "Definition": {
+                        "S": " To cause to fail in spirit or power; to quell; to crush; to subdue."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Quail"
+                    },
+                    "Definition": {
+                        "S": " To curdle; to coagulate, as milk."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Quail"
+                    },
+                    "Definition": {
+                        "S": " Any gallinaceous bird belonging to  pn>Coturnix"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Quair"
+                    },
+                    "Definition": {
+                        "S": " A quire; a book."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Quake"
+                    },
+                    "Definition": {
+                        "S": " To shake, vibrate, or quiver, either from not being solid, as soft, wet land, or from violent convulsion of any kind;  s>as, the earth  x>quakes"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Quake"
+                    },
+                    "Definition": {
+                        "S": " To cause to quake."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Quake"
+                    },
+                    "Definition": {
+                        "S": " A tremulous agitation; a quick vibratory movement; a shudder; a quivering."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Quaky"
+                    },
+                    "Definition": {
+                        "S": " Shaky, or tremulous; quaking."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Qualm"
+                    },
+                    "Definition": {
+                        "S": " Sickness; disease; pestilence; death."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Quant"
+                    },
+                    "Definition": {
+                        "S": " A punting pole with a broad flange near the end to prevent it from sinking into the mud; a setting pole."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Quap"
+                    },
+                    "Definition": {
+                        "S": " To quaver.  ark>[Obs.]"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Quar"
+                    },
+                    "Definition": {
+                        "S": " A quarry."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Quarl"
+                    },
+                    "Definition": {
+                        "S": " A medusa, or jellyfish."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Quart"
+                    },
+                    "Definition": {
+                        "S": " The fourth part; a quarter; hence, a region of the earth."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Quart"
+                    },
+                    "Definition": {
+                        "S": " A measure of capacity, both in dry and in liquid measure; the fourth part of a gallon; the eighth part of a peck; two pints."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Quart"
+                    },
+                    "Definition": {
+                        "S": " In cards, four successive cards of the same suit. Cf.  r>Tierce"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Quas"
+                    },
+                    "Definition": {
+                        "S": " A kind of beer. Same as  r>Quass"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Quash"
+                    },
+                    "Definition": {
+                        "S": " Same as  r>Squash"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Quash"
+                    },
+                    "Definition": {
+                        "S": " To abate, annul, overthrow, or make void;  s>as, to  x>quash"}}}}]}

@@ -1,0 +1,151 @@
+{"Dictionary":[{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Fount"
+                    },
+                    "Definition": {
+                        "S": " A fountain."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Four"
+                    },
+                    "Definition": {
+                        "S": " One more than three; twice two."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Four"
+                    },
+                    "Definition": {
+                        "S": " The sum of four units; four units or objects."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Fouty"
+                    },
+                    "Definition": {
+                        "S": " Despicable."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Fovea"
+                    },
+                    "Definition": {
+                        "S": " A slight depression or pit; a fossa."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Fowl"
+                    },
+                    "Definition": {
+                        "S": " Any bird; esp., any large edible bird."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Fowl"
+                    },
+                    "Definition": {
+                        "S": " To catch or kill wild fowl, for game or food, as by shooting, or by decoys, nets, etc."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Fox"
+                    },
+                    "Definition": {
+                        "S": " A carnivorous animal of the genus  pn>Vulpes"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Fox"
+                    },
+                    "Definition": {
+                        "S": " To intoxicate; to stupefy with drink."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Fox"
+                    },
+                    "Definition": {
+                        "S": " To turn sour; -- said of beer, etc., when it sours in fermenting."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Fract"
+                    },
+                    "Definition": {
+                        "S": " To break; to violate."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Foxed"
+                    },
+                    "Definition": {
+                        "S": " Discolored or stained; -- said of timber, and also of the paper of books or engravings."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Foxes"
+                    },
+                    "Definition": {
+                        "S": " See  r>Fox"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Foxly"
+                    },
+                    "Definition": {
+                        "S": " Foxlike."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Foxy"
+                    },
+                    "Definition": {
+                        "S": " Like or pertaining to the fox; foxlike in disposition or looks; wily."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Foy"
+                    },
+                    "Definition": {
+                        "S": " Faith; allegiance; fealty."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Foyer"
+                    },
+                    "Definition": {
+                        "S": " A lobby in a theater; a greenroom."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Fozy"
+                    },
+                    "Definition": {
+                        "S": " Spongy; soft; fat and puffy."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Fra"
+                    },
+                    "Definition": {
+                        "S": " Fro."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Fra"
+                    },
+                    "Definition": {
+                        "S": " Brother; -- a title of a monk of friar;  s>as,  x>Fra"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Frab"
+                    },
+                    "Definition": {
+                        "S": " To scold; to nag."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Frail"
+                    },
+                    "Definition": {
+                        "S": " A basket made of rushes, used chiefly for containing figs and raisins."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Frail"
+                    },
+                    "Definition": {
+                        "S": " Easily broken; fragile; not firm or durable; liable to fail and perish; easily destroyed; not tenacious of life; weak; infirm."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Frame"
+                    },
+                    "Definition": {
+                        "S": " To construct by fitting and uniting the several parts of the skeleton of any structure; specifically, in woodwork, to put together by cutting parts of one member to fit parts of another. See  r>Dovetai"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Frame"
+                    },
+                    "Definition": {
+                        "S": " To shape; to arrange, as the organs of speech."}}}}]}

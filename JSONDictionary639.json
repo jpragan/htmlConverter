@@ -1,0 +1,151 @@
+{"Dictionary":[{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Vizor"
+                    },
+                    "Definition": {
+                        "S": " See  r>Visor"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Vocal"
+                    },
+                    "Definition": {
+                        "S": " Of or pertaining to the voice or speech; having voice; endowed with utterance; full of voice, or voices."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Vocal"
+                    },
+                    "Definition": {
+                        "S": " A vocal sound; specifically, a purely vocal element of speech, unmodified except by resonance; a vowel or a diphthong; a tonic element; a tonic; -- distinguished from a  >subvocal"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Vodka"
+                    },
+                    "Definition": {
+                        "S": " A Russian drink distilled from rye."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Voe"
+                    },
+                    "Definition": {
+                        "S": " An inlet, bay, or creek; -- so called in the Orkney and Shetland Islands."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Vogle"
+                    },
+                    "Definition": {
+                        "S": " Same as  r>Vugg"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Vogue"
+                    },
+                    "Definition": {
+                        "S": " The way or fashion of people at any particular time; temporary mode, custom, or practice; popular reception for the time; -- used now generally in the phrase  >in vogue"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Voice"
+                    },
+                    "Definition": {
+                        "S": " Sound uttered by the mouth, especially that uttered by human beings in speech or song; sound thus uttered considered as possessing some special quality or character;  s>as, the human  x>voice"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Voice"
+                    },
+                    "Definition": {
+                        "S": " To give utterance or expression to; to utter; to publish; to announce; to divulge;  s>as, to  x>voice"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Voice"
+                    },
+                    "Definition": {
+                        "S": " To clamor; to cry out."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Void"
+                    },
+                    "Definition": {
+                        "S": " Containing nothing; empty; vacant; not occupied; not filled."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Void"
+                    },
+                    "Definition": {
+                        "S": " An empty space; a vacuum."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Void"
+                    },
+                    "Definition": {
+                        "S": " To remove the contents of; to make or leave vacant or empty; to quit; to leave;  s>as, to  x>void"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Void"
+                    },
+                    "Definition": {
+                        "S": " To be emitted or evacuated."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Volar"
+                    },
+                    "Definition": {
+                        "S": " Of or pertaining to the palm of the hand or the sole of the foot."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Vole"
+                    },
+                    "Definition": {
+                        "S": " A deal at cards that draws all the tricks."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Vole"
+                    },
+                    "Definition": {
+                        "S": " To win all the tricks by a vole."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Vole"
+                    },
+                    "Definition": {
+                        "S": " Any one of numerous species of micelike rodents belonging to  pn>Arvicola"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Volge"
+                    },
+                    "Definition": {
+                        "S": " The common sort of people; the crowd; the mob."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Volow"
+                    },
+                    "Definition": {
+                        "S": " To baptize; -- used in contempt by the Reformers."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Volt"
+                    },
+                    "Definition": {
+                        "S": " A circular tread; a gait by which a horse going sideways round a center makes two concentric tracks."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Volt"
+                    },
+                    "Definition": {
+                        "S": " The unit of electro-motive force; -- defined by the International Electrical Congress in 1893 and by United States Statute as, that electro-motive force which steadily applied to a conductor whose resis"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Volta"
+                    },
+                    "Definition": {
+                        "S": " A turning; a time; -- chiefly used in phrases signifying that the part is to be repeated one, two, or more times;  s>as,  x>una volta"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Volti"
+                    },
+                    "Definition": {
+                        "S": " Turn, that is, turn over the leaf."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Volva"
+                    },
+                    "Definition": {
+                        "S": " A saclike envelope of certain fungi, which bursts open as the plant develops."}}}}]}

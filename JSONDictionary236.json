@@ -1,0 +1,151 @@
+{"Dictionary":[{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Graal"
+                    },
+                    "Definition": {
+                        "S": " See Grail., a dish."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Grab"
+                    },
+                    "Definition": {
+                        "S": " A vessel used on the Malabar coast, having two or three masts."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Grab"
+                    },
+                    "Definition": {
+                        "S": " To gripe suddenly; to seize; to snatch; to clutch."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Grab"
+                    },
+                    "Definition": {
+                        "S": " A sudden grasp or seizure."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Grace"
+                    },
+                    "Definition": {
+                        "S": " The exercise of love, kindness, mercy, favor; disposition to benefit or serve another; favor bestowed or privilege conferred."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Grace"
+                    },
+                    "Definition": {
+                        "S": " To adorn; to decorate; to embellish and dignify."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Grade"
+                    },
+                    "Definition": {
+                        "S": " A step or degree in any series, rank, quality, order; relative position or standing;  s>as,  x>grades"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Grade"
+                    },
+                    "Definition": {
+                        "S": " To arrange in order, steps, or degrees, according to size, quality, rank, etc."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Graf"
+                    },
+                    "Definition": {
+                        "S": " A German title of nobility, equivalent to earl in English, or count in French. See  r>Earl"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Graff"
+                    },
+                    "Definition": {
+                        "S": " A steward; an overseer."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Graff"
+                    },
+                    "Definition": {
+                        "S": " See  r>Graft"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Graft"
+                    },
+                    "Definition": {
+                        "S": " A small shoot or scion of a tree inserted in another tree, the stock of which is to support and nourish it. The two unite and become one tree, but the graft determines the kind of fruit."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Graft"
+                    },
+                    "Definition": {
+                        "S": " To insert (a graft) in a branch or stem of another tree; to propagate by insertion in another stock; also, to insert a graft upon."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Graft"
+                    },
+                    "Definition": {
+                        "S": " To insert scions from one tree, or kind of tree, etc., into another; to practice grafting."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Grail"
+                    },
+                    "Definition": {
+                        "S": " A book of offices in the Roman Catholic Church; a gradual."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Grail"
+                    },
+                    "Definition": {
+                        "S": " A broad, open dish; a chalice; -- only used of the Holy Grail."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Grail"
+                    },
+                    "Definition": {
+                        "S": " Small particles of earth; gravel."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Grail"
+                    },
+                    "Definition": {
+                        "S": " One of the small feathers of a hawk."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Grain"
+                    },
+                    "Definition": {
+                        "S": " See  r>Groan."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Grain"
+                    },
+                    "Definition": {
+                        "S": " A single small hard seed; a kernel, especially of  those plants, like wheat, whose seeds are used for food."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Grain"
+                    },
+                    "Definition": {
+                        "S": " To paint in imitation of the grain of wood, marble, etc."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Grain"
+                    },
+                    "Definition": {
+                        "S": " To yield fruit."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Grain"
+                    },
+                    "Definition": {
+                        "S": " A branch of a tree; a stalk or stem of a plant."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Graip"
+                    },
+                    "Definition": {
+                        "S": " A dungfork."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "-gram"
+                    },
+                    "Definition": {
+                        "S": " A suffix indicating something drawn or written, a drawing, writing; -- as, monogram, telegram, chronogram."}}}}]}

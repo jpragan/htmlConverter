@@ -1,0 +1,151 @@
+{"Dictionary":[{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Ably"
+                    },
+                    "Definition": {
+                        "S": " In an able manner; with great ability;  s>as,  x>ably"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "-ably"
+                    },
+                    "Definition": {
+                        "S": " A suffix composed of  t>-able"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Abnet"
+                    },
+                    "Definition": {
+                        "S": " The girdle of a Jewish priest or officer."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Abode"
+                    },
+                    "Definition": {
+                        "S": " of  r>Abide"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Abode"
+                    },
+                    "Definition": {
+                        "S": " Act of waiting; delay."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Abode"
+                    },
+                    "Definition": {
+                        "S": " An omen."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Abode"
+                    },
+                    "Definition": {
+                        "S": " To bode; to foreshow."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Abode"
+                    },
+                    "Definition": {
+                        "S": " To be ominous."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Aboma"
+                    },
+                    "Definition": {
+                        "S": " A large South American serpent ( pn>Boa aboma"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Aboon"
+                    },
+                    "Definition": {
+                        "S": " and  >adv"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Abord"
+                    },
+                    "Definition": {
+                        "S": " Manner of approaching or accosting; address."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Abord"
+                    },
+                    "Definition": {
+                        "S": " To approach; to accost."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Abort"
+                    },
+                    "Definition": {
+                        "S": " To miscarry; to bring forth young prematurely."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Abort"
+                    },
+                    "Definition": {
+                        "S": " An untimely birth."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "About"
+                    },
+                    "Definition": {
+                        "S": " Around; all round; on every side of."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "About"
+                    },
+                    "Definition": {
+                        "S": " On all sides; around."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Above"
+                    },
+                    "Definition": {
+                        "S": " In or to a higher place; higher than; on or over the upper surface; over; -- opposed to  >below"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Above"
+                    },
+                    "Definition": {
+                        "S": " In a higher place; overhead; into or from heaven;  s>as, the clouds  x>above"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Abox"
+                    },
+                    "Definition": {
+                        "S": " Braced aback."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Abray"
+                    },
+                    "Definition": {
+                        "S": " See  r>Abraid"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Absis"
+                    },
+                    "Definition": {
+                        "S": " See  r>Apsis"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Abuna"
+                    },
+                    "Definition": {
+                        "S": " The Patriarch, or head of the Abyssinian Church."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Abuse"
+                    },
+                    "Definition": {
+                        "S": " To put to a wrong use; to misapply; to misuse; to put to a bad use; to use for a wrong purpose or end; to pervert;  s>as, to  x>abuse"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Abuse"
+                    },
+                    "Definition": {
+                        "S": " Improper treatment or use; application to a wrong or bad purpose; misuse;  s>as, an  x>abuse of our natural powers"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Abut"
+                    },
+                    "Definition": {
+                        "S": " To project; to terminate or border; to be contiguous; to meet; -- with  >on"}}}}]}

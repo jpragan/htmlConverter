@@ -1,0 +1,151 @@
+{"Dictionary":[{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Shop"
+                    },
+                    "Definition": {
+                        "S": "  t>imp."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Shop"
+                    },
+                    "Definition": {
+                        "S": " A building or an apartment in which goods, wares, drugs, etc., are sold by retail."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Shop"
+                    },
+                    "Definition": {
+                        "S": " To visit shops for the purpose of purchasing goods."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Shore"
+                    },
+                    "Definition": {
+                        "S": "  t>imp."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Shore"
+                    },
+                    "Definition": {
+                        "S": " A sewer."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Shore"
+                    },
+                    "Definition": {
+                        "S": " A prop, as a timber, placed as a brace or support against the side of a building or other structure; a prop placed beneath anything, as a beam, to prevent it from sinking or sagging."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Shore"
+                    },
+                    "Definition": {
+                        "S": " To support by a shore or shores; to prop; -- usually with  >up"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Shore"
+                    },
+                    "Definition": {
+                        "S": " The coast or land adjacent to a large body of water, as an ocean, lake, or large river."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Shore"
+                    },
+                    "Definition": {
+                        "S": " To set on shore."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Shorn"
+                    },
+                    "Definition": {
+                        "S": "  t>p. p."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Short"
+                    },
+                    "Definition": {
+                        "S": " Not long; having brief length or linear extension;  s>as, a  x>short"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Short"
+                    },
+                    "Definition": {
+                        "S": " A summary account."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Short"
+                    },
+                    "Definition": {
+                        "S": " In a short manner; briefly; limitedly; abruptly; quickly;  s>as, to stop  x>short"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Short"
+                    },
+                    "Definition": {
+                        "S": " To shorten."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Short"
+                    },
+                    "Definition": {
+                        "S": " To fail; to decrease."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Shory"
+                    },
+                    "Definition": {
+                        "S": " Lying near the shore."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Shot"
+                    },
+                    "Definition": {
+                        "S": " Woven in such a way as to produce an effect of variegation, of changeable tints, or of being figured;  s>as,  x>shot"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Shot"
+                    },
+                    "Definition": {
+                        "S": " A share or proportion; a reckoning; a scot."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Shot"
+                    },
+                    "Definition": {
+                        "S": " The act of shooting; discharge of a firearm or other weapon which throws a missile."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Shot"
+                    },
+                    "Definition": {
+                        "S": " To load with shot, as a gun."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Shote"
+                    },
+                    "Definition": {
+                        "S": " A fish resembling the trout."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Shots"
+                    },
+                    "Definition": {
+                        "S": " The refuse of cattle taken from a drove."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Shout"
+                    },
+                    "Definition": {
+                        "S": " To utter a sudden and loud outcry, as in joy, triumph, or exultation, or to attract attention, to animate soldiers, etc."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Shout"
+                    },
+                    "Definition": {
+                        "S": " To utter with a shout; to cry; -- sometimes with  >out"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Shout"
+                    },
+                    "Definition": {
+                        "S": " A loud burst of voice or voices; a vehement and sudden outcry, especially of a multitudes expressing joy, triumph, exultation, or animated courage."}}}}]}

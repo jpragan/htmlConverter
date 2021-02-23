@@ -1,0 +1,151 @@
+{"Dictionary":[{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Clio"
+                    },
+                    "Definition": {
+                        "S": " The Muse who presided over history."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Clip"
+                    },
+                    "Definition": {
+                        "S": " To embrace, hence; to encompass."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Clip"
+                    },
+                    "Definition": {
+                        "S": " To move swiftly; -- usually with indefinite  >it"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Clip"
+                    },
+                    "Definition": {
+                        "S": " An embrace."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Cloak"
+                    },
+                    "Definition": {
+                        "S": " A loose outer garment, extending from the neck downwards, and commonly without sleeves. It is longer than a cape, and is worn both by men and by women."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Cloak"
+                    },
+                    "Definition": {
+                        "S": " To cover with, or as with, a cloak; hence, to hide or conceal."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Clock"
+                    },
+                    "Definition": {
+                        "S": " A machine for measuring time, indicating the hour and other divisions by means of hands moving on a dial plate. Its works are moved by a weight or a spring, and it is often so constructed as to tell the"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Clock"
+                    },
+                    "Definition": {
+                        "S": " To ornament with figured work, as the side of a stocking."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Clock"
+                    },
+                    "Definition": {
+                        "S": " To call, as a hen. See  r>Cluck"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Clock"
+                    },
+                    "Definition": {
+                        "S": " A large beetle, esp. the European dung beetle ( pn>Scarabeus stercorarius"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Clod"
+                    },
+                    "Definition": {
+                        "S": " A lump or mass, especially of earth, turf, or clay."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Clod"
+                    },
+                    "Definition": {
+                        "S": " To collect into clods, or into a thick mass; to coagulate; to clot;  s>as,  x>clodded"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Clod"
+                    },
+                    "Definition": {
+                        "S": " To pelt with clods."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Cloff"
+                    },
+                    "Definition": {
+                        "S": " Formerly an allowance of two pounds in every three hundred weight after the tare and tret are subtracted; now used only in a general sense, of small deductions from the original weight."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Clog"
+                    },
+                    "Definition": {
+                        "S": " That which hinders or impedes motion; hence, an encumbrance, restraint, or impediment, of any kind."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Clog"
+                    },
+                    "Definition": {
+                        "S": " To encumber or load, especially with something that impedes motion; to hamper."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Clog"
+                    },
+                    "Definition": {
+                        "S": " To become clogged; to become loaded or encumbered, as with extraneous matter."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Cloke"
+                    },
+                    "Definition": {
+                        "S": " See Cloak."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Clomp"
+                    },
+                    "Definition": {
+                        "S": " See  r>Clamp"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Clong"
+                    },
+                    "Definition": {
+                        "S": "  t>imp."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Cloom"
+                    },
+                    "Definition": {
+                        "S": " To close with glutinous matter."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Cloop"
+                    },
+                    "Definition": {
+                        "S": " The sound made when a cork is forcibly drawn from a bottle."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Close"
+                    },
+                    "Definition": {
+                        "S": " To stop, or fill up, as an opening; to shut;  s>as, to  x>close"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Close"
+                    },
+                    "Definition": {
+                        "S": " To come together; to unite or coalesce, as the parts of a wound, or parts separated."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Close"
+                    },
+                    "Definition": {
+                        "S": " The manner of shutting; the union of parts; junction."}}}}]}

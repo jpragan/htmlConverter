@@ -1,0 +1,151 @@
+{"Dictionary":[{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Gelid"
+                    },
+                    "Definition": {
+                        "S": " Cold; very cold; frozen."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Gelly"
+                    },
+                    "Definition": {
+                        "S": " Jelly."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Gelt"
+                    },
+                    "Definition": {
+                        "S": " Trubute, tax."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Gelt"
+                    },
+                    "Definition": {
+                        "S": " A gelding."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Gelt"
+                    },
+                    "Definition": {
+                        "S": " Gilding; tinsel."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Gem"
+                    },
+                    "Definition": {
+                        "S": " A bud."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Gem"
+                    },
+                    "Definition": {
+                        "S": " To put forth in the form of buds."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Gemel"
+                    },
+                    "Definition": {
+                        "S": " Coupled; paired."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Gemel"
+                    },
+                    "Definition": {
+                        "S": " One of the twins."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Gemma"
+                    },
+                    "Definition": {
+                        "S": " A leaf bud, as distinguished from a flower bud."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Gemmy"
+                    },
+                    "Definition": {
+                        "S": " Full of gems; bright; glittering like a gem."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Gems"
+                    },
+                    "Definition": {
+                        "S": " The chamois."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Gemul"
+                    },
+                    "Definition": {
+                        "S": " A small South American deer ( pn>Furcifer Chilensis"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "-gen"
+                    },
+                    "Definition": {
+                        "S": " A suffix used in scientific words in the sense of  >producing"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Gena"
+                    },
+                    "Definition": {
+                        "S": " The cheek; the feathered side of the under mandible of a bird."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Genet"
+                    },
+                    "Definition": {
+                        "S": " A small-sized, well-proportioned, Spanish horse; a jennet."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Genie"
+                    },
+                    "Definition": {
+                        "S": " See  r>Genius"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Genio"
+                    },
+                    "Definition": {
+                        "S": " A man of a particular turn of mind."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Genre"
+                    },
+                    "Definition": {
+                        "S": " A style of painting, sculpture, or other imitative art, which illustrates everyday life and manners."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Gens"
+                    },
+                    "Definition": {
+                        "S": " A clan or family connection, embracing several families of the same stock, who had a common name and certain common religious rites; a subdivision of the Roman curia or tribe"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Gent"
+                    },
+                    "Definition": {
+                        "S": " Gentle; noble; of gentle birth."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Genty"
+                    },
+                    "Definition": {
+                        "S": " Neat; trim."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Genu"
+                    },
+                    "Definition": {
+                        "S": " The knee."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Genus"
+                    },
+                    "Definition": {
+                        "S": " A class of objects divided into several subordinate species; a class more extensive than a species; a precisely defined and exactly divided class; one of the five predicable conceptions, or sorts of ter"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Genys"
+                    },
+                    "Definition": {
+                        "S": " See  r>Conys"}}}}]}

@@ -1,0 +1,151 @@
+{"Dictionary":[{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Petal"
+                    },
+                    "Definition": {
+                        "S": " One of the leaves of the corolla, or the colored leaves of a flower. See  r>Corolla"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Petar"
+                    },
+                    "Definition": {
+                        "S": " See  r>Petard"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Peter"
+                    },
+                    "Definition": {
+                        "S": " A common baptismal name for a man. The name of one of the apostles,"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Peter"
+                    },
+                    "Definition": {
+                        "S": " To become exhausted; to run out; to fail; -- used generally with  >out"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Petit"
+                    },
+                    "Definition": {
+                        "S": " Small; little; insignificant; mean; -- Same as  r>Petty"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Petre"
+                    },
+                    "Definition": {
+                        "S": " See  r>Saltpeter"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Petto"
+                    },
+                    "Definition": {
+                        "S": " The breast."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Petty"
+                    },
+                    "Definition": {
+                        "S": " Little; trifling; inconsiderable; also, inferior; subordinate;  s>as, a  x>petty"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Pew"
+                    },
+                    "Definition": {
+                        "S": " One of the compartments in a church which are separated by low partitions, and have long seats upon which several persons may sit; -- sometimes called  ltname>slip"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Pew"
+                    },
+                    "Definition": {
+                        "S": " To furnish with pews."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Pewee"
+                    },
+                    "Definition": {
+                        "S": " A common American tyrant flycatcher ( pn>Sayornis phe2be"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Pewet"
+                    },
+                    "Definition": {
+                        "S": " Same as  r>Pewit"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Pewit"
+                    },
+                    "Definition": {
+                        "S": " The lapwing."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Phane"
+                    },
+                    "Definition": {
+                        "S": " See  r>Fane"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Phare"
+                    },
+                    "Definition": {
+                        "S": " A beacon tower; a lighthouse."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Pharo"
+                    },
+                    "Definition": {
+                        "S": " A pharos; a lighthouse."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Phase"
+                    },
+                    "Definition": {
+                        "S": " That which is exhibited to the eye; the appearance which anything manifests, especially any one among different and varying appearances of the same object."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Phebe"
+                    },
+                    "Definition": {
+                        "S": " See  r>Phe2be"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Pheer"
+                    },
+                    "Definition": {
+                        "S": " See 1st  r>Fere"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Phene"
+                    },
+                    "Definition": {
+                        "S": " Benzene."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Pheon"
+                    },
+                    "Definition": {
+                        "S": " A bearing representing the head of a dart or javelin, with long barbs which are engrailed on the inner edge."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Phial"
+                    },
+                    "Definition": {
+                        "S": " A glass vessel or bottle, especially a small bottle for medicines; a vial."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Phial"
+                    },
+                    "Definition": {
+                        "S": " To put or keep in, or as in, a phial."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Phiz"
+                    },
+                    "Definition": {
+                        "S": " The face or visage."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Phlox"
+                    },
+                    "Definition": {
+                        "S": " A genus of American herbs, having showy red, white, or purple flowers."}}}}]}

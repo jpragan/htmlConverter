@@ -1,0 +1,151 @@
+{"Dictionary":[{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Nost"
+                    },
+                    "Definition": {
+                        "S": " Wottest not; knowest not."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Not"
+                    },
+                    "Definition": {
+                        "S": " Wot not; know not; knows not."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Not"
+                    },
+                    "Definition": {
+                        "S": " Shorn; shaven.  ark>[Obs.]"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Not"
+                    },
+                    "Definition": {
+                        "S": " A word used to express negation, prohibition, denial, or refusal."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Notal"
+                    },
+                    "Definition": {
+                        "S": " Of or pertaining to the back; dorsal."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Notch"
+                    },
+                    "Definition": {
+                        "S": " A hollow cut in anything; a nick; an indentation."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Notch"
+                    },
+                    "Definition": {
+                        "S": " To cut or make notches in ; to indent; also, to score by notches;  s>as, to  x>notch"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Note"
+                    },
+                    "Definition": {
+                        "S": " To butt; to push with the horns."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Note"
+                    },
+                    "Definition": {
+                        "S": " Know not; knows not."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Note"
+                    },
+                    "Definition": {
+                        "S": " Nut."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Note"
+                    },
+                    "Definition": {
+                        "S": " Need; needful business."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Note"
+                    },
+                    "Definition": {
+                        "S": " A mark or token by which a thing may be known; a visible sign; a character; a distinctive mark or feature; a characteristic quality."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Note"
+                    },
+                    "Definition": {
+                        "S": " To notice with care; to observe; to remark; to heed; to attend to."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Noted"
+                    },
+                    "Definition": {
+                        "S": " Well known by reputation or report; eminent; celebrated;  s>as, a  x>noted"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Noter"
+                    },
+                    "Definition": {
+                        "S": " One who takes notice."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Nott"
+                    },
+                    "Definition": {
+                        "S": " Shorn."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Nott"
+                    },
+                    "Definition": {
+                        "S": " To shear."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Notum"
+                    },
+                    "Definition": {
+                        "S": " The back."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Notus"
+                    },
+                    "Definition": {
+                        "S": " The south wind."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Nouch"
+                    },
+                    "Definition": {
+                        "S": " An ouch; a jewel."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Nould"
+                    },
+                    "Definition": {
+                        "S": " Would not."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Noule"
+                    },
+                    "Definition": {
+                        "S": " The top of the head; the head or noll."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Noun"
+                    },
+                    "Definition": {
+                        "S": " A word used as the designation or appellation of a creature or thing, existing in fact or in thought; a substantive."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Nous"
+                    },
+                    "Definition": {
+                        "S": " Intellect; understanding; talent; -- used humorously."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Novel"
+                    },
+                    "Definition": {
+                        "S": " Of recent origin or introduction; not ancient; new; hence, out of the ordinary course; unusual; strange; surprising."}}}}]}

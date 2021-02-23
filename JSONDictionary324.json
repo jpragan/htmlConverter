@@ -1,0 +1,151 @@
+{"Dictionary":[{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Liege"
+                    },
+                    "Definition": {
+                        "S": " Sovereign; independent; having authority or right to allegiance;  s>as, a  x>liege"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Liege"
+                    },
+                    "Definition": {
+                        "S": " A free and independent person; specif., a lord paramount; a sovereign."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Lien"
+                    },
+                    "Definition": {
+                        "S": " of  r>Lie"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Lien"
+                    },
+                    "Definition": {
+                        "S": " A legal claim; a charge upon real or personal property for the satisfaction of some debt or duty; a right in one to control or hold and retain the property of another until some claim of the former is p"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Lier"
+                    },
+                    "Definition": {
+                        "S": " One who lies down; one who rests or remains, as in concealment."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Lieu"
+                    },
+                    "Definition": {
+                        "S": " Place; room; stead; -- used only in the phrase  >in lieu of"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Lieve"
+                    },
+                    "Definition": {
+                        "S": " Same as  r>Lief"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Lif"
+                    },
+                    "Definition": {
+                        "S": " The fiber by which the petioles of the date palm are bound together, from which various kinds of cordage are made."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Life"
+                    },
+                    "Definition": {
+                        "S": " The state of being which begins with generation, birth, or germination, and ends with death; also, the time during which this state continues; that state of an animal or plant in which all or any of its"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Lifen"
+                    },
+                    "Definition": {
+                        "S": " To enliven."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Lift"
+                    },
+                    "Definition": {
+                        "S": " The sky; the atmosphere; the firmament."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Lift"
+                    },
+                    "Definition": {
+                        "S": " To move in a direction opposite to that of gravitation; to raise; to elevate; to bring up from a lower place to a higher; to upheave; sometimes implying a continued support or holding in the higher plac"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Lift"
+                    },
+                    "Definition": {
+                        "S": " To try to raise something; to exert the strength for raising or bearing."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Lift"
+                    },
+                    "Definition": {
+                        "S": " Act of lifting; also, that which is lifted."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Lig"
+                    },
+                    "Definition": {
+                        "S": " To recline; to lie still."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Ligan"
+                    },
+                    "Definition": {
+                        "S": " Goods sunk in the sea, with a buoy attached in order that they may be found again. See  r>Jetsam"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Lige"
+                    },
+                    "Definition": {
+                        "S": " To lie; to tell lies."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Ligge"
+                    },
+                    "Definition": {
+                        "S": " To lie or recline."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Light"
+                    },
+                    "Definition": {
+                        "S": " That agent, force, or action in nature by the operation of which upon the organs of sight, objects are rendered visible or luminous."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Light"
+                    },
+                    "Definition": {
+                        "S": " Having light; not dark or obscure; bright; clear;  s>as, the apartment is  x>light"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Light"
+                    },
+                    "Definition": {
+                        "S": " To set fire to; to cause to burn; to set burning; to ignite; to kindle;  s>as, to  x>light"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Light"
+                    },
+                    "Definition": {
+                        "S": " To become ignited; to take fire;  s>as, the match will not  x>light"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Light"
+                    },
+                    "Definition": {
+                        "S": " Having little, or comparatively little, weight; not tending to be the center of gravity with force; not heavy."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Light"
+                    },
+                    "Definition": {
+                        "S": " Lightly; cheaply."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Light"
+                    },
+                    "Definition": {
+                        "S": " To lighten; to ease of a burden; to take off."}}}}]}

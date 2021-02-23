@@ -1,0 +1,151 @@
+{"Dictionary":[{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Dye"
+                    },
+                    "Definition": {
+                        "S": " Color produced by dyeing."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Dye"
+                    },
+                    "Definition": {
+                        "S": " Same as  r>Die"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Dyer"
+                    },
+                    "Definition": {
+                        "S": " One whose occupation is to dye cloth and the like."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Dying"
+                    },
+                    "Definition": {
+                        "S": " In the act of dying; destined to death; mortal; perishable;  s>as,  x>dying"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Dying"
+                    },
+                    "Definition": {
+                        "S": " The act of expiring; passage from life to death; loss of life."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Dyke"
+                    },
+                    "Definition": {
+                        "S": " See  r>Dike"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Dynam"
+                    },
+                    "Definition": {
+                        "S": " A unit of measure for dynamical effect or work; a foot pound. See  r>Foot pound"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Dyne"
+                    },
+                    "Definition": {
+                        "S": " The unit of force, in the C. G. S. (Centimeter Gram Second) system of physical units; that is, the force which, acting on a gram for a second, generates a velocity of a centimeter per second."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Dys-"
+                    },
+                    "Definition": {
+                        "S": " An inseparable prefix, fr. the Greek  hard, ill, and signifying  >ill"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Dyspn"
+                    },
+                    "Definition": {
+                        "S": " Difficulty of breathing."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "E"
+                    },
+                    "Definition": {
+                        "S": " The fifth letter of the English alphabet"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "E-"
+                    },
+                    "Definition": {
+                        "S": " A Latin prefix meaning  >out"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Each"
+                    },
+                    "Definition": {
+                        "S": " Every one of the two or more individuals composing a number of objects, considered separately from the rest. It is used either with or without a following noun;  s>as,  x>each"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Eager"
+                    },
+                    "Definition": {
+                        "S": " Sharp; sour; acid."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Eager"
+                    },
+                    "Definition": {
+                        "S": " Same as  r>Eagre"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Eagle"
+                    },
+                    "Definition": {
+                        "S": " Any large, rapacious bird of the Falcon family, esp. of the genera  pn>Aquila"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Eagre"
+                    },
+                    "Definition": {
+                        "S": " A wave, or two or three successive waves, of great height and violence, at flood tide moving up an estuary or river; -- commonly called the  >bore"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Eale"
+                    },
+                    "Definition": {
+                        "S": " Ale."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Eame"
+                    },
+                    "Definition": {
+                        "S": " Uncle."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Ean"
+                    },
+                    "Definition": {
+                        "S": " To bring forth, as young; to yean."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Ear"
+                    },
+                    "Definition": {
+                        "S": " The organ of hearing; the external ear."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Ear"
+                    },
+                    "Definition": {
+                        "S": " To take in with the ears; to hear."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Ear"
+                    },
+                    "Definition": {
+                        "S": " The spike or head of any cereal  (as, wheat, rye, barley, Indian corn, etc.), containing the kernels."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Ear"
+                    },
+                    "Definition": {
+                        "S": " To put forth ears in growing; to form ears, as grain;  s>as, this corn  x>ears"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Ear"
+                    },
+                    "Definition": {
+                        "S": " To plow or till; to cultivate."}}}}]}

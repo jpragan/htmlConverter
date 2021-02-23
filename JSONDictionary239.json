@@ -1,0 +1,151 @@
+{"Dictionary":[{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Greet"
+                    },
+                    "Definition": {
+                        "S": " To address with salutations or expressions of kind wishes; to salute; to hail; to welcome; to accost with friendship; to pay respects or compliments to, either personally or through the intervention of "}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Greet"
+                    },
+                    "Definition": {
+                        "S": " To meet and give salutations."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Greet"
+                    },
+                    "Definition": {
+                        "S": " Greeting."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Grege"
+                    },
+                    "Definition": {
+                        "S": " To make heavy; to increase."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Greit"
+                    },
+                    "Definition": {
+                        "S": " See  r>Greet"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Grene"
+                    },
+                    "Definition": {
+                        "S": " Green."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Gres"
+                    },
+                    "Definition": {
+                        "S": " Grass."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Greve"
+                    },
+                    "Definition": {
+                        "S": " A grove."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Grew"
+                    },
+                    "Definition": {
+                        "S": "  t>imp."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Grey"
+                    },
+                    "Definition": {
+                        "S": " See  r>Gray"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Grice"
+                    },
+                    "Definition": {
+                        "S": " A little pig."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Grice"
+                    },
+                    "Definition": {
+                        "S": " See  r>Gree"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Grid"
+                    },
+                    "Definition": {
+                        "S": " A grating of thin parallel bars, similar to a gridiron."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Gride"
+                    },
+                    "Definition": {
+                        "S": " To cut with a grating sound; to cut; to penetrate or pierce harshly;  s>as, the griding sword"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Grade"
+                    },
+                    "Definition": {
+                        "S": " A harsh scraping or cutting; a grating."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Grief"
+                    },
+                    "Definition": {
+                        "S": " Pain of mind on account of something in the past; mental suffering arising from any cause, as misfortune, loss of friends, misconduct of one's self or others, etc.; sorrow; sadness."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Griff"
+                    },
+                    "Definition": {
+                        "S": " Grasp; reach."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Grig"
+                    },
+                    "Definition": {
+                        "S": " A cricket or grasshopper."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Gril"
+                    },
+                    "Definition": {
+                        "S": " Harah; hard; severe; stern; rough."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Grill"
+                    },
+                    "Definition": {
+                        "S": " A gridiron."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Grill"
+                    },
+                    "Definition": {
+                        "S": " To broil on a grill or gridiron.  Boiling of men in caldrons, grilling them on gridirons."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Grim"
+                    },
+                    "Definition": {
+                        "S": " Of forbidding or fear-inspiring aspect; fierce; stern; surly; cruel; frightful; horrible."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Grime"
+                    },
+                    "Definition": {
+                        "S": " Foul matter; dirt, rubbed in; sullying blackness, deeply ingrained."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Grime"
+                    },
+                    "Definition": {
+                        "S": " To sully or soil deeply; to dirt."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Grimy"
+                    },
+                    "Definition": {
+                        "S": " Full of grime; begrimed; dirty; foul."}}}}]}

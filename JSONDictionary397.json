@@ -1,0 +1,151 @@
+{"Dictionary":[{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Opie"
+                    },
+                    "Definition": {
+                        "S": " Opium."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Opine"
+                    },
+                    "Definition": {
+                        "S": " To have an opinion; to judge; to think; to suppose."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Opium"
+                    },
+                    "Definition": {
+                        "S": " The inspissated juice of the  pn>Papaver somniferum"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Optic"
+                    },
+                    "Definition": {
+                        "S": " The organ of sight; an eye."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Opus"
+                    },
+                    "Definition": {
+                        "S": " A work; specif.  ld>(Mus.)"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Opye"
+                    },
+                    "Definition": {
+                        "S": " Opium."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "-or"
+                    },
+                    "Definition": {
+                        "S": " A noun suffix denoting an  >act"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Or"
+                    },
+                    "Definition": {
+                        "S": " A particle that marks an alternative;  s>as, you may read  x>or"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Or"
+                    },
+                    "Definition": {
+                        "S": " Ere; before; sooner than."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Or"
+                    },
+                    "Definition": {
+                        "S": " Yellow or gold color, -- represented in drawing or engraving by small dots."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Ora"
+                    },
+                    "Definition": {
+                        "S": " A money of account among the Anglo-Saxons, valued, in the Domesday Book, at twenty pence sterling."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Oral"
+                    },
+                    "Definition": {
+                        "S": " Uttered by the mouth, or in words; spoken, not written; verbal;  s>as,  x>oral"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Orang"
+                    },
+                    "Definition": {
+                        "S": " See  r>Orang-outang"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Orb"
+                    },
+                    "Definition": {
+                        "S": " A blank window or panel"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Orb"
+                    },
+                    "Definition": {
+                        "S": " A spherical body; a globe; especially, one of the celestial spheres; a sun, planet, or star."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Orb"
+                    },
+                    "Definition": {
+                        "S": " To form into an orb or circle."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Orb"
+                    },
+                    "Definition": {
+                        "S": " To become round like an orb."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Orbed"
+                    },
+                    "Definition": {
+                        "S": " Having the form of an orb; round."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Orbit"
+                    },
+                    "Definition": {
+                        "S": " The path described by a heavenly body in its periodical revolution around another body;  s>as, the  x>orbit"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Orby"
+                    },
+                    "Definition": {
+                        "S": " Orblike; having the course of an orb; revolving."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Orc"
+                    },
+                    "Definition": {
+                        "S": " The grampus."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Orcin"
+                    },
+                    "Definition": {
+                        "S": " A colorless crystalline substance,  hform>C6H3.CH3.(OH)2"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Ord"
+                    },
+                    "Definition": {
+                        "S": " An edge or point; also, a beginning."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Ordal"
+                    },
+                    "Definition": {
+                        "S": " Ordeal."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Order"
+                    },
+                    "Definition": {
+                        "S": " Regular arrangement; any methodical or established succession or harmonious relation; method; system"}}}}]}

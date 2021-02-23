@@ -1,0 +1,151 @@
+{"Dictionary":[{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Scale"
+                    },
+                    "Definition": {
+                        "S": " A ladder; a series of steps; a means of ascending."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Scale"
+                    },
+                    "Definition": {
+                        "S": " To climb by a ladder, or as if by a ladder; to ascend by steps or by climbing; to clamber up;  s>as, to  x>scale"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Scale"
+                    },
+                    "Definition": {
+                        "S": " To lead up by steps; to ascend."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Scall"
+                    },
+                    "Definition": {
+                        "S": " A scurf or scabby disease, especially of the scalp."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Scall"
+                    },
+                    "Definition": {
+                        "S": " Scabby; scurfy."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Scalp"
+                    },
+                    "Definition": {
+                        "S": " A bed of oysters or mussels."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Scalp"
+                    },
+                    "Definition": {
+                        "S": " That part of the integument of the head which is usually covered with hair."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Scalp"
+                    },
+                    "Definition": {
+                        "S": " To deprive of the scalp; to cut or tear the scalp from the head of."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Scalp"
+                    },
+                    "Definition": {
+                        "S": " To make a small, quick profit by slight fluctuations of the market; -- said of brokers who operate in this way on their own account."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Scaly"
+                    },
+                    "Definition": {
+                        "S": " Covered or abounding with scales;  s>as, a  x>scaly"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Scamp"
+                    },
+                    "Definition": {
+                        "S": " A rascal; a swindler; a rogue."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Scamp"
+                    },
+                    "Definition": {
+                        "S": " To perform in a hasty, neglectful, or imperfect manner; to do superficially."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Scan"
+                    },
+                    "Definition": {
+                        "S": " To mount by steps; to go through with step by step."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Scant"
+                    },
+                    "Definition": {
+                        "S": " Not full, large, or plentiful; scarcely sufficient; less than is wanted for the purpose; scanty; meager; not enough;  s>as, a  x>scant"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Scant"
+                    },
+                    "Definition": {
+                        "S": " To limit; to straiten; to treat illiberally; to stint;  s>as, to  x>scant"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Scant"
+                    },
+                    "Definition": {
+                        "S": " To fail, of become less; to scantle;  s>as, the wind  x>scants"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Scant"
+                    },
+                    "Definition": {
+                        "S": " In a scant manner; with difficulty; scarcely; hardly."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Scant"
+                    },
+                    "Definition": {
+                        "S": " Scantness; scarcity."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Scape"
+                    },
+                    "Definition": {
+                        "S": " A peduncle rising from the ground or from a subterranean stem, as in the stemless violets, the bloodroot, and the like."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Scape"
+                    },
+                    "Definition": {
+                        "S": " To escape."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Scape"
+                    },
+                    "Definition": {
+                        "S": " An escape."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Scar"
+                    },
+                    "Definition": {
+                        "S": " A mark in the skin or flesh of an animal, made by a wound or ulcer, and remaining after the wound or ulcer is healed; a cicatrix; a mark left by a previous injury; a blemish; a disfigurement."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Scar"
+                    },
+                    "Definition": {
+                        "S": " To mark with a scar or scars."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Scar"
+                    },
+                    "Definition": {
+                        "S": " To form a scar."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Scar"
+                    },
+                    "Definition": {
+                        "S": " An isolated or protruding rock; a steep, rocky eminence; a bare place on the side of a mountain or steep bank of earth."}}}}]}

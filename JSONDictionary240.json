@@ -1,0 +1,151 @@
+{"Dictionary":[{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Grin"
+                    },
+                    "Definition": {
+                        "S": " A snare; a gin."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Grin"
+                    },
+                    "Definition": {
+                        "S": " To show the teeth, as a dog; to shsrl."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Grin"
+                    },
+                    "Definition": {
+                        "S": " To express by grinning."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Grin"
+                    },
+                    "Definition": {
+                        "S": " The act of closing the teeth and showing them, or of withdrawing the lips and showing the teeth; a hard, forced, or smeering smile."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Grind"
+                    },
+                    "Definition": {
+                        "S": " To reduce to powder by friction, as in a mill, or with the teeth; to crush into small fragments; to produce as by the action of millstones."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Grind"
+                    },
+                    "Definition": {
+                        "S": " To perform the operation of grinding something; to turn the millstones."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Grind"
+                    },
+                    "Definition": {
+                        "S": " The act of reducing to powder, or of sharpening, by friction."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Grint"
+                    },
+                    "Definition": {
+                        "S": "  t>3d pers. sing. pres."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Grip"
+                    },
+                    "Definition": {
+                        "S": " The griffin."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Grip"
+                    },
+                    "Definition": {
+                        "S": " A small ditch or furrow."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Grip"
+                    },
+                    "Definition": {
+                        "S": " To trench; to drain."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Grip"
+                    },
+                    "Definition": {
+                        "S": " An energetic or tenacious grasp; a holding fast; strength in grasping."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Grip"
+                    },
+                    "Definition": {
+                        "S": " To give a grip to; to grasp; to gripe."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Gripe"
+                    },
+                    "Definition": {
+                        "S": " A vulture; the griffin."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Gripe"
+                    },
+                    "Definition": {
+                        "S": " To catch with the hand; to clasp closely with the fingers; to clutch."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Gripe"
+                    },
+                    "Definition": {
+                        "S": " To clutch, hold, or pinch a thing, esp. money, with a gripe or as with a gripe."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Gripe"
+                    },
+                    "Definition": {
+                        "S": " Grasp; seizure; fast hold; clutch."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Gris"
+                    },
+                    "Definition": {
+                        "S": " Gray."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Gris"
+                    },
+                    "Definition": {
+                        "S": " A costly kind of fur."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Gris"
+                    },
+                    "Definition": {
+                        "S": " A little pig."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Grise"
+                    },
+                    "Definition": {
+                        "S": " See  r>Grice"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Grise"
+                    },
+                    "Definition": {
+                        "S": " A step (in a flight of stairs); a degree."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Grist"
+                    },
+                    "Definition": {
+                        "S": " Ground corn; that which is ground at one time; as much grain as is carried to the mill at one time, or the meal it produces."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Grit"
+                    },
+                    "Definition": {
+                        "S": " Sand or gravel; rough, hard particles."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Grit"
+                    },
+                    "Definition": {
+                        "S": " To give forth a grating sound, as sand under the feet; to grate; to grind."}}}}]}

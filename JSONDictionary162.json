@@ -1,0 +1,151 @@
+{"Dictionary":[{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Earal"
+                    },
+                    "Definition": {
+                        "S": " Receiving by the ear."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Eared"
+                    },
+                    "Definition": {
+                        "S": " Having (such or so many) ears; -- used in composition;  s>as, long- x>eared-eared"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Earl"
+                    },
+                    "Definition": {
+                        "S": " A nobleman of England ranking below a marquis, and above a viscount. The rank of an earl corresponds to that of a  >count"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Earl"
+                    },
+                    "Definition": {
+                        "S": " The needlefish."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Early"
+                    },
+                    "Definition": {
+                        "S": " Soon; in good season; seasonably; betimes;  s>as, come  x>early"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Early"
+                    },
+                    "Definition": {
+                        "S": " In advance of the usual or appointed time; in good season; prior in time; among or near the first; -- opposed to  nt>late"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Earn"
+                    },
+                    "Definition": {
+                        "S": " See  r>Ern"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Earn"
+                    },
+                    "Definition": {
+                        "S": " To merit or deserve, as by labor or service; to do that which entitles one to (a reward, whether the reward is received or not)."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Earn"
+                    },
+                    "Definition": {
+                        "S": " To grieve."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Earn"
+                    },
+                    "Definition": {
+                        "S": " To long; to yearn."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Earn"
+                    },
+                    "Definition": {
+                        "S": " To curdle, as milk."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Earsh"
+                    },
+                    "Definition": {
+                        "S": " See  r>Arrish"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Earst"
+                    },
+                    "Definition": {
+                        "S": " See  r>Erst"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Earth"
+                    },
+                    "Definition": {
+                        "S": " The globe or planet which we inhabit; the world, in distinction from the sun, moon, or stars. Also, this world as the dwelling place of mortals, in distinction from the dwelling place of spirits."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Earth"
+                    },
+                    "Definition": {
+                        "S": " To hide, or cause to hide, in the earth; to chase into a burrow or den."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Earth"
+                    },
+                    "Definition": {
+                        "S": " To burrow."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Earth"
+                    },
+                    "Definition": {
+                        "S": " A plowing."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Ease"
+                    },
+                    "Definition": {
+                        "S": " Satisfaction; pleasure; hence, accommodation; entertainment."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Ease"
+                    },
+                    "Definition": {
+                        "S": " To free from anything that pains, disquiets, or oppresses; to relieve from toil or care; to give rest, repose, or tranquility to; -- often with  >of"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Easel"
+                    },
+                    "Definition": {
+                        "S": " A frame (commonly) of wood serving to hold a canvas upright, or nearly upright, for the painter's convenience or for exhibition."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "East"
+                    },
+                    "Definition": {
+                        "S": " The point in the heavens where the sun is seen to rise at the equinox, or the corresponding point on the earth; that one of the four cardinal points of the compass which is in a direction at right angle"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "East"
+                    },
+                    "Definition": {
+                        "S": " Toward the rising sun; or toward the point where the sun rises when in the equinoctial;  s>as, the  x>east"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "East"
+                    },
+                    "Definition": {
+                        "S": " Eastward."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "East"
+                    },
+                    "Definition": {
+                        "S": " To move toward the east; to veer from the north or south toward the east; to orientate."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Easy"
+                    },
+                    "Definition": {
+                        "S": " At ease; free from pain, trouble, or constraint; as:  d>(a)"}}}}]}

@@ -1,0 +1,151 @@
+{"Dictionary":[{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Fonne"
+                    },
+                    "Definition": {
+                        "S": " A fon."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Font"
+                    },
+                    "Definition": {
+                        "S": " A complete assortment of printing type of one size, including a due proportion of all the letters in the alphabet, large and small, points, accents, and whatever else is necessary for printing with that"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Font"
+                    },
+                    "Definition": {
+                        "S": " A fountain; a spring; a source."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Food"
+                    },
+                    "Definition": {
+                        "S": " What is fed upon; that which goes to support life by being received within, and assimilated by, the organism of an animal or a plant; nutriment; aliment; especially, what is eaten by animals for nourish"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Food"
+                    },
+                    "Definition": {
+                        "S": " To supply with food."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Foody"
+                    },
+                    "Definition": {
+                        "S": " Eatable; fruitful."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Fool"
+                    },
+                    "Definition": {
+                        "S": " A compound of gooseberries scalded and crushed, with cream; -- commonly called  >gooseberry fool"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Fool"
+                    },
+                    "Definition": {
+                        "S": " One destitute of reason, or of the common powers of understanding; an idiot; a natural."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Fool"
+                    },
+                    "Definition": {
+                        "S": " To play the fool; to trifle; to toy; to spend time in idle sport or mirth."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Fool"
+                    },
+                    "Definition": {
+                        "S": " To infatuate; to make foolish."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Foot"
+                    },
+                    "Definition": {
+                        "S": " The terminal part of the leg of man or an animal; esp., the part below the ankle or wrist; that part of an animal upon which it rests when standing, or moves. See  r>Manus"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Foot"
+                    },
+                    "Definition": {
+                        "S": " To tread to measure or music; to dance; to trip; to skip."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Foot"
+                    },
+                    "Definition": {
+                        "S": " To kick with the foot; to spurn."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Foots"
+                    },
+                    "Definition": {
+                        "S": " The settlings of oil, molasses, etc., at the bottom of a barrel or hogshead."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Footy"
+                    },
+                    "Definition": {
+                        "S": " Having  >foots"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Fop"
+                    },
+                    "Definition": {
+                        "S": " One whose ambition it is to gain admiration by showy dress; a coxcomb; an inferior dandy."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "For-"
+                    },
+                    "Definition": {
+                        "S": " A prefix to verbs, having usually the force of a negative or privative. It often implies also  >loss"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "For"
+                    },
+                    "Definition": {
+                        "S": " In the most general sense, indicating that in consideration of, in view of, or with reference to, which anything is done or takes place."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "For"
+                    },
+                    "Definition": {
+                        "S": " Because; by reason that; for that; indicating, in Old English, the reason of anything."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "For"
+                    },
+                    "Definition": {
+                        "S": " One who takes, or that which is said on, the affrimative side; that which is said in favor of some one or something; -- the antithesis of  >against"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Foray"
+                    },
+                    "Definition": {
+                        "S": " A sudden or irregular incursion in border warfare; hence, any irregular incursion for war or spoils; a raid."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Foray"
+                    },
+                    "Definition": {
+                        "S": " To pillage; to ravage."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Forby"
+                    },
+                    "Definition": {
+                        "S": " Near; hard by; along; past."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Force"
+                    },
+                    "Definition": {
+                        "S": " To stuff; to lard; to farce."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Force"
+                    },
+                    "Definition": {
+                        "S": " A waterfall; a cascade."}}}}]}

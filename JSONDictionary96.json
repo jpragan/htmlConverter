@@ -1,0 +1,151 @@
+{"Dictionary":[{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Chide"
+                    },
+                    "Definition": {
+                        "S": " To rebuke; to reprove; to scold; to find fault with."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Chide"
+                    },
+                    "Definition": {
+                        "S": " To utter words of disapprobation and displeasure; to find fault; to contend angrily."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Chide"
+                    },
+                    "Definition": {
+                        "S": " A continuous noise or murmur."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Chief"
+                    },
+                    "Definition": {
+                        "S": " The head or leader of any body of men; a commander, as of an army; a head man, as of a tribe, clan, or family; a person in authority who directs the work of others; the pricipal actio or agent."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Chief"
+                    },
+                    "Definition": {
+                        "S": " Highest in office or rank; principal; head."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Child"
+                    },
+                    "Definition": {
+                        "S": " A son or a daughter; a male or female descendant, in the first degree; the immediate progeny of human parents; -- in  >law"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Child"
+                    },
+                    "Definition": {
+                        "S": " To give birth; to produce young."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Chili"
+                    },
+                    "Definition": {
+                        "S": " A kind of red pepper. See  r>Capsicum"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Chill"
+                    },
+                    "Definition": {
+                        "S": " A moderate but disagreeable degree of cold; a disagreeable sensation of coolness, accompanied with shivering."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Chill"
+                    },
+                    "Definition": {
+                        "S": " Moderately cold; tending to cause shivering; chilly; raw."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Chill"
+                    },
+                    "Definition": {
+                        "S": " To strike with a chill; to make chilly; to cause to shiver; to affect with cold."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Chill"
+                    },
+                    "Definition": {
+                        "S": " To become surface-hardened by sudden cooling while solidifying;  s>as, some kinds of cast iron  x>chill"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Chimb"
+                    },
+                    "Definition": {
+                        "S": " The edge of a cask, etc; a chine. See  r>Chine"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Chimb"
+                    },
+                    "Definition": {
+                        "S": " Chime."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Chime"
+                    },
+                    "Definition": {
+                        "S": " See  r>Chine"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Chime"
+                    },
+                    "Definition": {
+                        "S": " The harmonious sound of bells, or of musical instruments."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Chime"
+                    },
+                    "Definition": {
+                        "S": " To sound in harmonious accord, as bells."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Chime"
+                    },
+                    "Definition": {
+                        "S": " To cause to sound in harmony; to play a tune, as upon a set of bells; to move or strike in harmony."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Chin"
+                    },
+                    "Definition": {
+                        "S": " The lower extremity of the face below the mouth; the point of the under jaw."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "China"
+                    },
+                    "Definition": {
+                        "S": " A country in Eastern Asia."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Chine"
+                    },
+                    "Definition": {
+                        "S": " A chink or cleft; a narrow and deep ravine;  s>as, Shanklin  x>Chine"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Chine"
+                    },
+                    "Definition": {
+                        "S": " The backbone or spine of an animal; the back."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Chine"
+                    },
+                    "Definition": {
+                        "S": " To cut through the backbone of; to cut into chine pieces."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Chink"
+                    },
+                    "Definition": {
+                        "S": " A small cleft, rent, or fissure, of greater length than breadth; a gap or crack;  s>as, the  x>chinks"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Chink"
+                    },
+                    "Definition": {
+                        "S": " To crack; to open."}}}}]}

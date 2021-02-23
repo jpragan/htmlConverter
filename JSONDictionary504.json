@@ -1,0 +1,151 @@
+{"Dictionary":[{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Seen"
+                    },
+                    "Definition": {
+                        "S": " Versed; skilled; accomplished."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Seer"
+                    },
+                    "Definition": {
+                        "S": " Sore; painful."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Seer"
+                    },
+                    "Definition": {
+                        "S": " One who sees."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Seer"
+                    },
+                    "Definition": {
+                        "S": " A person who foresees events; a prophet."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Seet"
+                    },
+                    "Definition": {
+                        "S": " Sate; sat."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Seeth"
+                    },
+                    "Definition": {
+                        "S": "  t>imp."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Seg"
+                    },
+                    "Definition": {
+                        "S": " Sedge."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Seg"
+                    },
+                    "Definition": {
+                        "S": " A castrated bull."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Segar"
+                    },
+                    "Definition": {
+                        "S": " See  r>Cigar"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Segge"
+                    },
+                    "Definition": {
+                        "S": " One of the parts into which any body naturally separates or is divided; a part divided or cut off; a section; a portion;  s>as, a  x>segment"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Segno"
+                    },
+                    "Definition": {
+                        "S": " A sign. See  r>Al segno"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Sego"
+                    },
+                    "Definition": {
+                        "S": " A liliaceous plant ( pn>Calochortus Nuttallii"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Seid"
+                    },
+                    "Definition": {
+                        "S": " A descendant of Mohammed through his daughter Fatima and nephew Ali."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Seigh"
+                    },
+                    "Definition": {
+                        "S": "  t>obs. imp. sing."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Seine"
+                    },
+                    "Definition": {
+                        "S": " A large net, one edge of which is provided with sinkers, and the other with floats. It hangs vertically in the water, and when its ends are brought together or drawn ashore incloses the fish."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Seint"
+                    },
+                    "Definition": {
+                        "S": " A girdle."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Seint"
+                    },
+                    "Definition": {
+                        "S": " A saint."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Seise"
+                    },
+                    "Definition": {
+                        "S": " See  r>Seize"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Seity"
+                    },
+                    "Definition": {
+                        "S": " Something peculiar to one's self."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Seize"
+                    },
+                    "Definition": {
+                        "S": " To fall or rush upon suddenly and lay hold of; to gripe or grasp suddenly; to reach and grasp."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Seke"
+                    },
+                    "Definition": {
+                        "S": " Sick."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Seke"
+                    },
+                    "Definition": {
+                        "S": " To seek."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Sekes"
+                    },
+                    "Definition": {
+                        "S": " A place in a pagan temple in which the images of the deities were inclosed."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Selah"
+                    },
+                    "Definition": {
+                        "S": " A word of doubtful meaning, occuring frequently in the Psalms; by some, supposed to signify silence or a pause in the musical performance of the song."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Seld"
+                    },
+                    "Definition": {
+                        "S": " Rare; uncommon; unusual."}}}}]}

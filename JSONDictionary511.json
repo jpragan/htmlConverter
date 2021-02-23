@@ -1,0 +1,151 @@
+{"Dictionary":[{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Shawl"
+                    },
+                    "Definition": {
+                        "S": " A square or oblong cloth of wool, cotton, silk, or other textile or netted fabric, used, especially by women, as a loose covering for the neck and shoulders."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Shawl"
+                    },
+                    "Definition": {
+                        "S": " To wrap in a shawl."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Shawm"
+                    },
+                    "Definition": {
+                        "S": " A wind instrument of music, formerly in use, supposed to have resembled either the clarinet or the hautboy in form."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Shay"
+                    },
+                    "Definition": {
+                        "S": " A chaise."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "She"
+                    },
+                    "Definition": {
+                        "S": " This or that female; the woman understood or referred to; the animal of the female sex, or object personified as feminine, which was spoken of."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Sheaf"
+                    },
+                    "Definition": {
+                        "S": " A sheave."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Sheaf"
+                    },
+                    "Definition": {
+                        "S": " A quantity of the stalks and ears of wheat, rye, or other grain, bound together; a bundle of grain or straw."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Sheaf"
+                    },
+                    "Definition": {
+                        "S": " To gather and bind into a sheaf; to make into sheaves;  s>as, to  x>sheaf"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Sheaf"
+                    },
+                    "Definition": {
+                        "S": " To collect and bind cut grain, or the like; to make sheaves."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Sheal"
+                    },
+                    "Definition": {
+                        "S": " Same as  r>Sheeling"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Sheal"
+                    },
+                    "Definition": {
+                        "S": " To put under a sheal or shelter."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Sheal"
+                    },
+                    "Definition": {
+                        "S": " To take the husks or pods off from; to shell; to empty of its contents, as a husk or a pod."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Sheal"
+                    },
+                    "Definition": {
+                        "S": " A shell or pod."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Shear"
+                    },
+                    "Definition": {
+                        "S": " To cut, clip, or sever anything from with shears or a like instrument;  s>as, to  x>shear"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Shear"
+                    },
+                    "Definition": {
+                        "S": " A pair of shears; -- now always used in the plural, but formerly also in the singular. See  r>Shears"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Shear"
+                    },
+                    "Definition": {
+                        "S": " To deviate. See  r>Sheer"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Shed"
+                    },
+                    "Definition": {
+                        "S": " A slight or temporary structure built to shade or shelter something; a structure usually open in front; an outbuilding; a hut;  s>as, a wagon  x>shed"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Shed"
+                    },
+                    "Definition": {
+                        "S": " To separate; to divide."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Shed"
+                    },
+                    "Definition": {
+                        "S": " To fall in drops; to pour."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Shed"
+                    },
+                    "Definition": {
+                        "S": " A parting; a separation; a division."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Sheen"
+                    },
+                    "Definition": {
+                        "S": " Bright; glittering; radiant; fair; showy; sheeny."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Sheen"
+                    },
+                    "Definition": {
+                        "S": " To shine; to glisten."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Sheen"
+                    },
+                    "Definition": {
+                        "S": " Brightness; splendor; glitter."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Sheep"
+                    },
+                    "Definition": {
+                        "S": " Any one of several species of ruminants of the genus  pn>Ovis"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Sheer"
+                    },
+                    "Definition": {
+                        "S": " Bright; clear; pure; unmixed."}}}}]}

@@ -1,0 +1,151 @@
+{"Dictionary":[{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Syrt"
+                    },
+                    "Definition": {
+                        "S": " A quicksand; a bog."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Sythe"
+                    },
+                    "Definition": {
+                        "S": " Scythe."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Table"
+                    },
+                    "Definition": {
+                        "S": " To form into a table or catalogue; to tabulate;  s>as, to  x>table"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Table"
+                    },
+                    "Definition": {
+                        "S": " To live at the table of another; to board; to eat."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Taboo"
+                    },
+                    "Definition": {
+                        "S": " A total prohibition of intercourse with, use of, or approach to, a given person or thing under pain of death, -- an interdict of religious origin and authority, formerly common in the islands of Polynes"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Taboo"
+                    },
+                    "Definition": {
+                        "S": " To put under taboo; to forbid, or to forbid the use of; to interdict approach to, or use of;  s>as, to  x>taboo"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Tabor"
+                    },
+                    "Definition": {
+                        "S": " A small drum used as an accompaniment to a pipe or fife, both being played by the same person."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Tabor"
+                    },
+                    "Definition": {
+                        "S": " To play on a tabor, or little drum."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Tabor"
+                    },
+                    "Definition": {
+                        "S": " To make (a sound) with a tabor."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Tabu"
+                    },
+                    "Definition": {
+                        "S": " See  r>Taboo"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Tac"
+                    },
+                    "Definition": {
+                        "S": " A kind of customary payment by a tenant; -- a word used in old records."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Tace"
+                    },
+                    "Definition": {
+                        "S": " The cross, or church, of St. Antony. See  >Illust"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Tace"
+                    },
+                    "Definition": {
+                        "S": " See  r>Tasse"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Tacet"
+                    },
+                    "Definition": {
+                        "S": " It is silent; -- a direction for a vocal or instrumental part to be silent during a whole movement."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Tache"
+                    },
+                    "Definition": {
+                        "S": " Something used for taking hold or holding; a catch; a loop; a button."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Tache"
+                    },
+                    "Definition": {
+                        "S": " A spot, stain, or blemish."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Tacit"
+                    },
+                    "Definition": {
+                        "S": " Done or made in silence; implied, but not expressed; silent;  s>as,  x>tacit"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Tack"
+                    },
+                    "Definition": {
+                        "S": " A stain; a tache."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Tack"
+                    },
+                    "Definition": {
+                        "S": " A small, short, sharp-pointed nail, usually having a broad, flat head."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Tack"
+                    },
+                    "Definition": {
+                        "S": " To fasten or attach."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Tack"
+                    },
+                    "Definition": {
+                        "S": " To change the direction of a vessel by shifting the position of the helm and sails; also (as said of a vessel), to have her direction changed through the shifting of the helm and sails. See  r>Tack"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Tacky"
+                    },
+                    "Definition": {
+                        "S": " Sticky; adhesive; raw; -- said of paint, varnish, etc., when not well dried."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Tact"
+                    },
+                    "Definition": {
+                        "S": " The sense of touch; feeling."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Tael"
+                    },
+                    "Definition": {
+                        "S": " A denomination of money, in China, worth nearly six shillings sterling, or about a dollar and forty cents; also, a weight of one ounce and a third."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Tenia"
+                    },
+                    "Definition": {
+                        "S": " A genus of intestinal worms which includes the common tapeworms of man. See  r>Tapeworm"}}}}]}

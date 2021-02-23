@@ -1,0 +1,151 @@
+{"Dictionary":[{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Dozen"
+                    },
+                    "Definition": {
+                        "S": " A collection of twelve objects; a tale or set of twelve; with or without  >of"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Dozer"
+                    },
+                    "Definition": {
+                        "S": " One who dozes or drowses."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Dozy"
+                    },
+                    "Definition": {
+                        "S": " Drowsy; inclined to doze; sleepy; sluggish;  s>as, a  x>dozy"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Drab"
+                    },
+                    "Definition": {
+                        "S": " A low, sluttish woman."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Drab"
+                    },
+                    "Definition": {
+                        "S": " To associate with strumpets; to wench."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Drab"
+                    },
+                    "Definition": {
+                        "S": " A kind of thick woolen cloth of a dun, or dull brownish yellow, or dull gray, color; -- called also  ltname>drabcloth"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Drab"
+                    },
+                    "Definition": {
+                        "S": " Of a color between gray and brown."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Draco"
+                    },
+                    "Definition": {
+                        "S": " The Dragon, a northern constellation within which is the north pole of the ecliptic."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Drad"
+                    },
+                    "Definition": {
+                        "S": " Dreaded."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Draff"
+                    },
+                    "Definition": {
+                        "S": " Refuse; lees; dregs; the wash given to swine or cows; hogwash; waste matter."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Draff"
+                    },
+                    "Definition": {
+                        "S": " The act of drawing; also, the thing drawn. Same as  r>Draught"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Draft"
+                    },
+                    "Definition": {
+                        "S": " Pertaining to, or used for, drawing or pulling (as vehicles, loads, etc.). Same as  r>Draught"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Draft"
+                    },
+                    "Definition": {
+                        "S": " To draw the outline of; to delineate."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Drag"
+                    },
+                    "Definition": {
+                        "S": " A confection; a comfit; a drug."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Drag"
+                    },
+                    "Definition": {
+                        "S": " To draw slowly or heavily onward; to pull along the ground by main force; to haul; to trail; -- applied to drawing heavy or resisting bodies or those inapt for drawing, with labor, along the ground or o"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Drag"
+                    },
+                    "Definition": {
+                        "S": " To be drawn along, as a rope or dress, on the ground; to trail; to be moved onward along the ground, or along the bottom of the sea, as an anchor that does not hold."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Drag"
+                    },
+                    "Definition": {
+                        "S": " The act of dragging; anything which is dragged."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Drail"
+                    },
+                    "Definition": {
+                        "S": " To trail; to draggle."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Drain"
+                    },
+                    "Definition": {
+                        "S": " To draw off by degrees; to cause to flow gradually out or off; hence, to cause the exhaustion of."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Drain"
+                    },
+                    "Definition": {
+                        "S": " To flow gradually;  s>as, the water of low ground  x>drains"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Drain"
+                    },
+                    "Definition": {
+                        "S": " The act of draining, or of drawing off; gradual and continuous outflow or withdrawal;  s>as, the  x>drain"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Drake"
+                    },
+                    "Definition": {
+                        "S": " The male of the duck kind."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Drake"
+                    },
+                    "Definition": {
+                        "S": " A dragon."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Drake"
+                    },
+                    "Definition": {
+                        "S": " Wild oats, brome grass, or darnel grass; -- called also  ltname>drawk"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Dram"
+                    },
+                    "Definition": {
+                        "S": " A weight; in  >Apothecaries' weight"}}}}]}

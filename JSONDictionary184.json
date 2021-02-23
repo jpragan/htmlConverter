@@ -1,0 +1,151 @@
+{"Dictionary":[{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Favel"
+                    },
+                    "Definition": {
+                        "S": " A horse of a favel or dun color."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Favel"
+                    },
+                    "Definition": {
+                        "S": " Flattery; cajolery; deceit."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Favor"
+                    },
+                    "Definition": {
+                        "S": " Kind regard; propitious aspect; countenance; friendly disposition; kindness; good will."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Favor"
+                    },
+                    "Definition": {
+                        "S": " To regard with kindness; to support; to aid, or to have the disposition to aid, or to wish success to; to be propitious to; to countenance; to treat with consideration or tenderness; to show partiality "}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Favus"
+                    },
+                    "Definition": {
+                        "S": " A disease of the scalp, produced by a vegetable parasite."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Fawe"
+                    },
+                    "Definition": {
+                        "S": " Fain; glad; delighted."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Fawn"
+                    },
+                    "Definition": {
+                        "S": " A young deer; a buck or doe of the first year. See  r>Buck"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Fawn"
+                    },
+                    "Definition": {
+                        "S": " Of the color of a fawn; fawn-colored."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Fawn"
+                    },
+                    "Definition": {
+                        "S": " To bring forth a fawn."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Fawn"
+                    },
+                    "Definition": {
+                        "S": " To court favor by low cringing, frisking, etc., as a dog; to flatter meanly; -- often followed by  >on"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Fawn"
+                    },
+                    "Definition": {
+                        "S": " A servile cringe or bow; mean flattery; sycophancy."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Faxed"
+                    },
+                    "Definition": {
+                        "S": " Hairy."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Fay"
+                    },
+                    "Definition": {
+                        "S": " A fairy; an elf."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Fay"
+                    },
+                    "Definition": {
+                        "S": " Faith;  s>as, by my  x>fay"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Fay"
+                    },
+                    "Definition": {
+                        "S": " To fit; to join; to unite closely, as two pieces of wood, so as to make the surface fit together."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Fay"
+                    },
+                    "Definition": {
+                        "S": " To lie close together; to fit; to fadge; -- often with  >in"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Faze"
+                    },
+                    "Definition": {
+                        "S": " See  r>Feeze"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Feal"
+                    },
+                    "Definition": {
+                        "S": " Faithful; loyal."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Fear"
+                    },
+                    "Definition": {
+                        "S": " A variant of  r>Fere"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Fear"
+                    },
+                    "Definition": {
+                        "S": " A painful emotion or passion excited by the expectation of evil, or the apprehension of impending danger; apprehension; anxiety; solicitude; alarm; dread."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Fear"
+                    },
+                    "Definition": {
+                        "S": " To feel a painful apprehension of; to be afraid of; to consider or expect with emotion of alarm or solicitude."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Fear"
+                    },
+                    "Definition": {
+                        "S": " To be in apprehension of evil; to be afraid; to feel anxiety on account of some expected evil."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Feast"
+                    },
+                    "Definition": {
+                        "S": " A festival; a holiday; a solemn, or more commonly, a joyous, anniversary."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Feast"
+                    },
+                    "Definition": {
+                        "S": " To eat sumptuously; to dine or sup on rich provisions, particularly in large companies, and on public festivals."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Feast"
+                    },
+                    "Definition": {
+                        "S": " To entertain with sumptuous provisions; to treat at the table bountifully;  s>as, he was  x>feasted"}}}}]}

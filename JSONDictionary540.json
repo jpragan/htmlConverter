@@ -1,0 +1,151 @@
+{"Dictionary":[{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Snuff"
+                    },
+                    "Definition": {
+                        "S": " The part of a candle wick charred by the flame, whether burning or not."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Snuff"
+                    },
+                    "Definition": {
+                        "S": " To crop the snuff of, as a candle; to take off the end of the snuff of."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Snuff"
+                    },
+                    "Definition": {
+                        "S": " To draw in, or to inhale, forcibly through the nose; to sniff."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Snuff"
+                    },
+                    "Definition": {
+                        "S": " To inhale air through the nose with violence or with noise, as do dogs and horses."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Snuff"
+                    },
+                    "Definition": {
+                        "S": " The act of snuffing; perception by snuffing; a sniff."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Snug"
+                    },
+                    "Definition": {
+                        "S": " Close and warm;  s>as, an infant lies  x>snug"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Snug"
+                    },
+                    "Definition": {
+                        "S": " Same as  r>Lug"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Snug"
+                    },
+                    "Definition": {
+                        "S": " To lie close; to snuggle; to snudge; -- often with  >up"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Snug"
+                    },
+                    "Definition": {
+                        "S": " To place snugly."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Sny"
+                    },
+                    "Definition": {
+                        "S": " An upward bend in a piece of timber; the sheer of a vessel."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "So"
+                    },
+                    "Definition": {
+                        "S": " In that manner or degree;  s>as, indicated (in any way), or as implied, or as supposed to be known"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "So"
+                    },
+                    "Definition": {
+                        "S": " Provided that; on condition that; in case that; if."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "So"
+                    },
+                    "Definition": {
+                        "S": " Be as you are; stand still; stop; that will do; right as you are; -- a word used esp. to cows; also used by sailors."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Soak"
+                    },
+                    "Definition": {
+                        "S": " To cause or suffer to lie in a fluid till the substance has imbibed what it can contain; to macerate in water or other liquid; to steep, as for the purpose of softening or freshening;  s>as, to  x>soa"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Soak"
+                    },
+                    "Definition": {
+                        "S": " To lie steeping in water or other liquid; to become sturated;  s>as, let the cloth lie and  x>soak"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Soaky"
+                    },
+                    "Definition": {
+                        "S": " Full of moisture; wet; soppy."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Soal"
+                    },
+                    "Definition": {
+                        "S": " The sole of a shoe."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Soal"
+                    },
+                    "Definition": {
+                        "S": " A dirty pond."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Soam"
+                    },
+                    "Definition": {
+                        "S": " A chain by which a leading horse draws a plow."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Soap"
+                    },
+                    "Definition": {
+                        "S": " A substance which dissolves in water, thus forming a lather, and is used as a cleansing agent. Soap is produced by combining fats or oils with alkalies or alkaline earths, usually by boiling, and consis"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Soap"
+                    },
+                    "Definition": {
+                        "S": " To rub or wash over with soap."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Soapy"
+                    },
+                    "Definition": {
+                        "S": " Resembling soap; having the qualities of, or feeling like, soap; soft and smooth."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Soar"
+                    },
+                    "Definition": {
+                        "S": " To fly aloft, as a bird; to mount upward on wings, or as on wings."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Soar"
+                    },
+                    "Definition": {
+                        "S": " The act of soaring; upward flight."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Soar"
+                    },
+                    "Definition": {
+                        "S": " See 3d  r>Sore"}}}}]}

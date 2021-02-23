@@ -1,0 +1,151 @@
+{"Dictionary":[{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Villa"
+                    },
+                    "Definition": {
+                        "S": " A country seat; a country or suburban residence of some pretensions to elegance."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Villi"
+                    },
+                    "Definition": {
+                        "S": " ,  >pl"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Vim"
+                    },
+                    "Definition": {
+                        "S": " Power; force; energy; spirit; activity; vigor."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Vimen"
+                    },
+                    "Definition": {
+                        "S": " A long, slender, flexible shoot or branch."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Vine"
+                    },
+                    "Definition": {
+                        "S": " Any woody climbing plant which bears grapes."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Vined"
+                    },
+                    "Definition": {
+                        "S": " Having leaves like those of the vine; ornamented with vine leaves."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Viner"
+                    },
+                    "Definition": {
+                        "S": " A vinedresser."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Vinic"
+                    },
+                    "Definition": {
+                        "S": " Of or pertaining to wine;  s>as,  x>vinic"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Vinny"
+                    },
+                    "Definition": {
+                        "S": " Vinnewed."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Viny"
+                    },
+                    "Definition": {
+                        "S": " Of or pertaining to vines; producing, or abounding in, vines."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Vinyl"
+                    },
+                    "Definition": {
+                        "S": " The hypothetical radical  hform>C2H3"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Viol"
+                    },
+                    "Definition": {
+                        "S": " A stringed musical instrument formerly in use, of the same form as the violin, but larger, and having six strings, to be struck with a bow, and the neck furnished with frets for stopping the strings."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Viola"
+                    },
+                    "Definition": {
+                        "S": " A genus of polypetalous herbaceous plants, including all kinds of violets."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Viola"
+                    },
+                    "Definition": {
+                        "S": " An instrument in form and use resembling the violin, but larger, and a fifth lower in compass."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Viole"
+                    },
+                    "Definition": {
+                        "S": " A vial."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Viper"
+                    },
+                    "Definition": {
+                        "S": " Any one of numerous species of Old World venomous makes belonging to  pn>Vipera"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Vire"
+                    },
+                    "Definition": {
+                        "S": " An arrow, having a rotary motion, formerly used with the crossbow. Cf.  r>Vireton"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Vireo"
+                    },
+                    "Definition": {
+                        "S": " Any one of numerous species of American singing birds belonging to  pn>Vireo"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Virge"
+                    },
+                    "Definition": {
+                        "S": " A wand.  See  r>Verge"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Virgo"
+                    },
+                    "Definition": {
+                        "S": " A sign of the zodiac which the sun enters about the 21st of August, marked thus [ irgo/] in almanacs."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Virid"
+                    },
+                    "Definition": {
+                        "S": " Green."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Virtu"
+                    },
+                    "Definition": {
+                        "S": " A love of the fine arts; a taste for curiosities."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Virus"
+                    },
+                    "Definition": {
+                        "S": " Contagious or poisonous matter, as of specific ulcers, the bite of snakes, etc.; -- applied to organic poisons."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Vis"
+                    },
+                    "Definition": {
+                        "S": " Force; power."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Visa"
+                    },
+                    "Definition": {
+                        "S": " See  r>Vis"}}}}]}

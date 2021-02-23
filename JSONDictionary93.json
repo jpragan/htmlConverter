@@ -1,0 +1,151 @@
+{"Dictionary":[{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Char"
+                    },
+                    "Definition": {
+                        "S": " To reduce to coal or carbon by exposure to heat; to reduce to charcoal; to burn to a cinder."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Chara"
+                    },
+                    "Definition": {
+                        "S": " A genus of flowerless plants, having articulated stems and whorled branches. They flourish in wet places."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Chard"
+                    },
+                    "Definition": {
+                        "S": " The tender leaves or leafstalks of the artichoke, white beet, etc., blanched for table use."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Chare"
+                    },
+                    "Definition": {
+                        "S": " A narrow street."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Chare"
+                    },
+                    "Definition": {
+                        "S": " A chore; to chore; to do. See  r>Char"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Chark"
+                    },
+                    "Definition": {
+                        "S": " Charcoal; a cinder."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Chark"
+                    },
+                    "Definition": {
+                        "S": " To burn to a coal; to char."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Charm"
+                    },
+                    "Definition": {
+                        "S": " A melody; a song."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Charm"
+                    },
+                    "Definition": {
+                        "S": " To make music upon; to tune."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Charm"
+                    },
+                    "Definition": {
+                        "S": " To use magic arts or occult power; to make use of charms."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Charr"
+                    },
+                    "Definition": {
+                        "S": " See 1st  r>Char"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Chart"
+                    },
+                    "Definition": {
+                        "S": " A sheet of paper, pasteboard, or the like, on which information is exhibited, esp. when the information is arranged in tabular form;  s>as, an historical  x>chart"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Chart"
+                    },
+                    "Definition": {
+                        "S": " To lay down in a chart; to map; to delineate;  s>as, to  x>chart"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Chary"
+                    },
+                    "Definition": {
+                        "S": " Careful; wary; cautious; not rash, reckless, or spendthrift; saving; frugal."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Chase"
+                    },
+                    "Definition": {
+                        "S": " To pursue for the purpose of killing or taking, as an enemy, or game; to hunt."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Chase"
+                    },
+                    "Definition": {
+                        "S": " To give chase; to hunt;  s>as, to  x>chase"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Chase"
+                    },
+                    "Definition": {
+                        "S": " Vehement pursuit for the purpose of killing or capturing, as of an enemy, or game; an earnest seeking after any object greatly desired; the act or habit of hunting; a hunt."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Chase"
+                    },
+                    "Definition": {
+                        "S": " A rectangular iron frame in which pages or columns of type are imposed."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Chase"
+                    },
+                    "Definition": {
+                        "S": " To ornament (a surface of metal) by embossing, cutting away parts, and the like."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Chasm"
+                    },
+                    "Definition": {
+                        "S": " A deep opening made by disruption, as a breach in the earth or a rock; a yawning abyss; a cleft; a fissure."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Chast"
+                    },
+                    "Definition": {
+                        "S": " to chasten."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Chat"
+                    },
+                    "Definition": {
+                        "S": " To talk in a light and familiar manner; to converse without form or ceremony; to gossip."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Chat"
+                    },
+                    "Definition": {
+                        "S": " To talk of."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Chat"
+                    },
+                    "Definition": {
+                        "S": " Light, familiar talk; conversation; gossip."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Chat"
+                    },
+                    "Definition": {
+                        "S": " A twig, cone, or little branch. See  r>Chit"}}}}]}

@@ -1,0 +1,151 @@
+{"Dictionary":[{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Haunt"
+                    },
+                    "Definition": {
+                        "S": " To persist in staying or visiting."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Haunt"
+                    },
+                    "Definition": {
+                        "S": " A place to which one frequently resorts;  s>as, drinking saloons are the  x>haunts"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Haut"
+                    },
+                    "Definition": {
+                        "S": " Haughty."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Have"
+                    },
+                    "Definition": {
+                        "S": " To hold in possession or control; to own;  s>as, he  x>has"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Haven"
+                    },
+                    "Definition": {
+                        "S": " A bay, recess, or inlet of the sea, or the mouth of a river, which affords anchorage and shelter for shipping; a harbor; a port."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Haven"
+                    },
+                    "Definition": {
+                        "S": " To shelter, as in a haven."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Haver"
+                    },
+                    "Definition": {
+                        "S": " A possessor; a holder."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Haver"
+                    },
+                    "Definition": {
+                        "S": " The oat; oats."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Haver"
+                    },
+                    "Definition": {
+                        "S": " To maunder; to talk foolishly; to chatter."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Havoc"
+                    },
+                    "Definition": {
+                        "S": " Wide and general destruction; devastation; waste."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Havoc"
+                    },
+                    "Definition": {
+                        "S": " To devastate; to destroy; to lay waste."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Havoc"
+                    },
+                    "Definition": {
+                        "S": " A cry in war as the signal for indiscriminate slaughter."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Haw"
+                    },
+                    "Definition": {
+                        "S": " A hedge; an inclosed garden or yard."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Haw"
+                    },
+                    "Definition": {
+                        "S": " The third eyelid, or nictitating membrane. See  ref>Nictitating membrane"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Haw"
+                    },
+                    "Definition": {
+                        "S": " An intermission or hesitation of speech, with a sound somewhat like  >haw"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Haw"
+                    },
+                    "Definition": {
+                        "S": " To stop, in speaking, with a sound like  >haw"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Haw"
+                    },
+                    "Definition": {
+                        "S": " To turn to the near side, or toward the driver; -- said of cattle or a team: a word used by teamsters in guiding their teams, and most frequently in the imperative. See  r>Gee"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Haw"
+                    },
+                    "Definition": {
+                        "S": " To cause to turn, as a team, to the near side, or toward the driver;  s>as, to  x>haw"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Hawk"
+                    },
+                    "Definition": {
+                        "S": " One of numerous species and genera of rapacious birds of the family  pn>Falconide"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Hawk"
+                    },
+                    "Definition": {
+                        "S": " To catch, or attempt to catch, birds by means of hawks trained for the purpose, and let loose on the prey; to practice falconry."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Hawk"
+                    },
+                    "Definition": {
+                        "S": " To clear the throat with an audible sound by forcing an expiratory current of air through the narrow passage between the depressed soft palate and the root of the tongue, thus aiding in the removal of f"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Hawk"
+                    },
+                    "Definition": {
+                        "S": " To raise by hawking, as phlegm."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Hawk"
+                    },
+                    "Definition": {
+                        "S": " An effort to force up phlegm from the throat, accompanied with noise."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Hawk"
+                    },
+                    "Definition": {
+                        "S": " To offer for sale by outcry in the street; to carry (merchandise) about from place to place for sale; to peddle;  s>as, to  x>hawk"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Hawk"
+                    },
+                    "Definition": {
+                        "S": " A small board, with a handle on the under side, to hold mortar."}}}}]}

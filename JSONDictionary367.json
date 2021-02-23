@@ -1,0 +1,151 @@
+{"Dictionary":[{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Moss"
+                    },
+                    "Definition": {
+                        "S": " To cover or overgrow with moss."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Mossy"
+                    },
+                    "Definition": {
+                        "S": " Overgrown with moss; abounding with or edged with moss;  s>as,  x>mossy"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Most"
+                    },
+                    "Definition": {
+                        "S": " Consisting of the greatest number or quantity; greater in number or quantity than all the rest; nearly all."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Most"
+                    },
+                    "Definition": {
+                        "S": " In the greatest or highest degree."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Moste"
+                    },
+                    "Definition": {
+                        "S": " of  r>Mote"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Mot"
+                    },
+                    "Definition": {
+                        "S": " May; must; might."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Mot"
+                    },
+                    "Definition": {
+                        "S": " A word; hence, a motto; a device."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Mote"
+                    },
+                    "Definition": {
+                        "S": " See 1st  r>Mot"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Mote"
+                    },
+                    "Definition": {
+                        "S": " A meeting of persons for discussion;  s>as, a ward x>mote"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Mote"
+                    },
+                    "Definition": {
+                        "S": " The flourish sounded on a horn by a huntsman. See  r>Mot"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Mote"
+                    },
+                    "Definition": {
+                        "S": " A small particle, as of floating dust; anything proverbially small; a speck."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Moted"
+                    },
+                    "Definition": {
+                        "S": " Filled with motes, or fine floating dust;  s>as, the air"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Motet"
+                    },
+                    "Definition": {
+                        "S": " A composition adapted to sacred words in the elaborate polyphonic church style; an anthem."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Moth"
+                    },
+                    "Definition": {
+                        "S": " A mote."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Moth"
+                    },
+                    "Definition": {
+                        "S": " Any nocturnal lepidopterous insect, or any not included among the butterflies;  s>as, the luna  x>moth"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Mothy"
+                    },
+                    "Definition": {
+                        "S": " Infested with moths; moth-eaten."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Motif"
+                    },
+                    "Definition": {
+                        "S": " Motive."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Moto"
+                    },
+                    "Definition": {
+                        "S": " Movement; manner of movement; particularly, movement with increased rapidity; -- used especially in the phrase  >con moto"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Moton"
+                    },
+                    "Definition": {
+                        "S": " A small plate covering the armpit in armor of the 14th century and later."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Motor"
+                    },
+                    "Definition": {
+                        "S": " One who, or that which, imparts motion; a source of mechanical power."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Motte"
+                    },
+                    "Definition": {
+                        "S": " A clump of trees in a prairie."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Motto"
+                    },
+                    "Definition": {
+                        "S": " A sentence, phrase, or word, forming part of an heraldic achievment."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Motty"
+                    },
+                    "Definition": {
+                        "S": " Full of, or consisting of, motes."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Moule"
+                    },
+                    "Definition": {
+                        "S": " To contract mold; to grow moldy; to mold."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Moult"
+                    },
+                    "Definition": {
+                        "S": " See  r>Molt"}}}}]}

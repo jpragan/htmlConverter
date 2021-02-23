@@ -1,0 +1,151 @@
+{"Dictionary":[{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Ghost"
+                    },
+                    "Definition": {
+                        "S": " To die; to expire."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Ghost"
+                    },
+                    "Definition": {
+                        "S": " To appear to or haunt in the form of an apparition."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Ghoul"
+                    },
+                    "Definition": {
+                        "S": " An imaginary evil being among Eastern nations, which was supposed to feed upon human bodies."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Ghyll"
+                    },
+                    "Definition": {
+                        "S": " A ravine. See  r>Gill"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Giant"
+                    },
+                    "Definition": {
+                        "S": " A man of extraordinari bulk and stature."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Giant"
+                    },
+                    "Definition": {
+                        "S": " Like a giant; extraordinary in size, strength, or power;  s>as,  x>giant"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Gib"
+                    },
+                    "Definition": {
+                        "S": " A male cat; a tomcat."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Gib"
+                    },
+                    "Definition": {
+                        "S": " To act like a cat."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Gib"
+                    },
+                    "Definition": {
+                        "S": " A piece or slip of metal or wood, notched or otherwise, in a machine or structure, to hold other parts in place or bind them together, or to afford a bearing surface; -- usually held or adjusted by mean"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Gib"
+                    },
+                    "Definition": {
+                        "S": " To secure or fasten with a gib, or gibs; to provide with a gib, or gibs."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Gib"
+                    },
+                    "Definition": {
+                        "S": " To balk. See  r>Jib"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Gibe"
+                    },
+                    "Definition": {
+                        "S": " To cast reproaches and sneering expressions; to rail; to utter taunting, sarcastic words; to flout; to fleer; to scoff."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Gibe"
+                    },
+                    "Definition": {
+                        "S": " To reproach with contemptuous words; to deride; to scoff at; to mock."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Gibe"
+                    },
+                    "Definition": {
+                        "S": " An expression of sarcastic scorn; a sarcastic jest; a scoff; a taunt; a sneer."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Gibel"
+                    },
+                    "Definition": {
+                        "S": " A kind of carp ( pn>Cyprinus gibelio"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Giber"
+                    },
+                    "Definition": {
+                        "S": " One who utters gibes."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Gid"
+                    },
+                    "Definition": {
+                        "S": " A disease of sheep, characterized by vertigo; the staggers. It is caused by the presence of the Cnurus, a larval tapeworm, in the brain. See  r>Cnurus"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Giddy"
+                    },
+                    "Definition": {
+                        "S": " Having in the head a sensation of whirling or reeling about; having lost the power of preserving the balance of the body, and therefore wavering and inclined to fall; lightheaded; dizzy."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Giddy"
+                    },
+                    "Definition": {
+                        "S": " To reel; to whirl."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Giddy"
+                    },
+                    "Definition": {
+                        "S": " To make dizzy or unsteady."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Gie"
+                    },
+                    "Definition": {
+                        "S": " To guide. See  r>Gye"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Gie"
+                    },
+                    "Definition": {
+                        "S": " To give."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Gif"
+                    },
+                    "Definition": {
+                        "S": " If."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Giffy"
+                    },
+                    "Definition": {
+                        "S": " See  r>Jiffy"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Gift"
+                    },
+                    "Definition": {
+                        "S": " Anything given; anything voluntarily transferred by one person to another without compensation; a present; an offering."}}}}]}

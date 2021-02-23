@@ -1,0 +1,151 @@
+{"Dictionary":[{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Duke"
+                    },
+                    "Definition": {
+                        "S": " To play the duke."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Dulce"
+                    },
+                    "Definition": {
+                        "S": " To make sweet; to soothe."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Dulia"
+                    },
+                    "Definition": {
+                        "S": " An inferior kind of veneration or worship, given to the angels and saints as the servants of God."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Dull"
+                    },
+                    "Definition": {
+                        "S": " Slow of understanding; wanting readiness of apprehension; stupid; doltish; blockish."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Dull"
+                    },
+                    "Definition": {
+                        "S": " To deprive of sharpness of edge or point."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Dull"
+                    },
+                    "Definition": {
+                        "S": " To become dull or stupid."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Dully"
+                    },
+                    "Definition": {
+                        "S": " In a dull manner; stupidly; slowly; sluggishly; without life or spirit."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Dulse"
+                    },
+                    "Definition": {
+                        "S": " A seaweed of a reddish brown color, which is sometimes eaten, as in Scotland. The true dulse is  pn>Sarcophyllis edulis"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Duly"
+                    },
+                    "Definition": {
+                        "S": " In a due, fit, or becoming manner; as it (anything) ought to be; properly; regularly."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Dumal"
+                    },
+                    "Definition": {
+                        "S": " Pertaining to, or set with, briers or bushes; brambly."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Dumb"
+                    },
+                    "Definition": {
+                        "S": " Destitute of the power of speech; unable; to utter articulate sounds;  s>as, the  x>dumb"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Dumb"
+                    },
+                    "Definition": {
+                        "S": " To put to silence."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Dummy"
+                    },
+                    "Definition": {
+                        "S": " Silent; mute; noiseless; as a  >dummy"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Dummy"
+                    },
+                    "Definition": {
+                        "S": " One who is dumb."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Dump"
+                    },
+                    "Definition": {
+                        "S": " A thick, ill-shapen piece; a clumsy leaden counter used by boys in playing chuck farthing."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Dump"
+                    },
+                    "Definition": {
+                        "S": " A dull, gloomy state of the mind; sadness; melancholy; low spirits; despondency; ill humor; -- now used only in the plural."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Dump"
+                    },
+                    "Definition": {
+                        "S": " To knock heavily; to stump."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Dump"
+                    },
+                    "Definition": {
+                        "S": " A car or boat for dumping refuse, etc."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Dumpy"
+                    },
+                    "Definition": {
+                        "S": " Short and thick; of low stature and disproportionately stout."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Dun"
+                    },
+                    "Definition": {
+                        "S": " A mound or small hill."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Dun"
+                    },
+                    "Definition": {
+                        "S": " To cure, as codfish, in a particular manner, by laying them, after salting, in a pile in a dark place, covered with salt grass or some like substance."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Dun"
+                    },
+                    "Definition": {
+                        "S": " To ask or beset, as a debtor, for payment; to urge importunately."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Dun"
+                    },
+                    "Definition": {
+                        "S": " One who duns; a dunner."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Dun"
+                    },
+                    "Definition": {
+                        "S": " Of a dark color; of a color partaking of a brown and black; of a dull brown color; swarthy."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Dunce"
+                    },
+                    "Definition": {
+                        "S": " One backward in book learning; a child or other person dull or weak in intellect; a dullard; a dolt."}}}}]}

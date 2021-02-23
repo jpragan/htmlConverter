@@ -1,0 +1,151 @@
+{"Dictionary":[{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Light"
+                    },
+                    "Definition": {
+                        "S": " To dismount; to descend, as from a horse or carriage; to alight; -- with  tcl>from"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Like"
+                    },
+                    "Definition": {
+                        "S": " Having the same, or nearly the same, appearance, qualities, or characteristics; resembling; similar to; similar; alike; -- often with  >in"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Like"
+                    },
+                    "Definition": {
+                        "S": " That which is equal or similar to another; the counterpart; an exact resemblance; a copy."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Like"
+                    },
+                    "Definition": {
+                        "S": " In a manner like that of; in a manner similar to;  s>as, do not act  x>like"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Like"
+                    },
+                    "Definition": {
+                        "S": " To suit; to please; to be agreeable to."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Like"
+                    },
+                    "Definition": {
+                        "S": " To be pleased; to choose."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Liken"
+                    },
+                    "Definition": {
+                        "S": " To allege, or think, to be like; to represent as like; to compare;  s>as, to  x>liken"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Lilac"
+                    },
+                    "Definition": {
+                        "S": " A shrub of the genus  pn>Syringa"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Lill"
+                    },
+                    "Definition": {
+                        "S": " To loll."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Lilt"
+                    },
+                    "Definition": {
+                        "S": " To do anything with animation and quickness, as to skip, fly, or hop."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Lilt"
+                    },
+                    "Definition": {
+                        "S": " To utter with spirit, animation, or gayety; to sing with spirit and liveliness."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Lilt"
+                    },
+                    "Definition": {
+                        "S": " Animated, brisk motion; spirited rhythm; sprightliness."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Lily"
+                    },
+                    "Definition": {
+                        "S": " A plant and flower of the genus  pn>Lilium"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Lim"
+                    },
+                    "Definition": {
+                        "S": " A limb."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Lima"
+                    },
+                    "Definition": {
+                        "S": " The capital city of Peru, in South America."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Lima"
+                    },
+                    "Definition": {
+                        "S": " A curve of the fourth degree, invented by Pascal. Its polar equation is  >r = a"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Liman"
+                    },
+                    "Definition": {
+                        "S": " The deposit of slime at the mouth of a river; slime."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Limax"
+                    },
+                    "Definition": {
+                        "S": " A genus of airbreathing mollusks, including the common garden slugs. They have a small rudimentary shell. The breathing pore is on the right side of the neck. Several species are troublesome in gardens."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Limb"
+                    },
+                    "Definition": {
+                        "S": " A part of a tree which extends from the trunk and separates into branches and twigs; a large branch."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Limb"
+                    },
+                    "Definition": {
+                        "S": " To supply with limbs."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Limb"
+                    },
+                    "Definition": {
+                        "S": " A border or edge, in certain special uses."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Lime"
+                    },
+                    "Definition": {
+                        "S": " A thong by which a dog is led; a leash."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Lime"
+                    },
+                    "Definition": {
+                        "S": " The linden tree. See  r>Linden"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Lime"
+                    },
+                    "Definition": {
+                        "S": " A fruit allied to the lemon, but much smaller; also, the tree which bears it. There are two kinds;  pn>Citrus Medica"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Lime"
+                    },
+                    "Definition": {
+                        "S": " Birdlime."}}}}]}

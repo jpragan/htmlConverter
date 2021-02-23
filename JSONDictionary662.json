@@ -1,0 +1,151 @@
+{"Dictionary":[{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Wite"
+                    },
+                    "Definition": {
+                        "S": " Blame; reproach."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Witen"
+                    },
+                    "Definition": {
+                        "S": "  t>pl. pres."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "With"
+                    },
+                    "Definition": {
+                        "S": " See  r>Withe"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "With"
+                    },
+                    "Definition": {
+                        "S": "  >With"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Withe"
+                    },
+                    "Definition": {
+                        "S": " A flexible, slender twig or branch used as a band; a willow or osier twig; a withy."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Withe"
+                    },
+                    "Definition": {
+                        "S": " To bind or fasten with withes."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Withy"
+                    },
+                    "Definition": {
+                        "S": " The osier willow ( pn>Salix viminalis"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Withy"
+                    },
+                    "Definition": {
+                        "S": " Made of withes; like a withe; flexible and tough; also, abounding in withes."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Witts"
+                    },
+                    "Definition": {
+                        "S": " Tin ore freed from earthy matter by stamping."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Witty"
+                    },
+                    "Definition": {
+                        "S": " Possessed of wit; knowing; wise; skillful; judicious; clever; cunning."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Wive"
+                    },
+                    "Definition": {
+                        "S": " To marry, as a man; to take a wife."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Wive"
+                    },
+                    "Definition": {
+                        "S": " To match to a wife; to provide with a wife."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Wives"
+                    },
+                    "Definition": {
+                        "S": " ,  >pl"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Wizen"
+                    },
+                    "Definition": {
+                        "S": " To wither; to dry."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Wizen"
+                    },
+                    "Definition": {
+                        "S": " Wizened; thin; weazen; withered."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Wizen"
+                    },
+                    "Definition": {
+                        "S": " The weasand."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Wo"
+                    },
+                    "Definition": {
+                        "S": " See  r>Woe"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Woad"
+                    },
+                    "Definition": {
+                        "S": " An herbaceous cruciferous plant ( pn>Isatis tinctoria"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Woald"
+                    },
+                    "Definition": {
+                        "S": " See  r>Weld"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Wode"
+                    },
+                    "Definition": {
+                        "S": " Mad.  See  r>Wood"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Wode"
+                    },
+                    "Definition": {
+                        "S": " Wood."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Woden"
+                    },
+                    "Definition": {
+                        "S": " A deity corresponding to Odin, the supreme deity of the Scandinavians.   >Wednesday"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Woe"
+                    },
+                    "Definition": {
+                        "S": " Grief; sorrow; misery; heavy calamity."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Woe"
+                    },
+                    "Definition": {
+                        "S": " Woeful; sorrowful."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Woke"
+                    },
+                    "Definition": {
+                        "S": "  r>Wake"}}}}]}

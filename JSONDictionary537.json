@@ -1,0 +1,151 @@
+{"Dictionary":[{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Snape"
+                    },
+                    "Definition": {
+                        "S": " To bevel the end of a timber to fit against an inclined surface."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Snar"
+                    },
+                    "Definition": {
+                        "S": " To snarl."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Snare"
+                    },
+                    "Definition": {
+                        "S": " A contrivance, often consisting of a noose of cord, or the like, by which a bird or other animal may be entangled and caught; a trap; a gin."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Snare"
+                    },
+                    "Definition": {
+                        "S": " To catch with a snare; to insnare; to entangle; hence, to bring into unexpected evil, perplexity, or danger."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Snarl"
+                    },
+                    "Definition": {
+                        "S": " To form raised work upon the outer surface of (thin metal ware) by the repercussion of a snarling iron upon the inner surface."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Snarl"
+                    },
+                    "Definition": {
+                        "S": " To entangle; to complicate; to involve in knots;  s>as, to  x>snarl"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Snarl"
+                    },
+                    "Definition": {
+                        "S": " A knot or complication of hair, thread, or the like, difficult to disentangle; entanglement; hence, intricate complication; embarrassing difficulty."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Snarl"
+                    },
+                    "Definition": {
+                        "S": " To growl, as an angry or surly dog; to gnarl; to utter grumbling sounds."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Snarl"
+                    },
+                    "Definition": {
+                        "S": " The act of snarling; a growl; a surly or peevish expression; an angry contention."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Snary"
+                    },
+                    "Definition": {
+                        "S": " Resembling, or consisting of, snares; entangling; insidious."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Snast"
+                    },
+                    "Definition": {
+                        "S": " The snuff, or burnt wick, of a candle."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Snaw"
+                    },
+                    "Definition": {
+                        "S": " Snow."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Snead"
+                    },
+                    "Definition": {
+                        "S": " A snath."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Sneak"
+                    },
+                    "Definition": {
+                        "S": " To creep or steal (away or about) privately; to come or go meanly, as a person afraid or ashamed to be seen;  s>as, to  x>sneak"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Sneak"
+                    },
+                    "Definition": {
+                        "S": " To hide, esp. in a mean or cowardly manner."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Sneak"
+                    },
+                    "Definition": {
+                        "S": " A mean, sneaking fellow."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Sneap"
+                    },
+                    "Definition": {
+                        "S": " To check; to reprimand; to rebuke; to chide."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Sneap"
+                    },
+                    "Definition": {
+                        "S": " A reprimand; a rebuke."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Sneb"
+                    },
+                    "Definition": {
+                        "S": " To reprimand; to sneap."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Sneck"
+                    },
+                    "Definition": {
+                        "S": " To fasten by a hatch; to latch, as a door."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Sneck"
+                    },
+                    "Definition": {
+                        "S": " A door latch."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Sned"
+                    },
+                    "Definition": {
+                        "S": " To lop; to snathe."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Sneer"
+                    },
+                    "Definition": {
+                        "S": " To show contempt by turning up the nose, or by a particular facial expression."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Sneer"
+                    },
+                    "Definition": {
+                        "S": " To utter with a grimace or contemptuous expression; to utter with a sneer; to say sneeringly;  s>as, to  x>sneer"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Sneer"
+                    },
+                    "Definition": {
+                        "S": " The act of sneering."}}}}]}

@@ -1,0 +1,151 @@
+{"Dictionary":[{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Peony"
+                    },
+                    "Definition": {
+                        "S": " See  r>Peony"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Pagan"
+                    },
+                    "Definition": {
+                        "S": " One who worships false goods; an idolater; a heathen; one who is neither a Christian, a Mohammedan, nor a Jew."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Pagan"
+                    },
+                    "Definition": {
+                        "S": " Of or pertaining to pagans; relating to the worship or the worshipers of false goods; heathen; idolatrous,  s>as,  x>pagan"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Page"
+                    },
+                    "Definition": {
+                        "S": " A serving boy; formerly, a youth attending a person of high degree, especially at courts, as a position of honor and education; now commonly, in England, a youth employed for doin errands, waiting on th"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Page"
+                    },
+                    "Definition": {
+                        "S": " To attend (one) as a page."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Page"
+                    },
+                    "Definition": {
+                        "S": " One side of a leaf of a book or manuscript."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Page"
+                    },
+                    "Definition": {
+                        "S": " To mark or number the pages of, as a book or manuskript; to furnish with folios."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Pagod"
+                    },
+                    "Definition": {
+                        "S": " A pagoda.  ark>[R.]"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Pah"
+                    },
+                    "Definition": {
+                        "S": " An exclamation expressing disgust or contempt. See  r>Bah"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Pah"
+                    },
+                    "Definition": {
+                        "S": " A kind of stockaded intrenchment."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Pahi"
+                    },
+                    "Definition": {
+                        "S": " A large war canoe of the Society Islands."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Paid"
+                    },
+                    "Definition": {
+                        "S": " Receiving pay; compensated; hired;  s>as, a  x>paid"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Paien"
+                    },
+                    "Definition": {
+                        "S": " Pagan."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Pail"
+                    },
+                    "Definition": {
+                        "S": " A vessel of wood or tin, etc., usually cylindrical and having a bail, -- used esp. for carrying liquids, as water or milk, etc.; a bucket. It may, or may not, have a cover."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Pain"
+                    },
+                    "Definition": {
+                        "S": " Punishment suffered or denounced; suffering or evil inflicted as a punishment for crime, or connected with the commission of a crime; penalty."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Pain"
+                    },
+                    "Definition": {
+                        "S": " To inflict suffering upon as a penalty; to punish."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Pains"
+                    },
+                    "Definition": {
+                        "S": " Labor; toilsome effort; care or trouble taken; -- plural in form, but used with a singular or plural verb, commonly the former."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Paint"
+                    },
+                    "Definition": {
+                        "S": " To cover with coloring matter; to apply paint to;  s>as, to  x>paint"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Paint"
+                    },
+                    "Definition": {
+                        "S": " To practice the art of painting;  s>as, the artist  x>paints"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Paint"
+                    },
+                    "Definition": {
+                        "S": " A pigment or coloring substance."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Pair"
+                    },
+                    "Definition": {
+                        "S": " A number of things resembling one another, or belonging together; a set;  s>as, a  x>pair"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Pair"
+                    },
+                    "Definition": {
+                        "S": " To be joined in paris; to couple; to mate, as for breeding."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Pair"
+                    },
+                    "Definition": {
+                        "S": " To unite in couples; to form a pair of; to bring together, as things which belong together, or which complement, or are adapted to one another."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Pair"
+                    },
+                    "Definition": {
+                        "S": " To impair."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Pais"
+                    },
+                    "Definition": {
+                        "S": " The country; the people of the neighborhood."}}}}]}

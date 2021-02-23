@@ -1,0 +1,151 @@
+{"Dictionary":[{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Text"
+                    },
+                    "Definition": {
+                        "S": " To write in large characters, as in text hand."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Teyne"
+                    },
+                    "Definition": {
+                        "S": " A thin plate of metal."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Th"
+                    },
+                    "Definition": {
+                        "S": " In Old English, the article  >the"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Thak"
+                    },
+                    "Definition": {
+                        "S": " To thwack."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Than"
+                    },
+                    "Definition": {
+                        "S": " A particle expressing comparison, used after certain adjectives and adverbs which express comparison or diversity, as  >more"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Than"
+                    },
+                    "Definition": {
+                        "S": " Then. See  r>Then"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Thane"
+                    },
+                    "Definition": {
+                        "S": " A dignitary under the Anglo-Saxons and Danes in England. Of these there were two orders, the king's thanes, who attended the kings in their courts and held lands immediately of them, and the ordinary th"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Thank"
+                    },
+                    "Definition": {
+                        "S": " A expression of gratitude; an acknowledgment expressive of a sense of favor or kindness received; obligation, claim, or desert, or gratitude; -- now generally used in the plural."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Thank"
+                    },
+                    "Definition": {
+                        "S": " To express gratitude to (anyone) for a favor; to make acknowledgments to (anyone) for kindness bestowed; -- used also ironically for  >blame"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Thar"
+                    },
+                    "Definition": {
+                        "S": " A goatlike animal ( pn>Capra Jemlaica"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Thar"
+                    },
+                    "Definition": {
+                        "S": " It needs; need."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "That"
+                    },
+                    "Definition": {
+                        "S": " As a demonstrative pronoun ( luf>pl."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Thave"
+                    },
+                    "Definition": {
+                        "S": " Same as  r>Theave"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Thaw"
+                    },
+                    "Definition": {
+                        "S": " To melt, dissolve, or become fluid; to soften; -- said of that which is frozen;  s>as, the ice  x>thaws"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Thaw"
+                    },
+                    "Definition": {
+                        "S": " To cause (frozen things, as earth, snow, ice) to melt, soften, or dissolve."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Thaw"
+                    },
+                    "Definition": {
+                        "S": " The melting of ice, snow, or other congealed matter; the resolution of ice, or the like, into the state of a fluid; liquefaction by heat of anything congealed by frost; also, a warmth of weather suffici"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Thawy"
+                    },
+                    "Definition": {
+                        "S": " Liquefying by heat after having been frozen; thawing; melting."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "The"
+                    },
+                    "Definition": {
+                        "S": " See  r>Thee"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "The"
+                    },
+                    "Definition": {
+                        "S": " A word placed before nouns to limit or individualize their meaning."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "The"
+                    },
+                    "Definition": {
+                        "S": " By that; by how much; by so much; on that account; -- used before comparatives;  s>as,  x>the"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Thea"
+                    },
+                    "Definition": {
+                        "S": " A genus of plants found in China and Japan; the tea plant."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Theca"
+                    },
+                    "Definition": {
+                        "S": " A sheath; a case;  s>as, the  x>theca"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Thee"
+                    },
+                    "Definition": {
+                        "S": " To thrive; to prosper."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Thee"
+                    },
+                    "Definition": {
+                        "S": " The objective case of  >thou"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Theft"
+                    },
+                    "Definition": {
+                        "S": " The act of stealing; specifically, the felonious taking and removing of personal property, with an intent to deprive the rightful owner of the same; larceny."}}}}]}

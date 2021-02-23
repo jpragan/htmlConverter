@@ -1,0 +1,151 @@
+{"Dictionary":[{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Feat"
+                    },
+                    "Definition": {
+                        "S": " An act; a deed; an exploit."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Feat"
+                    },
+                    "Definition": {
+                        "S": " To form; to fashion."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Feat"
+                    },
+                    "Definition": {
+                        "S": " Dexterous in movements or service; skillful; neat; nice; pretty."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Feaze"
+                    },
+                    "Definition": {
+                        "S": " To untwist; to unravel, as the end of a rope."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Feaze"
+                    },
+                    "Definition": {
+                        "S": " To beat; to chastise; also, to humble; to harass; to worry."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Feaze"
+                    },
+                    "Definition": {
+                        "S": " A state of anxious or fretful excitement; worry; vexation."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Fecal"
+                    },
+                    "Definition": {
+                        "S": " relating to, or containing, dregs, feces, or ordeure; fecal."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Feces"
+                    },
+                    "Definition": {
+                        "S": " dregs; sediment; excrement. See  r>Faces"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Fecks"
+                    },
+                    "Definition": {
+                        "S": " A corruption of the word  >faith"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Fed"
+                    },
+                    "Definition": {
+                        "S": "  t>imp. & p. p."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Fee"
+                    },
+                    "Definition": {
+                        "S": " property; possession; tenure."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Fee"
+                    },
+                    "Definition": {
+                        "S": " To reward for services performed, or to be performed; to recompense; to hire or keep in hire; hence, to bribe."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Feed"
+                    },
+                    "Definition": {
+                        "S": " To give food to; to supply with nourishment; to satisfy the physical huger of."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Feed"
+                    },
+                    "Definition": {
+                        "S": " To take food; to eat."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Feed"
+                    },
+                    "Definition": {
+                        "S": " That which is eaten; esp., food for beasts; fodder; pasture; hay; grain, ground or whole;  s>as, the best  x>feed"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Feel"
+                    },
+                    "Definition": {
+                        "S": " To perceive by the touch; to take cognizance of by means of the nerves of sensation distributed all over the body, especially by those of the skin; to have sensation excited by contact of (a thing) with"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Feel"
+                    },
+                    "Definition": {
+                        "S": " To have perception by the touch, or by contact of anything with the nerves of sensation, especially those upon the surface of the body."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Feel"
+                    },
+                    "Definition": {
+                        "S": " Feeling; perception."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Feere"
+                    },
+                    "Definition": {
+                        "S": " A consort, husband or wife; a companion; a fere."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Feese"
+                    },
+                    "Definition": {
+                        "S": " the short run before a leap."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Feet"
+                    },
+                    "Definition": {
+                        "S": " See  r>Foot"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Feet"
+                    },
+                    "Definition": {
+                        "S": " Fact; performance."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Feeze"
+                    },
+                    "Definition": {
+                        "S": " To turn, as a screw."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Feeze"
+                    },
+                    "Definition": {
+                        "S": " Fretful excitement.  ark>[Obs.]"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Feign"
+                    },
+                    "Definition": {
+                        "S": " To give a mental existence to, as to something not real or actual; to imagine; to invent; hence, to pretend; to form and relate as if true."}}}}]}

@@ -1,0 +1,151 @@
+{"Dictionary":[{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Agon"
+                    },
+                    "Definition": {
+                        "S": " A contest for a prize at the public games."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Agone"
+                    },
+                    "Definition": {
+                        "S": " Ago."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Agone"
+                    },
+                    "Definition": {
+                        "S": " Agonic line."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Agony"
+                    },
+                    "Definition": {
+                        "S": " Violent contest or striving."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Agora"
+                    },
+                    "Definition": {
+                        "S": " An assembly; hence, the place of assembly, especially the market place, in an ancient Greek city."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Agree"
+                    },
+                    "Definition": {
+                        "S": " To harmonize in opinion, statement, or action; to be in unison or concord; to be or become united or consistent; to concur;  s>as, all parties  x>agree"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Agree"
+                    },
+                    "Definition": {
+                        "S": " To make harmonious; to reconcile or make friends."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Agrin"
+                    },
+                    "Definition": {
+                        "S": " In the act of grinning."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Agrom"
+                    },
+                    "Definition": {
+                        "S": " A disease occurring in Bengal and other parts of the East Indies, in which the tongue chaps and cleaves."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Ague"
+                    },
+                    "Definition": {
+                        "S": " An acute fever."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Ague"
+                    },
+                    "Definition": {
+                        "S": " To strike with an ague, or with a cold fit."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Agush"
+                    },
+                    "Definition": {
+                        "S": " In a gushing state."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Ah"
+                    },
+                    "Definition": {
+                        "S": " An exclamation, expressive of surprise, pity, complaint, entreaty, contempt, threatening, delight, triumph, etc., according to the manner of utterance."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Aha"
+                    },
+                    "Definition": {
+                        "S": " An exclamation expressing, by different intonations, triumph, mixed with derision or irony, or simple surprise."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Aha"
+                    },
+                    "Definition": {
+                        "S": " A sunk fence. See  r>Ha-ha"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Ahead"
+                    },
+                    "Definition": {
+                        "S": " In or to the front; in advance; onward."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Aheap"
+                    },
+                    "Definition": {
+                        "S": " In a heap; huddled together."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Ahem"
+                    },
+                    "Definition": {
+                        "S": " An exclamation to call one's attention; hem."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Ahey"
+                    },
+                    "Definition": {
+                        "S": " Hey; ho."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Ahigh"
+                    },
+                    "Definition": {
+                        "S": " On high."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Ahold"
+                    },
+                    "Definition": {
+                        "S": " Near the wind;  s>as, to lay a ship  x>ahold"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Ahoy"
+                    },
+                    "Definition": {
+                        "S": " A term used in hailing;  s>as, 'Ship  x>ahoy"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Ahu"
+                    },
+                    "Definition": {
+                        "S": " The Asiatic gazelle."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Ahull"
+                    },
+                    "Definition": {
+                        "S": " With the sails furled, and the helm lashed alee; -- applied to ships in a storm. See  r>Hull"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Ai"
+                    },
+                    "Definition": {
+                        "S": " The three-toed sloth  pn>(Bradypus tridactylus)"}}}}]}

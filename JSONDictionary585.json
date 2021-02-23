@@ -1,0 +1,151 @@
+{"Dictionary":[{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Tared"
+                    },
+                    "Definition": {
+                        "S": " Weighed; determined; reduced to equal or standard weight;  s>as,  x>tared"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Targe"
+                    },
+                    "Definition": {
+                        "S": " A shield or target."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Tarin"
+                    },
+                    "Definition": {
+                        "S": " The siskin."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Tarn"
+                    },
+                    "Definition": {
+                        "S": " A mountain lake or pool."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Taro"
+                    },
+                    "Definition": {
+                        "S": " A name for several aroid plants ( pn>Colocasia antiquorum"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Tarot"
+                    },
+                    "Definition": {
+                        "S": " A game of cards; -- called also  ltname>taroc"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Tarre"
+                    },
+                    "Definition": {
+                        "S": " To set on, as a dog; to incite."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Tarry"
+                    },
+                    "Definition": {
+                        "S": " Consisting of, or covered with, tar; like tar."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Tarry"
+                    },
+                    "Definition": {
+                        "S": " To stay or remain behind; to wait."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Tarry"
+                    },
+                    "Definition": {
+                        "S": " To delay; to defer; to put off."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Tarry"
+                    },
+                    "Definition": {
+                        "S": " Stay; stop; delay."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Tarse"
+                    },
+                    "Definition": {
+                        "S": " The male falcon."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Tarse"
+                    },
+                    "Definition": {
+                        "S": " tarsus."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Tarsi"
+                    },
+                    "Definition": {
+                        "S": "  t>pl."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Tart"
+                    },
+                    "Definition": {
+                        "S": " Sharp to the taste; acid; sour;  s>as, a  x>tart"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Tart"
+                    },
+                    "Definition": {
+                        "S": " A species of small open pie, or piece of pastry, containing jelly or conserve; a sort of fruit pie."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Tas"
+                    },
+                    "Definition": {
+                        "S": " A heap."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Tas"
+                    },
+                    "Definition": {
+                        "S": " To tassel."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Tasco"
+                    },
+                    "Definition": {
+                        "S": " A kind of clay for making melting pots."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Task"
+                    },
+                    "Definition": {
+                        "S": " Labor or study imposed by another, often in a definite quantity or amount."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Task"
+                    },
+                    "Definition": {
+                        "S": " To impose a task upon; to assign a definite amount of business, labor, or duty to."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Tasse"
+                    },
+                    "Definition": {
+                        "S": " A piece of armor for the thighs, forming an appendage to the ancient corselet."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Taste"
+                    },
+                    "Definition": {
+                        "S": " To try by the touch; to handle;  s>as, to  x>taste"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Taste"
+                    },
+                    "Definition": {
+                        "S": " To try food with the mouth; to eat or drink a little only; to try the flavor of anything;  s>as, to  x>taste"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Taste"
+                    },
+                    "Definition": {
+                        "S": " The act of tasting; gustation."}}}}]}

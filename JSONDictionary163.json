@@ -1,0 +1,151 @@
+{"Dictionary":[{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Eat"
+                    },
+                    "Definition": {
+                        "S": " To chew and swallow as food; to devour; -- said especially of food not liquid;  s>as, to  x>eat"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Eat"
+                    },
+                    "Definition": {
+                        "S": " To take food; to feed; especially, to take solid, in distinction from liquid, food; to board."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Eater"
+                    },
+                    "Definition": {
+                        "S": " One who, or that which, eats."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Eath"
+                    },
+                    "Definition": {
+                        "S": " Easy or easily."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Eaves"
+                    },
+                    "Definition": {
+                        "S": " The edges or lower borders of the roof of a building, which overhang the walls, and cast off the water that falls on the roof."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Ebb"
+                    },
+                    "Definition": {
+                        "S": " The European bunting."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Ebb"
+                    },
+                    "Definition": {
+                        "S": " The reflux or flowing back of the tide; the return of the tidal wave toward the sea; -- opposed to  >flood"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Ebb"
+                    },
+                    "Definition": {
+                        "S": " To flow back; to return, as the water of a tide toward the ocean; -- opposed to  >flow"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Ebb"
+                    },
+                    "Definition": {
+                        "S": " To cause to flow back."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Ebb"
+                    },
+                    "Definition": {
+                        "S": " Receding; going out; falling; shallow; low."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Eblis"
+                    },
+                    "Definition": {
+                        "S": " The prince of the evil spirits; Satan."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Ebon"
+                    },
+                    "Definition": {
+                        "S": " Consisting of ebony."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Ebon"
+                    },
+                    "Definition": {
+                        "S": " Ebony."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Ebony"
+                    },
+                    "Definition": {
+                        "S": " A hard, heavy, and durable wood, which admits of a fine polish or gloss. The usual color is black, but it also occurs red or green."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Ebony"
+                    },
+                    "Definition": {
+                        "S": " Made of ebony, or resembling ebony; black;  s>as, an  x>ebony"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Eccle"
+                    },
+                    "Definition": {
+                        "S": " The European green woodpecker; -- also called  >ecall"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": ""
+                    },
+                    "Definition": {
+                        "S": " A small chamber or place of protection for a sentinel, usually in the form of a projecting turret, or the like. See  r>Castle"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Eche"
+                    },
+                    "Definition": {
+                        "S": " Each."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Echo"
+                    },
+                    "Definition": {
+                        "S": " A sound reflected from an opposing surface and repeated to the ear of a listener; repercussion of sound; repetition of a sound."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Echo"
+                    },
+                    "Definition": {
+                        "S": " To send back (a sound); to repeat in sound; to reverberate."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Echo"
+                    },
+                    "Definition": {
+                        "S": " To give an echo; to resound; to be sounded back;  s>as, the hall  x>echoed"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": ""
+                    },
+                    "Definition": {
+                        "S": " A kind of frosted cake, containing flavored cream."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Eclat"
+                    },
+                    "Definition": {
+                        "S": " Brilliancy of success or effort; splendor; brilliant show; striking effect; glory; renown."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": ""
+                    },
+                    "Definition": {
+                        "S": " A manikin, or image, representing an animal, especially man, with the skin removed so that the muscles are exposed for purposes of study."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": ""
+                    },
+                    "Definition": {
+                        "S": " A dancing tune in the Scotch style."}}}}]}

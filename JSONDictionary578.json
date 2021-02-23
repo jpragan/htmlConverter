@@ -1,0 +1,151 @@
+{"Dictionary":[{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Swim"
+                    },
+                    "Definition": {
+                        "S": " The act of swimming; a gliding motion, like that of one swimming."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Swim"
+                    },
+                    "Definition": {
+                        "S": " To be dizzy; to have an unsteady or reeling sensation;  s>as, the head  x>swims"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Swine"
+                    },
+                    "Definition": {
+                        "S": " Any animal of the hog kind, especially one of the domestical species. Swine secrete a large amount of subcutaneous fat, which, when extracted, is known as  >lard"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Swing"
+                    },
+                    "Definition": {
+                        "S": " To move to and fro, as a body suspended in the air; to wave; to vibrate; to oscillate."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Swing"
+                    },
+                    "Definition": {
+                        "S": " To cause to swing or vibrate; to cause to move backward and forward, or from one side to the other."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Swing"
+                    },
+                    "Definition": {
+                        "S": " The act of swinging; a waving, oscillating, or vibratory motion of a hanging or pivoted object; oscillation;  s>as, the  x>swing"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Swink"
+                    },
+                    "Definition": {
+                        "S": " To labor; to toil; to salve."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Swink"
+                    },
+                    "Definition": {
+                        "S": " To cause to toil or drudge; to tire or exhaust with labor."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Swink"
+                    },
+                    "Definition": {
+                        "S": " Labor; toil; drudgery."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Swipe"
+                    },
+                    "Definition": {
+                        "S": " A swape or sweep. See  r>Sweep"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Swipe"
+                    },
+                    "Definition": {
+                        "S": " To give a swipe to; to strike forcibly with a sweeping motion, as a ball."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Swirl"
+                    },
+                    "Definition": {
+                        "S": " To whirl, or cause to whirl, as in an eddy."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Swirl"
+                    },
+                    "Definition": {
+                        "S": " A whirling motion; an eddy, as of water; a whirl."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Swish"
+                    },
+                    "Definition": {
+                        "S": " To flourish, so as to make the sound  >swish"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Swish"
+                    },
+                    "Definition": {
+                        "S": " To dash; to swash."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Swish"
+                    },
+                    "Definition": {
+                        "S": " A sound of quick movement, as of something whirled through the air."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Swiss"
+                    },
+                    "Definition": {
+                        "S": " A native or inhabitant of Switzerland; a Switzer; the people of Switzerland."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Swiss"
+                    },
+                    "Definition": {
+                        "S": " Of or pertaining to Switzerland, or the people of Switzerland."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Swive"
+                    },
+                    "Definition": {
+                        "S": " To copulate with (a woman)."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Swob"
+                    },
+                    "Definition": {
+                        "S": " See  r>Swab"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Swoln"
+                    },
+                    "Definition": {
+                        "S": " Contraction of  r>Swollen"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Swom"
+                    },
+                    "Definition": {
+                        "S": "  t>imp."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Swoon"
+                    },
+                    "Definition": {
+                        "S": " To sink into a fainting fit, in which there is an apparent suspension of the vital functions and mental powers; to faint; -- often with  >away"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Swoon"
+                    },
+                    "Definition": {
+                        "S": " A fainting fit; syncope."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Swoop"
+                    },
+                    "Definition": {
+                        "S": " To fall on at once and seize; to catch while on the wing;  s>as, a hawk  x>swoops"}}}}]}

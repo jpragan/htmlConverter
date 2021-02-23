@@ -1,0 +1,151 @@
+{"Dictionary":[{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Gnew"
+                    },
+                    "Definition": {
+                        "S": "  t>imp."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Gnide"
+                    },
+                    "Definition": {
+                        "S": " To rub; to bruise; to break in pieces."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Gnof"
+                    },
+                    "Definition": {
+                        "S": " Churl; curmudgeon."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Gnome"
+                    },
+                    "Definition": {
+                        "S": " An imaginary being, supposed by the Rosicrucians to inhabit the inner parts of the earth, and to be the guardian of mines, quarries, etc."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Gnow"
+                    },
+                    "Definition": {
+                        "S": " Gnawed."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Gnu"
+                    },
+                    "Definition": {
+                        "S": " One of two species of large South African antelopes of the genus  pn>Catoblephas"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Go"
+                    },
+                    "Definition": {
+                        "S": " Gone."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Go"
+                    },
+                    "Definition": {
+                        "S": " To pass from one place to another; to be in motion; to be in a state not motionless or at rest; to proced; to advance; to make progress; -- used, in various applications, of the movement of both animate"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Go"
+                    },
+                    "Definition": {
+                        "S": " To take, as a share in an enterprise; to undertake or become responsible for; to bear a part in."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Go"
+                    },
+                    "Definition": {
+                        "S": " Act; working; operation."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Goa"
+                    },
+                    "Definition": {
+                        "S": " A species of antelope ( pn>Procapra picticauda"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Goad"
+                    },
+                    "Definition": {
+                        "S": " A pointed instrument used to urge on a beast; hence, any necessity that urges or stimulates."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Goad"
+                    },
+                    "Definition": {
+                        "S": " To prick; to drive with a goad; hence, to urge forward, or to rouse by anything pungent, severe, irritating, or inflaming; to stimulate."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Goaf"
+                    },
+                    "Definition": {
+                        "S": " That part of a mine from which the mineral has been partially or wholly removed; the waste left in old workings; -- called also  ltname>gob"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Goal"
+                    },
+                    "Definition": {
+                        "S": " The mark set to bound a race, and to or around which the constestants run, or from which they start to return to it again; the place at which a race or a journey is to end."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Goar"
+                    },
+                    "Definition": {
+                        "S": " Same as lst  r>Gore"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Goat"
+                    },
+                    "Definition": {
+                        "S": " A hollow-horned ruminant of the genus  pn>Capra"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Gob"
+                    },
+                    "Definition": {
+                        "S": " Same as  r>Goaf"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Gob"
+                    },
+                    "Definition": {
+                        "S": " A little mass or collection; a small quantity; a mouthful."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Gobet"
+                    },
+                    "Definition": {
+                        "S": " See  r>Gobbet"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Goby"
+                    },
+                    "Definition": {
+                        "S": " One of several species of small marine fishes of the genus  pn>Gobius"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Go-by"
+                    },
+                    "Definition": {
+                        "S": " A passing without notice; intentional neglect; thrusting away; a shifting off; adieu;  s>as, to give a proposal the  x>go-by"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "God"
+                    },
+                    "Definition": {
+                        "S": " Good."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "God"
+                    },
+                    "Definition": {
+                        "S": " A being conceived of as possessing supernatural power, and to be propitiated by sacrifice, worship, etc.; a divinity; a deity; an object of worship; an idol."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "God"
+                    },
+                    "Definition": {
+                        "S": " To treat as a god; to idolize."}}}}]}

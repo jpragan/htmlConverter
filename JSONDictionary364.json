@@ -1,0 +1,151 @@
+{"Dictionary":[{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Monk"
+                    },
+                    "Definition": {
+                        "S": " A man who retires from the ordinary temporal concerns of the world, and devotes himself to religion; one of a religious community of men inhabiting a monastery, and bound by vows to a life of chastity, "}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Mono"
+                    },
+                    "Definition": {
+                        "S": " The black howler of Central America ( pn>Mycetes villosus"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Mont"
+                    },
+                    "Definition": {
+                        "S": " Mountain."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Monte"
+                    },
+                    "Definition": {
+                        "S": " A favorite gambling game among Spaniards, played with dice or cards."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Month"
+                    },
+                    "Definition": {
+                        "S": " One of the twelve portions into which the year is divided; the twelfth part of a year, corresponding nearly to the length of a synodic revolution of the moon, -- whence the name. In popular use, a perio"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Moo"
+                    },
+                    "Definition": {
+                        "S": " See  r>Mo"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Moo"
+                    },
+                    "Definition": {
+                        "S": " To make the noise of a cow; to low; -- child's word."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Moo"
+                    },
+                    "Definition": {
+                        "S": " The lowing of a cow."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Mood"
+                    },
+                    "Definition": {
+                        "S": " Manner; style; mode; logical form; musical style; manner of action or being. See  r>Mode"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Mood"
+                    },
+                    "Definition": {
+                        "S": " Temper of mind; temporary state of the mind in regard to passion or feeling; humor;  s>as, a melancholy  x>mood"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Moody"
+                    },
+                    "Definition": {
+                        "S": " Subject to varying moods, especially to states of mind which are unamiable or depressed."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Moon"
+                    },
+                    "Definition": {
+                        "S": " The celestial orb which revolves round the earth; the satellite of the earth; a secondary planet, whose light, borrowed from the sun, is reflected to the earth, and serves to dispel the darkness of nigh"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Moon"
+                    },
+                    "Definition": {
+                        "S": " To expose to the rays of the moon."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Moon"
+                    },
+                    "Definition": {
+                        "S": " To act if moonstruck; to wander or gaze about in an abstracted manner."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Moong"
+                    },
+                    "Definition": {
+                        "S": " Same as  r>Mung"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Moony"
+                    },
+                    "Definition": {
+                        "S": " Of or pertaining to the moon."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Moor"
+                    },
+                    "Definition": {
+                        "S": " One of a mixed race inhabiting Morocco, Algeria, Tunis, and Tripoli, chiefly along the coast and in towns."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Moor"
+                    },
+                    "Definition": {
+                        "S": " An extensive waste covered with patches of heath, and having a poor, light soil, but sometimes marshy, and abounding in peat; a heath."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Moor"
+                    },
+                    "Definition": {
+                        "S": " To fix or secure, as a vessel, in a particular place by casting anchor, or by fastening with cables or chains;  s>as, the vessel was  x>moored"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Moor"
+                    },
+                    "Definition": {
+                        "S": " To cast anchor; to become fast."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Moory"
+                    },
+                    "Definition": {
+                        "S": " Of or pertaining to moors; marshy; fenny; boggy; moorish."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Moory"
+                    },
+                    "Definition": {
+                        "S": " A kind of blue cloth made in India."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Moose"
+                    },
+                    "Definition": {
+                        "S": " A large cervine mammal ( pn>Alces machlis"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Moot"
+                    },
+                    "Definition": {
+                        "S": " See 1st  r>Mot"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Moot"
+                    },
+                    "Definition": {
+                        "S": " A ring for gauging wooden pins."}}}}]}

@@ -1,0 +1,151 @@
+{"Dictionary":[{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Latin"
+                    },
+                    "Definition": {
+                        "S": " To write or speak in Latin; to turn or render into Latin."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Laud"
+                    },
+                    "Definition": {
+                        "S": " High commendation; praise; honor; exaltation; glory."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Laud"
+                    },
+                    "Definition": {
+                        "S": " To praise in words alone, or with words and singing; to celebrate; to extol."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Laugh"
+                    },
+                    "Definition": {
+                        "S": " To show mirth, satisfaction, or derision, by peculiar movement of the muscles of the face, particularly of the mouth, causing a lighting up of the face and eyes, and usually accompanied by the emission "}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Laugh"
+                    },
+                    "Definition": {
+                        "S": " To affect or influence by means of laughter or ridicule."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Laugh"
+                    },
+                    "Definition": {
+                        "S": " An expression of mirth peculiar to the human species; the sound heard in laughing; laughter. See  r>Laugh"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Laund"
+                    },
+                    "Definition": {
+                        "S": " A plain sprinkled with trees or underbrush; a glade."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Laura"
+                    },
+                    "Definition": {
+                        "S": " A number of hermitages or cells in the same neighborhood occupied by anchorites who were under the same superior."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Laus"
+                    },
+                    "Definition": {
+                        "S": " Loose."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Lava"
+                    },
+                    "Definition": {
+                        "S": " The melted rock ejected by a volcano from its top or fissured sides. It flows out in streams sometimes miles in length. It also issues from fissures in the earth's surface, and forms beds covering many "}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Lave"
+                    },
+                    "Definition": {
+                        "S": " To wash; to bathe;  s>as, to  x>lave"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Lave"
+                    },
+                    "Definition": {
+                        "S": " To bathe; to wash one's self."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Lave"
+                    },
+                    "Definition": {
+                        "S": " To lade, dip, or pour out."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Lave"
+                    },
+                    "Definition": {
+                        "S": " The remainder; others."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Laver"
+                    },
+                    "Definition": {
+                        "S": " A vessel for washing; a large basin."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Laver"
+                    },
+                    "Definition": {
+                        "S": " One who laves; a washer."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Laver"
+                    },
+                    "Definition": {
+                        "S": " The fronds of certain marine alge used as food, and for making a sauce called laver sauce. Green  >laver"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Lavic"
+                    },
+                    "Definition": {
+                        "S": " See  r>Lavatic"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Lav"
+                    },
+                    "Definition": {
+                        "S": " A supposed new metallic element. It is said to have been discovered in pyrites, and some other minerals, and to be of a silver-white color, and malleable."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Law"
+                    },
+                    "Definition": {
+                        "S": " In general, a rule of being or of conduct, established by an authority able to enforce its will; a controlling regulation; the mode or order according to which an agent or a power acts."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Law"
+                    },
+                    "Definition": {
+                        "S": " Same as  r>Lawe"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Law"
+                    },
+                    "Definition": {
+                        "S": " An exclamation of mild surprise."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Lawe"
+                    },
+                    "Definition": {
+                        "S": " To cut off the claws and balls of, as of a dog's fore feet."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Lawer"
+                    },
+                    "Definition": {
+                        "S": " A lawyer."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Lawn"
+                    },
+                    "Definition": {
+                        "S": " An open space between woods."}}}}]}

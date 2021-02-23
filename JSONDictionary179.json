@@ -1,0 +1,151 @@
+{"Dictionary":[{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Face"
+                    },
+                    "Definition": {
+                        "S": " To meet in front; to oppose with firmness; to resist, or to meet for the purpose of stopping or opposing; to confront; to encounter;  s>as, to  x>face"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Face"
+                    },
+                    "Definition": {
+                        "S": " To carry a false appearance; to play the hypocrite."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Faced"
+                    },
+                    "Definition": {
+                        "S": " Having (such) a face, or (so many) faces;  s>as, smooth- x>faced"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Faser"
+                    },
+                    "Definition": {
+                        "S": " One who faces; one who puts on a false show; a bold-faced person."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Facet"
+                    },
+                    "Definition": {
+                        "S": " A little face; a small, plane surface;  s>as, the  x>facets"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Facet"
+                    },
+                    "Definition": {
+                        "S": " To cut facets or small faces upon;  s>as, to  x>facet"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Facia"
+                    },
+                    "Definition": {
+                        "S": " See  r>Fascia"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Fact"
+                    },
+                    "Definition": {
+                        "S": " A doing, making, or preparing."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Facto"
+                    },
+                    "Definition": {
+                        "S": " In fact; by the act or fact."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Fad"
+                    },
+                    "Definition": {
+                        "S": " A hobby ; freak; whim."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Fade"
+                    },
+                    "Definition": {
+                        "S": " Weak; insipid; tasteless; commonplace."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Fade"
+                    },
+                    "Definition": {
+                        "S": " To become fade; to grow weak; to lose strength; to decay; to perish gradually; to wither, as a plant."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Fade"
+                    },
+                    "Definition": {
+                        "S": " To cause to wither; to deprive of freshness or vigor; to wear away."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Faded"
+                    },
+                    "Definition": {
+                        "S": " That has lost freshness, color, or brightness; grown dim."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Fader"
+                    },
+                    "Definition": {
+                        "S": " Father."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Fadge"
+                    },
+                    "Definition": {
+                        "S": " To fit; to suit; to agree."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Fadge"
+                    },
+                    "Definition": {
+                        "S": " A small flat loaf or thick cake; also, a fagot."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Fadme"
+                    },
+                    "Definition": {
+                        "S": " A fathom."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Fady"
+                    },
+                    "Definition": {
+                        "S": " Faded."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Fecal"
+                    },
+                    "Definition": {
+                        "S": " See  r>Fecal"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Feces"
+                    },
+                    "Definition": {
+                        "S": " Excrement; ordure; also, settlings; sediment after infusion or distillation."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Faery"
+                    },
+                    "Definition": {
+                        "S": " Fairy."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Fag"
+                    },
+                    "Definition": {
+                        "S": " A knot or coarse part in cloth."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Fag"
+                    },
+                    "Definition": {
+                        "S": " To become weary; to tire."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Fag"
+                    },
+                    "Definition": {
+                        "S": " To tire by labor; to exhaust;  s>as, he was almost  x>fagged"}}}}]}

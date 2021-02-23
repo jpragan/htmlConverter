@@ -1,0 +1,151 @@
+{"Dictionary":[{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Crab"
+                    },
+                    "Definition": {
+                        "S": " To make sour or morose; to embitter."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Crab"
+                    },
+                    "Definition": {
+                        "S": " To drift sidewise or to leeward, as a vessel."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Crab"
+                    },
+                    "Definition": {
+                        "S": " Sour; rough; austere."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Crack"
+                    },
+                    "Definition": {
+                        "S": " To break or burst, with or without entire separation of the parts;  s>as, to  x>crack"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Crack"
+                    },
+                    "Definition": {
+                        "S": " To burst or open in chinks; to break, with or without quite separating into parts."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Crack"
+                    },
+                    "Definition": {
+                        "S": " A partial separation of parts, with or without a perceptible opening; a chink or fissure; a narrow breach; a crevice;  s>as, a  x>crack"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Crack"
+                    },
+                    "Definition": {
+                        "S": " Of superior excellence; having qualities to be boasted of."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Craft"
+                    },
+                    "Definition": {
+                        "S": " Strength; might; secret power."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Craft"
+                    },
+                    "Definition": {
+                        "S": " To play tricks; to practice artifice."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Crag"
+                    },
+                    "Definition": {
+                        "S": " A steep, rugged rock; a cough, broken cliff, or point of a rock, on a ledge."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Crag"
+                    },
+                    "Definition": {
+                        "S": " The neck or throat"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Craie"
+                    },
+                    "Definition": {
+                        "S": " See  r>Crare"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Crail"
+                    },
+                    "Definition": {
+                        "S": " A creel or osier basket."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Crake"
+                    },
+                    "Definition": {
+                        "S": " To cry out harshly and loudly, like the bird called  >crake"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Crake"
+                    },
+                    "Definition": {
+                        "S": " A boast. See  r>Crack"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Crake"
+                    },
+                    "Definition": {
+                        "S": " Any species or rail of the genera  >Crex"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Cram"
+                    },
+                    "Definition": {
+                        "S": " To press, force, or drive, particularly in filling, or in thrustung one thing into another; to stuff; to crowd; to fill to superfluity;  s>as, to  x>cram"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Cram"
+                    },
+                    "Definition": {
+                        "S": " To eat greedly, and to satiety; to stuff."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Cram"
+                    },
+                    "Definition": {
+                        "S": " The act of cramming."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Cramp"
+                    },
+                    "Definition": {
+                        "S": " That which confines or contracts; a restraint; a shakle; a hindrance."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Cramp"
+                    },
+                    "Definition": {
+                        "S": " To compress; to restrain from free action; to confine and contract; to hinder."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Cramp"
+                    },
+                    "Definition": {
+                        "S": " A cramp iron or cramp ring; a chape, as of a scabbard."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Crane"
+                    },
+                    "Definition": {
+                        "S": " A wading bird of the genus  pn>Grus"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Crane"
+                    },
+                    "Definition": {
+                        "S": " To cause to rise; to raise or lift, as by a crane; -- with  >up"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "crane"
+                    },
+                    "Definition": {
+                        "S": " to reach forward with head and neck, in order to see better;  s>as, a hunter  x>cranes"}}}}]}

@@ -1,0 +1,151 @@
+{"Dictionary":[{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Smock"
+                    },
+                    "Definition": {
+                        "S": " To provide with, or clothe in, a smock or a smock frock."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Smoke"
+                    },
+                    "Definition": {
+                        "S": " The visible exhalation, vapor, or substance that escapes, or expelled, from a burning body, especially from burning vegetable matter, as wood, coal, peat, or the like."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Smoke"
+                    },
+                    "Definition": {
+                        "S": " To emit smoke; to throw off volatile matter in the form of vapor or exhalation; to reek."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Smoke"
+                    },
+                    "Definition": {
+                        "S": " To apply smoke to; to hang in smoke; to disinfect, to cure, etc., by smoke;  s>as, to  x>smoke"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Smoky"
+                    },
+                    "Definition": {
+                        "S": " Emitting smoke, esp. in large quantities or in an offensive manner; fumid;  s>as,  x>smoky"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Smolt"
+                    },
+                    "Definition": {
+                        "S": " A young salmon two or three years old, when it has acquired its silvery color."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Smoor"
+                    },
+                    "Definition": {
+                        "S": " To suffocate or smother."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Smore"
+                    },
+                    "Definition": {
+                        "S": " To smother. See  r>Smoor"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Smote"
+                    },
+                    "Definition": {
+                        "S": "  t>imp. (&and; rare p. p.)"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Smug"
+                    },
+                    "Definition": {
+                        "S": " Studiously neat or nice, especially in dress; spruce; affectedly precise; smooth and prim."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Smug"
+                    },
+                    "Definition": {
+                        "S": " To make smug, or spruce."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Smut"
+                    },
+                    "Definition": {
+                        "S": " Foul matter, like soot or coal dust; also, a spot or soil made by such matter."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Smut"
+                    },
+                    "Definition": {
+                        "S": " To stain or mark with smut; to blacken with coal, soot, or other dirty substance."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Smut"
+                    },
+                    "Definition": {
+                        "S": " To gather smut; to be converted into smut; to become smutted."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Snack"
+                    },
+                    "Definition": {
+                        "S": " A share; a part or portion; -- obsolete, except in the colloquial phrase,  ref>to go snacks"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Snag"
+                    },
+                    "Definition": {
+                        "S": " A stump or base of a branch that has been lopped off; a short branch, or a sharp or rough branch; a knot; a protuberance."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Snag"
+                    },
+                    "Definition": {
+                        "S": " To cut the snags or branches from, as the stem of a tree; to hew roughly."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Snail"
+                    },
+                    "Definition": {
+                        "S": " Any one of numerous species of terrestrial air-breathing gastropods belonging to the genus Helix and many allied genera of the family  pn>Helicide"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Snake"
+                    },
+                    "Definition": {
+                        "S": " Any species of the order Ophidia; an ophidian; a serpent, whether harmless or venomous. See  r>Ophidia"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Snake"
+                    },
+                    "Definition": {
+                        "S": " To drag or draw, as a snake from a hole; -- often with  >out"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Snake"
+                    },
+                    "Definition": {
+                        "S": " To crawl like a snake."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Snaky"
+                    },
+                    "Definition": {
+                        "S": " Of or pertaining to a snake or snakes; resembling a snake; serpentine; winding."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Snap"
+                    },
+                    "Definition": {
+                        "S": " To break at once; to break short, as substances that are brittle."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Snap"
+                    },
+                    "Definition": {
+                        "S": " To break short, or at once; to part asunder suddenly;  s>as, a mast  x>snaps"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Snap"
+                    },
+                    "Definition": {
+                        "S": " A sudden breaking or rupture of any substance."}}}}]}

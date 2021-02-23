@@ -1,0 +1,151 @@
+{"Dictionary":[{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Cawk"
+                    },
+                    "Definition": {
+                        "S": " An opaque, compact variety of barite, or heavy spar."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Cawky"
+                    },
+                    "Definition": {
+                        "S": " Of or pertaining to cawk; like cawk."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Caxon"
+                    },
+                    "Definition": {
+                        "S": " A kind of wig."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Cay"
+                    },
+                    "Definition": {
+                        "S": " See  r>Key"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Cease"
+                    },
+                    "Definition": {
+                        "S": " To come to an end; to stop; to leave off or give over; to desist;  s>as, the noise  x>ceased"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Cease"
+                    },
+                    "Definition": {
+                        "S": " To put a stop to; to bring to an end."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Cease"
+                    },
+                    "Definition": {
+                        "S": " Extinction."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Cedar"
+                    },
+                    "Definition": {
+                        "S": " The name of several evergreen trees. The wood is remarkable for its durability and fragrant odor."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Cedar"
+                    },
+                    "Definition": {
+                        "S": " Of or pertaining to cedar."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Cede"
+                    },
+                    "Definition": {
+                        "S": " To yield or surrender; to give up; to resign;  s>as, to  x>cede"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Cedry"
+                    },
+                    "Definition": {
+                        "S": " Of the nature of cedar."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Ceil"
+                    },
+                    "Definition": {
+                        "S": " To overlay or cover the inner side of the roof of; to furnish with a ceiling;  s>as, to ceil a room"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Ceint"
+                    },
+                    "Definition": {
+                        "S": " A girdle."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Cell"
+                    },
+                    "Definition": {
+                        "S": " A very small and close apartment, as in a prison or in a monastery or convent; the hut of a hermit."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Cell"
+                    },
+                    "Definition": {
+                        "S": " To place or inclosed in a cell."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Cella"
+                    },
+                    "Definition": {
+                        "S": " The part inclosed within the walls of an ancient temple, as distinguished from the open porticoes."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Cello"
+                    },
+                    "Definition": {
+                        "S": " A contraction for  r>Violoncello"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Celt"
+                    },
+                    "Definition": {
+                        "S": " One of an ancient race of people, who formerly inhabited a great part of Central and Western Europe, and whose descendants at the present day occupy Ireland, Wales, the Highlands of Scotland, and the no"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Celt"
+                    },
+                    "Definition": {
+                        "S": " A weapon or implement of stone or metal, found in the tumuli, or barrows, of the early Celtic nations."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Cense"
+                    },
+                    "Definition": {
+                        "S": " A census; -- also, a public rate or tax."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Cense"
+                    },
+                    "Definition": {
+                        "S": " To perfume with odors from burning gums and spices."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Cense"
+                    },
+                    "Definition": {
+                        "S": " To burn or scatter incense."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Cent"
+                    },
+                    "Definition": {
+                        "S": " A hundred;  s>as, ten per  x>cent"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Cento"
+                    },
+                    "Definition": {
+                        "S": " A literary or a musical composition formed by selections from different authors disposed in a new order."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Cere"
+                    },
+                    "Definition": {
+                        "S": " The soft naked sheath at the base of the beak of birds of prey, parrots, and some other birds. See  r>Beak"}}}}]}

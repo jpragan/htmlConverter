@@ -1,0 +1,151 @@
+{"Dictionary":[{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Yang"
+                    },
+                    "Definition": {
+                        "S": " To make the cry of the wild goose."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Yank"
+                    },
+                    "Definition": {
+                        "S": " A jerk or twitch."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Yank"
+                    },
+                    "Definition": {
+                        "S": " To twitch; to jerk."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Yank"
+                    },
+                    "Definition": {
+                        "S": " An abbreviation of  r>Yankee"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Yap"
+                    },
+                    "Definition": {
+                        "S": " To bark; to yelp."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Yap"
+                    },
+                    "Definition": {
+                        "S": " A bark; a yelp."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Yapon"
+                    },
+                    "Definition": {
+                        "S": " Same as  r>Yaupon"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Yard"
+                    },
+                    "Definition": {
+                        "S": " A rod; a stick; a staff."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Yard"
+                    },
+                    "Definition": {
+                        "S": " An inclosure; usually, a small inclosed place in front of, or around, a house or barn;  s>as, a court x>yard"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Yard"
+                    },
+                    "Definition": {
+                        "S": " To confine (cattle) to the yard; to shut up, or keep, in a yard;  s>as, to  x>yard"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Yare"
+                    },
+                    "Definition": {
+                        "S": " Ready; dexterous; eager; lively; quick to move."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Yare"
+                    },
+                    "Definition": {
+                        "S": " Soon."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Yark"
+                    },
+                    "Definition": {
+                        "S": " To yerk."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Yarke"
+                    },
+                    "Definition": {
+                        "S": " Same as  r>Saki"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Yarn"
+                    },
+                    "Definition": {
+                        "S": " Spun wool; woolen thread; also, thread of other material, as of cotton, flax, hemp, or silk; material spun and prepared for use in weaving, knitting, manufacturing sewing thread, or the like."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Yarr"
+                    },
+                    "Definition": {
+                        "S": " To growl or snarl as a dog."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Yate"
+                    },
+                    "Definition": {
+                        "S": " A gate.  See 1st  r>Gate"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Yaud"
+                    },
+                    "Definition": {
+                        "S": " See  r>Yawd"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Yaul"
+                    },
+                    "Definition": {
+                        "S": " See  r>Yawl"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Yaulp"
+                    },
+                    "Definition": {
+                        "S": " To yaup."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Yaup"
+                    },
+                    "Definition": {
+                        "S": " To cry out like a child; to yelp."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Yaup"
+                    },
+                    "Definition": {
+                        "S": " A cry of distress, rage, or the like, as the cry of a sickly bird, or of a child in pain."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Yaw"
+                    },
+                    "Definition": {
+                        "S": " To rise in blisters, breaking in white froth, as cane juice in the clarifiers in sugar works."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Yaw"
+                    },
+                    "Definition": {
+                        "S": " To steer wild, or out of the line of her course; to deviate from her course, as when struck by a heavy sea; -- said of a ship."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Yaw"
+                    },
+                    "Definition": {
+                        "S": " A movement of a vessel by which she temporarily alters her course; a deviation from a straight course in steering."}}}}]}

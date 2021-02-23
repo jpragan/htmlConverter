@@ -1,0 +1,151 @@
+{"Dictionary":[{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Grave"
+                    },
+                    "Definition": {
+                        "S": " An excavation in the earth as a place of burial; also, any place of interment; a tomb; a sepulcher. Hence: Death; destruction."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Gravy"
+                    },
+                    "Definition": {
+                        "S": " The juice or other liquid matter that drips from flesh in cooking, made into a dressing for the food when served up."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Gray"
+                    },
+                    "Definition": {
+                        "S": " White mixed with black, as the color of pepper and salt, or of ashes, or of hair whitened by age; sometimes, a dark mixed color;  s>as, the soft gray eye of a dove"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Gray"
+                    },
+                    "Definition": {
+                        "S": " A gray color; any mixture of white and black; also, a neutral or whitish tint."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Graze"
+                    },
+                    "Definition": {
+                        "S": " To feed or supply (cattle, sheep, etc.) with grass; to furnish pasture for."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Graze"
+                    },
+                    "Definition": {
+                        "S": " To eat grass; to feed on growing herbage;  s>as, cattle graze on the meadows"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Graze"
+                    },
+                    "Definition": {
+                        "S": " The act of grazing; the cropping of grass."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Gre"
+                    },
+                    "Definition": {
+                        "S": " See  r>Gree"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Gre"
+                    },
+                    "Definition": {
+                        "S": " See  r>Gree"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Great"
+                    },
+                    "Definition": {
+                        "S": " Large in space; of much size; big; immense; enormous; expanded; -- opposed to small and little;  s>as, a  x>great"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Great"
+                    },
+                    "Definition": {
+                        "S": " The whole.; the gross;  s>as, a contract to build a ship by the great"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Grebe"
+                    },
+                    "Definition": {
+                        "S": " One of several swimming birds or divers, of the genus  pn>Colymbus"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Gree"
+                    },
+                    "Definition": {
+                        "S": " Good will; favor; pleasure; satisfaction; -- used esp. in such phrases as: to take in  x>gree"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Gree"
+                    },
+                    "Definition": {
+                        "S": " To agree."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Gree"
+                    },
+                    "Definition": {
+                        "S": " A step."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Greed"
+                    },
+                    "Definition": {
+                        "S": " An eager desire or longing; greediness;  s>as, a  x>greed"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Greek"
+                    },
+                    "Definition": {
+                        "S": " Of or pertaining to Greece or the Greeks; Grecian."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Greek"
+                    },
+                    "Definition": {
+                        "S": " A native, or one of the people, of Greece; a Grecian; also, the language of Greece."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Green"
+                    },
+                    "Definition": {
+                        "S": " Having the color of grass when fresh and growing; resembling that color of the solar spectrum which is between the yellow and the blue; verdant; emerald."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Green"
+                    },
+                    "Definition": {
+                        "S": " The color of growing plants; the color of the solar spectrum intermediate between the yellow and the blue."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Green"
+                    },
+                    "Definition": {
+                        "S": " To make green."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Green"
+                    },
+                    "Definition": {
+                        "S": " To become or grow green."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Greet"
+                    },
+                    "Definition": {
+                        "S": " Great."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Greet"
+                    },
+                    "Definition": {
+                        "S": " To weep; to cry; to lament."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Greet"
+                    },
+                    "Definition": {
+                        "S": " Mourning."}}}}]}

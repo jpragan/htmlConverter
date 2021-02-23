@@ -1,0 +1,151 @@
+{"Dictionary":[{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Score"
+                    },
+                    "Definition": {
+                        "S": " To mark with lines, scratches, or notches; to cut notches or furrows in; to notch; to scratch; to furrow;  s>as, to  x>score"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Scorn"
+                    },
+                    "Definition": {
+                        "S": " Extreme and lofty contempt; haughty disregard; that disdain which aprings from the opinion of the utter meanness and unworthiness of an object."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Scorn"
+                    },
+                    "Definition": {
+                        "S": " To hold in extreme contempt; to reject as unworthy of regard; to despise; to contemn; to disdain."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Scorn"
+                    },
+                    "Definition": {
+                        "S": " To scoff; to act disdainfully."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Scot"
+                    },
+                    "Definition": {
+                        "S": " A name for a horse."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Scot"
+                    },
+                    "Definition": {
+                        "S": " A native or inhabitant of Scotland; a Scotsman, or Scotchman."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Scot"
+                    },
+                    "Definition": {
+                        "S": " A portion of money assessed or paid; a tax or contribution; a mulct; a fine; a shot."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Scots"
+                    },
+                    "Definition": {
+                        "S": " Of or pertaining to the Scotch; Scotch; Scottish;  s>as,  x>Scots"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Scour"
+                    },
+                    "Definition": {
+                        "S": " To rub hard with something rough, as sand or Bristol brick, especially for the purpose of cleaning; to clean by friction; to make clean or bright; to cleanse from grease, dirt, etc., as articles of dres"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Scour"
+                    },
+                    "Definition": {
+                        "S": " To clean anything by rubbing."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Scour"
+                    },
+                    "Definition": {
+                        "S": " Diarrhe2a or dysentery among cattle."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Scout"
+                    },
+                    "Definition": {
+                        "S": " A swift sailing boat."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Scout"
+                    },
+                    "Definition": {
+                        "S": " A projecting rock."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Scout"
+                    },
+                    "Definition": {
+                        "S": " To reject with contempt, as something absurd; to treat with ridicule; to flout;  s>as, to  x>scout"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Scout"
+                    },
+                    "Definition": {
+                        "S": " A person sent out to gain and bring in tidings; especially, one employed in war to gain information of the movements and condition of an enemy."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Scout"
+                    },
+                    "Definition": {
+                        "S": " To observe, watch, or look for, as a scout; to follow for the purpose of observation, as a scout."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Scout"
+                    },
+                    "Definition": {
+                        "S": " To go on the business of scouting, or watching the motions of an enemy; to act as a scout."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Scow"
+                    },
+                    "Definition": {
+                        "S": " A large flat-bottomed boat, having broad, square ends."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Scow"
+                    },
+                    "Definition": {
+                        "S": " To transport in a scow."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Scowl"
+                    },
+                    "Definition": {
+                        "S": " To wrinkle the brows, as in frowning or displeasure; to put on a frowning look; to look sour, sullen, severe, or angry."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Scowl"
+                    },
+                    "Definition": {
+                        "S": " To look at or repel with a scowl or a frown."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Scowl"
+                    },
+                    "Definition": {
+                        "S": " The wrinkling of the brows or face in frowing; the expression of displeasure, sullennes, or discontent in the countenance; an angry frown."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Scrag"
+                    },
+                    "Definition": {
+                        "S": " Something thin, lean, or rough; a bony piece; especially, a bony neckpiece of meat; hence, humorously or in contempt, the neck."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Scrap"
+                    },
+                    "Definition": {
+                        "S": " Something scraped off; hence, a small piece; a bit; a fragment; a detached, incomplete portion."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Scrat"
+                    },
+                    "Definition": {
+                        "S": " To scratch."}}}}]}

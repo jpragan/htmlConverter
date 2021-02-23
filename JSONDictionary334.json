@@ -1,0 +1,151 @@
+{"Dictionary":[{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Loppy"
+                    },
+                    "Definition": {
+                        "S": " Somewhat lop; inclined to lop."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Loral"
+                    },
+                    "Definition": {
+                        "S": " Of or pertaining to the lores."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Lord"
+                    },
+                    "Definition": {
+                        "S": " A hump-backed person; -- so called sportively."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Lord"
+                    },
+                    "Definition": {
+                        "S": " One who has power and authority; a master; a ruler; a governor; a prince; a proprietor, as of a manor."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Lord"
+                    },
+                    "Definition": {
+                        "S": " To invest with the dignity, power, and privileges of a lord."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Lord"
+                    },
+                    "Definition": {
+                        "S": " To play the lord; to domineer; to rule with arbitrary or despotic sway; -- sometimes with  tcl>over"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Lore"
+                    },
+                    "Definition": {
+                        "S": " The space between the eye and bill, in birds, and the corresponding region in reptiles and fishes."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Lore"
+                    },
+                    "Definition": {
+                        "S": " Lost."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Lore"
+                    },
+                    "Definition": {
+                        "S": " That which is or may be learned or known; the knowledge gained from tradition, books, or experience; often, the whole body of knowledge possessed by a people or class of people, or pertaining to a parti"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Lorel"
+                    },
+                    "Definition": {
+                        "S": " A good for nothing fellow; a vagabond."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Loren"
+                    },
+                    "Definition": {
+                        "S": " of  r>Lose"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Lori"
+                    },
+                    "Definition": {
+                        "S": " Same as  r>Lory"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Loris"
+                    },
+                    "Definition": {
+                        "S": " Any one of several species of small lemurs of the genus  pn>Stenops"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Lorn"
+                    },
+                    "Definition": {
+                        "S": " Lost; undone; ruined."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Lory"
+                    },
+                    "Definition": {
+                        "S": " Any one of many species of small parrots of the family Trichoglosside, generally having the tongue papillose at the tip, and the mandibles straighter and less toothed than in common parrots. They are fo"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Los"
+                    },
+                    "Definition": {
+                        "S": " Praise. See  r>Loos"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Lose"
+                    },
+                    "Definition": {
+                        "S": " To part with unintentionally or unwillingly, as by accident, misfortune, negligence, penalty, forfeit, etc.; to be deprived of;  s>as, to  x>lose"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Lose"
+                    },
+                    "Definition": {
+                        "S": " To suffer loss, disadvantage, or defeat; to be worse off, esp. as the result of any kind of contest."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Losel"
+                    },
+                    "Definition": {
+                        "S": " One who loses by sloth or neglect; a worthless person; a lorel."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Losel"
+                    },
+                    "Definition": {
+                        "S": " Wasteful; slothful."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Loser"
+                    },
+                    "Definition": {
+                        "S": " One who loses."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Loss"
+                    },
+                    "Definition": {
+                        "S": " The act of losing; failure; destruction; privation;  s>as, the  x>loss"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Lost"
+                    },
+                    "Definition": {
+                        "S": " Parted with unwillingly or unintentionally; not to be found; missing;  s>as, a  x>lost"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Lot"
+                    },
+                    "Definition": {
+                        "S": " That which happens without human design or forethought; chance; accident; hazard; fortune; fate."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Lot"
+                    },
+                    "Definition": {
+                        "S": " To allot; to sort; to portion."}}}}]}

@@ -1,0 +1,151 @@
+{"Dictionary":[{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Prim"
+                    },
+                    "Definition": {
+                        "S": " The privet."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Prim"
+                    },
+                    "Definition": {
+                        "S": " Formal; precise; affectedly neat or nice;  s>as,  x>prim"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Prim"
+                    },
+                    "Definition": {
+                        "S": " To deck with great nicety; to arrange with affected preciseness; to prink."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Prim"
+                    },
+                    "Definition": {
+                        "S": " To dress or act smartly."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Prime"
+                    },
+                    "Definition": {
+                        "S": " First in order of time; original; primeval; primitive; primary."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Prime"
+                    },
+                    "Definition": {
+                        "S": " The first part; the earliest stage; the beginning or opening, as of the day, the year, etc.; hence, the dawn; the spring."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Prime"
+                    },
+                    "Definition": {
+                        "S": " To apply priming to, as a musket or a cannon; to apply a primer to, as a metallic cartridge."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Prime"
+                    },
+                    "Definition": {
+                        "S": " To be renewed, or as at first."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Primo"
+                    },
+                    "Definition": {
+                        "S": " First; chief."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Primp"
+                    },
+                    "Definition": {
+                        "S": " To be formal or affected in dress or manners; -- often with  >up"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Primy"
+                    },
+                    "Definition": {
+                        "S": " Being in its prime."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Prink"
+                    },
+                    "Definition": {
+                        "S": " To dress or adjust one's self for show; to prank."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Prink"
+                    },
+                    "Definition": {
+                        "S": " To prank or dress up; to deck fantastically."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Print"
+                    },
+                    "Definition": {
+                        "S": " To fix or impress, as a stamp, mark, character, idea, etc., into or upon something."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Print"
+                    },
+                    "Definition": {
+                        "S": " To use or practice the art of typography; to take impressions of letters, figures, or electrotypes, engraved plates, or the like."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Print"
+                    },
+                    "Definition": {
+                        "S": " A mark made by impression; a line, character, figure, or indentation, made by the pressure of one thing on another;  s>as, the  x>print"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Prior"
+                    },
+                    "Definition": {
+                        "S": " Preceding in the order of time; former; antecedent; anterior; previous;  s>as, a  x>prior"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Prior"
+                    },
+                    "Definition": {
+                        "S": " The superior of a priory, and next below an abbot in dignity."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Pris"
+                    },
+                    "Definition": {
+                        "S": " See  r>Price"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Prise"
+                    },
+                    "Definition": {
+                        "S": " An enterprise."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Prise"
+                    },
+                    "Definition": {
+                        "S": " See  r>Prize"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Prism"
+                    },
+                    "Definition": {
+                        "S": " A solid whose bases or ends are any similar, equal, and parallel plane figures, and whose sides are parallelograms."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Privy"
+                    },
+                    "Definition": {
+                        "S": " Of or pertaining to some person exclusively; assigned to private uses; not public; private;  s>as, the  x>privy"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Privy"
+                    },
+                    "Definition": {
+                        "S": " A partaker; a person having an interest in any action or thing; one who has an interest in an estate created by another; a person having an interest derived from a contract or conveyance to which he is "}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Prize"
+                    },
+                    "Definition": {
+                        "S": " That which is taken from another; something captured; a thing seized by force, stratagem, or superior power."}}}}]}

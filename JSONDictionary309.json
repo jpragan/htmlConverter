@@ -1,0 +1,151 @@
+{"Dictionary":[{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Lamb"
+                    },
+                    "Definition": {
+                        "S": " To bring forth a lamb or lambs, as sheep."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Lame"
+                    },
+                    "Definition": {
+                        "S": " Moving with pain or difficulty on account of injury, defect, or temporary obstruction of a function;  s>as, a  x>lame"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Lame"
+                    },
+                    "Definition": {
+                        "S": " To make lame."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Lamel"
+                    },
+                    "Definition": {
+                        "S": " See  r>Lamella"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Lames"
+                    },
+                    "Definition": {
+                        "S": " Small steel plates combined together so as to slide one upon the form a piece of armor."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Lamia"
+                    },
+                    "Definition": {
+                        "S": " A monster capable of assuming a woman's form, who was said to devour human beings or suck their blood; a vampire; a sorceress; a with."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Lamm"
+                    },
+                    "Definition": {
+                        "S": " See  r>Lam"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Lamp"
+                    },
+                    "Definition": {
+                        "S": " A thin plate or lamina."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Lamp"
+                    },
+                    "Definition": {
+                        "S": " A light-producing vessel, instrument or apparatus; especially, a vessel with a wick used for the combustion of oil or other inflammable liquid, for the purpose of producing artificial light."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Lance"
+                    },
+                    "Definition": {
+                        "S": " A weapon of war, consisting of a long shaft or handle and a steel blade or head; a spear carried by horsemen, and often decorated with a small flag; also, a spear or harpoon used by whalers and fisherme"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Lance"
+                    },
+                    "Definition": {
+                        "S": " To pierce with a lance, or with any similar weapon."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Lanch"
+                    },
+                    "Definition": {
+                        "S": " To throw, as a lance; to let fly; to launch."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Land"
+                    },
+                    "Definition": {
+                        "S": " Urine. See  r>Lant"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Land"
+                    },
+                    "Definition": {
+                        "S": " The solid part of the surface of the earth; -- opposed to water as constituting a part of such surface, especially to oceans and seas;  s>as, to sight  x>land"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Land"
+                    },
+                    "Definition": {
+                        "S": " To set or put on shore from a ship or other water craft; to disembark; to debark."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Land"
+                    },
+                    "Definition": {
+                        "S": " To go on shore from a ship or boat; to disembark; to come to the end of a course."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Lane"
+                    },
+                    "Definition": {
+                        "S": " Alone"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Lane"
+                    },
+                    "Definition": {
+                        "S": " A passageway between fences or hedges which is not traveled as a highroad; an alley between buildings; a narrow way among trees, rcks, and other natural obstructions; hence, in a general sense, a narrow"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Lang"
+                    },
+                    "Definition": {
+                        "S": " Long."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Lank"
+                    },
+                    "Definition": {
+                        "S": " Slender and thin; not well filled out; not plump; shrunken; lean."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Lank"
+                    },
+                    "Definition": {
+                        "S": " To become lank; to make lank."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Lanky"
+                    },
+                    "Definition": {
+                        "S": " Somewhat lank."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Lant"
+                    },
+                    "Definition": {
+                        "S": " Urine."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Lant"
+                    },
+                    "Definition": {
+                        "S": " Any one of several species of small, slender, marine fishes of the genus  pn>Ammedytes"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Lant"
+                    },
+                    "Definition": {
+                        "S": " See  r>Lanterloo"}}}}]}

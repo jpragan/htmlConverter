@@ -1,0 +1,151 @@
+{"Dictionary":[{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Steen"
+                    },
+                    "Definition": {
+                        "S": " To line, as a well, with brick, stone, or other hard material."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Steep"
+                    },
+                    "Definition": {
+                        "S": " Bright; glittering; fiery."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Steep"
+                    },
+                    "Definition": {
+                        "S": " To soak in a liquid; to macerate; to extract the essence of by soaking;  s>as, to soften seed by  x>steeping"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Steep"
+                    },
+                    "Definition": {
+                        "S": " To undergo the process of soaking in a liquid;  s>as, the tea is  x>steeping"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Steep"
+                    },
+                    "Definition": {
+                        "S": " Something steeped, or used in steeping; a fertilizing liquid to hasten the germination of seeds."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Steep"
+                    },
+                    "Definition": {
+                        "S": " Making a large angle with the plane of the horizon; ascending or descending rapidly with respect to a horizontal line or a level; precipitous;  s>as, a  x>steep"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Steep"
+                    },
+                    "Definition": {
+                        "S": " A precipitous place, hill, mountain, rock, or ascent; any elevated object sloping with a large angle to the plane of the horizon; a precipice."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Steer"
+                    },
+                    "Definition": {
+                        "S": " A young male of the ox kind; especially, a common ox; a castrated taurine male from two to four years old. See the Note under  r>Ox"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Steer"
+                    },
+                    "Definition": {
+                        "S": " To castrate; -- said of male calves."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Steer"
+                    },
+                    "Definition": {
+                        "S": " To direct the course of; to guide; to govern; -- applied especially to a vessel in the water."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Steer"
+                    },
+                    "Definition": {
+                        "S": " To direct a vessel in its course; to direct one's course."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Steer"
+                    },
+                    "Definition": {
+                        "S": " A rudder or helm."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Steer"
+                    },
+                    "Definition": {
+                        "S": " A helmsman, a pilot."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Steg"
+                    },
+                    "Definition": {
+                        "S": " A gander."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Steik"
+                    },
+                    "Definition": {
+                        "S": " See  r>Steek"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Stein"
+                    },
+                    "Definition": {
+                        "S": " See  r>Steen"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Stela"
+                    },
+                    "Definition": {
+                        "S": " A small column or pillar, used as a monument, milestone, etc."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Stele"
+                    },
+                    "Definition": {
+                        "S": " Same as  r>Stela"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Stele"
+                    },
+                    "Definition": {
+                        "S": " A stale, or handle; a stalk."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Stell"
+                    },
+                    "Definition": {
+                        "S": " To place or fix firmly or permanently."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Stell"
+                    },
+                    "Definition": {
+                        "S": " A prop; a support, as for the feet in standing or cilmbing."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Stem"
+                    },
+                    "Definition": {
+                        "S": " The principal body of a tree, shrub, or plant, of any kind; the main stock; the part which supports the branches or the head or top."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Stem"
+                    },
+                    "Definition": {
+                        "S": " To remove the stem or stems from;  s>as, to  x>stem"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Stem"
+                    },
+                    "Definition": {
+                        "S": " To oppose or cut with, or as with, the stem of a vessel; to resist, or make progress against; to stop or check the flow of, as a current."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Stem"
+                    },
+                    "Definition": {
+                        "S": " To move forward against an obstacle, as a vessel against a current."}}}}]}

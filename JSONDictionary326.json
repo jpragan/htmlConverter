@@ -1,0 +1,151 @@
+{"Dictionary":[{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Lime"
+                    },
+                    "Definition": {
+                        "S": " To entangle; to insnare."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Limer"
+                    },
+                    "Definition": {
+                        "S": " A limehound; a limmer."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Limit"
+                    },
+                    "Definition": {
+                        "S": " That which terminates, circumscribes, restrains, or confines; the bound, border, or edge; the utmost extent;  s>as, the  x>limit"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Limit"
+                    },
+                    "Definition": {
+                        "S": " To apply a limit to, or set a limit for; to terminate, circumscribe, or restrict, by a limit or limits;  s>as, to  x>limit"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Limit"
+                    },
+                    "Definition": {
+                        "S": " To beg, or to exercise functions, within a certain limited region;  s>as, a  x>limiting"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Limn"
+                    },
+                    "Definition": {
+                        "S": " To draw or paint; especially, to represent in an artistic way with pencil or brush."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Limp"
+                    },
+                    "Definition": {
+                        "S": " To halt; to walk lamely. Also used figuratively."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Limp"
+                    },
+                    "Definition": {
+                        "S": " A halt; the act of limping."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Limp"
+                    },
+                    "Definition": {
+                        "S": " A scraper for removing poor ore or refuse from the sieve."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Limp"
+                    },
+                    "Definition": {
+                        "S": " Flaccid; flabby, as flesh."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Limu"
+                    },
+                    "Definition": {
+                        "S": " The Hawaiian name for seaweeds. Over sixty kinds are used as food, and have species names, as  pn>Limu Lipoa"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Limy"
+                    },
+                    "Definition": {
+                        "S": " Smeared with, or consisting of, lime; viscous. ' >Limy"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Lin"
+                    },
+                    "Definition": {
+                        "S": " To yield; to stop; to cease."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Lin"
+                    },
+                    "Definition": {
+                        "S": " A pool or collection of water, particularly one above or below a fall of water."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Linch"
+                    },
+                    "Definition": {
+                        "S": " A ledge; a right-angled projection."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Lind"
+                    },
+                    "Definition": {
+                        "S": " The linden. See  r>Linden"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Line"
+                    },
+                    "Definition": {
+                        "S": " Flax; linen."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Line"
+                    },
+                    "Definition": {
+                        "S": " To cover the inner surface of;  s>as, to  x>line"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Line"
+                    },
+                    "Definition": {
+                        "S": " linen thread or string; a slender, strong cord; also, a cord of any thickness; a rope; a hawser;  s>as, a fishing  x>line"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Line"
+                    },
+                    "Definition": {
+                        "S": " To mark with a line or lines; to cover with lines;  s>as, to  x>line"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Linen"
+                    },
+                    "Definition": {
+                        "S": " Made of linen;  s>as,  x>linen"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Linen"
+                    },
+                    "Definition": {
+                        "S": " Thread or cloth made of flax or (rarely) of hemp; -- used in a general sense to include cambric, shirting, sheeting, towels, tablecloths, etc."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Liner"
+                    },
+                    "Definition": {
+                        "S": " One who lines,  s>as, a  x>liner"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "-ling"
+                    },
+                    "Definition": {
+                        "S": " A noun suffix, commonly having a  >diminutive"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "-ling"
+                    },
+                    "Definition": {
+                        "S": " . An adverbial suffix;  s>as, dark x>ling"}}}}]}

@@ -1,0 +1,151 @@
+{"Dictionary":[{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Weak"
+                    },
+                    "Definition": {
+                        "S": " Wanting physical strength."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Weak"
+                    },
+                    "Definition": {
+                        "S": " To make or become weak; to weaken."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Weal"
+                    },
+                    "Definition": {
+                        "S": " The mark of a stripe.  See  r>Wale"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Weal"
+                    },
+                    "Definition": {
+                        "S": " To mark with stripes.  See  r>Wale"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Weal"
+                    },
+                    "Definition": {
+                        "S": " A sound, healthy, or prosperous state of a person or thing; prosperity; happiness; welfare."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Weal"
+                    },
+                    "Definition": {
+                        "S": " To promote the weal of; to cause to be prosperous."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Weald"
+                    },
+                    "Definition": {
+                        "S": " A wood or forest; a wooded land or region; also, an open country; -- often used in place names."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Wean"
+                    },
+                    "Definition": {
+                        "S": " To accustom and reconcile, as a child or other young animal, to a want or deprivation of mother's milk; to take from the breast or udder; to cause to cease to depend on the mother nourishment."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Wean"
+                    },
+                    "Definition": {
+                        "S": " A weanling; a young child."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Wear"
+                    },
+                    "Definition": {
+                        "S": " Same as  r>Weir"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Wear"
+                    },
+                    "Definition": {
+                        "S": " To cause to go about, as a vessel, by putting the helm  >up"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Wear"
+                    },
+                    "Definition": {
+                        "S": " To carry or bear upon the person; to bear upon one's self, as an article of clothing, decoration, warfare, bondage, etc.; to have appendant to one's body; to have on;  s>as, to  x>wear"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Wear"
+                    },
+                    "Definition": {
+                        "S": " To endure or suffer use; to last under employment; to bear the consequences of use, as waste, consumption, or attrition;  s>as, a coat  x>wears"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Wear"
+                    },
+                    "Definition": {
+                        "S": " The act of wearing, or the state of being worn; consumption by use; diminution by friction;  s>as, the  x>wear"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Weary"
+                    },
+                    "Definition": {
+                        "S": " Having the strength exhausted by toil or exertion; worn out in respect to strength, endurance, etc.; tired; fatigued."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Weary"
+                    },
+                    "Definition": {
+                        "S": " To reduce or exhaust the physical strength or endurance of; to tire; to fatigue;  s>as, to  x>weary"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Weary"
+                    },
+                    "Definition": {
+                        "S": " To grow tired; to become exhausted or impatient;  s>as, to  x>weary"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Weasy"
+                    },
+                    "Definition": {
+                        "S": " Given to sensual indulgence; gluttonous."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Weave"
+                    },
+                    "Definition": {
+                        "S": " To unite, as threads of any kind, in such a manner as to form a texture; to entwine or interlace into a fabric;  s>as, to  x>weave"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Weave"
+                    },
+                    "Definition": {
+                        "S": " To practice weaving; to work with a loom."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Weave"
+                    },
+                    "Definition": {
+                        "S": " A particular method or pattern of weaving;  s>as, the cassimere  x>weave"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Web"
+                    },
+                    "Definition": {
+                        "S": " A weaver."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Web"
+                    },
+                    "Definition": {
+                        "S": " That which is woven; a texture; textile fabric; esp., something woven in a loom."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Web"
+                    },
+                    "Definition": {
+                        "S": " To unite or surround with a web, or as if with a web; to envelop; to entangle."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Webby"
+                    },
+                    "Definition": {
+                        "S": " Of or pertaining to a web or webs; like a web; filled or covered with webs."}}}}]}

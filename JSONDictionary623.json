@@ -1,0 +1,151 @@
+{"Dictionary":[{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Ulula"
+                    },
+                    "Definition": {
+                        "S": " A genus of owls including the great gray owl ( pn>Ulula cinerea"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Ulva"
+                    },
+                    "Definition": {
+                        "S": " A genus of thin papery bright green seaweeds including the kinds called  >sea lettuce"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Umbe"
+                    },
+                    "Definition": {
+                        "S": " About."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Umbel"
+                    },
+                    "Definition": {
+                        "S": " A kind of flower cluster in which the flower stalks radiate from a common point, as in the carrot and milkweed. It is simple or compound; in the latter case, each peduncle bears another little umbel, ca"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Umber"
+                    },
+                    "Definition": {
+                        "S": " A brown or reddish pigment used in both oil and water colors, obtained from certain natural clays variously colored by the oxides of iron and manganese. It is commonly heated or burned before being used"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Umber"
+                    },
+                    "Definition": {
+                        "S": " Of or pertaining to umber; resembling umber; olive-brown; dark brown; dark; dusky."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Umber"
+                    },
+                    "Definition": {
+                        "S": " To color with umber; to shade or darken;  s>as, to  x>umber"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Umbo"
+                    },
+                    "Definition": {
+                        "S": " The boss of a shield, at or near the middle, and usually projecting, sometimes in a sharp spike."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Umbra"
+                    },
+                    "Definition": {
+                        "S": " The conical shadow projected from a planet or satellite, on the side opposite to the sun, within which a spectator could see no portion of the sun's disk; -- used in contradistinction from  >penumbra"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Umbre"
+                    },
+                    "Definition": {
+                        "S": " See  r>Umber"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Un-"
+                    },
+                    "Definition": {
+                        "S": " An inseparable prefix, or particle, signifying  >not"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Unapt"
+                    },
+                    "Definition": {
+                        "S": " Inapt; slow; dull."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Unarm"
+                    },
+                    "Definition": {
+                        "S": " To disarm."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Unarm"
+                    },
+                    "Definition": {
+                        "S": " To puff off, or lay down, one's arms or armor."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Unau"
+                    },
+                    "Definition": {
+                        "S": " The two-toed sloth ( pn>Cholopus didactylus"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Unbag"
+                    },
+                    "Definition": {
+                        "S": " To pour, or take, or let go, out of a bag or bags."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Unbar"
+                    },
+                    "Definition": {
+                        "S": " To remove a bar or bars from; to unbolt; to open;  s>as, to  x>unbar"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Unbay"
+                    },
+                    "Definition": {
+                        "S": " To free from the restraint of anything that surrounds or incloses; to let loose; to open."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Unbe"
+                    },
+                    "Definition": {
+                        "S": " To cause not to be; to cause to be another."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Unbed"
+                    },
+                    "Definition": {
+                        "S": " To raise or rouse from bed."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Unbit"
+                    },
+                    "Definition": {
+                        "S": " To remove the turns of (a rope or cable) from the bits;  s>as, to  x>unbit"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Unbow"
+                    },
+                    "Definition": {
+                        "S": " To unbend."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Unbox"
+                    },
+                    "Definition": {
+                        "S": " To remove from a box or boxes."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Unboy"
+                    },
+                    "Definition": {
+                        "S": " To divest of the traits of a boy."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Uncap"
+                    },
+                    "Definition": {
+                        "S": " To remove a cap or cover from."}}}}]}

@@ -1,0 +1,151 @@
+{"Dictionary":[{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Jet"
+                    },
+                    "Definition": {
+                        "S": " To spout; to emit in a stream or jet."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Jetty"
+                    },
+                    "Definition": {
+                        "S": " Made of jet, or like jet in color."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Jetty"
+                    },
+                    "Definition": {
+                        "S": " A part of a building that jets or projects beyond the rest, and overhangs the wall below."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Jetty"
+                    },
+                    "Definition": {
+                        "S": " To jut out; to project."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Jew"
+                    },
+                    "Definition": {
+                        "S": " Originally, one belonging to the tribe or kingdom of Judah; after the return from the Babylonish captivity, any member of the new state; a Hebrew; an Israelite."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Jewel"
+                    },
+                    "Definition": {
+                        "S": " An ornament of dress usually made of a precious metal, and having enamel or precious stones as a part of its design."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Jewel"
+                    },
+                    "Definition": {
+                        "S": " To dress, adorn, deck, or supply with jewels, as a dress, a sword hilt, or a watch; to bespangle, as with jewels."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Jewry"
+                    },
+                    "Definition": {
+                        "S": " Judea; also, a district inhabited by Jews; a Jews' quarter."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Jib"
+                    },
+                    "Definition": {
+                        "S": " A triangular sail set upon a stay or halyard extending from the foremast or fore-topmast to the bowsprit or the jib boom. Large vessels often carry several jibe;  s>as, inner  x>jib"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Jib"
+                    },
+                    "Definition": {
+                        "S": " To move restively backward or sidewise, -- said of a horse; to balk."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Jibe"
+                    },
+                    "Definition": {
+                        "S": " To shift, as the boom of a fore-and-aft sail, from one side of a vessel to the other when the wind is aft or on the quarter. See  r>Gybe"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Jibe"
+                    },
+                    "Definition": {
+                        "S": " To change a ship's course so as to cause a shifting of the boom. See  r>Jibe"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Jiffy"
+                    },
+                    "Definition": {
+                        "S": " A moment; an instant;  s>as, I will be ready in a  x>jiffy"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Jig"
+                    },
+                    "Definition": {
+                        "S": " A light, brisk musical movement."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Jig"
+                    },
+                    "Definition": {
+                        "S": " To sing to the tune of a jig."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Jig"
+                    },
+                    "Definition": {
+                        "S": " To dance a jig; to skip about."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Jill"
+                    },
+                    "Definition": {
+                        "S": " A young woman; a sweetheart. See  r>Gill"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Jilt"
+                    },
+                    "Definition": {
+                        "S": " A woman who capriciously deceives her lover; a coquette; a flirt."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Jilt"
+                    },
+                    "Definition": {
+                        "S": " To cast off capriciously or unfeeling, as a lover; to deceive in love."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Jilt"
+                    },
+                    "Definition": {
+                        "S": " To play the jilt; to practice deception in love; to discard lovers capriciously."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Jimmy"
+                    },
+                    "Definition": {
+                        "S": " A short crowbar used by burglars in breaking open doors."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Jimp"
+                    },
+                    "Definition": {
+                        "S": " Neat; handsome; elegant. See  r>Gimp"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Jingo"
+                    },
+                    "Definition": {
+                        "S": " A word used as a jocular oath."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Jippo"
+                    },
+                    "Definition": {
+                        "S": " A waistcoat or kind of stays for women."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Jo"
+                    },
+                    "Definition": {
+                        "S": " A sweetheart; a darling."}}}}]}

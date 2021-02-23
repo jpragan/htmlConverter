@@ -1,0 +1,151 @@
+{"Dictionary":[{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Noble"
+                    },
+                    "Definition": {
+                        "S": " Possessing eminence, elevation, dignity, etc.; above whatever is low, mean, degrading, or dishonorable; magnanimous;  s>as, a  x>noble"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Noble"
+                    },
+                    "Definition": {
+                        "S": " A person of rank above a commoner; a nobleman; a peer."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Noble"
+                    },
+                    "Definition": {
+                        "S": " To make noble; to ennoble."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Nobly"
+                    },
+                    "Definition": {
+                        "S": " Of noble extraction;  s>as,  x>nobly"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Nock"
+                    },
+                    "Definition": {
+                        "S": " A notch."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Nock"
+                    },
+                    "Definition": {
+                        "S": " To notch; to fit to the string, as an arrow; to string, as a bow."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Nod"
+                    },
+                    "Definition": {
+                        "S": " To bend or incline the upper part, with a quick motion;  s>as,  x>nodding"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Nod"
+                    },
+                    "Definition": {
+                        "S": " To incline or bend, as the head or top; to make a motion of assent, of salutation, or of drowsiness with;  s>as, to  x>nod"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Nod"
+                    },
+                    "Definition": {
+                        "S": " A dropping or bending forward of the upper oart or top of anything."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Nodal"
+                    },
+                    "Definition": {
+                        "S": " Of the nature of, or relating to, a node;  s>as, a  x>nodal"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Noddy"
+                    },
+                    "Definition": {
+                        "S": " A simpleton; a fool."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Node"
+                    },
+                    "Definition": {
+                        "S": " A knot, a knob; a protuberance; a swelling."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Noel"
+                    },
+                    "Definition": {
+                        "S": " Same as  r>Nowel"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Nof"
+                    },
+                    "Definition": {
+                        "S": " Not of; nor of."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Nog"
+                    },
+                    "Definition": {
+                        "S": " A noggin."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Nog"
+                    },
+                    "Definition": {
+                        "S": " A wooden block, of the size of a brick, built into a wall, as a hold for the nails of woodwork."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Nog"
+                    },
+                    "Definition": {
+                        "S": " To fill in, as between scantling, with brickwork."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Noght"
+                    },
+                    "Definition": {
+                        "S": " Not."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Noie"
+                    },
+                    "Definition": {
+                        "S": " To annoy. See  r>Noy"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Noier"
+                    },
+                    "Definition": {
+                        "S": " An annoyer."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Noils"
+                    },
+                    "Definition": {
+                        "S": " Waste and knots of wool removed by the comb; combings."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Noint"
+                    },
+                    "Definition": {
+                        "S": " To anoint."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Noise"
+                    },
+                    "Definition": {
+                        "S": " Sound of any kind."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Noise"
+                    },
+                    "Definition": {
+                        "S": " To sound; to make a noise."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Noise"
+                    },
+                    "Definition": {
+                        "S": " To spread by rumor or report."}}}}]}

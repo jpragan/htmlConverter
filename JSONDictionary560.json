@@ -1,0 +1,151 @@
+{"Dictionary":[{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Stang"
+                    },
+                    "Definition": {
+                        "S": " To shoot with pain."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Stank"
+                    },
+                    "Definition": {
+                        "S": " Weak; worn out."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Stank"
+                    },
+                    "Definition": {
+                        "S": " To sigh."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Stank"
+                    },
+                    "Definition": {
+                        "S": " Stunk."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Stank"
+                    },
+                    "Definition": {
+                        "S": " Water retained by an embankment; a pool water."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Star"
+                    },
+                    "Definition": {
+                        "S": " One of the innumerable luminous bodies seen in the heavens; any heavenly body other than the sun, moon, comets, and nebule."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Star"
+                    },
+                    "Definition": {
+                        "S": " To set or adorn with stars, or bright, radiating bodies; to bespangle;  s>as, a robe  x>starred"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Star"
+                    },
+                    "Definition": {
+                        "S": " To be bright, or attract attention, as a star; to shine like a star; to be brilliant or prominent; to play a part as a theatrical star."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Stare"
+                    },
+                    "Definition": {
+                        "S": " The starling."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Stare"
+                    },
+                    "Definition": {
+                        "S": " To look with fixed eyes wide open, as through fear, wonder, surprise, impudence, etc.; to fasten an earnest and prolonged gaze on some object."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Stare"
+                    },
+                    "Definition": {
+                        "S": " To look earnestly at; to gaze at."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Stare"
+                    },
+                    "Definition": {
+                        "S": " The act of staring; a fixed look with eyes wide open."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Starf"
+                    },
+                    "Definition": {
+                        "S": " Starved."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Stark"
+                    },
+                    "Definition": {
+                        "S": " Stiff; rigid."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Stark"
+                    },
+                    "Definition": {
+                        "S": " Wholly; entirely; absolutely; quite;  s>as,  x>stark"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Stark"
+                    },
+                    "Definition": {
+                        "S": " To stiffen."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Starn"
+                    },
+                    "Definition": {
+                        "S": " The European starling."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Start"
+                    },
+                    "Definition": {
+                        "S": " To leap; to jump."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Start"
+                    },
+                    "Definition": {
+                        "S": " To cause to move suddenly; to disturb suddenly; to startle; to alarm; to rouse; to cause to flee or fly;  s>as, the hounds  x>started"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Start"
+                    },
+                    "Definition": {
+                        "S": " The act of starting; a sudden spring, leap, or motion, caused by surprise, fear, pain, or the like; any sudden motion, or beginning of motion."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Start"
+                    },
+                    "Definition": {
+                        "S": " A tail, or anything projecting like a tail."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "State"
+                    },
+                    "Definition": {
+                        "S": " The circumstances or condition of a being or thing at any given time."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "State"
+                    },
+                    "Definition": {
+                        "S": " Stately."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "State"
+                    },
+                    "Definition": {
+                        "S": " To set; to settle; to establish."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "State"
+                    },
+                    "Definition": {
+                        "S": " A statement; also, a document containing a statement."}}}}]}

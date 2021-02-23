@@ -1,0 +1,151 @@
+{"Dictionary":[{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Budgy"
+                    },
+                    "Definition": {
+                        "S": " Consisting of fur."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Buff"
+                    },
+                    "Definition": {
+                        "S": " A sort of leather, prepared from the skin of the buffalo, dressed with oil, like chamois; also, the skins of oxen, elks, and other animals, dressed in like manner."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Buff"
+                    },
+                    "Definition": {
+                        "S": " Made of buff leather."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Buff"
+                    },
+                    "Definition": {
+                        "S": " To polish with a buff. See  r>Buff"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Buff"
+                    },
+                    "Definition": {
+                        "S": " To strike."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Buff"
+                    },
+                    "Definition": {
+                        "S": " A buffet; a blow; -- obsolete except in the phrase 'Blindman's  >buff"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Buff"
+                    },
+                    "Definition": {
+                        "S": " Firm; sturdy."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Buffa"
+                    },
+                    "Definition": {
+                        "S": " The comic actress in an opera."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Buffo"
+                    },
+                    "Definition": {
+                        "S": " The comic actor in an opera."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Buffy"
+                    },
+                    "Definition": {
+                        "S": " Resembling, or characterized by, buff."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Bufo"
+                    },
+                    "Definition": {
+                        "S": " A genus of Amphibia including various species of toads."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Bug"
+                    },
+                    "Definition": {
+                        "S": " A bugbear; anything which terrifies."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Buggy"
+                    },
+                    "Definition": {
+                        "S": " Infested or abounding with bugs."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Buggy"
+                    },
+                    "Definition": {
+                        "S": " A light one horse two-wheeled vehicle."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Bugle"
+                    },
+                    "Definition": {
+                        "S": " A sort of wild ox; a buffalo."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Bugle"
+                    },
+                    "Definition": {
+                        "S": " A horn used by hunters."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Bugle"
+                    },
+                    "Definition": {
+                        "S": " An elingated glass bead, of various colors, though commonly black."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Bugle"
+                    },
+                    "Definition": {
+                        "S": " Jet black."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Bugle"
+                    },
+                    "Definition": {
+                        "S": " A plant of the genus  >Ajuga"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Build"
+                    },
+                    "Definition": {
+                        "S": " To erect or construct, as an edifice or fabric of any kind; to form by uniting materials into a regular structure; to fabricate; to make; to raise."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Build"
+                    },
+                    "Definition": {
+                        "S": " To exercise the art, or practice the business, of building."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Build"
+                    },
+                    "Definition": {
+                        "S": " Form or mode of construction; general figure; make;  s>as, the  x>build"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Built"
+                    },
+                    "Definition": {
+                        "S": " Shape; build; form of structure;  s>as, the  x>built"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Built"
+                    },
+                    "Definition": {
+                        "S": " Formed; shaped; constructed; made; -- often used in composition and preceded by the word denoting the form;  s>as, frigate- x>built"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Bulau"
+                    },
+                    "Definition": {
+                        "S": " An East Indian insectivorous mammal ( pn>Gymnura Rafflesii"}}}}]}

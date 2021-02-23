@@ -1,0 +1,151 @@
+{"Dictionary":[{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Dor"
+                    },
+                    "Definition": {
+                        "S": " A large European scaraboid beetle ( pn>Geotrupes stercorarius"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Dor"
+                    },
+                    "Definition": {
+                        "S": " A trick, joke, or deception."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Dor"
+                    },
+                    "Definition": {
+                        "S": " To make a fool of; to deceive."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Doree"
+                    },
+                    "Definition": {
+                        "S": " A European marine fish ( pn>Zeus faber"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Doric"
+                    },
+                    "Definition": {
+                        "S": " Pertaining to Doris, in ancient Greece, or to the Dorians;  s>as, the  x>Doric"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Doric"
+                    },
+                    "Definition": {
+                        "S": " The Doric dialect."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Doris"
+                    },
+                    "Definition": {
+                        "S": " A genus of nudibranchiate mollusks having a wreath of branchie on the back."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Dorn"
+                    },
+                    "Definition": {
+                        "S": " A British ray; the thornback."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Dorp"
+                    },
+                    "Definition": {
+                        "S": " A hamlet."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Dorr"
+                    },
+                    "Definition": {
+                        "S": " The dorbeetle; also, a drone or an idler. See 1st  r>Dor"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Dorr"
+                    },
+                    "Definition": {
+                        "S": " To deceive.  ark>[Obs.]"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Dorse"
+                    },
+                    "Definition": {
+                        "S": " Same as  r>dorsal"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Dorse"
+                    },
+                    "Definition": {
+                        "S": " The Baltic or variable cod ( pn>Gadus callarias"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Dory"
+                    },
+                    "Definition": {
+                        "S": " A European fish. See  r>Doree"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Dory"
+                    },
+                    "Definition": {
+                        "S": " A small, strong, flat-bottomed rowboat, with sharp prow and flaring sides."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Dose"
+                    },
+                    "Definition": {
+                        "S": " The quantity of medicine given, or prescribed to be taken, at one time."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Dose"
+                    },
+                    "Definition": {
+                        "S": " To proportion properly (a medicine), with reference to the patient or the disease; to form into suitable doses."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Dosel"
+                    },
+                    "Definition": {
+                        "S": " Same as  r>Dorsal"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Dost"
+                    },
+                    "Definition": {
+                        "S": " of  r>Do"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Dot"
+                    },
+                    "Definition": {
+                        "S": " A marriage portion; dowry."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Dot"
+                    },
+                    "Definition": {
+                        "S": " A small point or spot, made with a pen or other pointed instrument; a speck, or small mark."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Dot"
+                    },
+                    "Definition": {
+                        "S": " To mark with dots or small spots;  s>as, to  x>dot"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Dot"
+                    },
+                    "Definition": {
+                        "S": " To make dots or specks."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Dotal"
+                    },
+                    "Definition": {
+                        "S": " Pertaining to dower, or a woman's marriage portion; constituting dower, or comprised in it."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Dote"
+                    },
+                    "Definition": {
+                        "S": " A marriage portion.  ark>[Obs.]"}}}}]}

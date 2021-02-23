@@ -1,0 +1,151 @@
+{"Dictionary":[{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Cleg"
+                    },
+                    "Definition": {
+                        "S": " A small breeze or horsefly."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Clem"
+                    },
+                    "Definition": {
+                        "S": " To starve; to famish."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Clepe"
+                    },
+                    "Definition": {
+                        "S": " To call, or name."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Clepe"
+                    },
+                    "Definition": {
+                        "S": " To make appeal; to cry out."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Clerk"
+                    },
+                    "Definition": {
+                        "S": " A clergyman or ecclesiastic."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Clew"
+                    },
+                    "Definition": {
+                        "S": " To direct; to guide, as by a thread."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Click"
+                    },
+                    "Definition": {
+                        "S": " To make a slight, sharp noise (or a succession of such noises), as by gentle striking; to tick."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Click"
+                    },
+                    "Definition": {
+                        "S": " To more with the sound of a click."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Click"
+                    },
+                    "Definition": {
+                        "S": " A slight sharp noise, such as is made by the cocking of a pistol."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Click"
+                    },
+                    "Definition": {
+                        "S": " To snatch."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Click"
+                    },
+                    "Definition": {
+                        "S": " A detent, pawl, or ratchet, as that which catches the cogs of a ratchet wheel to prevent backward motion. See  >Illust"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Cliff"
+                    },
+                    "Definition": {
+                        "S": " A high, steep rock; a precipice."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Cliff"
+                    },
+                    "Definition": {
+                        "S": " See  r>Clef"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Clift"
+                    },
+                    "Definition": {
+                        "S": " A cliff."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Clift"
+                    },
+                    "Definition": {
+                        "S": " A cleft of crack; a narrow opening."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Climb"
+                    },
+                    "Definition": {
+                        "S": " To ascend or mount laboriously, esp. by use of the hands and feet."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Climb"
+                    },
+                    "Definition": {
+                        "S": " To ascend, as by means of the hands and feet, or laboriously or slowly; to mount."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Climb"
+                    },
+                    "Definition": {
+                        "S": " The act of one who climbs; ascent by climbing."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Clime"
+                    },
+                    "Definition": {
+                        "S": " A climate; a tract or region of the earth. See  r>Climate"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Cling"
+                    },
+                    "Definition": {
+                        "S": " To adhere closely; to stick; to hold fast, especially by twining round or embracing;  s>as, the tendril of a vine  x>clings"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Cling"
+                    },
+                    "Definition": {
+                        "S": " To cause to adhere to, especially by twining round or embraching."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Cling"
+                    },
+                    "Definition": {
+                        "S": " Adherence; attachment; devotion."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Clink"
+                    },
+                    "Definition": {
+                        "S": " To cause to give out a slight, sharp, tinkling, sound, as by striking metallic or other sonorous bodies together."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Clink"
+                    },
+                    "Definition": {
+                        "S": " To give out a slight, sharp, thinkling sound."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Clink"
+                    },
+                    "Definition": {
+                        "S": " A slight, sharp, tinkling sound, made by the collision of sonorous bodies."}}}}]}

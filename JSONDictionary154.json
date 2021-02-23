@@ -1,0 +1,151 @@
+{"Dictionary":[{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Drill"
+                    },
+                    "Definition": {
+                        "S": " To practice an exercise or exercises; to train one's self."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Drill"
+                    },
+                    "Definition": {
+                        "S": " An instrument with an edged or pointed end used for making holes in hard substances; strictly, a tool that cuts with its end, by revolving, as in drilling metals, or by a succession of blows, as in dril"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Drill"
+                    },
+                    "Definition": {
+                        "S": " To cause to flow in drills or rills or by trickling; to drain by trickling;  s>as, waters  x>drilled"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Drill"
+                    },
+                    "Definition": {
+                        "S": " To trickle."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Drill"
+                    },
+                    "Definition": {
+                        "S": " A small trickling stream; a rill."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Drill"
+                    },
+                    "Definition": {
+                        "S": " A large African baboon ( pn>Cynocephalus leucopheus"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Drill"
+                    },
+                    "Definition": {
+                        "S": " Same as  r>Drilling"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Drily"
+                    },
+                    "Definition": {
+                        "S": " See  r>Dryly"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Drink"
+                    },
+                    "Definition": {
+                        "S": " To swallow anything liquid, for quenching thirst or other purpose; to imbibe; to receive or partake of, as if in satisfaction of thirst;  s>as, to  x>drink"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Drink"
+                    },
+                    "Definition": {
+                        "S": " To swallow (a liquid); to receive, as a fluid, into the stomach; to imbibe;  s>as, to  x>drink"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Drink"
+                    },
+                    "Definition": {
+                        "S": " Liquid to be swallowed; any fluid to be taken into the stomach for quenching thirst or for other purposes, as water, coffee, or decoctions."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Drip"
+                    },
+                    "Definition": {
+                        "S": " To fall in drops;  s>as, water  x>drips"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Drip"
+                    },
+                    "Definition": {
+                        "S": " To let fall in drops."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Drip"
+                    },
+                    "Definition": {
+                        "S": " A falling or letting fall in drops; a dripping; that which drips, or falls in drops."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Drive"
+                    },
+                    "Definition": {
+                        "S": " To impel or urge onward by force in a direction away from one, or along before one; to push forward; to compel to move on; to communicate motion to;  s>as, to  x>drive"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Drive"
+                    },
+                    "Definition": {
+                        "S": " To rush and press with violence; to move furiously."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Drive"
+                    },
+                    "Definition": {
+                        "S": " Driven."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Drive"
+                    },
+                    "Definition": {
+                        "S": " The act of driving; a trip or an excursion in a carriage, as for exercise or pleasure; -- distinguished from a ride taken on horseback."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Drock"
+                    },
+                    "Definition": {
+                        "S": " A water course."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Droh"
+                    },
+                    "Definition": {
+                        "S": " of  r>Draw"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Droil"
+                    },
+                    "Definition": {
+                        "S": " To work sluggishly or slowly; to plod."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Droil"
+                    },
+                    "Definition": {
+                        "S": " A drudge"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Droit"
+                    },
+                    "Definition": {
+                        "S": " A right; law in its aspect of the foundation of rights; also, in old law, the writ of right."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Droll"
+                    },
+                    "Definition": {
+                        "S": " Queer, and fitted to provoke laughter; ludicrous from oddity; amusing and strange."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Droll"
+                    },
+                    "Definition": {
+                        "S": " One whose practice it is to raise mirth by odd tricks; a jester; a buffoon; a merry-andrew."}}}}]}

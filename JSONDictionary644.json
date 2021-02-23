@@ -1,0 +1,151 @@
+{"Dictionary":[{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Wandy"
+                    },
+                    "Definition": {
+                        "S": " Long and flexible, like a wand."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Wane"
+                    },
+                    "Definition": {
+                        "S": " To be diminished; to decrease; -- contrasted with  >wax"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Wane"
+                    },
+                    "Definition": {
+                        "S": " To cause to decrease."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Wane"
+                    },
+                    "Definition": {
+                        "S": " The decrease of the illuminated part of the moon to the eye of a spectator."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Waney"
+                    },
+                    "Definition": {
+                        "S": " A sharp or uneven edge on a board that is cut from a log not perfectly squared, or that is made in the process of squaring.  See  r>Wany"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Wang"
+                    },
+                    "Definition": {
+                        "S": " The jaw, jawbone, or cheek bone."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Wang"
+                    },
+                    "Definition": {
+                        "S": " See  r>Whang"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Wango"
+                    },
+                    "Definition": {
+                        "S": " A boomerang."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Wanly"
+                    },
+                    "Definition": {
+                        "S": " In a wan, or pale, manner."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Want"
+                    },
+                    "Definition": {
+                        "S": " The state of not having; the condition of being without anything; absence or scarcity of what is needed or desired; deficiency; lack;  s>as, a  x>want"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Want"
+                    },
+                    "Definition": {
+                        "S": " To be without; to be destitute of, or deficient in; not to have; to lack;  s>as, to  x>want"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Want"
+                    },
+                    "Definition": {
+                        "S": " To be absent; to be deficient or lacking; to fail; not to be sufficient; to fall or come short; to lack; -- often used impersonally with  >of"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Wanty"
+                    },
+                    "Definition": {
+                        "S": " A surcingle, or strap of leather, used for binding a load upon the back of a beast; also, a leather tie; a short wagon rope."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Wany"
+                    },
+                    "Definition": {
+                        "S": " To wane."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Wany"
+                    },
+                    "Definition": {
+                        "S": " Waning or diminished in some parts; not of uniform size throughout; -- said especially of sawed boards or timber when tapering or uneven, from being cut too near the outside of the log."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Wanze"
+                    },
+                    "Definition": {
+                        "S": " To wane; to wither."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Wap"
+                    },
+                    "Definition": {
+                        "S": " To beat; to whap."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Wap"
+                    },
+                    "Definition": {
+                        "S": " A blow or beating; a whap."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Waped"
+                    },
+                    "Definition": {
+                        "S": " Cast down; crushed by misery; dejected."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Wapp"
+                    },
+                    "Definition": {
+                        "S": " A fair-leader."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "War"
+                    },
+                    "Definition": {
+                        "S": " Ware; aware."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "War"
+                    },
+                    "Definition": {
+                        "S": " A contest between nations or states, carried on by force, whether for defence, for revenging insults and redressing wrongs, for the extension of commerce, for the acquisition of territory, for obtaining"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "War"
+                    },
+                    "Definition": {
+                        "S": " To make war; to invade or attack a state or nation with force of arms; to carry on hostilities; to be in a state by violence."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "War"
+                    },
+                    "Definition": {
+                        "S": " To make war upon; to fight."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Ward"
+                    },
+                    "Definition": {
+                        "S": " The act of guarding; watch; guard; guardianship; specifically, a guarding during the day.  See the Note under  r>Watch"}}}}]}

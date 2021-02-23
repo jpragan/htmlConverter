@@ -1,0 +1,151 @@
+{"Dictionary":[{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Woo"
+                    },
+                    "Definition": {
+                        "S": " To court; to make love."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Wood"
+                    },
+                    "Definition": {
+                        "S": " Mad; insane; possessed; rabid; furious; frantic."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Wood"
+                    },
+                    "Definition": {
+                        "S": " To grow mad; to act like a madman; to mad."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Wood"
+                    },
+                    "Definition": {
+                        "S": " A large and thick collection of trees; a forest or grove; -- frequently used in the plural."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Wood"
+                    },
+                    "Definition": {
+                        "S": " To supply with wood, or get supplies of wood for;  s>as, to  x>wood"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Wood"
+                    },
+                    "Definition": {
+                        "S": " To take or get a supply of wood."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Woody"
+                    },
+                    "Definition": {
+                        "S": " Abounding with wood or woods;  s>as,  x>woody"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Wooer"
+                    },
+                    "Definition": {
+                        "S": " One who wooes; one who courts or solicits in love; a suitor."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Woof"
+                    },
+                    "Definition": {
+                        "S": " The threads that cross the warp in a woven fabric; the weft; the filling; the thread usually carried by the shuttle in weaving."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Woofy"
+                    },
+                    "Definition": {
+                        "S": " Having a close texture; dense;  s>as, a  x>woofy"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Wook"
+                    },
+                    "Definition": {
+                        "S": " Woke."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Wool"
+                    },
+                    "Definition": {
+                        "S": " The soft and curled, or crisped, species of hair which grows on sheep and some other animals, and which in fineness sometimes approaches to fur; -- chiefly applied to the fleecy coat of the sheep, which"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Woold"
+                    },
+                    "Definition": {
+                        "S": " To wind, or wrap; especially, to wind a rope round, as a mast or yard made of two or more pieces, at the place where it has been fished or scarfed, in order to strengthen it."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Woon"
+                    },
+                    "Definition": {
+                        "S": " Dwelling.  See  r>Wone"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Woosy"
+                    },
+                    "Definition": {
+                        "S": " Oozy; wet."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Wootz"
+                    },
+                    "Definition": {
+                        "S": " A species of steel imported from the East Indies, valued for making edge tools; Indian steel. It has in combination a minute portion of alumina and silica."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Wopen"
+                    },
+                    "Definition": {
+                        "S": " Wept."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Word"
+                    },
+                    "Definition": {
+                        "S": " The spoken sign of a conception or an idea; an articulate or vocal sound, or a combination of articulate and vocal sounds, uttered by the human voice, and by custom expressing an idea or ideas; a single"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Word"
+                    },
+                    "Definition": {
+                        "S": " To use words, as in discussion; to argue; to dispute."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Word"
+                    },
+                    "Definition": {
+                        "S": " To express in words; to phrase."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Wordy"
+                    },
+                    "Definition": {
+                        "S": " Of or pertaining to words; consisting of words; verbal;  s>as, a  x>wordy"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Wore"
+                    },
+                    "Definition": {
+                        "S": "  t>imp."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Wore"
+                    },
+                    "Definition": {
+                        "S": "  t>imp."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Work"
+                    },
+                    "Definition": {
+                        "S": " Exertion of strength or faculties; physical or intellectual effort directed to an end; industrial activity; toil; employment; sometimes, specifically, physically labor."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Work"
+                    },
+                    "Definition": {
+                        "S": " To exert one's self for a purpose; to put forth effort for the attainment of an object; to labor; to be engaged in the performance of a task, a duty, or the like."}}}}]}

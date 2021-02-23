@@ -1,0 +1,151 @@
+{"Dictionary":[{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Unce"
+                    },
+                    "Definition": {
+                        "S": " A claw."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Unce"
+                    },
+                    "Definition": {
+                        "S": " An ounce; a small portion."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Uncia"
+                    },
+                    "Definition": {
+                        "S": " A twelfth part, as of the Roman as; an ounce."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Uncle"
+                    },
+                    "Definition": {
+                        "S": " The brother of one's father or mother; also applied to an aunt's husband; -- the correlative of  >aunt"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Unco"
+                    },
+                    "Definition": {
+                        "S": " Unknown; strange, or foreign; unusual, or surprising; distant in manner; reserved."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Unco"
+                    },
+                    "Definition": {
+                        "S": " In a high degree; to a great extent; greatly; very."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Unco"
+                    },
+                    "Definition": {
+                        "S": " A strange thing or person."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Uncus"
+                    },
+                    "Definition": {
+                        "S": " A hook or claw."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Uncut"
+                    },
+                    "Definition": {
+                        "S": " Not cut; not separated or divided by cutting or otherwise; -- said especially of books, periodicals, and the like, when the leaves have not been separated by trimming in binding."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Unde"
+                    },
+                    "Definition": {
+                        "S": " Waving or wavy; -- applied to ordinaries, or division lines."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Under"
+                    },
+                    "Definition": {
+                        "S": " Below or lower, in place or position, with the idea of being covered; lower than; beneath; -- opposed to  >over"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Under"
+                    },
+                    "Definition": {
+                        "S": " In a lower, subject, or subordinate condition; in subjection; -- used chiefly in a few idiomatic phrases;  s>as, to  x>bring under"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Under"
+                    },
+                    "Definition": {
+                        "S": " Lower in position, intensity, rank, or degree; subject; subordinate; -- generally in composition with a noun, and written with or without the hyphen;  s>as, an  x>under"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Undid"
+                    },
+                    "Definition": {
+                        "S": "  t>imp."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Undo"
+                    },
+                    "Definition": {
+                        "S": " To reverse, as what has been done; to annul; to bring to naught."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Undue"
+                    },
+                    "Definition": {
+                        "S": " Not due; not yet owing;  s>as, an  x>undue"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Unfit"
+                    },
+                    "Definition": {
+                        "S": " To make unsuitable or incompetent; to deprive of the strength, skill, or proper qualities for anything; to disable; to incapacitate; to disqualify;  s>as, sickness  x>unfits"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Unfit"
+                    },
+                    "Definition": {
+                        "S": " Not fit; unsuitable."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Unfix"
+                    },
+                    "Definition": {
+                        "S": " To loosen from a fastening; to detach from anything that holds; to unsettle;  s>as, to  x>unfix"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Unget"
+                    },
+                    "Definition": {
+                        "S": " To cause to be unbegotten or unborn, or as if unbegotten or unborn."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Ungka"
+                    },
+                    "Definition": {
+                        "S": " The siamang; -- called also  ltname>ungka ape"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Ungod"
+                    },
+                    "Definition": {
+                        "S": " To deprive of divinity; to undeify."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Unhap"
+                    },
+                    "Definition": {
+                        "S": " Ill luck; misfortune."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Unhat"
+                    },
+                    "Definition": {
+                        "S": " To take off the hat of; to remove one's hat, especially as a mark of respect."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Uni-"
+                    },
+                    "Definition": {
+                        "S": " A prefix signifying  >one"}}}}]}

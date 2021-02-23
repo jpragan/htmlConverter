@@ -1,0 +1,151 @@
+{"Dictionary":[{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Sweet"
+                    },
+                    "Definition": {
+                        "S": " That which is sweet to the taste; -- used chiefly in the plural."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Sweet"
+                    },
+                    "Definition": {
+                        "S": " Sweetly."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Sweet"
+                    },
+                    "Definition": {
+                        "S": " To sweeten."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Swell"
+                    },
+                    "Definition": {
+                        "S": " To grow larger; to dilate or extend the exterior surface or dimensions, by matter added within, or by expansion of the inclosed substance;  s>as, the legs  x>swell"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Swell"
+                    },
+                    "Definition": {
+                        "S": " To increase the size, bulk, or dimensions of; to cause to rise, dilate, or increase;  s>as, rains and dissolving snow  x>swell"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Swell"
+                    },
+                    "Definition": {
+                        "S": " The act of swelling."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Swell"
+                    },
+                    "Definition": {
+                        "S": " Having the characteristics of a person of rank and importance; showy; dandified; distinguished;  s>as, a  x>swell"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Swelt"
+                    },
+                    "Definition": {
+                        "S": "  t>imp."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Swelt"
+                    },
+                    "Definition": {
+                        "S": " To die; to perish."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Swelt"
+                    },
+                    "Definition": {
+                        "S": " To overpower, as with heat; to cause to faint; to swelter."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Swept"
+                    },
+                    "Definition": {
+                        "S": "  t>imp. & p. p."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Swerd"
+                    },
+                    "Definition": {
+                        "S": " See  r>Sward"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Swerd"
+                    },
+                    "Definition": {
+                        "S": " Sword."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Swich"
+                    },
+                    "Definition": {
+                        "S": " Such."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Swift"
+                    },
+                    "Definition": {
+                        "S": " Moving a great distance in a short time; moving with celerity or velocity; fleet; rapid; quick; speedy; prompt."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Swift"
+                    },
+                    "Definition": {
+                        "S": " Swiftly."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Swift"
+                    },
+                    "Definition": {
+                        "S": " The current of a stream."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Swig"
+                    },
+                    "Definition": {
+                        "S": " To drink in long draughts; to gulp;  s>as, to  x>swig"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Swig"
+                    },
+                    "Definition": {
+                        "S": " A long draught."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Swig"
+                    },
+                    "Definition": {
+                        "S": " To castrate, as a ram, by binding the testicles tightly with a string, so that they mortify and slough off."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Swill"
+                    },
+                    "Definition": {
+                        "S": " To wash; to drench."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Swill"
+                    },
+                    "Definition": {
+                        "S": " To drink greedily or swinishly; to drink to excess."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Swill"
+                    },
+                    "Definition": {
+                        "S": " The wash, or mixture of liquid substances, given to swine; hogwash; -- called also  ltname>swillings"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Swim"
+                    },
+                    "Definition": {
+                        "S": " To be supported by water or other fluid; not to sink; to float;  s>as, any substance will  x>swim"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Swim"
+                    },
+                    "Definition": {
+                        "S": " To pass or move over or on by swimming;  s>as, to  x>swim"}}}}]}

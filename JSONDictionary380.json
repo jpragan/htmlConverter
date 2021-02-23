@@ -1,0 +1,151 @@
+{"Dictionary":[{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Nero"
+                    },
+                    "Definition": {
+                        "S": " A Roman emperor notorius for debauchery and barbarous cruelty; hence, any profligate and cruel ruler or merciless tyrant."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Nerre"
+                    },
+                    "Definition": {
+                        "S": " Nearer."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Nerve"
+                    },
+                    "Definition": {
+                        "S": " One of the whitish and elastic bundles of fibers, with the accompanying tissues, which transmit nervous impulses between nerve centers and various parts of the animal body."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Nerve"
+                    },
+                    "Definition": {
+                        "S": " To give strength or vigor to; to supply with force;  s>as, fear  x>nerved"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Nervy"
+                    },
+                    "Definition": {
+                        "S": " Strong; sinewy."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Nese"
+                    },
+                    "Definition": {
+                        "S": " Nose."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Nesh"
+                    },
+                    "Definition": {
+                        "S": " Soft; tender; delicate."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Ness"
+                    },
+                    "Definition": {
+                        "S": " A promontory; a cape; a headland."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "-ness"
+                    },
+                    "Definition": {
+                        "S": " To treat or test, as a liquid, with a solution of mercuric iodide in potassium iodide and potassium hydroxide, which is called  >Nessler's solution"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Nest"
+                    },
+                    "Definition": {
+                        "S": " The bed or receptacle prepared by a fowl for holding her eggs and for hatching and rearing her young."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Nest"
+                    },
+                    "Definition": {
+                        "S": " To build and occupy a nest."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Nest"
+                    },
+                    "Definition": {
+                        "S": " To put into a nest; to form a nest for."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Ney"
+                    },
+                    "Definition": {
+                        "S": " A fabric of twine, thread, or the like, wrought or woven into meshes, and used for catching fish, birds, butterflies, etc."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Net"
+                    },
+                    "Definition": {
+                        "S": " To make into a net; to make n the style of network;  s>as, to  x>net"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Net"
+                    },
+                    "Definition": {
+                        "S": " To form network or netting; to knit."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Net"
+                    },
+                    "Definition": {
+                        "S": " Without spot; pure; shining."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Net"
+                    },
+                    "Definition": {
+                        "S": " To produce or gain as clear profit;  s>as, he  x>netted"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Netty"
+                    },
+                    "Definition": {
+                        "S": " Like a net, or network; netted."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Neve"
+                    },
+                    "Definition": {
+                        "S": " The upper part of a glacier, above the limit or perpetual snow. See  r>Galcier"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Neven"
+                    },
+                    "Definition": {
+                        "S": " To name; to mention; to utter."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Never"
+                    },
+                    "Definition": {
+                        "S": " Not ever; not at any time; at no time, whether past, present, or future."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Nevew"
+                    },
+                    "Definition": {
+                        "S": " Nephew."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "New"
+                    },
+                    "Definition": {
+                        "S": " Having existed, or having been made, but a short time; having originated or occured lately; having recently come into existence, or into one's possession; not early or long in being; of late origin; rec"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "New"
+                    },
+                    "Definition": {
+                        "S": " Newly; recently."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "New"
+                    },
+                    "Definition": {
+                        "S": " To make new; to renew."}}}}]}

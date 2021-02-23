@@ -1,0 +1,151 @@
+{"Dictionary":[{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Hew"
+                    },
+                    "Definition": {
+                        "S": " Hue; color."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Hewe"
+                    },
+                    "Definition": {
+                        "S": " A domestic servant; a retainer."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Hewer"
+                    },
+                    "Definition": {
+                        "S": " One who hews."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Hewn"
+                    },
+                    "Definition": {
+                        "S": " Felled, cut, or shaped as with an ax; roughly squared;  s>as, a house built of  x>hewn"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Hexad"
+                    },
+                    "Definition": {
+                        "S": " An atom whose valence is six, and which can be theoretically combined with, substituted for, or replaced by,  >six"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Hexyl"
+                    },
+                    "Definition": {
+                        "S": " A compound radical,  hform>C6H13"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Hey"
+                    },
+                    "Definition": {
+                        "S": " High."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Hey"
+                    },
+                    "Definition": {
+                        "S": " An exclamation of joy, surprise, or encouragement."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Heyne"
+                    },
+                    "Definition": {
+                        "S": " A wretch; a rascal."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Hid"
+                    },
+                    "Definition": {
+                        "S": "  t>imp. & p. p."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Hide"
+                    },
+                    "Definition": {
+                        "S": " To conceal, or withdraw from sight; to put out of view; to secrete."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Hide"
+                    },
+                    "Definition": {
+                        "S": " To lie concealed; to keep one's self out of view; to be withdrawn from sight or observation."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Hide"
+                    },
+                    "Definition": {
+                        "S": " An abode or dwelling."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Hide"
+                    },
+                    "Definition": {
+                        "S": " The skin of an animal, either raw or dressed; -- generally applied to the undressed skins of the larger domestic animals, as oxen, horses, etc."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Hide"
+                    },
+                    "Definition": {
+                        "S": " To flog; to whip."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Hider"
+                    },
+                    "Definition": {
+                        "S": " One who hides or conceals."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Hie"
+                    },
+                    "Definition": {
+                        "S": " To hasten; to go in haste; -- also often with the reciprocal pronoun."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Hie"
+                    },
+                    "Definition": {
+                        "S": " Haste; diligence."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Hiems"
+                    },
+                    "Definition": {
+                        "S": " Winter."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "High"
+                    },
+                    "Definition": {
+                        "S": " To hie."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "High"
+                    },
+                    "Definition": {
+                        "S": " Elevated above any starting point of measurement, as a line, or surface; having altitude; lifted up; raised or extended in the direction of the zenith; lofty; tall;  s>as, a  x>high"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "High"
+                    },
+                    "Definition": {
+                        "S": " In a high manner; in a high place; to a great altitude; to a great degree; largely; in a superior manner; eminently; powerfully."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "High"
+                    },
+                    "Definition": {
+                        "S": " An elevated place; a superior region; a height; the sky; heaven."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "High"
+                    },
+                    "Definition": {
+                        "S": " To rise;  s>as, the sun  x>higheth"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Hight"
+                    },
+                    "Definition": {
+                        "S": " A variant of  r>Height"}}}}]}

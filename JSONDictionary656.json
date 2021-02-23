@@ -1,0 +1,151 @@
+{"Dictionary":[{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Whip"
+                    },
+                    "Definition": {
+                        "S": " To strike with a lash, a cord, a rod, or anything slender and lithe; to lash; to beat;  s>as, to  x>whip"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Whip"
+                    },
+                    "Definition": {
+                        "S": " To move nimbly; to start or turn suddenly and do something; to whisk;  s>as, he  x>whipped"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Whip"
+                    },
+                    "Definition": {
+                        "S": " An instrument or driving horses or other animals, or for correction, consisting usually of a lash attached to a handle, or of a handle and lash so combined as to form a flexible rod."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Whipt"
+                    },
+                    "Definition": {
+                        "S": " Whipped."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Whir"
+                    },
+                    "Definition": {
+                        "S": " To whirl round, or revolve, with a whizzing noise; to fly or more quickly with a buzzing or whizzing sound; to whiz."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Whir"
+                    },
+                    "Definition": {
+                        "S": " To hurry a long with a whizzing sound."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Whir"
+                    },
+                    "Definition": {
+                        "S": " A buzzing or whizzing sound produced by rapid or whirling motion;  s>as, the  x>whir"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Whirl"
+                    },
+                    "Definition": {
+                        "S": " To turn round rapidly; to cause to rotate with velocity; to make to revolve."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Whirl"
+                    },
+                    "Definition": {
+                        "S": " To be turned round rapidly; to move round with velocity; to revolve or rotate with great speed; to gyrate."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Whirl"
+                    },
+                    "Definition": {
+                        "S": " A turning with rapidity or velocity; rapid rotation or circumvolution; quick gyration; rapid or confusing motion;  s>as, the  x>whirl"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Whisk"
+                    },
+                    "Definition": {
+                        "S": " A game at cards; whist."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Whisk"
+                    },
+                    "Definition": {
+                        "S": " The act of whisking; a rapid, sweeping motion, as of something light; a sudden motion or quick puff."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Whisk"
+                    },
+                    "Definition": {
+                        "S": " To sweep, brush, or agitate, with a light, rapid motion;  s>as, to  x>whisk"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Whisk"
+                    },
+                    "Definition": {
+                        "S": " To move nimbly at with velocity; to make a sudden agile movement."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Whisp"
+                    },
+                    "Definition": {
+                        "S": " See  r>Wisp"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Whisp"
+                    },
+                    "Definition": {
+                        "S": " A flock of snipe."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Whist"
+                    },
+                    "Definition": {
+                        "S": " Be silent; be still; hush; silence."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Whist"
+                    },
+                    "Definition": {
+                        "S": " A certain game at cards; -- so called because it requires silence and close attention. It is played by four persons (those who sit opposite each other being partners) with a complete pack of fifty-two c"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Whist"
+                    },
+                    "Definition": {
+                        "S": " To hush or silence."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Whist"
+                    },
+                    "Definition": {
+                        "S": " To be or become silent or still; to be hushed or mute."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Whist"
+                    },
+                    "Definition": {
+                        "S": " Not speaking; not making a noise; silent; mute; still; quiet."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Whit"
+                    },
+                    "Definition": {
+                        "S": " The smallest part or particle imaginable; a bit; a jot; an iota; -- generally used in an adverbial phrase in a negative sentence."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "White"
+                    },
+                    "Definition": {
+                        "S": " Reflecting to the eye all the rays of the spectrum combined; not tinted with any of the proper colors or their mixtures; having the color of pure snow; snowy; -- the opposite of  nt>black"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "White"
+                    },
+                    "Definition": {
+                        "S": " The color of pure snow; one of the natural colors of bodies, yet not strictly a color, but a composition of all colors; the opposite of black; whiteness.  See the Note under  r>Color"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "White"
+                    },
+                    "Definition": {
+                        "S": " To make white; to whiten; to whitewash; to bleach."}}}}]}

@@ -1,0 +1,151 @@
+{"Dictionary":[{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Rill"
+                    },
+                    "Definition": {
+                        "S": " A very small brook; a streamlet."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Rill"
+                    },
+                    "Definition": {
+                        "S": " To run a small stream."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Rille"
+                    },
+                    "Definition": {
+                        "S": " One of certain narrow, crooked valleys seen, by aid of the telescope, on the surface of the moon."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Rily"
+                    },
+                    "Definition": {
+                        "S": " Roily."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Rim"
+                    },
+                    "Definition": {
+                        "S": " The border, edge, or margin of a thing, usually of something circular or curving;  s>as, the  x>rim"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Rim"
+                    },
+                    "Definition": {
+                        "S": " To furnish with a rim; to border."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Rima"
+                    },
+                    "Definition": {
+                        "S": " A narrow and elongated aperture; a cleft; a fissure."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Rime"
+                    },
+                    "Definition": {
+                        "S": " A rent or long aperture; a chink; a fissure; a crack."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Rime"
+                    },
+                    "Definition": {
+                        "S": " White frost; hoarfrost; congealed dew or vapor."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Rime"
+                    },
+                    "Definition": {
+                        "S": " To freeze or congeal into hoarfrost."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Rime"
+                    },
+                    "Definition": {
+                        "S": " A step or round of a ladder; a rung."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Rime"
+                    },
+                    "Definition": {
+                        "S": " Rhyme. See  r>Rhyme"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Rime"
+                    },
+                    "Definition": {
+                        "S": " To rhyme. See  r>Rhyme"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Rimer"
+                    },
+                    "Definition": {
+                        "S": " A rhymer; a versifier."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Rimer"
+                    },
+                    "Definition": {
+                        "S": " A tool for shaping the rimes of a ladder."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Rimey"
+                    },
+                    "Definition": {
+                        "S": " To compose in rhyme; to versify."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Rimy"
+                    },
+                    "Definition": {
+                        "S": " Abounding with rime; frosty."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Rind"
+                    },
+                    "Definition": {
+                        "S": " The external covering or coat, as of flesh, fruit, trees, etc.; skin; hide; bark; peel; shell."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Rind"
+                    },
+                    "Definition": {
+                        "S": " To remove the rind of; to bark."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Rindy"
+                    },
+                    "Definition": {
+                        "S": " Having a rind or skin."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Rine"
+                    },
+                    "Definition": {
+                        "S": " See  r>Rind"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Rined"
+                    },
+                    "Definition": {
+                        "S": " Having a rind"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Ring"
+                    },
+                    "Definition": {
+                        "S": " To cause to sound, especially by striking, as a metallic body;  s>as, to  x>ring"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Ring"
+                    },
+                    "Definition": {
+                        "S": " To sound, as a bell or other sonorous body, particularly a metallic one."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Ring"
+                    },
+                    "Definition": {
+                        "S": " A sound; especially, the sound of vibrating metals;  s>as, the  x>ring"}}}}]}

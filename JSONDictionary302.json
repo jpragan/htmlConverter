@@ -1,0 +1,151 @@
+{"Dictionary":[{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Kit"
+                    },
+                    "Definition": {
+                        "S": " A small violin."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Kit"
+                    },
+                    "Definition": {
+                        "S": " A large bottle."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Kite"
+                    },
+                    "Definition": {
+                        "S": " Any raptorial bird of the subfamily  pn>Milvine"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Kite"
+                    },
+                    "Definition": {
+                        "S": " To raise money by 'kites;'  s>as,  x>kiting"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Kite"
+                    },
+                    "Definition": {
+                        "S": " The belly."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Kith"
+                    },
+                    "Definition": {
+                        "S": " Acquaintance; kindred."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Kithe"
+                    },
+                    "Definition": {
+                        "S": " See  r>Kythe"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Kitte"
+                    },
+                    "Definition": {
+                        "S": " of  r>Kit"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Kive"
+                    },
+                    "Definition": {
+                        "S": " A mash vat. See  r>Keeve"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Kiver"
+                    },
+                    "Definition": {
+                        "S": " To cover."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Klick"
+                    },
+                    "Definition": {
+                        "S": " See  r>Click"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Kloof"
+                    },
+                    "Definition": {
+                        "S": " A glen; a ravine closed at its upper end."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Knab"
+                    },
+                    "Definition": {
+                        "S": " To seize with the teeth; to gnaw."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Knack"
+                    },
+                    "Definition": {
+                        "S": " To crack; to make a sharp, abrupt noise to chink."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Knack"
+                    },
+                    "Definition": {
+                        "S": " A petty contrivance; a toy; a plaything; a knickknack."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Knag"
+                    },
+                    "Definition": {
+                        "S": " A knot in wood; a protuberance."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Knap"
+                    },
+                    "Definition": {
+                        "S": " A protuberance; a swelling; a knob; a button; hence, rising ground; a summit. See  r>Knob"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Knap"
+                    },
+                    "Definition": {
+                        "S": " To bite; to bite off; to break short."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Knap"
+                    },
+                    "Definition": {
+                        "S": " To make a sound of snapping."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Knap"
+                    },
+                    "Definition": {
+                        "S": " A sharp blow or slap."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Knar"
+                    },
+                    "Definition": {
+                        "S": " See  r>Gnar"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Knarl"
+                    },
+                    "Definition": {
+                        "S": " A knot in wood. See  r>Gnarl"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Knave"
+                    },
+                    "Definition": {
+                        "S": " A boy; especially, a boy servant."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Knaw"
+                    },
+                    "Definition": {
+                        "S": " See  r>Gnaw"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Knead"
+                    },
+                    "Definition": {
+                        "S": " To work and press into a mass, usually with the hands; esp., to work, as by repeated pressure with the knuckles, into a well mixed mass, as the materials of bread, cake, etc.;  s>as, to  x>knead"}}}}]}

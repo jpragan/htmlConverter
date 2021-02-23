@@ -1,0 +1,151 @@
+{"Dictionary":[{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Sloom"
+                    },
+                    "Definition": {
+                        "S": " Slumber."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Sloop"
+                    },
+                    "Definition": {
+                        "S": " A vessel having one mast and fore-and-aft rig, consisting of a boom-and-gaff mainsail, jibs, staysail, and gaff topsail. The typical sloop has a fixed bowsprit, topmast, and standing rigging, while thos"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Slop"
+                    },
+                    "Definition": {
+                        "S": " Water or other liquid carelessly spilled or thrown aboyt, as upon a table or a floor; a puddle; a soiled spot."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Slop"
+                    },
+                    "Definition": {
+                        "S": " To cause to overflow, as a liquid, by the motion of the vessel containing it; to spill."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Slop"
+                    },
+                    "Definition": {
+                        "S": " To overflow or be spilled as a liquid, by the motion of the vessel containing it; -- often with  >over"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Slop"
+                    },
+                    "Definition": {
+                        "S": " Any kind of outer garment made of linen or cotton, as a night dress, or a smock frock."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Slope"
+                    },
+                    "Definition": {
+                        "S": " An oblique direction; a line or direction including from a horizontal line or direction; also, sometimes, an inclination, as of one line or surface to another."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Slope"
+                    },
+                    "Definition": {
+                        "S": " Sloping."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Slope"
+                    },
+                    "Definition": {
+                        "S": " In a sloping manner."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Slope"
+                    },
+                    "Definition": {
+                        "S": " To form with a slope; to give an oblique or slanting direction to; to direct obliquely; to incline; to slant;  s>as, to  x>slope"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Slope"
+                    },
+                    "Definition": {
+                        "S": " To take an oblique direction; to be at an angle with the plane of the horizon; to incline;  s>as, the ground  x>slopes"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Slopy"
+                    },
+                    "Definition": {
+                        "S": " Sloping; inclined."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Slot"
+                    },
+                    "Definition": {
+                        "S": " A broad, flat, wooden bar; a slat or sloat."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Slot"
+                    },
+                    "Definition": {
+                        "S": " To shut with violence; to slam;  s>as, to  x>slot"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Slot"
+                    },
+                    "Definition": {
+                        "S": " The track of a deer; hence, a track of any kind."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Sloth"
+                    },
+                    "Definition": {
+                        "S": " Slowness; tardiness."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Sloth"
+                    },
+                    "Definition": {
+                        "S": " To be idle."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Slow"
+                    },
+                    "Definition": {
+                        "S": "  t>imp."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Slow"
+                    },
+                    "Definition": {
+                        "S": " Moving a short space in a relatively long time; not swift; not quick in motion; not rapid; moderate; deliberate;  s>as, a  x>slow"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Slow"
+                    },
+                    "Definition": {
+                        "S": " Slowly."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Slow"
+                    },
+                    "Definition": {
+                        "S": " To render slow; to slacken the speed of; to retard; to delay;  s>as, to  x>slow"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Slow"
+                    },
+                    "Definition": {
+                        "S": " To go slower; -- often with  >up"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Slow"
+                    },
+                    "Definition": {
+                        "S": " A moth."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Slowh"
+                    },
+                    "Definition": {
+                        "S": "  t>imp."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Slows"
+                    },
+                    "Definition": {
+                        "S": " Milk sickness."}}}}]}

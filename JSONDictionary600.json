@@ -1,0 +1,151 @@
+{"Dictionary":[{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Tinea"
+                    },
+                    "Definition": {
+                        "S": " A name applied to various skin diseases, but especially to ringworm. See  r>Ringworm"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Tined"
+                    },
+                    "Definition": {
+                        "S": " Furnished with tines;  s>as, a three- x>tined"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Tinet"
+                    },
+                    "Definition": {
+                        "S": " Brushwood and thorns for making and repairing hedges."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Ting"
+                    },
+                    "Definition": {
+                        "S": " A sharp sound, as of a bell; a tinkling."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Ting"
+                    },
+                    "Definition": {
+                        "S": " To sound or ring, as a bell; to tinkle."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Ting"
+                    },
+                    "Definition": {
+                        "S": " The apartment in a Chinese temple where the idol is kept."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Tinge"
+                    },
+                    "Definition": {
+                        "S": " To imbue or impregnate with something different or foreign;  s>as, to  x>tinge"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Tinge"
+                    },
+                    "Definition": {
+                        "S": " A degree, usually a slight degree, of some color, taste, or something foreign, infused into another substance or mixture, or added to it; tincture; color; dye; hue; shade; taste."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Tink"
+                    },
+                    "Definition": {
+                        "S": " To make a sharp, shrill noise; to tinkle."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Tink"
+                    },
+                    "Definition": {
+                        "S": " A sharp, quick sound; a tinkle."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Tinny"
+                    },
+                    "Definition": {
+                        "S": " Pertaining to, abounding with, or resembling, tin."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Tint"
+                    },
+                    "Definition": {
+                        "S": " A slight coloring."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Tint"
+                    },
+                    "Definition": {
+                        "S": " To give a slight coloring to; to tinge."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Tinto"
+                    },
+                    "Definition": {
+                        "S": " A red Madeira wine, wanting the high aroma of the white sorts, and, when old, resembling tawny port."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Tiny"
+                    },
+                    "Definition": {
+                        "S": " Very small; little; puny."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Tip"
+                    },
+                    "Definition": {
+                        "S": " The point or extremity of anything; a pointed or somewhat sharply rounded end; the end;  s>as, the  x>tip"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Tip"
+                    },
+                    "Definition": {
+                        "S": " To form a point upon; to cover the tip, top, or end of;  s>as, to  x>tip"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Tip"
+                    },
+                    "Definition": {
+                        "S": " To strike slightly; to tap."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Tip"
+                    },
+                    "Definition": {
+                        "S": " To fall on, or incline to, one side."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Tip"
+                    },
+                    "Definition": {
+                        "S": " A light touch or blow; a tap."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Tipsy"
+                    },
+                    "Definition": {
+                        "S": " Being under the influence of strong drink; rendered weak or foolish by liquor, but not absolutely or completely drunk; fuddled; intoxicated."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Tire"
+                    },
+                    "Definition": {
+                        "S": " A tier, row, or rank. See  r>Tier"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Tire"
+                    },
+                    "Definition": {
+                        "S": " Attire; apparel."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Tire"
+                    },
+                    "Definition": {
+                        "S": " To adorn; to attire; to dress."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Tire"
+                    },
+                    "Definition": {
+                        "S": " To seize, pull, and tear prey, as a hawk does."}}}}]}

@@ -1,0 +1,151 @@
+{"Dictionary":[{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Class"
+                    },
+                    "Definition": {
+                        "S": " To arrange in classes; to classify or refer to some class;  s>as, to  x>class"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Class"
+                    },
+                    "Definition": {
+                        "S": " To grouped or classed."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Clave"
+                    },
+                    "Definition": {
+                        "S": "  t>imp."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Clavy"
+                    },
+                    "Definition": {
+                        "S": " A mantelpiece."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Claw"
+                    },
+                    "Definition": {
+                        "S": " A sharp, hooked nail, as of a beast or bird."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Claw"
+                    },
+                    "Definition": {
+                        "S": " To pull, tear, or scratch with, or as with, claws or nails."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Claw"
+                    },
+                    "Definition": {
+                        "S": " To scrape, scratch, or dig with a claw, or with the hand as a claw."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Clay"
+                    },
+                    "Definition": {
+                        "S": " A soft earth, which is plastuc, or may be molded with the hands, consisting of hydrous silicate of alumunium. It is the result of the wearing down and decomposition, in part, of rocks containing alumino"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Clay"
+                    },
+                    "Definition": {
+                        "S": " To cover or manure with clay."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Clean"
+                    },
+                    "Definition": {
+                        "S": " Free from dirt or filth;  s>as,  x>clean"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Clean"
+                    },
+                    "Definition": {
+                        "S": " Without limitation or remainder; quite; perfectly; wholly; entirely."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Clean"
+                    },
+                    "Definition": {
+                        "S": " To render clean; to free from whatever is foul, offensive, or extraneous; to purify; to cleanse."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Clear"
+                    },
+                    "Definition": {
+                        "S": " Free from opaqueness; transparent; bright; light; luminous; unclouded."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Clear"
+                    },
+                    "Definition": {
+                        "S": " Full extent; distance between extreme limits; especially; the distance between the nearest surfaces of two bodies, or the space between walls;  s>as, a room ten feet square in the  x>clear"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Clear"
+                    },
+                    "Definition": {
+                        "S": " In a clear manner; plainly."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Clear"
+                    },
+                    "Definition": {
+                        "S": " To render bright, transparent, or undimmed; to free from clouds."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Clear"
+                    },
+                    "Definition": {
+                        "S": " To become free from clouds or fog; to become fair; -- often fallowed by  >up"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Cleat"
+                    },
+                    "Definition": {
+                        "S": " A strip of wood or iron fastened on transversely to something in order to give strength, prevent warping, hold position, etc."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Cleat"
+                    },
+                    "Definition": {
+                        "S": " To strengthen with a cleat."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Clee"
+                    },
+                    "Definition": {
+                        "S": " A claw."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Clee"
+                    },
+                    "Definition": {
+                        "S": " The redshank."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Clef"
+                    },
+                    "Definition": {
+                        "S": " A character used in musical notation to determine the position and pitch of the scale as represented on the staff."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Cleft"
+                    },
+                    "Definition": {
+                        "S": " from  r>Cleave"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Cleft"
+                    },
+                    "Definition": {
+                        "S": " Divided; split; partly divided or split."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Cleft"
+                    },
+                    "Definition": {
+                        "S": " A space or opening made by splitting; a crack; a crevice;  s>as, the  x>cleft"}}}}]}

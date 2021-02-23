@@ -1,0 +1,151 @@
+{"Dictionary":[{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "arugo"
+                    },
+                    "Definition": {
+                        "S": " The rust of any metal, esp. of brass or copper; verdigris."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Aery"
+                    },
+                    "Definition": {
+                        "S": " An aerie."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "ather"
+                    },
+                    "Definition": {
+                        "S": " See  r>Ether"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Afar"
+                    },
+                    "Definition": {
+                        "S": " At, to, or from a great distance; far away; -- often used with  >from"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Afer"
+                    },
+                    "Definition": {
+                        "S": " The southwest wind."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Affix"
+                    },
+                    "Definition": {
+                        "S": " To subjoin, annex, or add at the close or end; to append to; to fix to any part of;  s>as, to  x>affix"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Affix"
+                    },
+                    "Definition": {
+                        "S": " That which is affixed; an appendage; esp. one or more letters or syllables added at the end of a word; a suffix; a postfix."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Affy"
+                    },
+                    "Definition": {
+                        "S": " To confide (one's self  >to"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Affy"
+                    },
+                    "Definition": {
+                        "S": " To trust or confide."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Afire"
+                    },
+                    "Definition": {
+                        "S": " On fire."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Aflat"
+                    },
+                    "Definition": {
+                        "S": " Level with the ground; flat."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Aflow"
+                    },
+                    "Definition": {
+                        "S": " Flowing."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Afoam"
+                    },
+                    "Definition": {
+                        "S": " In a foaming state;  s>as, the sea is all  x>afoam"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Afoot"
+                    },
+                    "Definition": {
+                        "S": " On foot."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Afore"
+                    },
+                    "Definition": {
+                        "S": " Before."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Afore"
+                    },
+                    "Definition": {
+                        "S": " Before (in all its senses)."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Afoul"
+                    },
+                    "Definition": {
+                        "S": " In collision; entangled."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Afric"
+                    },
+                    "Definition": {
+                        "S": " African."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Aft"
+                    },
+                    "Definition": {
+                        "S": " Near or towards the stern of a vessel; astern; abaft."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "After"
+                    },
+                    "Definition": {
+                        "S": " Next; later in time; subsequent; succeeding;  s>as, an  x>after"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "After"
+                    },
+                    "Definition": {
+                        "S": " Behind in place;  s>as, men in line one  x>after"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "After"
+                    },
+                    "Definition": {
+                        "S": " Subsequently in time or place; behind; afterward;  s>as, he follows  x>after"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Again"
+                    },
+                    "Definition": {
+                        "S": " In return, back;  s>as, bring us word  x>again"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Agama"
+                    },
+                    "Definition": {
+                        "S": " A genus of lizards, one of the few which feed upon vegetable substances; also, one of these lizards."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Agami"
+                    },
+                    "Definition": {
+                        "S": " A South American bird ( pn>Psophia crepitans"}}}}]}

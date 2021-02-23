@@ -1,0 +1,151 @@
+{"Dictionary":[{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Weet"
+                    },
+                    "Definition": {
+                        "S": " To know; to wit."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Weft"
+                    },
+                    "Definition": {
+                        "S": "  t>imp. & p. p."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Weft"
+                    },
+                    "Definition": {
+                        "S": " A thing waved, waived, or cast away; a waif."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Weft"
+                    },
+                    "Definition": {
+                        "S": " The woof of cloth; the threads that cross the warp from selvage to selvage; the thread carried by the shuttle in weaving."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Weigh"
+                    },
+                    "Definition": {
+                        "S": " A corruption of  r>Way"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Weigh"
+                    },
+                    "Definition": {
+                        "S": " To bear up; to raise; to lift into the air; to swing up;  s>as, to  x>weigh"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Weigh"
+                    },
+                    "Definition": {
+                        "S": " To have weight; to be heavy."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Weigh"
+                    },
+                    "Definition": {
+                        "S": " A certain quantity estimated by weight; an English measure of weight.  See  r>Wey"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Weird"
+                    },
+                    "Definition": {
+                        "S": " Fate; destiny; one of the Fates, or Norns; also, a prediction."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Weird"
+                    },
+                    "Definition": {
+                        "S": " Of or pertaining to fate; concerned with destiny."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Weird"
+                    },
+                    "Definition": {
+                        "S": " To foretell the fate of; to predict; to destine to."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Weism"
+                    },
+                    "Definition": {
+                        "S": " Same as  r>Wegotism"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Weive"
+                    },
+                    "Definition": {
+                        "S": " See  r>Waive"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Weka"
+                    },
+                    "Definition": {
+                        "S": " A New Zealand rail ( pn>Ocydromus australis"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Wekau"
+                    },
+                    "Definition": {
+                        "S": " A small New Zealand owl ( pn>Sceloglaux albifacies"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Welch"
+                    },
+                    "Definition": {
+                        "S": " See  r>Welsh"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Weld"
+                    },
+                    "Definition": {
+                        "S": " To wield."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Weld"
+                    },
+                    "Definition": {
+                        "S": " An herb ( pn>Reseda luteola"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Weld"
+                    },
+                    "Definition": {
+                        "S": " To press or beat into intimate and permanent union, as two pieces of iron when heated almost to fusion."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Weld"
+                    },
+                    "Definition": {
+                        "S": " The state of being welded; the joint made by welding."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Wele"
+                    },
+                    "Definition": {
+                        "S": " Prosperity; happiness; well-being; weal."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Welew"
+                    },
+                    "Definition": {
+                        "S": " To welk, or wither."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Welk"
+                    },
+                    "Definition": {
+                        "S": " To wither; to fade; also, to decay; to decline; to wane."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Welk"
+                    },
+                    "Definition": {
+                        "S": " To cause to wither; to wilt."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Welk"
+                    },
+                    "Definition": {
+                        "S": " A pustule.  See 2d  r>Whelk"}}}}]}

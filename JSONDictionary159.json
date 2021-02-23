@@ -1,0 +1,151 @@
+{"Dictionary":[{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Dune"
+                    },
+                    "Definition": {
+                        "S": " A low hill of drifting sand usually formed on the coats, but often carried far inland by the prevailing winds."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Dung"
+                    },
+                    "Definition": {
+                        "S": " The excrement of an animal."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Dung"
+                    },
+                    "Definition": {
+                        "S": " To manure with dung."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Dung"
+                    },
+                    "Definition": {
+                        "S": " To void excrement."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Dungy"
+                    },
+                    "Definition": {
+                        "S": " Full of dung; filthy; vile; low."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Dunny"
+                    },
+                    "Definition": {
+                        "S": " Deaf; stupid."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Dunt"
+                    },
+                    "Definition": {
+                        "S": " A blow."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Duo"
+                    },
+                    "Definition": {
+                        "S": " A composition for two performers; a duet."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Duomo"
+                    },
+                    "Definition": {
+                        "S": " A cathedral. See  r>Dome"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Dup"
+                    },
+                    "Definition": {
+                        "S": " To open;  s>as, to  x>dup"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Dupe"
+                    },
+                    "Definition": {
+                        "S": " One who has been deceived or who is easily deceived; a gull;  s>as, the  x>dupe"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Dupe"
+                    },
+                    "Definition": {
+                        "S": " To deceive; to trick; to mislead by imposing on one's credulity; to gull;  s>as,  x>dupe"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Duper"
+                    },
+                    "Definition": {
+                        "S": " One who dupes another."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Duple"
+                    },
+                    "Definition": {
+                        "S": " Double."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Dur"
+                    },
+                    "Definition": {
+                        "S": " Major; in the major mode;  s>as, C  x>dur"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Dura"
+                    },
+                    "Definition": {
+                        "S": " Short form for  r>Dura mater"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Dural"
+                    },
+                    "Definition": {
+                        "S": " Pertaining to the dura, or dura mater."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Dure"
+                    },
+                    "Definition": {
+                        "S": " Hard; harsh; severe; rough; toilsome."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Dure"
+                    },
+                    "Definition": {
+                        "S": " To last; to continue; to endure."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Durga"
+                    },
+                    "Definition": {
+                        "S": " Same as  r>Doorga"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Durio"
+                    },
+                    "Definition": {
+                        "S": " A fruit tree ( pn>D. zibethinus"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Durra"
+                    },
+                    "Definition": {
+                        "S": " A kind of millet, cultivated throughout Asia, and introduced into the south of Europe; a variety of  pn>Sorghum vulgare"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Durst"
+                    },
+                    "Definition": {
+                        "S": " of  r>Dare"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Duse"
+                    },
+                    "Definition": {
+                        "S": " A demon or spirit. See  r>Deuce"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Dusk"
+                    },
+                    "Definition": {
+                        "S": " Tending to darkness or blackness; moderately dark or black; dusky."}}}}]}

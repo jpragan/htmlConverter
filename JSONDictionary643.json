@@ -1,0 +1,151 @@
+{"Dictionary":[{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Wake"
+                    },
+                    "Definition": {
+                        "S": " The act of waking, or being awaked; also, the state of being awake."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Waken"
+                    },
+                    "Definition": {
+                        "S": " To wake; to cease to sleep; to be awakened."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Waken"
+                    },
+                    "Definition": {
+                        "S": " To excite or rouse from sleep; to wake; to awake; to awaken."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Waker"
+                    },
+                    "Definition": {
+                        "S": " One who wakes."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Wald"
+                    },
+                    "Definition": {
+                        "S": " A forest; -- used as a termination of names.  See  r>Weald"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Wale"
+                    },
+                    "Definition": {
+                        "S": " A streak or mark made on the skin by a rod or whip; a stripe; a wheal.  See  r>Wheal"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Wale"
+                    },
+                    "Definition": {
+                        "S": " To mark with wales, or stripes."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Walk"
+                    },
+                    "Definition": {
+                        "S": " To move along on foot; to advance by steps; to go on at a moderate pace; specifically, of two-legged creatures, to proceed at a slower or faster rate, but without running, or lifting one foot entirely b"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Walk"
+                    },
+                    "Definition": {
+                        "S": " To pass through, over, or upon; to traverse; to perambulate;  s>as, to  x>walk"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Walk"
+                    },
+                    "Definition": {
+                        "S": " The act of walking, or moving on the feet with a slow pace; advance without running or leaping."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Wall"
+                    },
+                    "Definition": {
+                        "S": " A kind of knot often used at the end of a rope; a wall knot; a wale."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Wall"
+                    },
+                    "Definition": {
+                        "S": " A work or structure of stone, brick, or other materials, raised to some height, and intended for defense or security, solid and permanent inclosing fence, as around a field, a park, a town, etc., also, "}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Wall"
+                    },
+                    "Definition": {
+                        "S": " To inclose with a wall, or as with a wall."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Walm"
+                    },
+                    "Definition": {
+                        "S": " To roll; to spout; to boil up."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Walty"
+                    },
+                    "Definition": {
+                        "S": " Liable to roll over; crank;  s>as, a  x>walty"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Waltz"
+                    },
+                    "Definition": {
+                        "S": " A dance performed by two persons in circular figures with a whirling motion; also, a piece of music composed in triple measure for this kind of dance."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Waltz"
+                    },
+                    "Definition": {
+                        "S": " To dance a waltz."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Walwe"
+                    },
+                    "Definition": {
+                        "S": " To wallow."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Waly"
+                    },
+                    "Definition": {
+                        "S": " An exclamation of grief."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Wamp"
+                    },
+                    "Definition": {
+                        "S": " The common American eider."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Wan"
+                    },
+                    "Definition": {
+                        "S": " Won."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Wan"
+                    },
+                    "Definition": {
+                        "S": " Having a pale or sickly hue; languid of look; pale; pallid."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Wan"
+                    },
+                    "Definition": {
+                        "S": " The quality of being wan; wanness."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Wan"
+                    },
+                    "Definition": {
+                        "S": " To grow wan; to become pale or sickly in looks."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Wand"
+                    },
+                    "Definition": {
+                        "S": " A small stick; a rod; a verge."}}}}]}

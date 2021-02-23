@@ -1,0 +1,151 @@
+{"Dictionary":[{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Verso"
+                    },
+                    "Definition": {
+                        "S": " The reverse, or left-hand, page of a book or a folded sheet of paper; -- opposed to  >recto"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Verst"
+                    },
+                    "Definition": {
+                        "S": " A Russian measure of length containing 3,500 English feet."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Vert"
+                    },
+                    "Definition": {
+                        "S": " Everything that grows, and bears a green leaf, within the forest;  s>as, to preserve  x>vert"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Vertu"
+                    },
+                    "Definition": {
+                        "S": " Virtue; power.  See  r>Virtue"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Verve"
+                    },
+                    "Definition": {
+                        "S": " Excitement of imagination such as animates a poet, artist, or musician, in composing or performing; rapture; enthusiasm; spirit; energy."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Very"
+                    },
+                    "Definition": {
+                        "S": " True; real; actual; veritable."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Very"
+                    },
+                    "Definition": {
+                        "S": " In a high degree; to no small extent; exceedingly; excessively; extremely;  s>as, a  x>very"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Vese"
+                    },
+                    "Definition": {
+                        "S": " Onset; rush; violent draught or wind."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Vespa"
+                    },
+                    "Definition": {
+                        "S": " A genus of Hymenoptera including the common wasps and hornets."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Vest"
+                    },
+                    "Definition": {
+                        "S": " An article of clothing covering the person; an outer garment; a vestment; a dress; a vesture; a robe."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Vest"
+                    },
+                    "Definition": {
+                        "S": " To clothe with, or as with, a vestment, or garment; to dress; to robe; to cover, surround, or encompass closely."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Vest"
+                    },
+                    "Definition": {
+                        "S": " To come or descend; to be fixed; to take effect, as a title or right; -- followed by  >in"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Vesta"
+                    },
+                    "Definition": {
+                        "S": " One of the great divinities of the ancient Romans, identical with the Greek  >Hestia"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Vetch"
+                    },
+                    "Definition": {
+                        "S": " Any leguminous plant of the genus  pn>Vicia"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Veto"
+                    },
+                    "Definition": {
+                        "S": " An authoritative prohibition or negative; a forbidding; an interdiction."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Veto"
+                    },
+                    "Definition": {
+                        "S": " To prohibit; to negative; also, to refuse assent to, as a legislative bill, and thus prevent its enactment;  s>as, to  x>veto"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Vex"
+                    },
+                    "Definition": {
+                        "S": " To tos back and forth; to agitate; to disquiet."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Vex"
+                    },
+                    "Definition": {
+                        "S": " To be irritated; to fret."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Vexed"
+                    },
+                    "Definition": {
+                        "S": " Annoyed; harassed; troubled."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Vexer"
+                    },
+                    "Definition": {
+                        "S": " One who vexes or troubles."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Vexil"
+                    },
+                    "Definition": {
+                        "S": " A vexillum."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Via"
+                    },
+                    "Definition": {
+                        "S": " A road way."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Via"
+                    },
+                    "Definition": {
+                        "S": " By the way of;  s>as, to send a letter  x>via"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Viage"
+                    },
+                    "Definition": {
+                        "S": " A voyage; a journey."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Vial"
+                    },
+                    "Definition": {
+                        "S": " A small bottle, usually of glass; a little glass vessel with a narrow aperture intended to be closed with a stopper;  s>as, a  x>vial"}}}}]}

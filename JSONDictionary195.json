@@ -1,0 +1,151 @@
+{"Dictionary":[{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Flag"
+                    },
+                    "Definition": {
+                        "S": " To lay with flags of flat stones."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Flail"
+                    },
+                    "Definition": {
+                        "S": " An instrument for threshing or beating grain from the ear by hand, consisting of a wooden staff or handle, at the end of which a stouter and shorter pole or club, called a swipe, is so hung as to swing "}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Flain"
+                    },
+                    "Definition": {
+                        "S": "  t>p. p."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Flake"
+                    },
+                    "Definition": {
+                        "S": " A paling; a hurdle."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Flake"
+                    },
+                    "Definition": {
+                        "S": " A loose filmy mass or a thin chiplike layer of anything; a film; flock; lamina; layer; scale;  s>as, a  x>flake"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Flake"
+                    },
+                    "Definition": {
+                        "S": " To form into flakes."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Flake"
+                    },
+                    "Definition": {
+                        "S": " To separate in flakes; to peel or scale off."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Flaky"
+                    },
+                    "Definition": {
+                        "S": " Consisting of flakes or of small, loose masses; lying, or cleaving off, in flakes or layers; flakelike."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Flam"
+                    },
+                    "Definition": {
+                        "S": " A freak or whim; also, a falsehood; a lie; an illusory pretext; deception; delusion."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Flam"
+                    },
+                    "Definition": {
+                        "S": " To deceive with a falsehood."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Flame"
+                    },
+                    "Definition": {
+                        "S": " A stream of burning vapor or gas, emitting light and heat; darting or streaming fire; a blaze; a fire."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Flame"
+                    },
+                    "Definition": {
+                        "S": " To burn with a flame or blaze; to burn as gas emitted from bodies in combustion; to blaze."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Flame"
+                    },
+                    "Definition": {
+                        "S": " To kindle; to inflame; to excite."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Flamy"
+                    },
+                    "Definition": {
+                        "S": " Flaming; blazing; flamelike; flame-colored; composed of flame."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Flang"
+                    },
+                    "Definition": {
+                        "S": " A miner's two-pointed pick."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Flank"
+                    },
+                    "Definition": {
+                        "S": " The fleshy or muscular part of the side of an animal, between the rids and the hip. See  >Illust"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Flank"
+                    },
+                    "Definition": {
+                        "S": " To stand at the flank or side of; to border upon."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Flank"
+                    },
+                    "Definition": {
+                        "S": " To border; to touch."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Flap"
+                    },
+                    "Definition": {
+                        "S": " Anything broad and limber that hangs loose, or that is attached by one side or end and is easily moved;  s>as, the  x>flap"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Flap"
+                    },
+                    "Definition": {
+                        "S": " To beat with a flap; to strike."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Flap"
+                    },
+                    "Definition": {
+                        "S": " To move as do wings, or as something broad or loose; to fly with wings beating the air."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Flare"
+                    },
+                    "Definition": {
+                        "S": " To burn with an unsteady or waving flame;  s>as, the candle  x>flares"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Flare"
+                    },
+                    "Definition": {
+                        "S": " An unsteady, broad, offensive light."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Flare"
+                    },
+                    "Definition": {
+                        "S": " Leaf of lard."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Flash"
+                    },
+                    "Definition": {
+                        "S": " To burst or break forth with a sudden and transient flood of flame and light;  s>as, the lighting  x>flashes"}}}}]}

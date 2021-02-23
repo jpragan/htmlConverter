@@ -1,0 +1,151 @@
+{"Dictionary":[{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Bread"
+                    },
+                    "Definition": {
+                        "S": " An article of food made from flour or meal by moistening, kneading, and baking."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Bread"
+                    },
+                    "Definition": {
+                        "S": " To cover with bread crumbs, preparatory to cooking;  s>as,  x>breaded"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Break"
+                    },
+                    "Definition": {
+                        "S": " To strain apart; to sever by fracture; to divide with violence;  s>as, to  x>break"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Break"
+                    },
+                    "Definition": {
+                        "S": " To come apart or divide into two or more pieces, usually with suddenness and violence; to part; to burst asunder."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Break"
+                    },
+                    "Definition": {
+                        "S": " An opening made by fracture or disruption."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Bream"
+                    },
+                    "Definition": {
+                        "S": " A European fresh-water cyprinoid fish of the genus  >Abramis"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Bream"
+                    },
+                    "Definition": {
+                        "S": " To clean, as a ship's bottom of adherent shells, seaweed, etc., by the application of fire and scraping."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Bred"
+                    },
+                    "Definition": {
+                        "S": "  t>imp. & p. p."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Brede"
+                    },
+                    "Definition": {
+                        "S": " A braid."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Breed"
+                    },
+                    "Definition": {
+                        "S": " To produce as offspring; to bring forth; to bear; to procreate; to generate; to beget; to hatch."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Breed"
+                    },
+                    "Definition": {
+                        "S": " To bear and nourish young; to reproduce or multiply itself; to be pregnant."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Breed"
+                    },
+                    "Definition": {
+                        "S": " A race or variety of men or other animals (or of plants), perpetuating its special or distinctive characteristics by inheritance."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Breme"
+                    },
+                    "Definition": {
+                        "S": " Fierce; sharp; severe; cruel."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Bren"
+                    },
+                    "Definition": {
+                        "S": " Bran."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Brent"
+                    },
+                    "Definition": {
+                        "S": " of  r>Bren"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Brent"
+                    },
+                    "Definition": {
+                        "S": " A brant. See  r>Brant"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Brere"
+                    },
+                    "Definition": {
+                        "S": " A brier."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Brest"
+                    },
+                    "Definition": {
+                        "S": " for  >Bursteth"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Bret"
+                    },
+                    "Definition": {
+                        "S": " See  r>Birt"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Brett"
+                    },
+                    "Definition": {
+                        "S": " Same as  r>Britzska"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Breve"
+                    },
+                    "Definition": {
+                        "S": " A note or character of time, equivalent to two semibreves or four minims. When dotted, it is equal to three semibreves. It was formerly of a square figure (as thus:  ), but is now made oval, with a line"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Brew"
+                    },
+                    "Definition": {
+                        "S": " To boil or seethe; to cook."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Brew"
+                    },
+                    "Definition": {
+                        "S": " To attend to the business, or go through the processes, of brewing or making beer."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Brew"
+                    },
+                    "Definition": {
+                        "S": " The mixture formed by brewing; that which is brewed."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Briar"
+                    },
+                    "Definition": {
+                        "S": " Same as  r>Brier"}}}}]}

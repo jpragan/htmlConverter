@@ -1,0 +1,151 @@
+{"Dictionary":[{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Globe"
+                    },
+                    "Definition": {
+                        "S": " A round or spherical body, solid or hollow; a body whose surface is in every part equidistant from the center; a ball; a sphere."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Globe"
+                    },
+                    "Definition": {
+                        "S": " To gather or form into a globe."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Globy"
+                    },
+                    "Definition": {
+                        "S": " Resembling, or pertaining to, a globe; round; orbicular."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Glode"
+                    },
+                    "Definition": {
+                        "S": "  t>imp."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Glome"
+                    },
+                    "Definition": {
+                        "S": " Gloom."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Glome"
+                    },
+                    "Definition": {
+                        "S": " One of the two prominences at the posterior extremity of the frog of the horse's foot."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Gloom"
+                    },
+                    "Definition": {
+                        "S": " Partial or total darkness; thick shade; obscurity;  s>as, the  x>gloom"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Gloom"
+                    },
+                    "Definition": {
+                        "S": " To shine or appear obscurely or imperfectly; to glimmer."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Gloom"
+                    },
+                    "Definition": {
+                        "S": " To render gloomy or dark; to obscure; to darken."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Glore"
+                    },
+                    "Definition": {
+                        "S": " To glare; to glower."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Glory"
+                    },
+                    "Definition": {
+                        "S": " Praise, honor, admiration, or distinction, accorded by common consent to a person or thing; high reputation; honorable fame; renown."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Glory"
+                    },
+                    "Definition": {
+                        "S": " To exult with joy; to rejoice."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Glose"
+                    },
+                    "Definition": {
+                        "S": " See  r>Gloze"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Gloss"
+                    },
+                    "Definition": {
+                        "S": " Bbrightness or luster of a body proceeding from a smooth surface; polish;  s>as, the  x>gloss"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Gloss"
+                    },
+                    "Definition": {
+                        "S": " To give a superficial luster or gloss to; to make smooth and shining;  s>as, to  x>gloss"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Gloss"
+                    },
+                    "Definition": {
+                        "S": " A foreign, archaic, technical, or other uncommon word requiring explanation."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Gloss"
+                    },
+                    "Definition": {
+                        "S": " To render clear and evident by comments; to illustrate; to explain; to annotate."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Gloss"
+                    },
+                    "Definition": {
+                        "S": " To make comments; to comment; to explain."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Glout"
+                    },
+                    "Definition": {
+                        "S": " To pout; to look sullen."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Glout"
+                    },
+                    "Definition": {
+                        "S": " To view attentively; to gloat on; to stare at."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Glove"
+                    },
+                    "Definition": {
+                        "S": " A cover for the hand, or for the hand and wrist, with a separate sheath for each finder. The latter characteristic distinguishes the  >glove"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Glove"
+                    },
+                    "Definition": {
+                        "S": " To cover with, or as with, a glove."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Glow"
+                    },
+                    "Definition": {
+                        "S": " To shine with an intense or white heat; to give forth vivid light and heat; to be incandenscent."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Glow"
+                    },
+                    "Definition": {
+                        "S": " To make hot; to flush."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Glow"
+                    },
+                    "Definition": {
+                        "S": " White or red heat; incandscence."}}}}]}

@@ -1,0 +1,151 @@
+{"Dictionary":[{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Shock"
+                    },
+                    "Definition": {
+                        "S": " A dog with long hair or shag; -- called also  ltname>shockdog"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Shock"
+                    },
+                    "Definition": {
+                        "S": " Bushy; shaggy;  s>as, a  x>shock"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Shod"
+                    },
+                    "Definition": {
+                        "S": " f  r>Shoe"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Shode"
+                    },
+                    "Definition": {
+                        "S": " The parting of the hair on the head."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Shoe"
+                    },
+                    "Definition": {
+                        "S": " A covering for the human foot, usually made of leather, having a thick and somewhat stiff sole and a lighter top. It differs from a boot on not extending so far up the leg."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Shoe"
+                    },
+                    "Definition": {
+                        "S": " To furnish with a shoe or shoes; to put a shoe or shoes on;  s>as, to  x>shoe"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Shoer"
+                    },
+                    "Definition": {
+                        "S": " One who fits shoes to the feet; one who furnishes or puts on shoes;  s>as, a  x>shoer"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Shog"
+                    },
+                    "Definition": {
+                        "S": " A shock; a jog; a violent concussion or impulse."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Shog"
+                    },
+                    "Definition": {
+                        "S": " To shake; to shock."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Shog"
+                    },
+                    "Definition": {
+                        "S": " To jog; to move on."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Shola"
+                    },
+                    "Definition": {
+                        "S": " See  r>Sola"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Shole"
+                    },
+                    "Definition": {
+                        "S": " A plank fixed beneath an object, as beneath the rudder of a vessel, to protect it from injury; a plank on the ground under the end of a shore or the like."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Shole"
+                    },
+                    "Definition": {
+                        "S": " See  r>Shoal"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Shone"
+                    },
+                    "Definition": {
+                        "S": "  t>imp. & p. p."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Shoo"
+                    },
+                    "Definition": {
+                        "S": " Begone; away; -- an expression used in frightening away animals, especially fowls."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Shooi"
+                    },
+                    "Definition": {
+                        "S": " The Richardson's skua ( pn>Stercorarius parasiticus"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Shook"
+                    },
+                    "Definition": {
+                        "S": "  t>imp. & obs."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Shook"
+                    },
+                    "Definition": {
+                        "S": " A set of staves and headings sufficient in number for one hogshead, cask, barrel, or the like, trimmed, and bound together in compact form."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Shook"
+                    },
+                    "Definition": {
+                        "S": " To pack, as staves, in a shook."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Shoon"
+                    },
+                    "Definition": {
+                        "S": "  t>pl."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Shoop"
+                    },
+                    "Definition": {
+                        "S": "  t>imp."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Shoot"
+                    },
+                    "Definition": {
+                        "S": " An inclined plane, either artificial or natural, down which timber, coal, etc., are caused to slide; also, a narrow passage, either natural or artificial, in a stream, where the water rushes rapidly; es"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Shoot"
+                    },
+                    "Definition": {
+                        "S": " To let fly, or cause to be driven, with force, as an arrow or a bullet; -- followed by a word denoting the missile, as an object."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Shoot"
+                    },
+                    "Definition": {
+                        "S": " To cause an engine or weapon to discharge a missile; -- said of a person or an agent;  s>as, they  x>shot"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Shoot"
+                    },
+                    "Definition": {
+                        "S": " The act of shooting; the discharge of a missile; a shot;  s>as, the  x>shoot"}}}}]}
