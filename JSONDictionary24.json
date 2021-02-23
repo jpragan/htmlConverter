@@ -1,0 +1,151 @@
+{"Dictionary":[{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Argon"
+                    },
+                    "Definition": {
+                        "S": " A substance regarded as an element, contained in the atmosphere and remarkable for its chemical inertness."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Argot"
+                    },
+                    "Definition": {
+                        "S": " A secret language or conventional slang peculiar to thieves, tramps, and vagabonds; flash."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Argue"
+                    },
+                    "Definition": {
+                        "S": " To invent and offer reasons to support or overthrow a proposition, opinion, or measure; to use arguments; to reason."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Argue"
+                    },
+                    "Definition": {
+                        "S": " To debate or discuss; to treat by reasoning;  s>as, the counsel  x>argued"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Argus"
+                    },
+                    "Definition": {
+                        "S": " A fabulous being of antiquity, said to have had a hundred eyes, who has placed by Juno to guard Io. His eyes were transplanted to the peacock's tail."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Aria"
+                    },
+                    "Definition": {
+                        "S": " An air or song; a melody; a tune."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Arian"
+                    },
+                    "Definition": {
+                        "S": " See  r>Aryan"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Arian"
+                    },
+                    "Definition": {
+                        "S": " Pertaining to Arius, a presbyter of the church of Alexandria, in the fourth century, or to the doctrines of Arius, who held Christ to be inferior to God the Father in nature and dignity, though the firs"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Arid"
+                    },
+                    "Definition": {
+                        "S": " Exhausted of moisture; parched with heat; dry; barren."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Aries"
+                    },
+                    "Definition": {
+                        "S": " The Ram; the first of the twelve signs in the zodiac, which the sun enters at the vernal equinox, about the 21st of March."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Arise"
+                    },
+                    "Definition": {
+                        "S": " To come up from a lower to a higher position; to come above the horizon; to come up from one's bed or place of repose; to mount; to ascend; to rise;  s>as, to  x>arise"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Arise"
+                    },
+                    "Definition": {
+                        "S": " Rising."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Arist"
+                    },
+                    "Definition": {
+                        "S": " of  r>Arise"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Ark"
+                    },
+                    "Definition": {
+                        "S": " A chest, or coffer."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Arles"
+                    },
+                    "Definition": {
+                        "S": " An earnest; earnest money; money paid to bind a bargain."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Arm"
+                    },
+                    "Definition": {
+                        "S": " The limb of the human body which extends from the shoulder to the hand; also, the corresponding limb of a monkey."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Arm"
+                    },
+                    "Definition": {
+                        "S": " A branch of the military service;  s>as, the cavalry  x>arm"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Arm"
+                    },
+                    "Definition": {
+                        "S": " To take by the arm; to take up in one's arms."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Arm"
+                    },
+                    "Definition": {
+                        "S": " To provide one's self with arms, weapons, or means of attack or resistance; to take arms."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Armed"
+                    },
+                    "Definition": {
+                        "S": " Furnished with weapons of offense or defense; furnished with the means of security or protection."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Armet"
+                    },
+                    "Definition": {
+                        "S": " A kind of helmet worn in the 14th, 15th, and 16th centuries."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Armil"
+                    },
+                    "Definition": {
+                        "S": " A bracelet."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Armor"
+                    },
+                    "Definition": {
+                        "S": " Defensive arms for the body; any clothing or covering worn to protect one's person in battle."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Arms"
+                    },
+                    "Definition": {
+                        "S": " Instruments or weapons of offense or defense."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Army"
+                    },
+                    "Definition": {
+                        "S": " A collection or body of men armed for war, esp. one organized in companies, battalions, regiments, brigades, and divisions, under proper officers."}}}}]}

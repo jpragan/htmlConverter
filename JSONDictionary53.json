@@ -1,0 +1,151 @@
+{"Dictionary":[{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Bitch"
+                    },
+                    "Definition": {
+                        "S": " The female of the canine kind, as of the dog, wolf, and fox."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Bite"
+                    },
+                    "Definition": {
+                        "S": " To seize with the teeth, so that they enter or nip the thing seized; to lacerate, crush, or wound with the teeth;  s>as, to  x>bite"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Bite"
+                    },
+                    "Definition": {
+                        "S": " To seize something forcibly with the teeth; to wound with the teeth; to have the habit of so doing; as, does the dog  >bite"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Bite"
+                    },
+                    "Definition": {
+                        "S": " The act of seizing with the teeth or mouth; the act of wounding or separating with the teeth or mouth; a seizure with the teeth or mouth, as of a bait;  s>as, to give anything a hard  x>bite"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Biter"
+                    },
+                    "Definition": {
+                        "S": " One who, or that which, bites; that which bites often, or is inclined to bite, as a dog or fish."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Bitt"
+                    },
+                    "Definition": {
+                        "S": " See  r>Bitts"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Bitt"
+                    },
+                    "Definition": {
+                        "S": " To put round the bitts;  s>as, to bitt the cable, in order to fasten it or to slacken it gradually, which is called  x>veering away"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Bitts"
+                    },
+                    "Definition": {
+                        "S": " A frame of two strong timbers fixed perpendicularly in the fore part of a ship, on which to fasten the cables as the ship rides at anchor, or in warping. Other bitts are used for belaying ( >belaying b"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Bizet"
+                    },
+                    "Definition": {
+                        "S": " The upper faceted portion of a brilliant-cut diamond, which projects from the setting and occupies the zone between the girdle and the table. See  r>Brilliant"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Blab"
+                    },
+                    "Definition": {
+                        "S": " To utter or tell unnecessarily, or in a thoughtless manner; to publish (secrets or trifles) without reserve or discretion."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Blab"
+                    },
+                    "Definition": {
+                        "S": " To talk thoughtlessly or without discretion; to tattle; to tell tales."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Blab"
+                    },
+                    "Definition": {
+                        "S": " One who blabs; a babbler; a telltale."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Black"
+                    },
+                    "Definition": {
+                        "S": " Destitute of light, or incapable of reflecting it; of the color of soot or coal; of the darkest or a very dark color, the opposite of  >white"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Black"
+                    },
+                    "Definition": {
+                        "S": " Sullenly; threateningly; maliciously; so as to produce blackness."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Black"
+                    },
+                    "Definition": {
+                        "S": " That which is destitute of light or whiteness; the darkest color, or rather a destitution of all color;  s>as, a cloth has a good  x>black"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Black"
+                    },
+                    "Definition": {
+                        "S": " To make black; to blacken; to soil; to sully."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Pope"
+                    },
+                    "Definition": {
+                        "S": " ."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Blade"
+                    },
+                    "Definition": {
+                        "S": " Properly, the leaf, or flat part of the leaf, of any plant, especially of gramineous plants. The term is sometimes applied to the spire of grasses."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Blade"
+                    },
+                    "Definition": {
+                        "S": " To furnish with a blade."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Blade"
+                    },
+                    "Definition": {
+                        "S": " To put forth or have a blade."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Blady"
+                    },
+                    "Definition": {
+                        "S": " Consisting of blades."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Ble"
+                    },
+                    "Definition": {
+                        "S": " Dark blue or bluish gray; lead-colored."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Blain"
+                    },
+                    "Definition": {
+                        "S": " An inflammatory swelling or sore; a bulla, pustule, or blister."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Blame"
+                    },
+                    "Definition": {
+                        "S": " To censure; to express disapprobation of; to find fault with; to reproach."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Blame"
+                    },
+                    "Definition": {
+                        "S": " An expression of disapprobation fir something deemed to be wrong; imputation of fault; censure."}}}}]}

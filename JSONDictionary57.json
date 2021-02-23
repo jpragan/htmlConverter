@@ -1,0 +1,151 @@
+{"Dictionary":[{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Blow"
+                    },
+                    "Definition": {
+                        "S": " A blossom; a flower; also, a state of blossoming; a mass of blossoms."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Blow"
+                    },
+                    "Definition": {
+                        "S": " A forcible stroke with the hand, fist, or some instrument, as a rod, a club, an ax, or a sword."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Blow"
+                    },
+                    "Definition": {
+                        "S": " To produce a current of air; to move, as air, esp. to move rapidly or with power;  s>as, the wind  x>blows"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Blow"
+                    },
+                    "Definition": {
+                        "S": " To force a current of air upon with the mouth, or by other means;  s>as, to  x>blow"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Blow"
+                    },
+                    "Definition": {
+                        "S": " A blowing, esp., a violent blowing of the wind; a gale;  s>as, a heavy  x>blow"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Blown"
+                    },
+                    "Definition": {
+                        "S": " Swollen; inflated; distended; puffed up, as cattle when gorged with green food which develops gas."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Blown"
+                    },
+                    "Definition": {
+                        "S": " Opened; in blossom or having blossomed, as a flower."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Blowy"
+                    },
+                    "Definition": {
+                        "S": " Windy;  s>as,  x>blowy"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Blub"
+                    },
+                    "Definition": {
+                        "S": " To swell; to puff out, as with weeping."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Blue"
+                    },
+                    "Definition": {
+                        "S": " Having the color of the clear sky, or a hue resembling it, whether lighter or darker;  s>as, the deep, blue sea; as  x>blue"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Blue"
+                    },
+                    "Definition": {
+                        "S": " One of the seven colors into which the rays of light divide themselves, when refracted through a glass prism; the color of the clear sky, or a color resembling that, whether lighter or darker; a pigment"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Blue"
+                    },
+                    "Definition": {
+                        "S": " To make blue; to dye of a blue color; to make blue by heating, as metals, etc."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Bluey"
+                    },
+                    "Definition": {
+                        "S": " , t>a."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Bluff"
+                    },
+                    "Definition": {
+                        "S": " Having a broad, flattened front;  s>as, the  x>bluff"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Bluff"
+                    },
+                    "Definition": {
+                        "S": " A high, steep bank, as by a river or the sea, or beside a ravine or plain; a cliff with a broad face."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Bluff"
+                    },
+                    "Definition": {
+                        "S": " To deter (an opponent) from taking the risk of betting on his hand of cards, as the bluffer does by betting heavily on his own hand although it may be of less value."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Bluff"
+                    },
+                    "Definition": {
+                        "S": " To act as in the game of bluff."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Blunt"
+                    },
+                    "Definition": {
+                        "S": " Having a thick edge or point, as an instrument; dull; not sharp."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Blunt"
+                    },
+                    "Definition": {
+                        "S": " To dull the edge or point of, by making it thicker; to make blunt."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Blunt"
+                    },
+                    "Definition": {
+                        "S": " A fencer's foil."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Blur"
+                    },
+                    "Definition": {
+                        "S": " To render obscure by making the form or outline of confused and uncertain, as by soiling; to smear; to make indistinct and confused;  s>as, to  x>blur"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Blur"
+                    },
+                    "Definition": {
+                        "S": " That which obscures without effacing; a stain; a blot, as upon paper or other substance."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Blurt"
+                    },
+                    "Definition": {
+                        "S": " To utter suddenly and unadvisedly; to divulge inconsiderately; to ejaculate; -- commonly with  >out"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Blush"
+                    },
+                    "Definition": {
+                        "S": " To become suffused with red in the cheeks, as from a sense of shame, modesty, or confusion; to become red from such cause, as the cheeks or face."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Blush"
+                    },
+                    "Definition": {
+                        "S": " To suffuse with a blush; to redden; to make roseate."}}}}]}

@@ -1,0 +1,151 @@
+{"Dictionary":[{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Attry"
+                    },
+                    "Definition": {
+                        "S": " Poisonous; malignant; malicious."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Atwo"
+                    },
+                    "Definition": {
+                        "S": " In two; in twain; asunder."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Aube"
+                    },
+                    "Definition": {
+                        "S": " An alb."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Aubin"
+                    },
+                    "Definition": {
+                        "S": " A broken gait of a horse, between an amble and a gallop; -- commonly called a  ltname>Canterbury gallop"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Audit"
+                    },
+                    "Definition": {
+                        "S": " An audience; a hearing."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Audit"
+                    },
+                    "Definition": {
+                        "S": " To examine and adjust, as an account or accounts;  s>as, to  x>audit"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Audit"
+                    },
+                    "Definition": {
+                        "S": " To settle or adjust an account."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Auf"
+                    },
+                    "Definition": {
+                        "S": " A changeling or elf child, -- that is, one left by fairies; a deformed or foolish child; a simpleton; an oaf."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Auger"
+                    },
+                    "Definition": {
+                        "S": " A carpenter's tool for boring holes larger than those bored by a gimlet. It has a handle placed crosswise by which it is turned with both hands. A  >pod auger"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Auget"
+                    },
+                    "Definition": {
+                        "S": " A priming tube connecting the charge chamber with the gallery, or place where the slow match is applied."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Aught"
+                    },
+                    "Definition": {
+                        "S": " Anything; any part."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Aught"
+                    },
+                    "Definition": {
+                        "S": " At all; in any degree."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Augur"
+                    },
+                    "Definition": {
+                        "S": " An official diviner who foretold events by the singing, chattering, flight, and feeding of birds, or by signs or omens derived from celestial phenomena, certain appearances of quadrupeds, or unusual occ"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Augur"
+                    },
+                    "Definition": {
+                        "S": " To conjecture from signs or omens; to prognosticate; to foreshow."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Augur"
+                    },
+                    "Definition": {
+                        "S": " To predict or foretell, as from signs or omens; to betoken; to presage; to infer."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Auk"
+                    },
+                    "Definition": {
+                        "S": " A name given to various species of arctic sea birds of the family  pn>Alcide"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Auld"
+                    },
+                    "Definition": {
+                        "S": " Old;  s>as,  x>Auld"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Aulic"
+                    },
+                    "Definition": {
+                        "S": " Pertaining to a royal court."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Aulic"
+                    },
+                    "Definition": {
+                        "S": " The ceremony observed in conferring the degree of doctor of divinity in some European universities. It begins by a harangue of the chancellor addressed to the young doctor, who then receives the cap, an"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Auln"
+                    },
+                    "Definition": {
+                        "S": " An ell.  ark>[Obs.]"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Aum"
+                    },
+                    "Definition": {
+                        "S": " Same as  r>Aam"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Aune"
+                    },
+                    "Definition": {
+                        "S": " A French cloth measure, of different parts of the country (at Paris, 0.95 of an English ell); -- now superseded by the  >meter"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Aunt"
+                    },
+                    "Definition": {
+                        "S": " The sister of one's father or mother; -- correlative to  >nephew"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Aura"
+                    },
+                    "Definition": {
+                        "S": " Any subtile, invisible emanation, effluvium, or exhalation from a substance, as the aroma of flowers, the odor of the blood, a supposed fertilizing emanation from the pollen of flowers, etc."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Aural"
+                    },
+                    "Definition": {
+                        "S": " Of or pertaining to the air, or to an aura."}}}}]}

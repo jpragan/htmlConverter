@@ -37,7 +37,7 @@ public class htmlConverter {
         int dend = 0;
 
         String content = "";
-        Path filePath = Path.of("TDictionary.html");
+        Path filePath = Path.of("Dictionary.html");
 
         try {
             String actual = Files.readString(filePath);
@@ -64,7 +64,11 @@ public class htmlConverter {
             String jsonDictionary = "{\"Dictionary\":[{";
 
             while (total < 25) {
+
                 Word worddef = new Word();
+                if (!w.find(dend))
+                    break;
+
                 try {
                     w.find(dend);
                     worddef.setWord(w.group(1));
@@ -77,24 +81,32 @@ public class htmlConverter {
                     Def = d.group(1);
                     Def = clean(Def);
                     dend = d.end();
+
                 }catch (Exception e){
-                    System.out.println("Word - " + Word + ", Def - " + Def  + ", page - " + page);
+                    System.out.println("Word - " + Word + ", Def - " + Def  + ", total - " + total + ", page - " + page);
                     System.out.println(e);
                     java.lang.System.exit(-1);
                     break;
                 }
-                jsonDictionary = jsonDictionary + "\"PutRequest\": {\n" +
-                        "                \"Item\": {\n" +
-                        "                    \"Word\": {\n" +
-                        "                        \"S\": \"" + Word + "\"\n" +
-                        "                    },\n" +
-                        "                    \"Definition\": {\n" +
-                        "                        \"S\": \" " + Def + "\"}}}}";
-                total++;
-                if (total < 25 && w.find(dend) )
-                    jsonDictionary = jsonDictionary + ",{";
-                if (!w.find(dend))
-                    break;
+                if (Word.length() <= 5) {
+                    if (total !=0)
+                        jsonDictionary = jsonDictionary + ",{";
+
+                    jsonDictionary = jsonDictionary + "\"PutRequest\": {\n" +
+                            "                \"Item\": {\n" +
+                            "                    \"Word\": {\n" +
+                            "                        \"S\": \"" + Word + "\"\n" +
+                            "                    },\n" +
+                            "                    \"Definition\": {\n" +
+                            "                        \"S\": \" " + Def + "\"}}}}";
+                    total++;
+
+                  //  if (total < 25 && w.find(dend)) {
+                  //      jsonDictionary = jsonDictionary + ",{";
+                  //  }
+                    if (!w.find(dend))
+                        break;
+                }
             }
 
             jsonDictionary = jsonDictionary + "]}";
@@ -102,34 +114,49 @@ public class htmlConverter {
             writer.write(jsonDictionary);
             writer.close();
             page++;
+            if (page == 7000)
+                break;
         }
     }
 
     public static String clean(String def) {
 
         String cleanedDef = "";
+        int i = 0;
+        while ( i < def.length() ) {
 
-        for (int i = 0; i < def.length(); i++){
 
-            if (String.valueOf(def.charAt(i)).equals("<")){
-                while (!String.valueOf(def.charAt(i)).equals(">"))
-                {
+            if (String.valueOf(def.charAt(i)).equals("<")) {
+                i++;
+                if (String.valueOf(def.charAt(i)).equals("/")) {
+                    i++;
+                    break;
+                }
+                else if (String.valueOf(def.charAt(i)).matches("[a-zA-Z]"))
+                    cleanedDef = cleanedDef + " ";
+                else if (String.valueOf(def.charAt(i)).matches("\\d"))
+                    cleanedDef = cleanedDef + " ";
+                else while (!String.valueOf(def.charAt(i)).equals(">")) {
                     i++;
                 }
-            }
-            else if (String.valueOf(def.charAt(i)).equals("\\"))
-            {
+
+            } else if (String.valueOf(def.charAt(i)).equals("\\")) {
                 i++;
-            }
-            else if (String.valueOf(def.charAt(i)).equals("\""))
-            {
+                if (String.valueOf(def.charAt(i)).equals("\'")) {
+                    cleanedDef = cleanedDef + "e";
+                    i++;
+                }
+                if (String.valueOf(def.charAt(i)).matches("\\d")) {
+                    i++;
+                }
+            } else if (String.valueOf(def.charAt(i)).equals("\"")) {
                 cleanedDef = cleanedDef + "'";
-            }
-            else{
+            } else {
                 cleanedDef = cleanedDef + def.charAt(i);
             }
             if (i > 200)
                 break;
+            i++;
         }
         return cleanedDef;
     }

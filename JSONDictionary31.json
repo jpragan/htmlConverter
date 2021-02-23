@@ -1,0 +1,151 @@
+{"Dictionary":[{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Avile"
+                    },
+                    "Definition": {
+                        "S": " To abase or debase; to vilify; to depreciate."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Avis"
+                    },
+                    "Definition": {
+                        "S": " Advice; opinion; deliberation."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Avise"
+                    },
+                    "Definition": {
+                        "S": " To look at; to view; to think of."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Avise"
+                    },
+                    "Definition": {
+                        "S": " To consider; to reflect."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Aviso"
+                    },
+                    "Definition": {
+                        "S": " Information; advice."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Avoid"
+                    },
+                    "Definition": {
+                        "S": " To empty."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Avoid"
+                    },
+                    "Definition": {
+                        "S": " To retire; to withdraw."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Avoke"
+                    },
+                    "Definition": {
+                        "S": " To call from or back again."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Avow"
+                    },
+                    "Definition": {
+                        "S": " To declare openly, as something believed to be right; to own or acknowledge frankly;  s>as, a man  x>avows"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Avow"
+                    },
+                    "Definition": {
+                        "S": " Avowal."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Avow"
+                    },
+                    "Definition": {
+                        "S": " To bind, or to devote, by a vow."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Avow"
+                    },
+                    "Definition": {
+                        "S": " A vow or determination."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Await"
+                    },
+                    "Definition": {
+                        "S": " To watch for; to look out for."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Await"
+                    },
+                    "Definition": {
+                        "S": " To watch."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Await"
+                    },
+                    "Definition": {
+                        "S": " A waiting for; ambush; watch; watching; heed."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Awake"
+                    },
+                    "Definition": {
+                        "S": " To rouse from sleep.; to wake; to awaken."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Awake"
+                    },
+                    "Definition": {
+                        "S": " To cease to sleep; to come out of a state of natural sleep; and, figuratively, out of a state resembling sleep, as inaction or death."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Awake"
+                    },
+                    "Definition": {
+                        "S": " Not sleeping or lethargic; roused from sleep; in a state of vigilance or action."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Award"
+                    },
+                    "Definition": {
+                        "S": " To give by sentence or judicial determination; to assign or apportion, after careful regard to the nature of the case; to adjudge;  s>as, the arbitrators  x>awarded"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Award"
+                    },
+                    "Definition": {
+                        "S": " To determine; to make an ~."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Award"
+                    },
+                    "Definition": {
+                        "S": " A judgment, sentence, or final decision. Specifically: The decision of arbitrators in a case submitted."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Aware"
+                    },
+                    "Definition": {
+                        "S": " Watchful; vigilant or on one's guard against danger or difficulty."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Awarn"
+                    },
+                    "Definition": {
+                        "S": " To warn."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Awash"
+                    },
+                    "Definition": {
+                        "S": " Washed by the waves or tide; -- said of a rock or strip of shore, or  ld>(Naut.)"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Away"
+                    },
+                    "Definition": {
+                        "S": " From a place; hence."}}}}]}

@@ -1,0 +1,151 @@
+{"Dictionary":[{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Barb"
+                    },
+                    "Definition": {
+                        "S": " Beard, or that which resembles it, or grows in the place of it."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Barb"
+                    },
+                    "Definition": {
+                        "S": " To shave or dress the beard of."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Barb"
+                    },
+                    "Definition": {
+                        "S": " The Barbary horse, a superior breed introduces from Barbary into Spain by the Moors."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Barb"
+                    },
+                    "Definition": {
+                        "S": " Armor for a horse. Same as 2d  r>Bard"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Bard"
+                    },
+                    "Definition": {
+                        "S": " A professional poet and singer, as among the ancient Celts, whose occupation was to compose and sing verses in honor of the heroic achievements of princes and brave men."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Bard"
+                    },
+                    "Definition": {
+                        "S": " To cover (meat or game) with a thin slice of fat bacon."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Bare"
+                    },
+                    "Definition": {
+                        "S": " Without clothes or covering; stripped of the usual covering; naked;  s>as, his body is  x>bare"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Bare"
+                    },
+                    "Definition": {
+                        "S": " Surface; body; substance."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Bare"
+                    },
+                    "Definition": {
+                        "S": " To strip off the covering of; to make bare;  s>as, to  x>bare"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Bare"
+                    },
+                    "Definition": {
+                        "S": " Bore; the old preterit of  r>Bear"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Barge"
+                    },
+                    "Definition": {
+                        "S": " A pleasure boat; a vessel or boat of state, elegantly furnished and decorated."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Baria"
+                    },
+                    "Definition": {
+                        "S": " Baryta."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Baric"
+                    },
+                    "Definition": {
+                        "S": " Of or pertaining to barium;  s>as,  x>baric"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Baric"
+                    },
+                    "Definition": {
+                        "S": " Of or pertaining to weight, esp. to the weight or pressure of the atmosphere as measured by the barometer."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Bard"
+                    },
+                    "Definition": {
+                        "S": " The exterior covering of the trunk and branches of a tree; the rind."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Bark"
+                    },
+                    "Definition": {
+                        "S": " To strip the bark from; to peel."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Bark"
+                    },
+                    "Definition": {
+                        "S": " To make a short, loud, explosive noise with the vocal organs; -- said of some animals, but especially of dogs."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Bark"
+                    },
+                    "Definition": {
+                        "S": " The short, loud, explosive sound uttered by a dog; a similar sound made by some other animals."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Barky"
+                    },
+                    "Definition": {
+                        "S": " Covered with, or containing, bark."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Barm"
+                    },
+                    "Definition": {
+                        "S": " Foam rising upon beer, or other malt liquors, when fermenting, and used as leaven in making bread and in brewing; yeast."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Barm"
+                    },
+                    "Definition": {
+                        "S": " The lap or bosom."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Balmy"
+                    },
+                    "Definition": {
+                        "S": " Full of barm or froth; in a ferment."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Barn"
+                    },
+                    "Definition": {
+                        "S": " A covered building used chiefly for storing grain, hay, and other productions of a farm. In the United States a part of the barn is often used for stables."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Barn"
+                    },
+                    "Definition": {
+                        "S": " To lay up in a barn."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Barn"
+                    },
+                    "Definition": {
+                        "S": " A child.  ark>[Obs.]"}}}}]}

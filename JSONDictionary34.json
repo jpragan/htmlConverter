@@ -1,0 +1,151 @@
+{"Dictionary":[{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Baby"
+                    },
+                    "Definition": {
+                        "S": "  An infant or young child of either sex; a babe."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Baby"
+                    },
+                    "Definition": {
+                        "S": " Pertaining to, or resembling, an infant; young or little;  s>as,  x>baby"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Baby"
+                    },
+                    "Definition": {
+                        "S": " To treat like a young child; to keep dependent; to humor; to fondle."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Bac"
+                    },
+                    "Definition": {
+                        "S": " A broad, flatbottomed ferryboat, usually worked by a rope."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Bace"
+                    },
+                    "Definition": {
+                        "S": " See  r>Base"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Back"
+                    },
+                    "Definition": {
+                        "S": " A ferryboat.  See  r>Bac"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Back"
+                    },
+                    "Definition": {
+                        "S": " In human beings, the hinder part of the body, extending from the neck to the end of the spine; in other animals, that part of the body which corresponds most nearly to such part of a human being;  s>as"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Back"
+                    },
+                    "Definition": {
+                        "S": " Being at the back or in the rear; distant; remote;  s>as, the  x>back"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Back"
+                    },
+                    "Definition": {
+                        "S": " To get upon the back of; to mount."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Back"
+                    },
+                    "Definition": {
+                        "S": " To move or go backward;  s>as, the horse refuses to  x>back"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Back"
+                    },
+                    "Definition": {
+                        "S": " In, to, or toward, the rear;  s>as, to stand  x>back"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Backs"
+                    },
+                    "Definition": {
+                        "S": " Among leather dealers, the thickest and stoutest tanned hides."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Bacon"
+                    },
+                    "Definition": {
+                        "S": " The back and sides of a pig salted and smoked; formerly, the flesh of a pig salted or fresh."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Bad"
+                    },
+                    "Definition": {
+                        "S": " of  r>Bid"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Bad"
+                    },
+                    "Definition": {
+                        "S": " Wanting good qualities, whether physical or moral; injurious, hurtful, inconvenient, offensive, painful, unfavorable, or defective, either physically or morally; evil; vicious; wicked;  -- the opposite "}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Bade"
+                    },
+                    "Definition": {
+                        "S": " A form of the pat tense of  r>Bid"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Badge"
+                    },
+                    "Definition": {
+                        "S": " A distinctive mark, token, sign, or cognizance, worn on the person;  s>as, the  x>badge"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Badge"
+                    },
+                    "Definition": {
+                        "S": " To mark or distinguish with a badge."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Badly"
+                    },
+                    "Definition": {
+                        "S": " In a bad manner; poorly; not well; unskillfully; imperfectly; unfortunately; grievously; so as to cause harm; disagreeably; seriously."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Baff"
+                    },
+                    "Definition": {
+                        "S": " A blow; a stroke."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Baft"
+                    },
+                    "Definition": {
+                        "S": " Same as  r>Bafta"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Bafta"
+                    },
+                    "Definition": {
+                        "S": " A coarse stuff, usually of cotton, originally made in India. Also, an imitation of this fabric made for export."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Bag"
+                    },
+                    "Definition": {
+                        "S": " A sack or pouch, used for holding anything;  s>as, a  x>bag"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Bag"
+                    },
+                    "Definition": {
+                        "S": " To put into a bag;  s>as, to  x>bag"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Bag"
+                    },
+                    "Definition": {
+                        "S": " To swell or hang down like a full bag;  s>as, the skin  x>bags"}}}}]}

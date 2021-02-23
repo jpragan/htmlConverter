@@ -1,0 +1,151 @@
+{"Dictionary":[{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Bode"
+                    },
+                    "Definition": {
+                        "S": " An omen; a foreshadowing."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Bode"
+                    },
+                    "Definition": {
+                        "S": " A messenger; a herald."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Bode"
+                    },
+                    "Definition": {
+                        "S": " A stop; a halting; delay."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Bode"
+                    },
+                    "Definition": {
+                        "S": " Abode."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Bode"
+                    },
+                    "Definition": {
+                        "S": " of  r>Bid"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Bodge"
+                    },
+                    "Definition": {
+                        "S": " A botch; a patch."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Bodge"
+                    },
+                    "Definition": {
+                        "S": " To botch; to mend clumsily; to patch."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Bodge"
+                    },
+                    "Definition": {
+                        "S": " See  r>Budge"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Bodle"
+                    },
+                    "Definition": {
+                        "S": " A small Scotch coin worth about one sixth of an English penny."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Body"
+                    },
+                    "Definition": {
+                        "S": " The material organized substance of an animal, whether living or dead, as distinguished from the spirit, or vital principle; the physical person."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Body"
+                    },
+                    "Definition": {
+                        "S": " To furnish with, or as with, a body; to produce in definite shape; to embody."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Boer"
+                    },
+                    "Definition": {
+                        "S": " A colonist or farmer in South Africa of Dutch descent."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Boes"
+                    },
+                    "Definition": {
+                        "S": " Behoves or behooves."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Bog"
+                    },
+                    "Definition": {
+                        "S": " A quagmire filled with decayed moss and other vegetable matter; wet spongy ground where a heavy body is apt to sink; a marsh; a morass."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Bog"
+                    },
+                    "Definition": {
+                        "S": " To sink, as into a bog; to submerge in a bog; to cause to sink and stick, as in mud and mire."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Bogey"
+                    },
+                    "Definition": {
+                        "S": " A goblin; a bugbear. See  r>Bogy"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Boggy"
+                    },
+                    "Definition": {
+                        "S": " Consisting of, or containing, a bog or bogs; of the nature of a bog; swampy;  s>as,  x>boggy"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Bogie"
+                    },
+                    "Definition": {
+                        "S": " A four-wheeled truck, having a certain amount of play around a vertical axis, used to support in part a locomotive on a railway track."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Bogle"
+                    },
+                    "Definition": {
+                        "S": " A goblin; a specter; a frightful phantom; a bogy; a bugbear."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Bogue"
+                    },
+                    "Definition": {
+                        "S": " To fall off from the wind; to edge away to leeward; -- said only of inferior craft."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Bogue"
+                    },
+                    "Definition": {
+                        "S": " The boce; -- called also  ltname>bogue bream"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Bogus"
+                    },
+                    "Definition": {
+                        "S": " Spurious; fictitious; sham; -- a cant term originally applied to counterfeit coin, and hence denoting anything counterfeit."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Bogus"
+                    },
+                    "Definition": {
+                        "S": " A liquor made of rum and molasses."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Bogy"
+                    },
+                    "Definition": {
+                        "S": " A specter; a hobgoblin; a bugbear."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Bohea"
+                    },
+                    "Definition": {
+                        "S": " Bohea tea, an inferior kind of black tea. See under  r>Tea"}}}}]}

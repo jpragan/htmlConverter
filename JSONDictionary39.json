@@ -1,0 +1,151 @@
+{"Dictionary":[{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Baron"
+                    },
+                    "Definition": {
+                        "S": " A title or degree of nobility; originally, the possessor of a fief, who had feudal tenants under him; in modern times, in France and Germany, a nobleman next in rank below a count; in England, a noblema"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Barry"
+                    },
+                    "Definition": {
+                        "S": " , Divided into bars; -- said of the field."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Barse"
+                    },
+                    "Definition": {
+                        "S": " The common perch. See 1st  r>Bass"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Barth"
+                    },
+                    "Definition": {
+                        "S": " A place of shelter for cattle."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Basal"
+                    },
+                    "Definition": {
+                        "S": " Relating to, or forming, the base."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Basan"
+                    },
+                    "Definition": {
+                        "S": " Same as  r>Basil"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Base"
+                    },
+                    "Definition": {
+                        "S": " Of little, or less than the usual, height; of low growth;  s>as,  x>base"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Base"
+                    },
+                    "Definition": {
+                        "S": " The bottom of anything, considered as its support, or that on which something rests for support; the foundation;  s>as, the  x>base"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Base"
+                    },
+                    "Definition": {
+                        "S": " To put on a base or basis; to lay the foundation of; to found, as an argument or conclusion; -- used with  >on"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Base"
+                    },
+                    "Definition": {
+                        "S": " To abase; to let, or cast, down; to lower."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Based"
+                    },
+                    "Definition": {
+                        "S": " Having a base, or having as a base; supported;  s>as, broad- x>based"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Bash"
+                    },
+                    "Definition": {
+                        "S": " To abash; to disconcert or be disconcerted or put out of countenance."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Basi-"
+                    },
+                    "Definition": {
+                        "S": " A combining form, especially in anatomical and botanical words, to indicate  >the base"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Basic"
+                    },
+                    "Definition": {
+                        "S": " Relating to a base; performing the office of a base in a salt."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Basil"
+                    },
+                    "Definition": {
+                        "S": " The slope or angle to which the cutting edge of a tool, as a plane, is ground."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Basil"
+                    },
+                    "Definition": {
+                        "S": " To grind or form the edge of to an angle."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Basil"
+                    },
+                    "Definition": {
+                        "S": " The name given to several aromatic herbs of the Mint family, but chiefly to the common or sweet basil ( pn>Ocymum basilicum"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Basil"
+                    },
+                    "Definition": {
+                        "S": " The skin of a sheep tanned with bark."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Basin"
+                    },
+                    "Definition": {
+                        "S": " A hollow vessel or dish, to hold water for washing, and for various other uses."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Basis"
+                    },
+                    "Definition": {
+                        "S": " The foundation of anything; that on which a thing rests."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Bask"
+                    },
+                    "Definition": {
+                        "S": " To lie in warmth; to be exposed to genial heat."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Bask"
+                    },
+                    "Definition": {
+                        "S": " To warm by continued exposure to heat; to warm with genial heat."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Bason"
+                    },
+                    "Definition": {
+                        "S": " A basin."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Bass"
+                    },
+                    "Definition": {
+                        "S": " ;  lu>pl.  lw>Bass"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Bass"
+                    },
+                    "Definition": {
+                        "S": " The linden or lime tree, sometimes wrongly called  ltname>whitewood"}}}}]}

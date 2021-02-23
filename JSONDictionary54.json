@@ -1,0 +1,151 @@
+{"Dictionary":[{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Bland"
+                    },
+                    "Definition": {
+                        "S": " Mild; soft; gentle; smooth and soothing in manner; suave;  s>as, a bland temper;  x>bland"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Blank"
+                    },
+                    "Definition": {
+                        "S": " Of a white or pale color; without color."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Blank"
+                    },
+                    "Definition": {
+                        "S": " Any void space; a void space on paper, or in any written instrument; an interval void of consciousness, action, result, etc; a void."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Blank"
+                    },
+                    "Definition": {
+                        "S": " To make void; to annul."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Blare"
+                    },
+                    "Definition": {
+                        "S": " To sound loudly and somewhat harshly."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Blare"
+                    },
+                    "Definition": {
+                        "S": " To cause to sound like the blare of a trumpet; to proclaim loudly."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Blare"
+                    },
+                    "Definition": {
+                        "S": " The harsh noise of a trumpet; a loud and somewhat harsh noise, like the blast of a trumpet; a roar or bellowing."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Blase"
+                    },
+                    "Definition": {
+                        "S": " Having the sensibilities deadened by excess or frequency of enjoyment; sated or surfeited with pleasure; used up."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Blast"
+                    },
+                    "Definition": {
+                        "S": " A violent gust of wind."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Blast"
+                    },
+                    "Definition": {
+                        "S": " To injure, as by a noxious wind; to cause to wither; to stop or check the growth of, and prevent from fruit-bearing, by some pernicious influence; to blight; to shrivel."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Blast"
+                    },
+                    "Definition": {
+                        "S": " To be blighted or withered;  s>as, the bud  x>blasted"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Blat"
+                    },
+                    "Definition": {
+                        "S": " To cry, as a calf or sheep; to bleat; to make a senseless noise; to talk inconsiderately."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Blat"
+                    },
+                    "Definition": {
+                        "S": " To utter inconsiderately."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Blay"
+                    },
+                    "Definition": {
+                        "S": " A fish. See  r>Bleak"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Blaze"
+                    },
+                    "Definition": {
+                        "S": " A stream of gas or vapor emitting light and heat in the process of combustion; a bright flame."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Blaze"
+                    },
+                    "Definition": {
+                        "S": " To shine with flame; to glow with flame;  s>as, the fire  x>blazes"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Blaze"
+                    },
+                    "Definition": {
+                        "S": " To mark (a tree) by chipping off a piece of the bark."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Blaze"
+                    },
+                    "Definition": {
+                        "S": " To make public far and wide; to make known; to render conspicuous."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Blea"
+                    },
+                    "Definition": {
+                        "S": " The part of a tree which lies immediately under the bark; the alburnum or sapwood."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Bleak"
+                    },
+                    "Definition": {
+                        "S": " Without color; pale; pallid."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Bleak"
+                    },
+                    "Definition": {
+                        "S": " A small European river fish  pn>(Leuciscus alburnus)"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Blear"
+                    },
+                    "Definition": {
+                        "S": " Dim or sore with water or rheum; -- said of the eyes."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Blear"
+                    },
+                    "Definition": {
+                        "S": " To make somewhat sore or watery, as the eyes; to dim, or blur, as the sight. Figuratively: To obscure (mental or moral perception); to blind; to hoodwink."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Bleat"
+                    },
+                    "Definition": {
+                        "S": " To make the noise of, or one like that of, a sheep; to cry like a sheep or calf."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Bleat"
+                    },
+                    "Definition": {
+                        "S": " A plaintive cry of, or like that of, a sheep."}}}}]}

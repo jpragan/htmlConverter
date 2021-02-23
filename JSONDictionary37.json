@@ -1,0 +1,151 @@
+{"Dictionary":[{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Band"
+                    },
+                    "Definition": {
+                        "S": " To bind or tie with a band."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Band"
+                    },
+                    "Definition": {
+                        "S": " To confederate for some common purpose; to unite; to conspire together."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Band"
+                    },
+                    "Definition": {
+                        "S": " To bandy; to drive away."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Band"
+                    },
+                    "Definition": {
+                        "S": " of  r>Bind"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Bandy"
+                    },
+                    "Definition": {
+                        "S": " A carriage or cart used in India, esp. one drawn by bullocks."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Bandy"
+                    },
+                    "Definition": {
+                        "S": " A club bent at the lower part for striking a ball at play; a hockey stick."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Bandy"
+                    },
+                    "Definition": {
+                        "S": " To beat to and fro, as a ball in playing at bandy."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Bandy"
+                    },
+                    "Definition": {
+                        "S": " To content, as at some game in which each strives to drive the ball his own way."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Bandy"
+                    },
+                    "Definition": {
+                        "S": " Bent; crooked; curved laterally, esp. with the convex side outward;  s>as, a  x>bandy"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Bane"
+                    },
+                    "Definition": {
+                        "S": " That which destroys life, esp. poison of a deadly quality."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Bane"
+                    },
+                    "Definition": {
+                        "S": " To be the bane of; to ruin."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Bang"
+                    },
+                    "Definition": {
+                        "S": " To beat, as with a club or cudgel; to treat with violence; to handle roughly."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Bang"
+                    },
+                    "Definition": {
+                        "S": " To make a loud noise, as if with a blow or succession of blows;  s>as, the window blind  x>banged"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Bang"
+                    },
+                    "Definition": {
+                        "S": " A blow as with a club; a heavy blow."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Bang"
+                    },
+                    "Definition": {
+                        "S": " To cut squarely across, as the tail of a hors, or the forelock of human beings; to cut (the hair)."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Bang"
+                    },
+                    "Definition": {
+                        "S": " The short, front hair combed down over the forehead, esp. when cut squarely across; a false front of hair similarly worn."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Bank"
+                    },
+                    "Definition": {
+                        "S": " A mound, pile, or ridge of earth, raised above the surrounding level; hence, anything shaped like a mound or ridge of earth;  s>as, a  x>bank"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Bank"
+                    },
+                    "Definition": {
+                        "S": " To raise a mound or dike about; to inclose, defend, or fortify with a bank; to embank."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Bank"
+                    },
+                    "Definition": {
+                        "S": " A bench, as for rowers in a galley; also, a tier of oars."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Bank"
+                    },
+                    "Definition": {
+                        "S": " An establishment for the custody, loan, exchange, or issue, of money, and for facilitating the transmission of funds by drafts or bills of exchange; an institution incorporated for performing one or mor"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Bank"
+                    },
+                    "Definition": {
+                        "S": " To deposit in a bank."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Bank"
+                    },
+                    "Definition": {
+                        "S": " To keep a bank; to carry on the business of a banker."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Banns"
+                    },
+                    "Definition": {
+                        "S": " Notice of a proposed marriage, proclaimed in a church, or other place prescribed by law, in order that any person may object, if he knows of just cause why the marriage should not take place."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Bar"
+                    },
+                    "Definition": {
+                        "S": " A piece of wood, metal, or other material, long in proportion to its breadth or thickness, used as a lever and for various other purposes, but especially for a hindrance, obstruction, or fastening;  s>"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Bar"
+                    },
+                    "Definition": {
+                        "S": " To fasten with a bar;  s>as, to  x>bar"}}}}]}

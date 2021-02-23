@@ -1,0 +1,151 @@
+{"Dictionary":[{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Aural"
+                    },
+                    "Definition": {
+                        "S": " Of or pertaining to the ear;  s>as,  x>aural"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Auric"
+                    },
+                    "Definition": {
+                        "S": " Of or pertaining to gold."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Aurin"
+                    },
+                    "Definition": {
+                        "S": " A red coloring matter derived from phenol; -- called also, in commerce,  >yellow coralin"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Aurum"
+                    },
+                    "Definition": {
+                        "S": " Gold."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Auto-"
+                    },
+                    "Definition": {
+                        "S": " A combining form, with the meaning of  >self"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Ava"
+                    },
+                    "Definition": {
+                        "S": " Same as  r>Kava"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Avail"
+                    },
+                    "Definition": {
+                        "S": " To turn to the advantage of; to be of service to; to profit; to benefit; to help;  s>as, artifices will not  x>avail"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Avail"
+                    },
+                    "Definition": {
+                        "S": " To be of use or advantage; to answer the purpose; to have strength, force, or efficacy sufficient to accomplish the object;  s>as, the plea in bar must  x>avail"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Avail"
+                    },
+                    "Definition": {
+                        "S": " Profit; advantage toward success; benefit; value;  s>as, labor, without economy, is of little  x>avail"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Avail"
+                    },
+                    "Definition": {
+                        "S": " See  r>Avale"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Avale"
+                    },
+                    "Definition": {
+                        "S": " To cause to descend; to lower; to let fall; to doff."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Avant"
+                    },
+                    "Definition": {
+                        "S": " The front of an army.  ark>[Obs.]"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Avast"
+                    },
+                    "Definition": {
+                        "S": " Cease; stop; stay."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Ave"
+                    },
+                    "Definition": {
+                        "S": " An ave Maria."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Avel"
+                    },
+                    "Definition": {
+                        "S": " To pull away."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Avena"
+                    },
+                    "Definition": {
+                        "S": " A genus of grasses, including the common oat  pn>(Avena sativa)"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Avens"
+                    },
+                    "Definition": {
+                        "S": " A plant of the genus  >Geum"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Aver"
+                    },
+                    "Definition": {
+                        "S": " A work horse, or working ox."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Aver"
+                    },
+                    "Definition": {
+                        "S": " To assert, or prove, the truth of."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Avert"
+                    },
+                    "Definition": {
+                        "S": " To turn aside, or away;  s>as, to  x>avert"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Avert"
+                    },
+                    "Definition": {
+                        "S": " To turn away."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Aves"
+                    },
+                    "Definition": {
+                        "S": " The class of Vertebrata that includes the birds."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Avian"
+                    },
+                    "Definition": {
+                        "S": " Of or instrument to birds."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Avid"
+                    },
+                    "Definition": {
+                        "S": " Longing eagerly for; eager; greedy."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Avie"
+                    },
+                    "Definition": {
+                        "S": " Emulously."}}}}]}
