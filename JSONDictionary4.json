@@ -1,0 +1,151 @@
+{"Dictionary":[{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Abb"
+                    },
+                    "Definition": {
+                        "S": " Among weaves, yarn for the warp. Hence, abb wool is wool for the abb."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Abba"
+                    },
+                    "Definition": {
+                        "S": " Father; religious superior; -- in the Syriac, Coptic, and Ethiopic churches, a title given to the bishops, and by the bishops to the patriarch."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Abbacy"
+                    },
+                    "Definition": {
+                        "S": " The dignity, estate, or jurisdiction of an abbot."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Abbatial"
+                    },
+                    "Definition": {
+                        "S": " Belonging to an abbey; as, abbatial rights."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Abbatical"
+                    },
+                    "Definition": {
+                        "S": " Abbatial."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Abb '82"
+                    },
+                    "Definition": {
+                        "S": " The French word answering to the English abbot, the head of an abbey; but commonly a title of respect given in France to every one vested with the ecclesiastical habit or dress."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Abbess"
+                    },
+                    "Definition": {
+                        "S": " A female superior or governess of a nunnery, or convent of nuns, having the same authority over the nuns which the abbots have over the monks. See Abbey."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Abbey"
+                    },
+                    "Definition": {
+                        "S": " A monastery or society of persons of either sex, secluded from the world and devoted to religion and celibacy; also, the monastic building or buildings."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Abbot"
+                    },
+                    "Definition": {
+                        "S": " The superior or head of an abbey."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Abbotship"
+                    },
+                    "Definition": {
+                        "S": " The state or office of an abbot."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Abbreviate"
+                    },
+                    "Definition": {
+                        "S": " To make briefer; to shorten; to abridge; to reduce by contraction or omission, especially of words written or spoken."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Abbreviate"
+                    },
+                    "Definition": {
+                        "S": " Abbreviated; abridged; shortened."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Abbreviate"
+                    },
+                    "Definition": {
+                        "S": " An abridgment."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Abbreviated"
+                    },
+                    "Definition": {
+                        "S": " Shortened; relatively short; abbreviate."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Abbreviation"
+                    },
+                    "Definition": {
+                        "S": " The act of shortening, or reducing."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Abbreviator"
+                    },
+                    "Definition": {
+                        "S": " One who abbreviates or shortens."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Abbreviatory"
+                    },
+                    "Definition": {
+                        "S": " Serving or tending to abbreviate; shortening; abridging."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Abbreviature"
+                    },
+                    "Definition": {
+                        "S": " An abbreviation; an abbreviated state or form."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Abb wool"
+                    },
+                    "Definition": {
+                        "S": "  See Abb."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "A B C"
+                    },
+                    "Definition": {
+                        "S": " The first three letters of the alphabet, used for the whole alphabet."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Abdal"
+                    },
+                    "Definition": {
+                        "S": " A religious devotee or dervish in Persia."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Abderian"
+                    },
+                    "Definition": {
+                        "S": " Given to laughter; inclined to foolish or incessant merriment."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Abderite"
+                    },
+                    "Definition": {
+                        "S": " An inhabitant of Abdera, in Thrace."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Abdest"
+                    },
+                    "Definition": {
+                        "S": " Purification by washing the hands before prayer; -- a Mohammedan rite."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Abdicable"
+                    },
+                    "Definition": {
+                        "S": " Capable of being abdicated."}}}}]}

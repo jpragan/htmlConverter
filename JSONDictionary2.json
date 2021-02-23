@@ -1,0 +1,151 @@
+{"Dictionary":[{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Abaculus"
+                    },
+                    "Definition": {
+                        "S": " A small tile of glass, marble, or other substance, of various colors, used in making ornamental patterns in mosaic pavements."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Abacus"
+                    },
+                    "Definition": {
+                        "S": " A table or tray strewn with sand, anciently used for drawing, calculating, etc."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Abada"
+                    },
+                    "Definition": {
+                        "S": " The rhinoceros."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Abaddon"
+                    },
+                    "Definition": {
+                        "S": " The destroyer, or angel of the bottomless pit; -- the same as Apollyon and Asmodeus."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Abaft"
+                    },
+                    "Definition": {
+                        "S": " Behind; toward the stern from; as, abaft the wheelhouse."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Abaft"
+                    },
+                    "Definition": {
+                        "S": " Toward the stern; aft; as, to go abaft."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Abaisance"
+                    },
+                    "Definition": {
+                        "S": " Obeisance."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Abaiser"
+                    },
+                    "Definition": {
+                        "S": " Ivory black or animal charcoal."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Abaist"
+                    },
+                    "Definition": {
+                        "S": " Abashed; confounded; discomfited."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Abalienate"
+                    },
+                    "Definition": {
+                        "S": " To transfer the title of from one to another; to alienate."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Abalienation"
+                    },
+                    "Definition": {
+                        "S": " The act of abalienating; alienation; estrangement."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Abalone"
+                    },
+                    "Definition": {
+                        "S": " A univalve mollusk of the genus Haliotis. The shell is lined with mother-of-pearl, and used for ornamental purposes; the sea-ear. Several large species are found on the coast of California, c"}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Aband"
+                    },
+                    "Definition": {
+                        "S": " To abandon."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Abandon"
+                    },
+                    "Definition": {
+                        "S": " To cast or drive out; to banish; to expel; to reject."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Abandon"
+                    },
+                    "Definition": {
+                        "S": " Abandonment; relinquishment."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Abandon"
+                    },
+                    "Definition": {
+                        "S": " A complete giving up to natural impulses; freedom from artificial constraint; careless freedom or ease."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Abandoned"
+                    },
+                    "Definition": {
+                        "S": " Forsaken, deserted."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Abandonedly"
+                    },
+                    "Definition": {
+                        "S": " Unrestrainedly."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Abandonee"
+                    },
+                    "Definition": {
+                        "S": " One to whom anything is legally abandoned."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Abandoner"
+                    },
+                    "Definition": {
+                        "S": " One who abandons."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Abandonment"
+                    },
+                    "Definition": {
+                        "S": " The act of abandoning, or the state of being abandoned; total desertion; relinquishment."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Abandum"
+                    },
+                    "Definition": {
+                        "S": " Anything forfeited or confiscated."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Abanet"
+                    },
+                    "Definition": {
+                        "S": " See Abnet."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Abanga"
+                    },
+                    "Definition": {
+                        "S": " A West Indian palm; also the fruit of this palm, the seeds of which are used as a remedy for diseases of the chest."}}}},{"PutRequest": {
+                "Item": {
+                    "Word": {
+                        "S": "Abannation, Abannition"
+                    },
+                    "Definition": {
+                        "S": " Banishment."}}}}]}

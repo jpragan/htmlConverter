@@ -37,7 +37,7 @@ public class htmlConverter {
         int dend = 0;
 
         String content = "";
-        Path filePath = Path.of("test.html");
+        Path filePath = Path.of("TDictionary.html");
 
         try {
             String actual = Files.readString(filePath);
@@ -52,7 +52,6 @@ public class htmlConverter {
         Matcher d = definition.matcher(content);
 
         String jsonword = "";
-        //String jsonDictionary = "{\"Dictionary\":[{";
         String Word = "";
         String Def = "";
 
@@ -61,19 +60,29 @@ public class htmlConverter {
 
         while (w.find(dend)) {
             File Dict = new File("/Users/johnragan/Documents/aws/JSONDictionary" + page + ".json");
+            int total = 0;
             String jsonDictionary = "{\"Dictionary\":[{";
-            for (int i=0; i<25; i++) {
+
+            while (total < 25) {
                 Word worddef = new Word();
+                try {
+                    w.find(dend);
+                    worddef.setWord(w.group(1));
+                    Word = w.group(1);
+                    Word = clean(Word);
+                    wend = w.end();
 
-                w.find(dend);
-                worddef.setWord(w.group(1));
-                Word = w.group(1);
-                wend = w.end();
-
-                d.find(wend);
-                worddef.setDefinition(d.group(1));
-                Def = d.group(1);
-                dend = d.end();
+                    d.find(wend);
+                    worddef.setDefinition(d.group(1));
+                    Def = d.group(1);
+                    Def = clean(Def);
+                    dend = d.end();
+                }catch (Exception e){
+                    System.out.println("Word - " + Word + ", Def - " + Def  + ", page - " + page);
+                    System.out.println(e);
+                    java.lang.System.exit(-1);
+                    break;
+                }
                 jsonDictionary = jsonDictionary + "\"PutRequest\": {\n" +
                         "                \"Item\": {\n" +
                         "                    \"Word\": {\n" +
@@ -81,28 +90,48 @@ public class htmlConverter {
                         "                    },\n" +
                         "                    \"Definition\": {\n" +
                         "                        \"S\": \" " + Def + "\"}}}}";
-                if (i < 24 && w.find(dend) )
+                total++;
+                if (total < 25 && w.find(dend) )
                     jsonDictionary = jsonDictionary + ",{";
                 if (!w.find(dend))
                     break;
             }
 
             jsonDictionary = jsonDictionary + "]}";
-            System.out.println(jsonDictionary.toString());
             BufferedWriter writer = new BufferedWriter(new FileWriter("JSONDictionary" + page +".json"));
             writer.write(jsonDictionary);
             writer.close();
             page++;
         }
-       // jsonDictionary = jsonDictionary + "]}";
-        //System.out.println(jsonDictionary.toString());
-        //File Dict = new File("JSONDictionary.json");
-        //BufferedWriter writer = new BufferedWriter(new FileWriter("JSONDictionary.json"));
-        //writer.write(jsonDictionary);
-        //writer.close();
+    }
+
+    public static String clean(String def) {
+
+        String cleanedDef = "";
+
+        for (int i = 0; i < def.length(); i++){
+
+            if (String.valueOf(def.charAt(i)).equals("<")){
+                while (!String.valueOf(def.charAt(i)).equals(">"))
+                {
+                    i++;
+                }
+            }
+            else if (String.valueOf(def.charAt(i)).equals("\\"))
+            {
+                i++;
+            }
+            else if (String.valueOf(def.charAt(i)).equals("\""))
+            {
+                cleanedDef = cleanedDef + "'";
+            }
+            else{
+                cleanedDef = cleanedDef + def.charAt(i);
+            }
+            if (i > 200)
+                break;
+        }
+        return cleanedDef;
     }
 }
 
-
-//if (w.find(dend))
- //       jsonDictionary = jsonDictionary + ",{";
