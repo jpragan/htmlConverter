@@ -1,4 +1,4 @@
-#htmlConverter
+# htmlConverter
 
 1. The html converter tool is used to parse out words and definitiions from the given dictionary.html file. htmlConverter can be easily modified to parse out different values in the html file. 
 
