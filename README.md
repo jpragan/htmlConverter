@@ -9,10 +9,10 @@
 4. Using AWS CLI (Command Line Interface) a loop can be run on the Dictionary.JSON files to batch insert into DynamoDB.
 
 
-###input
-####Dictionary.html
+### input
+#### Dictionary.html
 
-```
+``` html
 
 <h1>Continuant</h1>
 <Xpage=313>
@@ -26,9 +26,9 @@
 ```
 
 
-###output
-####Dictionary3.JSON
-```
+### output
+#### Dictionary3.JSON
+``` JSON
 {
     "Dictionary": [{
         "PutRequest": {
@@ -55,4 +55,3 @@
 	}]
 }
 ```
-
